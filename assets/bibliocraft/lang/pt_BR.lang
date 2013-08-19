@@ -1,0 +1,174 @@
+language.name=Português(BR)
+language.region=BR
+language.code=pt_BR
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// Gui stuff
+gui.armorstand=Suporte de Armadura
+gui.bookcase=Estante de Livros
+gui.cookiejar=Frasco de Biscoito
+gui.shelf=Prateleira de Madeira
+gui.label=Indicação Madeira
+gui.potionshelf=Estante de Poções
+gui.typeset.selectbook=Por favor escolha o livro
+gui.table=Mesa de Madeira
+gui.case=Vitrina
+gui.toolrack=Estante de Ferramentas
+gui.desk=Escrivaninha de Madeira
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=Medição Norte/Sul = 
+tape.measureeastwest=Medição Leste/Oeste = 
+tape.measureheight=Medição Altura = 
+tape.nomeasure=Nenhuma Medição.
+tape.measure=Medição = 
+tape.startmeasure=Iniciando Medição.
+tape.mode0=Alternando modo para Norte/Sul, Leste/Oeste e altura.
+tape.mode1=Alternando modo para medição rigorosa.
+lock.creativeonly=Somente Modo Criativo
+lock.notowner=Você não é o proprietário desse bloco.
+lock.locked=Esse bloco foi bloqueado.
+lock.unlocked=Esse bloco foi desbloqueado.
+
+// Blocks
+CookieJar.name=Frasco de Biscoito
+MarkerPole.name=Marcador
+tile.BiblioType.name=Mesa de Tipografia
+tile.BiblioPress.name=Prensa de Impressão
+tile.BiblioArmorStand.name=Suporte de Armadura
+OakBookcase.name=Estante de Livros de Carvalho
+SpruceBookcase.name=Estante de Livros de Pinheiro
+BirchBookcase.name=Estante de Livros de Eucalipto
+JungleBookcase.name=Estante de Livros de Madeira da Selva
+OakPotionShelf.name=Estante de Poções de Carvalho
+SprucePotionShelf.name=Estante de Poções de Pinheiro
+BirchPotionShelf.name=Estante de Poções de Eucalipto
+JunglePotionShelf.name=Estante de Poções de Madeira da Selva
+OakShelf.name=Estante de Carvalho
+SpruceShelf.name=Estante de Pinheiro
+BirchShelf.name=Estante de Eucalipto
+JungleShelf.name=Estante de Madeira da Selva
+OakWeaponRack.name=Estante de Ferramentas de Carvalho
+SpruceWeaponRack.name=Estante de Ferramentas de Pinheiro
+BirchWeaponRack.name=Estante de Ferramentas de Eucalipto
+JungleWeaponRack.name=Estante de Ferramentas de Madeira da Selva
+OakLabel.name=Indicação Madeira de Carvalho
+SpruceLabel.name=Indicação Madeira de Pinheiro
+BirchLabel.name=Indicação Madeira de Eucalipto
+JungleLabel.name=Indicação Madeira de Madeira da Selva
+RedLinedOakCase.name=Vitrine de Carvalho
+BlueLinedOakCase.name=Vitrine de Carvalho
+GreenLinedOakCase.name=Vitrine de Carvalho
+BlackLinedOakCase.name=Vitrine de Carvalho
+RedLinedSpruceCase.name=Vitrine de Pinheiro
+BlueLinedSpruceCase.name=SVitrine de Pinheiro
+GreenLinedSpruceCase.name=Vitrine de Pinheiro
+BlackLinedSpruceCase.name=Vitrine de Pinheiro
+RedLinedBirchCase.name=Vitrine de Eucalipto
+BlueLinedBirchCase.name=Vitrine de Eucalipto
+GreenLinedBirchCase.name=Vitrine de Eucalipto
+BlackLinedBirchCase.name=Vitrine de Eucalipto
+RedLinedJungleCase.name=Vitrine de Madeira da Selva
+BlueLinedJungleCase.name=Vitrine de Madeira da Selva
+GreenLinedJungleCase.name=Vitrine de Madeira da Selva
+BlackLinedJungleCase.name=Vitrine de Madeira da Selva
+OakWritingDesk.name=Escrivaninha de Madeira de Carvalho
+SpruceWritingDesk.name=Escrivaninha de Madeira de Pinheiro
+BirchWritingDesk.name=Escrivaninha de Madeira de Eucalipto
+JungleWritingDesk.name=Escrivaninha de Madeira da Selva
+OakTable.name=Mesa de Madeira de Carvalho
+SpruceTable.name=Mesa de Madeira de Pinheiro
+BirchTable.name=Mesa de Madeira de Eucalipto
+JungleTable.name=Mesa de Madeira de Madeira da Selva
+
+//lights
+whiteLantern.name=Lampião Dourado
+lightGrayLantern.name=Lampião Dourado
+grayLantern.name=Lampião Dourado
+blackLantern.name=Lampião Dourado
+redLantern.name=Lampião Dourado
+orangeLantern.name=Lampião Dourado
+yellowLantern.name=Lampião Dourado
+limeLantern.name=Lampião Dourado
+greenLantern.name=Lampião Dourado
+cyanLantern.name=Lampião Dourado
+lightBlueLantern.name=Lampião Dourado
+blueLantern.name=Lampião Dourado
+purpleLantern.name=Lampião Dourado
+magentaLantern.name=Lampião Dourado
+pinkLantern.name=Lampião Dourado
+brownLantern.name=Lampião Dourado
+
+whiteLamp.name=Lamparina Sofisticada
+lightGrayLamp.name=Lamparina Sofisticada
+grayLamp.name=Lamparina Sofisticada
+blackLamp.name=Lamparina Sofisticada
+redLamp.name=Lamparina Sofisticada
+orangeLamp.name=Lamparina Sofisticada
+yellowLamp.name=Lamparina Sofisticada
+limeLamp.name=Lamparina Sofisticada
+greenLamp.name=Lamparina Sofisticada
+cyanLamp.name=Lamparina Sofisticada
+lightBlueLamp.name=Lamparina Sofisticada
+blueLamp.name=Lamparina Sofisticada
+purpleLamp.name=Lamparina Sofisticada
+magentaLamp.name=Lamparina Sofisticada
+pinkLamp.name=Lamparina Sofisticada
+brownLamp.name=Lamparina Sofisticada
+
+tile.case.redline=Forro Vermelho
+tile.case.blueline=Forro Azul
+tile.case.greenline=Forro Verde
+tile.case.blackline=Forro Preto
+
+lamp.hood0=Capa de Lâmpada Branca
+lamp.hood1=Capa de Lâmpada Cinza Claro
+lamp.hood2=Capa de Lâmpada Cinza
+lamp.hood3=Capa de Lâmpada Preta
+lamp.hood4=Capa de Lâmpada Vermelha
+lamp.hood5=Capa de Lâmpada Laranja
+lamp.hood6=Capa de Lâmpada Amarela
+lamp.hood7=Capa de Lâmpada Lima
+lamp.hood8=Capa de Lâmpada Verde
+lamp.hood9=Capa de Lâmpada Ciana
+lamp.hood10=Capa de Lâmpada Azul Clara
+lamp.hood11=Capa de Lâmpada Azul
+lamp.hood12=Capa de Lâmpada Lilás
+lamp.hood13=Capa de Lâmpada Magenta
+lamp.hood14=Capa de Lâmpada Rosa
+lamp.hood15=Capa de Lâmpada Marrom
+
+lantern.candle0=Vela Branca
+lantern.candle1=Vela Cinza Clara
+lantern.candle2=Vela Cinza
+lantern.candle3=Vela Preta
+lantern.candle4=Vela Vermelha
+lantern.candle5=Vela Laranja
+lantern.candle6=Vela Amarela
+lantern.candle7=Vela Lima
+lantern.candle8=Vela Verde
+lantern.candle9=Vela Ciana
+lantern.candle10=Vela Azul Clara
+lantern.candle11=Vela Azul
+lantern.candle12=Vela Lilás
+lantern.candle13=Vela Magenta
+lantern.candle14=Vela Rosa
+lantern.candle15=Vela Marrom
+
+// Items
+item.tapeMeasure.name=Fita Métrica
+item.tape.name=Rolo de Fita Métrica
+item.BiblioChase.name=Print Press Chase
+item.PrintPlate.name=Chapa de Prensa de Impressão
+item.EnchantedPlate.name=Chapa Encantada
+item.BiblioRedBook.name=Redstone: Volume I
+item.BiblioGlasses.readingglasses.name=Óculos de Leitura
+item.BiblioGlasses.tintedglasses.name=Óculos escuros
+item.BiblioGlasses.monocle.name=Monóculo
+item.BiblioDrill.name=Parafusadeira
+item.BiblioCreativeLock.name=Cadeado e Chave
+item.BiblioClipboard.name=Prancheta
+

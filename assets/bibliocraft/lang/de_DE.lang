@@ -1,0 +1,175 @@
+
+language.name=German
+language.region=DE
+language.code=de_DE
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// Gui stuff
+gui.armorstand=Rüstungsstand
+gui.bookcase=Bücherschrank
+gui.cookiejar=Keksglas
+gui.shelf=Regal
+gui.label=Schildchen
+gui.potionshelf=Trankregal
+gui.typeset.selectbook=Bitte wähle ein Buch
+gui.table=Tisch
+gui.case=Schaukasten
+gui.toolrack=Werkzeugregal
+gui.desk=Schreibtisch
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=Messung Nord/Süd = 
+tape.measureeastwest=Messung Ost/West = 
+tape.measureheight=Messung Höhe = 
+tape.nomeasure=Nichts gemessen.
+tape.measure=Gemessen = 
+tape.startmeasure=Starte Messung.
+tape.mode0=Ändere Modus zu Nord/Süd, Ost/West und Höhe.
+tape.mode1=Ändere Modus zu absoluter Messung.
+
+lock.creativeonly=Nur Kreativmodus
+lock.notowner=Du bist nicht Besitzer dieses Blocks.
+lock.locked=Dieser Block wurde gesperrt.
+lock.unlocked=Dieser Block wurde entsperrt.
+
+// Blocks
+CookieJar.name=Keksglas
+MarkerPole.name=Marker
+tile.BiblioType.name=Druckerplattenpresse
+tile.BiblioPress.name=Druckpresse
+tile.BiblioArmorStand.name=Rüstungsstand
+OakBookcase.name=Eichen-Bücherschrank
+SpruceBookcase.name=Fichten-Bücherschrank
+BirchBookcase.name=Birken-Bücherschrank
+JungleBookcase.name=Tropen-Bücherschrank
+OakPotionShelf.name=Eichen-Trankregal
+SprucePotionShelf.name=Fichten-Trankregal
+BirchPotionShelf.name=Birken-Trankregal
+JunglePotionShelf.name=Tropen-Trankregal
+OakShelf.name=Eichen-Regal
+SpruceShelf.name=Fichten-Regal
+BirchShelf.name=Birken-Regal
+JungleShelf.name=Tropen-Regal
+OakWeaponRack.name=Eichen-Werkzeugregal
+SpruceWeaponRack.name=Fichten-Werkzeugregal
+BirchWeaponRack.name=Birken-Werkzeugregal
+JungleWeaponRack.name=Tropen-Werkzeugregal
+OakLabel.name=Eichenholzschildchen
+SpruceLabel.name=Fichtenholzschildchen
+BirchLabel.name=Birkenholzschildchen
+JungleLabel.name=Tropenholzschildchen
+RedLinedOakCase.name=Eichen-Schaukasten
+BlueLinedOakCase.name=Eichen-Schaukasten
+GreenLinedOakCase.name=Eichen-Schaukasten
+BlackLinedOakCase.name=Eichen-Schaukasten
+RedLinedSpruceCase.name=Fichten-Schaukasten
+BlueLinedSpruceCase.name=Fichten-Schaukasten
+GreenLinedSpruceCase.name=Fichten-Schaukasten
+BlackLinedSpruceCase.name=Fichten-Schaukasten
+RedLinedBirchCase.name=Birken-Schaukasten
+BlueLinedBirchCase.name=Birken-Schaukasten
+GreenLinedBirchCase.name=Birken-Schaukasten
+BlackLinedBirchCase.name=Birken-Schaukasten
+RedLinedJungleCase.name=Tropen-Schaukasten
+BlueLinedJungleCase.name=Tropen-Schaukasten
+GreenLinedJungleCase.name=Tropen-Schaukasten
+BlackLinedJungleCase.name=Tropen-Schaukasten
+OakWritingDesk.name=Eichen-Schreibtisch
+SpruceWritingDesk.name=Fichten-Schreibtisch
+BirchWritingDesk.name=Birken-Schreibtisch
+JungleWritingDesk.name=Tropen-Schreibtisch
+OakTable.name=Eichentisch
+SpruceTable.name=Fichtentisch
+BirchTable.name=Birkentisch
+JungleTable.name=Tropentisch
+
+//lights
+whiteLantern.name=Goldene Laterne
+lightGrayLantern.name=Goldene Laterne
+grayLantern.name=Goldene Laterne
+blackLantern.name=Goldene Laterne
+redLantern.name=Goldene Laterne
+orangeLantern.name=Goldene Laterne
+yellowLantern.name=Goldene Laterne
+limeLantern.name=Goldene Laterne
+greenLantern.name=Goldene Laterne
+cyanLantern.name=Goldene Laterne
+lightBlueLantern.name=Goldene Laterne
+blueLantern.name=Goldene Laterne
+purpleLantern.name=Goldene Laterne
+magentaLantern.name=Goldene Laterne
+pinkLantern.name=Goldene Laterne
+brownLantern.name=Goldene Laterne
+
+whiteLamp.name=Schicke Lampe
+lightGrayLamp.name=Schicke Lampe
+grayLamp.name=Schicke Lampe
+blackLamp.name=Schicke Lampe
+redLamp.name=Schicke Lampe
+orangeLamp.name=Schicke Lampe
+yellowLamp.name=Schicke Lampe
+limeLamp.name=Schicke Lampe
+greenLamp.name=Schicke Lampe
+cyanLamp.name=Schicke Lampe
+lightBlueLamp.name=Schicke Lampe
+blueLamp.name=Schicke Lampe
+purpleLamp.name=Schicke Lampe
+magentaLamp.name=Schicke Lampe
+pinkLamp.name=Schicke Lampe
+brownLamp.name=Schicke Lampe
+
+tile.case.redline=Rotes Futter
+tile.case.blueline=Blaues Futter
+tile.case.greenline=Grünes Futter
+tile.case.blackline=Schwarzes Futter
+
+lamp.hood0=Weißer Lampenschirm
+lamp.hood1=Hellgrauer Lampenschirm
+lamp.hood2=Grauer Lampenschirm
+lamp.hood3=Schwarzer Lampenschirm
+lamp.hood4=Roter Lampenschirm
+lamp.hood5=Oranger Lampenschirm
+lamp.hood6=Gelber Lampenschirm
+lamp.hood7=Hellgrüner Lampenschirm
+lamp.hood8=Grüner Lampenschirm
+lamp.hood9=Türkiser Lampenschirm
+lamp.hood10=Hellblauer Lampenschirm
+lamp.hood11=Blauer Lampenschirm
+lamp.hood12=Violetter Lampenschirm
+lamp.hood13=Magenta Lampenschirm
+lamp.hood14=Pinker Lampenschirm
+lamp.hood15=Brauner Lampenschirm
+
+lantern.candle0=Weiße Kerze
+lantern.candle1=Hellgraue Kerze
+lantern.candle2=Graue Kerze
+lantern.candle3=Schwarze Kerze
+lantern.candle4=Rote Kerze
+lantern.candle5=Orange Kerze
+lantern.candle6=Gelbe Kerze
+lantern.candle7=Hellgrüne Kerze
+lantern.candle8=Grüne Kerze
+lantern.candle9=Türkise Kerze
+lantern.candle10=Hellblaue Kerze
+lantern.candle11=Blaue Kerze
+lantern.candle12=Violette Kerze
+lantern.candle13=Magenta Kerze
+lantern.candle14=Pinke Kerze
+lantern.candle15=Braune Kerze
+
+// Items
+item.tapeMeasure.name=Maßband
+item.tape.name=Maßbandrolle
+item.BiblioChase.name=Druckerpressenrahmen
+item.PrintPlate.name=Druckerpressenplatte
+item.EnchantedPlate.name=Verzauberte Platte
+item.BiblioRedBook.name=Redstone: Band I
+item.BiblioGlasses.readingglasses.name=Lesebrille
+item.BiblioGlasses.tintedglasses.name=Getönte Brille
+item.BiblioGlasses.monocle.name=Monokel
+item.BiblioDrill.name=Schraubendreher
+item.BiblioCreativeLock.name=Schlüssel und Schloss
+item.BiblioClipboard.name=Klemmbrett

@@ -1,0 +1,175 @@
+language.name=Polski
+language.region=Polska
+language.code=pl_PL
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// Gui stuff
+gui.armorstand=Stojak na Zbrojê
+gui.bookcase=Biblioteczka
+gui.cookiejar=S³oik na Ciastka
+gui.shelf=Pó³ka
+gui.label=Etykieta
+gui.potionshelf=Pó³ka na Mikstury
+gui.typeset.selectbook=Wybierz Ksi¹¿kê
+gui.table=Stó³
+gui.case=Gablota
+gui.toolrack=Pó³ka na Narzêdzia
+gui.desk=Drewniane Biórko
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=Pomiar Pó³noc/Po³udnie = 
+tape.measureeastwest=Pomiar Wschód/Zachód = 
+tape.measureheight=Pomiar Wysokoœæ = 
+tape.nomeasure=Brak Pomiaru.
+tape.measure=Pomiar = 
+tape.startmeasure=Rozpocznij Pomiar.
+tape.mode0=Zmieniam tryb na Pó³noc/Po³udnie, Wschód/Zachód, i Wysokoœæ.
+tape.mode1=Zmieniam tryb na Pomiar Absolutny.
+
+lock.creativeonly=Tylko Tryb Kreatywny
+lock.notowner=Nie jesteœ w³aœcicielem tego bloku.
+lock.locked=Ten blok zosta³ zablokowany.
+lock.unlocked=Ten blok zosta³ odblokowany.
+
+// Blocks
+CookieJar.name=S³oik na Ciastka
+MarkerPole.name=Znacznik
+tile.BiblioType.name=Kaszta Zecerska
+tile.BiblioPress.name=Prasa Drukarska
+tile.BiblioArmorStand.name=Stojak na Zbrojê
+OakBookcase.name=Dêbowa Biblioteczka
+SpruceBookcase.name=Sosnowa Biblioteczka
+BirchBookcase.name=Brzozowa Biblioteczka
+JungleBookcase.name=Tropikalna Biblioteczka
+OakPotionShelf.name=Dêbowa Pó³ka na Mikstury
+SprucePotionShelf.name=Sosnowa Pó³ka na Mikstury
+BirchPotionShelf.name=Brzozowa Pó³ka na Mikstury
+JunglePotionShelf.name=Tropikalna Pó³ka na Mikstury
+OakShelf.name=Dêbowa Pó³ka
+SpruceShelf.name=Sosnowa Pó³ka
+BirchShelf.name=Brzozowa Pó³ka
+JungleShelf.name=Tropikalna Pó³ka
+OakWeaponRack.name=Dêbowa Pó³ka na Narzêdzia
+SpruceWeaponRack.name=Sosnowa Pó³ka na Narzêdzia
+BirchWeaponRack.name=Brzozowa Pó³ka na Narzêdzia
+JungleWeaponRack.name=Tropikalna Pó³ka na Narzêdzia
+OakLabel.name=Dêbowa Etykieta
+SpruceLabel.name=Sosnowa Etykieta
+BirchLabel.name=Brzozowa Etykieta
+JungleLabel.name=Tropikalna Etykieta
+RedLinedOakCase.name=Dêbowa Gablota
+BlueLinedOakCase.name=Dêbowa Gablota
+GreenLinedOakCase.name=Dêbowa Gablota
+BlackLinedOakCase.name=Dêbowa Gablota
+RedLinedSpruceCase.name=Sosnowa Gablota
+BlueLinedSpruceCase.name=Sosnowa Gablota
+GreenLinedSpruceCase.name=Sosnowa Gablota
+BlackLinedSpruceCase.name=Sosnowa Gablota
+RedLinedBirchCase.name=Brzozowa Gablota
+BlueLinedBirchCase.name=Brzozowa Gablota
+GreenLinedBirchCase.name=Brzozowa Gablota
+BlackLinedBirchCase.name=Brzozowa Gablota
+RedLinedJungleCase.name=Tropikalna Gablota
+BlueLinedJungleCase.name=Tropikalna Gablota
+GreenLinedJungleCase.name=Tropikalna Gablota
+BlackLinedJungleCase.name=Tropikalna Gablota
+OakWritingDesk.name=Dêbowe Biórko
+SpruceWritingDesk.name=Sosnowe Biórko
+BirchWritingDesk.name=Brzozowe Biórko
+JungleWritingDesk.name=Tropikalne Biórko
+OakTable.name=Dêbowy Stó³
+SpruceTable.name=Sosnowy Stó³
+BirchTable.name=Brzozowy Stó³
+JungleTable.name=Tropikalny Stó³
+
+//lights
+whiteLantern.name=Z³ota Latarnia
+lightGrayLantern.name=Z³ota Latarnia
+grayLantern.name=Z³ota Latarnia
+blackLantern.name=Z³ota Latarnia
+redLantern.name=Z³ota Latarnia
+orangeLantern.name=Z³ota Latarnia
+yellowLantern.name=Z³ota Latarnia
+limeLantern.name=Z³ota Latarnia
+greenLantern.name=Z³ota Latarnia
+cyanLantern.name=Z³ota Latarnia
+lightBlueLantern.name=Z³ota Latarnia
+blueLantern.name=Z³ota Latarnia
+purpleLantern.name=Z³ota Latarnia
+magentaLantern.name=Z³ota Latarnia
+pinkLantern.name=Z³ota Latarnia
+brownLantern.name=Z³ota Latarnia
+
+whiteLamp.name=Ozdobna Lampa
+lightGrayLamp.name=Ozdobna Lampa
+grayLamp.name=Ozdobna Lampa
+blackLamp.name=Ozdobna Lampa
+redLamp.name=Ozdobna Lampa
+orangeLamp.name=Ozdobna Lampa
+yellowLamp.name=Ozdobna Lampa
+limeLamp.name=Ozdobna Lampa
+greenLamp.name=Ozdobna Lampa
+cyanLamp.name=Ozdobna Lampa
+lightBlueLamp.name=Ozdobna Lampa
+blueLamp.name=Ozdobna Lampa
+purpleLamp.name=Ozdobna Lampa
+magentaLamp.name=Ozdobna Lampa
+pinkLamp.name=Ozdobna Lampa
+brownLamp.name=Ozdobna Lampa
+
+tile.case.redline=Czerwona Wyœæió³ka
+tile.case.blueline=Niebieska Wyœæió³ka
+tile.case.greenline=Zielona Wyœæió³ka
+tile.case.blackline=Czarna Wyœæió³ka
+
+lamp.hood0=Bia³y Aba¿ur
+lamp.hood1=Jasnoszary Aba¿ur
+lamp.hood2=Szary Aba¿ur
+lamp.hood3=Czarny Aba¿ur
+lamp.hood4=Czerwony Aba¿ur
+lamp.hood5=Pomarañczowy Aba¿ur
+lamp.hood6=¯ó³ty Aba¿ur
+lamp.hood7=Limonkowy Aba¿ur
+lamp.hood8=Zielony Aba¿ur
+lamp.hood9=B³êkitna Aba¿ur
+lamp.hood10=Jasnoniebieski Aba¿ur
+lamp.hood11=Niebieska Aba¿ur
+lamp.hood12=Fioletowy Aba¿ur
+lamp.hood13=Karmazynowy Aba¿ur
+lamp.hood14=Ró¿owy Aba¿ur
+lamp.hood15=Br¹zowy Aba¿ur
+
+lantern.candle0=Bia³a Œwieca
+lantern.candle1=Jasnoszara Œwieca
+lantern.candle2=Szara Œwieca
+lantern.candle3=Czarna Œwieca
+lantern.candle4=Czerwona Œwieca
+lantern.candle5=Pomarañczowa Œwieca
+lantern.candle6=¯ó³ta Œwieca
+lantern.candle7=Limonkowa Œwieca
+lantern.candle8=Zielona Œwieca
+lantern.candle9=B³êkitna Œwieca
+lantern.candle10=Jasnoniebieska Œwieca
+lantern.candle11=Niebieska Œwieca
+lantern.candle12=Fioletowa Œwieca
+lantern.candle13=Karmazynowa Œwieca
+lantern.candle14=Ró¿owa Œwieca
+lantern.candle15=Br¹zowa Œwieca
+
+// Items
+item.tapeMeasure.name=Taœma Miernicza
+item.tape.name=Rolka Taœmy Mierniczej
+item.BiblioChase.name=Forma Drukarska
+item.PrintPlate.name=P³yta Drukarska
+item.EnchantedPlate.name=Zaklêta P³yta Drukarska
+item.BiblioRedBook.name=Czerwony Kamieñ: Tom I
+item.BiblioGlasses.readingglasses.name=Okulary do Czytania
+item.BiblioGlasses.tintedglasses.name=Okulary Przeciws³oneczne
+item.BiblioGlasses.monocle.name=Monokl
+item.BiblioDrill.name=Wkrêtarka
+item.BiblioCreativeLock.name=K³ódka i Klucz
+item.BiblioClipboard.name=Podrêczny Notatnik
+
