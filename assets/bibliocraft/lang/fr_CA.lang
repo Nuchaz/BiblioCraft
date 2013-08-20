@@ -1,0 +1,175 @@
+language.name=French
+language.region=CA
+language.code=fr_CA
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// Gui stuff
+gui.armorstand=Présentoir pour Armure
+gui.bookcase=Bibliothèque
+gui.cookiejar=Jarre à Biscuit
+gui.shelf=Étagère en Bois
+gui.label=Écriteau en Bois
+gui.potionshelf=Étagère à Potions
+gui.typeset.selectbook=Veuillez Sélectionner un Livre.
+gui.table=Table en Bois
+gui.case=Boite de Démonstration
+gui.toolrack=Mur à Outil
+gui.desk=Bureau en Bois
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=Mesure Nord/Sud = 
+tape.measureeastwest=Mesure Est/Ouest = 
+tape.measureheight=Mesure en Hauteur = 
+tape.nomeasure=Aucune Mesure.
+tape.measure=Mesure = 
+tape.startmeasure=Début des Mesures.
+tape.mode0=Changement en Mode Nord/Sud, Est/Ouest et Hauteur.
+tape.mode1=Changement en Mode en Mesure Absolue.
+
+lock.creativeonly=Seulement en Mode Créatif.
+lock.notowner=Vous n'êtes pas le propriétaire de ce bloc.
+lock.locked=Ce bloc est barré.
+lock.unlocked=Ce bloc est maintenant débarré.
+
+// Blocks
+CookieJar.name=Jarre de Biscuit
+MarkerPole.name=Marqueur
+tile.BiblioType.name=Table de Copiage
+tile.BiblioPress.name=Table d'Imprimerie
+tile.BiblioArmorStand.name=Présentoir pour Armure
+OakBookcase.name=Bibliothèque en Chêne
+SpruceBookcase.name=Bibliothèque en Pin
+BirchBookcase.name=Bibliothèque en Bouleau
+JungleBookcase.name=Bibliothèque en Acajou
+OakPotionShelf.name=Étagère à Potions en Chêne
+SprucePotionShelf.name=Étagère à Potions en Pin
+BirchPotionShelf.name=Étagère à Potions en Bouleau
+JunglePotionShelf.name=Étagère à Potions en Acajou
+OakShelf.name=Étagère en Chêne
+SpruceShelf.name=Étagère en Pin
+BirchShelf.name=Étagère en Bouleau
+JungleShelf.name=Étagère en Acajou
+OakWeaponRack.name=Mur à Outil en Chêne
+SpruceWeaponRack.name=Mur à Outil en Pin
+BirchWeaponRack.name=Mur à Outil en Bouleau
+JungleWeaponRack.name=Mur à Outil en Acajou
+OakLabel.name=Écriteau en Chêne
+SpruceLabel.name=Écriteau en Pin
+BirchLabel.name=Écriteau en Bouleau
+JungleLabel.name=Écriteau en Acajou
+RedLinedOakCase.name=Présentoir en Chêne
+BlueLinedOakCase.name=Présentoir en Chêne
+GreenLinedOakCase.name=Présentoir en Chêne
+BlackLinedOakCase.name=Présentoir en Chêne
+RedLinedSpruceCase.name=Présentoir en Pin
+BlueLinedSpruceCase.name=Présentoir en Pin
+GreenLinedSpruceCase.name=Présentoir en Pin
+BlackLinedSpruceCase.name=Présentoir en Pin
+RedLinedBirchCase.name=Présentoir en Bouleau
+BlueLinedBirchCase.name=Présentoir en Bouleau
+GreenLinedBirchCase.name=Présentoir en Bouleau
+BlackLinedBirchCase.name=Présentoir en Bouleau
+RedLinedJungleCase.name=Présentoir en Acajou
+BlueLinedJungleCase.name=Présentoir en Acajou
+GreenLinedJungleCase.name=Présentoir en Acajou
+BlackLinedJungleCase.name=Présentoir en Acajou
+OakWritingDesk.name=Bureau en Chêne
+SpruceWritingDesk.name=Bureau en Pin
+BirchWritingDesk.name=Bureau en Bouleau
+JungleWritingDesk.name=Bureau en Acajou
+OakTable.name=Table en Chêne
+SpruceTable.name=Table en Pin
+BirchTable.name=Table en Bouleau
+JungleTable.name=Table en Acajou
+
+//lights
+whiteLantern.name=Lanterne d'Or
+lightGrayLantern.name=Lanterne d'Or
+grayLantern.name=Lanterne d'Or
+blackLantern.name=Lanterne d'Or
+redLantern.name=Lanterne d'Or
+orangeLantern.name=Lanterne d'Or
+yellowLantern.name=Lanterne d'Or
+limeLantern.name=Lanterne d'Or
+greenLantern.name=Lanterne d'Or
+cyanLantern.name=Lanterne d'Or
+lightBlueLantern.name=Lanterne d'Or
+blueLantern.name=Lanterne d'Or
+purpleLantern.name=Lanterne d'Or
+magentaLantern.name=Lanterne d'Or
+pinkLantern.name=Lanterne d'Or
+brownLantern.name=Lanterne d'Or
+
+whiteLamp.name=Lampe de Qualité
+lightGrayLamp.name=Lampe de Qualité
+grayLamp.name=Lampe de Qualité
+blackLamp.name=Lampe de Qualité
+redLamp.name=Lampe de Qualité
+orangeLamp.name=Lampe de Qualité
+yellowLamp.name=Lampe de Qualité
+limeLamp.name=Lampe de Qualité
+greenLamp.name=Lampe de Qualité
+cyanLamp.name=Lampe de Qualité
+lightBlueLamp.name=Lampe de Qualité
+blueLamp.name=Lampe de Qualité
+purpleLamp.name=Lampe de Qualité
+magentaLamp.name=Lampe de Qualité
+pinkLamp.name=Lampe de Qualité
+brownLamp.name=Lampe de Qualité
+
+tile.case.redline=Revêtement Rouge
+tile.case.blueline=Revêtement Bleu
+tile.case.greenline=Revêtement Vert
+tile.case.blackline=Revêtement Noir
+
+lamp.hood0=Dessus de Lampe Blanc
+lamp.hood1=Dessus de Lampe Gris Pâle
+lamp.hood2=Dessus de Lampe Gris
+lamp.hood3=Dessus de Lampe Noir
+lamp.hood4=Dessus de Lampe Rouge
+lamp.hood5=Dessus de Lampe Orange
+lamp.hood6=Dessus de Lampe Jaune
+lamp.hood7=Dessus de Lampe Vert Lime
+lamp.hood8=Dessus de Lampe Vert
+lamp.hood9=Dessus de Lampe Cyan
+lamp.hood10=Dessus de Lampe Bleu Pâle
+lamp.hood11=Dessus de Lampe Bleu
+lamp.hood12=Dessus de Lampe Violet
+lamp.hood13=Dessus de Lampe Magenta
+lamp.hood14=Dessus de Lampe Rose
+lamp.hood15=Dessus de Lampe Brun
+
+lantern.candle0=Chandelle Blanche
+lantern.candle1=Chandelle Grise Claire
+lantern.candle2=Chandelle Grise
+lantern.candle3=Chandelle Noire
+lantern.candle4=Chandelle Rouge
+lantern.candle5=Chandelle Orange
+lantern.candle6=Chandelle Jaune
+lantern.candle7=Chandelle Vert Lime
+lantern.candle8=Chandelle Vert
+lantern.candle9=Chandelle Cyan
+lantern.candle10=Chandelle Bleue Pâle
+lantern.candle11=Chandelle Bleue
+lantern.candle12=Chandelle Violette
+lantern.candle13=Chandelle Magenta
+lantern.candle14=Chandelle Rose
+lantern.candle15=Chandelle Brune
+
+// Items
+item.tapeMeasure.name=Ruban à Mesurer
+item.tape.name=Ruban de Mesure
+item.BiblioChase.name=Câdre à Copie
+item.PrintPlate.name=Câdre Plein
+item.EnchantedPlate.name=Câdre Enchanté
+item.BiblioRedBook.name=Redstone: Tome I
+item.BiblioGlasses.readingglasses.name=Lunette de Lecture
+item.BiblioGlasses.tintedglasses.name=Lunette Fumée
+item.BiblioGlasses.monocle.name=Monocle
+item.BiblioDrill.name=Tournevis Automatique
+item.BiblioCreativeLock.name=Cadenas et Clé
+item.BiblioClipboard.name=Presse-Papier
+
