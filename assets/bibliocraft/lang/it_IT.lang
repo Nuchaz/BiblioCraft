@@ -1,0 +1,186 @@
+language.name=Italiano
+language.region=IT
+language.code=it_IT
+
+// Tab Names
+
+itemGroup.BiblioCraft=BiblioCraft
+
+
+// Gui stuff
+
+gui.armorstand=Manichino
+gui.bookcase=Libreria
+gui.cookiejar=Vaso di Biscotti
+gui.shelf=Scaffale
+gui.label=Etichetta di Legno
+gui.potionshelf=Scaffale per le Pozioni
+gui.typeset.selectbook=Seleziona un Libro
+gui.table=Tavolo
+gui.case=Contenitore
+gui.toolrack=Scaffale per Attrezzi
+gui.desk=Scrivania
+
+//Tape Measure Texts
+
+tape.measurenorthsouth=Misurazione Nord/Sud = 
+tape.measureeastwest=Misurazione Est/Ovest = 
+tape.measureheight=Misurazione altezza = 
+tape.nomeasure=Nessuna Misurazione.
+tape.measure=Misuro = 
+tape.startmeasure=Iniziando a Misurare.
+tape.mode0=Scambiando la modalità a Nord/Sud, Est/Ovest, e altezza.
+tape.mode1=Scambiando la modalità a misurazione assoluta.
+
+
+
+lock.creativeonly=Solo in Modalità Creativa
+lock.notowner=Non sei il propietario di questo blocco.
+lock.locked=Queto blocco è stato bloccato.
+lock.unlocked=Queto blocco è stato sbloccato.
+
+
+
+// Blocks
+
+CookieJar.name=Vaso di Biscotti
+MarkerPole.name=Segnalatore
+tile.BiblioType.name=Tavolo del Tipografo
+tile.BiblioPress.name=Stampa
+tile.BiblioArmorStand.name=Manichino
+OakBookcase.name=Libreria di Quercia
+SpruceBookcase.name=Libreria di Abete
+BirchBookcase.name=Libreria di Betulla
+JungleBookcase.name=Libreria di legno della Giungla
+OakPotionShelf.name=Scaffale per le Pozioni di Quercia
+SprucePotionShelf.name=Scaffale per le Pozioni di Abete
+BirchPotionShelf.name=Scaffale per le Pozioni di Betulla
+JunglePotionShelf.name=Scaffale per le Pozioni di legno della Giungla 
+OakShelf.name=Scaffale di Quercia
+SpruceShelf.name=Scaffale di Abete
+BirchShelf.name=Scaffale di Betulla
+JungleShelf.name=Scaffale di legno della Giungla
+OakWeaponRack.name=Scaffale per Attrezzi di Quercia
+SpruceWeaponRack.name=Scaffale per Attrezzi di Abete
+BirchWeaponRack.name=Scaffale per Attrezzi di Betulla
+JungleWeaponRack.name=Scaffale per Attrezzi di legno della Giungla
+OakLabel.name=Etichetta di Legno di Quercia
+SpruceLabel.name=Etichetta di Legno di Abete
+BirchLabel.name=Etichetta di Legno di Betulla
+JungleLabel.name=Etichetta di Legno della Giungla
+RedLinedOakCase.name=Contenitore di Quercia
+BlueLinedOakCase.name=Contenitore di Quercia
+GreenLinedOakCase.name=Contenitore di Quercia
+BlackLinedOakCase.name=Contenitore di Quercia
+RedLinedSpruceCase.name=Contenitore di Abete
+BlueLinedSpruceCase.name=Contenitore di Abete
+GreenLinedSpruceCase.name=Contenitore di Abete
+BlackLinedSpruceCase.name=
+Contenitore di Abete
+RedLinedBirchCase.name=Contenitore di Betulla
+BlueLinedBirchCase.name=Contenitore di Betulla
+GreenLinedBirchCase.name=Contenitore di Betulla
+BlackLinedBirchCase.name=Contenitore di Betulla
+RedLinedJungleCase.name=Contenitore di legno della Giungla
+BlueLinedJungleCase.name=Contenitore di legno della Giungla
+GreenLinedJungleCase.name=Contenitore di legno della Giungla
+BlackLinedJungleCase.name=Contenitore di legno della Giungla
+OakWritingDesk.name=Scrivania di Quercia
+SpruceWritingDesk.name=Scrivania di Abete
+BirchWritingDesk.name=Scrivania di Betulla
+JungleWritingDesk.name=Scrivania di legno della Giungla
+OakTable.name=Tavolo di Quercia
+SpruceTable.name=Tavolo di Quercia
+BirchTable.name=Tavolo di Quercia
+JungleTable.name=Tavolo di legno della Giungla
+
+//lights
+
+whiteLantern.name=Lanterna d'Oro
+lightGrayLantern.name=Lanterna d'Oro
+grayLantern.name=Lanterna d'Oro
+blackLantern.name=Lanterna d'Oro
+redLantern.name=Lanterna d'Oro
+orangeLantern.name=Lanterna dOro
+yellowLantern.name=Lanterna d'Oro
+limeLantern.name=Lanterna d'Oro
+greenLantern.name=Lanterna d'Oro
+cyanLantern.name=Lanterna d'Oro
+lightBlueLantern.name=Lanterna d'Oro
+blueLantern.name=Lanterna d'Oro
+purpleLantern.name=Lanterna d'Oro
+magentaLantern.name=Lanterna d'Oro
+pinkLantern.name=Lanterna d'Oro
+brownLantern.name=Lanterna d'Oro
+whiteLamp.name=Lampada
+lightGrayLamp.name=Lampada
+grayLamp.name=Lampada
+blackLamp.name=Lampada
+redLamp.name=Lampada
+orangeLamp.name=Lampada
+yellowLamp.name=Lampada
+limeLamp.name=Lampada
+greenLamp.name=Lampada
+cyanLamp.name=Lampada
+lightBlueLamp.name=Lampada
+blueLamp.name=Lampada
+purpleLamp.name=Lampada
+magentaLamp.name=Lampada
+pinkLamp.name=Lampada
+brownLamp.name=Lampada
+
+
+tile.case.redline=Rosso
+tile.case.blueline=Blu
+tile.case.greenline=Verde
+tile.case.blackline=Nero
+
+
+lamp.hood0=Paralume Bianco
+lamp.hood1=Paralume Grigio Chiaro
+lamp.hood2=Paralume Grigio
+lamp.hood3=Paralume Nero
+lamp.hood4=Paralume Rosso
+lamp.hood5=Paralume Arancione
+lamp.hood6=Paralume Giallo
+lamp.hood7=Paralume Lime
+lamp.hood8=Paralume Verde
+lamp.hood9=Paralume Ciano
+lamp.hood10=Paralume Azzurro
+lamp.hood11=Paralume Blu
+lamp.hood12=Paralume Viola
+lamp.hood13=Paralume Magenta
+lamp.hood14=Paralume Rosa
+lamp.hood15=Paralume Marrone
+
+lantern.candle0=Candela Bianca
+lantern.candle1=Candela Grigio Chiaro
+lantern.candle2=Candela Grigia
+lantern.candle3=Candela Nera
+lantern.candle4=Candela Rossa
+lantern.candle5=Candela Arancione
+lantern.candle6=Candela Gialla
+lantern.candle7=Candela Lime
+lantern.candle8=Candela Verde
+lantern.candle9=Candela Ciana
+lantern.candle10=Candela Azzurra
+lantern.candle11=Candela Blu
+lantern.candle12=Candela Viola
+lantern.candle13=Candela Magenta
+lantern.candle14=Candela Rosa
+lantern.candle15=Candela Marrone
+
+// Items
+
+item.tapeMeasure.name=Metro
+item.tape.name=Nastro di Misura
+item.BiblioChase.name=Blocco per Stampa
+item.PrintPlate.name=Piastra perw Stampa
+item.EnchantedPlate.name=Piastra Incantata
+item.BiblioRedBook.name=Pietrarossa: Volume I
+item.BiblioGlasses.readingglasses.name=Occhiali
+item.BiblioGlasses.tintedglasses.name=Occhiali Scuri
+item.BiblioGlasses.monocle.name=Monocolo
+item.BiblioDrill.name=Vite Elerttrica
+item.BiblioCreativeLock.name=Serratura e Chiave
+item.BiblioClipboard.name=Cartella 

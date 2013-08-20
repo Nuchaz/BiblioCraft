@@ -1,86 +1,92 @@
 language.name=Nederlands
+language.region=NL
 language.code=nl_NL
-
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
 // Gui stuff
 gui.armorstand=Armor Stand
-gui.bookcase=Boekenkast
-gui.cookiejar=Koektrommel
-gui.shelf=Houten Plank
-gui.label=Houten Naamplank
-gui.potionshelf=Drank Plank
-gui.typeset.selectbook=Slecteer een Boek
+gui.bookcase=BoekenKast
+gui.cookiejar=KoekTrommel
+gui.shelf=Schap
+gui.label=Houten Etiket
+gui.potionshelf=DrankjesSchap
+gui.typeset.selectbook=Selecteer een Boek
 gui.table=Houten Tafel
 gui.case=Vitrine
-gui.toolrack=Gereedshapsrekgui.desk=Houten Bureau
+gui.toolrack=GereedschapsRek
+gui.desk=Houten Bureau
 
 
 //Tape Measure Texts
-tape.measurenorthsouth=Afstand Noord/Zuid = 
-tape.measureeastwest=Afstand Oost/West = 
-tape.measureheight=Afstand Hoogte = 
-tape.nomeasure=Geen Afstand.
-tape.measure=Afstand = 
-tape.startmeasure=Afstand Meten.
-tape.mode0=Verander naar Noord/Zuid, Oost/West, en Hoogte modus.
-tape.mode1=Verander naar absolute afstand modus.
+tape.measurenorthsouth=Afmeting Noord/Zuid =
+tape.measureeastwest=Afmeting Oost/West =
+tape.measureheight=Afmeting Hoogte =
+tape.nomeasure=Geen Afmeting.
+tape.measure=Afmeting =
+tape.startmeasure=Starten Afmeting.
+tape.mode0=Omschakelen naar Noord/Zuid, Oost/West, en Hoogte.
+tape.mode1=Omschakelen naar absolute Afmeting.
 
-lock.creativeonly=Alleen Creative Moduslock.notowner=Jij bent niet de eigenaar van dit blok.
-lock.locked=dit block is nu vergrendeld.
-lock.unlocked=Dit blok is nu ontgrendeld.
+lock.creativeonly=Alleen in Creative Mode
+lock.notowner=Jij Beheert dit Blok.
+lock.locked=Dit Blok is nu Vergrendeld.
+lock.unlocked=Dit Blok is nu Ontgrendeld.
 
 // Blocks
-CookieJar.name=Koektrommeltile
-MarkerPole.name=Markeer
-paaltile.BiblioType.name=Zetwerk Tafeltile.BiblioPress.name=Drukpers
-tile.BiblioArmorStand.name=Armor Stand
-OakBookcase.name=Eiken Boekenkast
-SpruceBookcase.name=Sparren Boekenkast
-BirchBookcase.name=Berken Boekenkast
-JungleBookcase.name=Jungle Bookcase
-OakPotionShelf.name=Oak Potion Shelf
-SprucePotionShelf.name=Spruce Potion Shelf
-BirchPotionShelf.name=Birch Potion Shelf
-JunglePotionShelf.name=Jungle Potion Shelf
-OakShelf.name=Oak Shelf
-SpruceShelf.name=Spruce Shelf
-BirchShelf.name=Birch Shelf
-JungleShelf.name=Jungle Shelf
-OakWeaponRack.name=Oak Tool Rack
-SpruceWeaponRack.name=Spruce Tool Rack
-BirchWeaponRack.name=Birch Tool Rack
-JungleWeaponRack.name=Jungle Tool Rack
-OakLabel.name=Oak Wood Label
-SpruceLabel.name=Spruce Wood Label
-BirchLabel.name=Birch Wood Label
-JungleLabel.name=Jungle Wood Label
-RedLinedOakCase.name=Oak Case
-BlueLinedOakCase.name=Oak Case
-GreenLinedOakCase.name=Oak Case
-BlackLinedOakCase.name=Oak Case
-RedLinedSpruceCase.name=Spruce Case
-BlueLinedSpruceCase.name=Spruce Case
-GreenLinedSpruceCase.name=Spruce Case
-BlackLinedSpruceCase.name=Spruce Case
-RedLinedBirchCase.name=Birch Case
-BlueLinedBirchCase.name=Birch Case
-GreenLinedBirchCase.name=Birch Case
-BlackLinedBirchCase.name=Birch Case
-RedLinedJungleCase.name=Jungle Case
-BlueLinedJungleCase.name=Jungle Boekenkast
-GreenLinedJungleCase.name=Jungle Kast
-BlackLinedJungleCase.name=Jungle Kast
-OakWritingDesk.name=Eiken BureauSpruceWritingDesk.name=Sparren Burea
-BirchWritingDesk.name=Berken BureauJungleWritingDesk.name=Jungle Bureau
-OakTable.name=Eiken Tafel
-SpruceTable.name=Sparren Tafel
-BirchTable.name=Berken Tafel
-JungleTable.name=Jungle Tafel
+CookieJar.name=Koektrommel
+MarkerPole.name=Markering
+tile.BiblioType.name=Letterzet Tafel
+tile.BiblioPress.name=Drukpers
+tile.BiblioArmorStand.name=Pantser Rek
+OakBookcase.name=Eikenhouten BoekenKast
+SpruceBookcase.name=Sparrenhouten BoekenKast
+BirchBookcase.name=Berkenhouten BoekenKast
+JungleBookcase.name=Oerwoudhouten Boekenkast
+OakPotionShelf.name=Eikenhouten DrankjesSchap
+SprucePotionShelf.name=Sparrenhouten DrankjesSchap
+BirchPotionShelf.name=Berkenhouten DrankjesSchap
+JunglePotionShelf.name=Oerwoudhouten DrankjesSchap
+OakShelf.name=Eikenhouten Schap
+SpruceShelf.name=Sparrenhouten Schap
+BirchShelf.name=Berkernhouten Schap
+JungleShelf.name=Oerwoudhouten Schap
+OakWeaponRack.name=Eikenhouten GereedschapsRek
+SpruceWeaponRack.name=Sparrenhouten GereedschapsRek
+BirchWeaponRack.name=Berkenhouten GereedschapsRek
+JungleWeaponRack.name=Oerwoudhouten GereedschapsRek
+OakLabel.name=Eikenhouten Etiket
+SpruceLabel.name=Sparrenhouten Etiket
+BirchLabel.name=Berkenhouten Etiket
+JungleLabel.name=Oerwoudhouten Etiket
+RedLinedOakCase.name=Eikenhouten Vitrine
+BlueLinedOakCase.name=Eikenhouten Vitrine
+GreenLinedOakCase.name=Eikenhouten Vitrine
+BlackLinedOakCase.name=Eikenhouten Vitrine
+RedLinedSpruceCase.name=Sparrenhouten Vitrine
+BlueLinedSpruceCase.name=Sparrenhouten Vitrine
+GreenLinedSpruceCase.name=Sparrenhouten Vitrine
+BlackLinedSpruceCase.name=Sparrenhouten Vitrine
+RedLinedBirchCase.name=Berkenhouten Vitrine
+BlueLinedBirchCase.name=Berkenhouten Vitrine
+GreenLinedBirchCase.name=Berkenhouten Vitrine
+BlackLinedBirchCase.name=Berkenhouten Vitrine
+RedLinedJungleCase.name=Oerwoudhouten Vitrine
+BlueLinedJungleCase.name=Oerwoudhouten Vitrine
+GreenLinedJungleCase.name=Oerwoudhouten Vitrine
+BlackLinedJungleCase.name=Oerwoudhouten Vitrine
+OakWritingDesk.name=Eikenhouten Bureau
+SpruceWritingDesk.name=Sparrenhouten Bureau
+BirchWritingDesk.name=Berkenhouten Bureau
+JungleWritingDesk.name=Oerwoudhouten Bureau
+OakTable.name=Eikenhouten Tafel
+SpruceTable.name=Sparrenhouten Tafel
+BirchTable.name=Berkenhouten Tafel
+JungleTable.name=Oerwoudhouten Tafel
 
 //lights
-whiteLantern.name=Gouden LantaarnlightGrayLantern.name=Gouden Lantaarn
+whiteLantern.name=Gouden Lantaarn
+lightGrayLantern.name=Gouden Lantaarn
 grayLantern.name=Gouden Lantaarn
 blackLantern.name=Gouden Lantaarn
 redLantern.name=Gouden Lantaarn
@@ -96,34 +102,39 @@ magentaLantern.name=Gouden Lantaarn
 pinkLantern.name=Gouden Lantaarn
 brownLantern.name=Gouden Lantaarn
 
-whiteLamp.name=Mooie Lamp
-lightGrayLamp.name=Mooie Lamp
-grayLamp.name=Mooie Lamp
-blackLamp.name=Mooie Lamp
-redLamp.name=Mooie Lamp
-orangeLamp.name=Mooie Lamp
-yellowLamp.name=Mooie LamplimeLamp.name=Mooie Lamp
-greenLamp.name=Mooie Lamp
-cyanLamp.name=Mooie LamplightBlueLamp.name=Mooie Lamp
-blueLamp.name=Mooie Lamp
-purpleLamp.name=Mooie Lamp
-magentaLamp.name=Mooie Lamp
-pinkLamp.name=Mooie Lamp
-brownLamp.name=Mooie Lamp
+whiteLamp.name=Chique Lamp
+lightGrayLamp.name=Chique Lamp
+grayLamp.name=Chique Lamp
+blackLamp.name=Chique Lamp
+redLamp.name=Chique Lamp
+orangeLamp.name=Chique Lamp
+yellowLamp.name=Chique Lamp
+limeLamp.name=Chique Lamp
+greenLamp.name=Chique Lamp
+cyanLamp.name=Chique Lamp
+lightBlueLamp.name=Chique Lamp
+blueLamp.name=Chique Lamp
+purpleLamp.name=Chique Lamp
+magentaLamp.name=Chique Lamp
+pinkLamp.name=Chique Lamp
+brownLamp.name=Chique Lamp
 
-tile.case.redline=Rode Voering
+tile.case.redline=Roode Voering
 tile.case.blueline=Blauwe Voering
 tile.case.greenline=Groene Voering
 tile.case.blackline=Zwarte Voering
 
 lamp.hood0=Witte Lampenkap
 lamp.hood1=Licht Grijze Lampenkap
-lamp.hood2=Grijze Lampenkaplamp.hood3=Zwarte Lampenkap
+lamp.hood2=Grijze Lampenkap
+lamp.hood3=Zwarte Lampenkap
 lamp.hood4=Rode Lampenkap
-lamp.hood5=Oranje Lampenkaplamp.hood6=Gele Lampenkap
-lamp.hood7=Lichtgroene Lampenkaplamp.hood8=Groene Lampenkap
+lamp.hood5=Oranje Lampenkap
+lamp.hood6=Gele Lampenkap
+lamp.hood7=Licht Groene Lampenkap
+lamp.hood8=Groene Lampenkap
 lamp.hood9=Turquoise Lampenkap
-lamp.hood10=Lichtblauwe Lampenkap
+lamp.hood10=Licht Blauwe Lampenkap
 lamp.hood11=Blauwe Lampenkap
 lamp.hood12=Paarse Lampenkap
 lamp.hood13=Magenta Lampenkap
@@ -131,16 +142,16 @@ lamp.hood14=Roze Lampenkap
 lamp.hood15=Bruine Lampenkap
 
 lantern.candle0=Witte Kaars
-lantern.candle1=Lichtgrijze Kaars
+lantern.candle1=Licht Grijze Kaars
 lantern.candle2=Grijze Kaars
 lantern.candle3=Zwarte Kaars
 lantern.candle4=Rode Kaars
 lantern.candle5=Oranje Kaars
 lantern.candle6=Gele Kaars
-lantern.candle7=Lichtgroene Kaars
+lantern.candle7=Licht Groene Kaars
 lantern.candle8=Groene Kaars
 lantern.candle9=Turquoise Kaars
-lantern.candle10=Lichtblauwe Kaars
+lantern.candle10=Licht Blauwe Kaars
 lantern.candle11=Blauwe Kaars
 lantern.candle12=Paarse Kaars
 lantern.candle13=Magenta Kaars
@@ -149,15 +160,14 @@ lantern.candle15=Bruine Kaars
 
 // Items
 item.tapeMeasure.name=Meetlint
-item.tape.name=
-Meetlintitem.BiblioChase.name=Drukpers Vorm
+item.tape.name=Meetlint Haspel
+item.BiblioChase.name=Drukpers Houder
 item.PrintPlate.name=Drukpers Plaat
 item.EnchantedPlate.name=Betoverde Plaat
 item.BiblioRedBook.name=Redstone: Deel I
 item.BiblioGlasses.readingglasses.name=Leesbril
 item.BiblioGlasses.tintedglasses.name=Zonnebril
-item.BiblioGlasses.monocle.name=Oogglas
-item.BiblioDrill.name=-schroef Pistool
+item.BiblioGlasses.monocle.name=Monocle
+item.BiblioDrill.name=Schroefmachine
 item.BiblioCreativeLock.name=Slot en Sleutel
 item.BiblioClipboard.name=Klembord
-
