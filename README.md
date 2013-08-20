@@ -8,7 +8,7 @@ either submit a .lang file on here or on my forum and I shall add it to the gith
 
 Current Submissions are:
 
-Language	               Lang Code	               Author(s)
+Language	    -           Lang Code	        -       Author(s)
 
  Simple Chinese - zh_CN	- crafteverwhere
  
