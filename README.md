@@ -9,14 +9,25 @@ either submit a .lang file on here or on my forum and I shall add it to the gith
 Current Submissions are:
 
 Language	               Lang Code	               Author(s)
- Simple Chinese	          zh_CN	                    crafteverwhere
- German	                  de_DE                    	Vexatos and GamerfanaticMC
- Latvian	                lv_LV	                    TehDnS
- Russian	                ru_RU	                    kol999
- Lithuanian	              lt_LT	                    auris331
- Dutch	                  nl_NL	                    Barry_the_Peanut16 and eippoj
- Greek	                  gr_EL	                    SeekerOfDeath
- Portugies	              pt_BR	                    Visckmart
- Polish	                  pl_PL	                    Miter010
- Swedish	                sv_SE	                    Allmyr
- Itallian	                it_IT	                    TheVikingWarrior
+
+ Simple Chinese - zh_CN	- crafteverwhere
+ 
+ German	- de_DE     -   	Vexatos and GamerfanaticMC
+ 
+ Latvian	 - lv_LV	   -     TehDnS
+ 
+ Russian	 -  ru_RU	    -  kol999
+ 
+ Lithuanian	  - lt_LT	       -        auris331
+ 
+ Dutch	           -       nl_NL	           -         Barry_the_Peanut16 and eippoj
+ 
+ Greek	          -        gr_EL	          -          SeekerOfDeath
+ 
+ Portugies	       -       pt_BR	         -           Visckmart
+ 
+ Polish	           -       pl_PL	       -             Miter010
+ 
+ Swedish	           -     sv_SE	       -             Allmyr
+ 
+ Itallian	           -     it_IT	     -               TheVikingWarrior
