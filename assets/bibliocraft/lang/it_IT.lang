@@ -1,14 +1,14 @@
 language.name=Italiano
+
 language.region=IT
+
 language.code=it_IT
 
-// Tab Names
 
+// Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
-
 // Gui stuff
-
 gui.armorstand=Manichino
 gui.bookcase=Libreria
 gui.cookiejar=Vaso di Biscotti
@@ -22,27 +22,25 @@ gui.toolrack=Scaffale per Attrezzi
 gui.desk=Scrivania
 
 //Tape Measure Texts
-
 tape.measurenorthsouth=Misurazione Nord/Sud = 
 tape.measureeastwest=Misurazione Est/Ovest = 
 tape.measureheight=Misurazione altezza = 
 tape.nomeasure=Nessuna Misurazione.
 tape.measure=Misuro = 
 tape.startmeasure=Iniziando a Misurare.
-tape.mode0=Scambiando la modalit‡ a Nord/Sud, Est/Ovest, e altezza.
-tape.mode1=Scambiando la modalit‡ a misurazione assoluta.
+tape.mode0=Scambiando la modalit√† a Nord/Sud, Est/Ovest, e altezza.
+tape.mode1=Scambiando la modalit√† a misurazione assoluta.
 
 
 
-lock.creativeonly=Solo in Modalit‡ Creativa
+lock.creativeonly=Solo in Modalit√† Creativa
 lock.notowner=Non sei il propietario di questo blocco.
-lock.locked=Queto blocco Ë stato bloccato.
-lock.unlocked=Queto blocco Ë stato sbloccato.
+lock.locked=Queto blocco √® stato bloccato.
+lock.unlocked=Queto blocco √® stato sbloccato.
 
 
 
 // Blocks
-
 CookieJar.name=Vaso di Biscotti
 MarkerPole.name=Segnalatore
 tile.BiblioType.name=Tavolo del Tipografo
@@ -75,8 +73,7 @@ BlackLinedOakCase.name=Contenitore di Quercia
 RedLinedSpruceCase.name=Contenitore di Abete
 BlueLinedSpruceCase.name=Contenitore di Abete
 GreenLinedSpruceCase.name=Contenitore di Abete
-BlackLinedSpruceCase.name=
-Contenitore di Abete
+BlackLinedSpruceCase.name=Contenitore di Abete
 RedLinedBirchCase.name=Contenitore di Betulla
 BlueLinedBirchCase.name=Contenitore di Betulla
 GreenLinedBirchCase.name=Contenitore di Betulla
@@ -112,6 +109,7 @@ purpleLantern.name=Lanterna d'Oro
 magentaLantern.name=Lanterna d'Oro
 pinkLantern.name=Lanterna d'Oro
 brownLantern.name=Lanterna d'Oro
+
 whiteLamp.name=Lampada
 lightGrayLamp.name=Lampada
 grayLamp.name=Lampada
@@ -129,12 +127,10 @@ magentaLamp.name=Lampada
 pinkLamp.name=Lampada
 brownLamp.name=Lampada
 
-
 tile.case.redline=Rosso
 tile.case.blueline=Blu
 tile.case.greenline=Verde
 tile.case.blackline=Nero
-
 
 lamp.hood0=Paralume Bianco
 lamp.hood1=Paralume Grigio Chiaro
