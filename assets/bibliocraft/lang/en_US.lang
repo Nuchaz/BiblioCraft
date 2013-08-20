@@ -1,0 +1,175 @@
+language.name=English
+language.region=US
+language.code=en_US
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// Gui stuff
+gui.armorstand=Armor Stand
+gui.bookcase=Bookcase
+gui.cookiejar=Cookie Jar
+gui.shelf=Wooden Shelf
+gui.label=Wooden Label
+gui.potionshelf=Potion Shelf
+gui.typeset.selectbook=Please Select a Book
+gui.table=Wooden Table
+gui.case=Display Case
+gui.toolrack=Tool Rack
+gui.desk=Wooden Desk
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=Measurement North/South = 
+tape.measureeastwest=Measurement East/West = 
+tape.measureheight=Measurement Height = 
+tape.nomeasure=No Measurement.
+tape.measure=Measurement = 
+tape.startmeasure=Starting Measurement.
+tape.mode0=Switching mode to North/South, East/West, and height.
+tape.mode1=Switching mode to absolute measurment.
+
+lock.creativeonly=Creative Mode Only
+lock.notowner=You are not the owner of this block.
+lock.locked=This block has been locked.
+lock.unlocked=This block has been unlocked.
+
+// Blocks
+CookieJar.name=Cookie Jar
+MarkerPole.name=Marker
+tile.BiblioType.name=Typesetting Table
+tile.BiblioPress.name=Printing Press
+tile.BiblioArmorStand.name=Armor Stand
+OakBookcase.name=Oak Bookcase
+SpruceBookcase.name=Spruce Bookcase
+BirchBookcase.name=Birch Bookcase
+JungleBookcase.name=Jungle Bookcase
+OakPotionShelf.name=Oak Potion Shelf
+SprucePotionShelf.name=Spruce Potion Shelf
+BirchPotionShelf.name=Birch Potion Shelf
+JunglePotionShelf.name=Jungle Potion Shelf
+OakShelf.name=Oak Shelf
+SpruceShelf.name=Spruce Shelf
+BirchShelf.name=Birch Shelf
+JungleShelf.name=Jungle Shelf
+OakWeaponRack.name=Oak Tool Rack
+SpruceWeaponRack.name=Spruce Tool Rack
+BirchWeaponRack.name=Birch Tool Rack
+JungleWeaponRack.name=Jungle Tool Rack
+OakLabel.name=Oak Wood Label
+SpruceLabel.name=Spruce Wood Label
+BirchLabel.name=Birch Wood Label
+JungleLabel.name=Jungle Wood Label
+RedLinedOakCase.name=Oak Case
+BlueLinedOakCase.name=Oak Case
+GreenLinedOakCase.name=Oak Case
+BlackLinedOakCase.name=Oak Case
+RedLinedSpruceCase.name=Spruce Case
+BlueLinedSpruceCase.name=Spruce Case
+GreenLinedSpruceCase.name=Spruce Case
+BlackLinedSpruceCase.name=Spruce Case
+RedLinedBirchCase.name=Birch Case
+BlueLinedBirchCase.name=Birch Case
+GreenLinedBirchCase.name=Birch Case
+BlackLinedBirchCase.name=Birch Case
+RedLinedJungleCase.name=Jungle Case
+BlueLinedJungleCase.name=Jungle Case
+GreenLinedJungleCase.name=Jungle Case
+BlackLinedJungleCase.name=Jungle Case
+OakWritingDesk.name=Oak Desk
+SpruceWritingDesk.name=Spruce Desk
+BirchWritingDesk.name=Birch Desk
+JungleWritingDesk.name=Jungle Desk
+OakTable.name=Oak Table
+SpruceTable.name=Spruce Table
+BirchTable.name=Birch Table
+JungleTable.name=Jungle Table
+
+//lights
+whiteLantern.name=Golden Lantern
+lightGrayLantern.name=Golden Lantern
+grayLantern.name=Golden Lantern
+blackLantern.name=Golden Lantern
+redLantern.name=Golden Lantern
+orangeLantern.name=Golden Lantern
+yellowLantern.name=Golden Lantern
+limeLantern.name=Golden Lantern
+greenLantern.name=Golden Lantern
+cyanLantern.name=Golden Lantern
+lightBlueLantern.name=Golden Lantern
+blueLantern.name=Golden Lantern
+purpleLantern.name=Golden Lantern
+magentaLantern.name=Golden Lantern
+pinkLantern.name=Golden Lantern
+brownLantern.name=Golden Lantern
+
+whiteLamp.name=Fancy Lamp
+lightGrayLamp.name=Fancy Lamp
+grayLamp.name=Fancy Lamp
+blackLamp.name=Fancy Lamp
+redLamp.name=Fancy Lamp
+orangeLamp.name=Fancy Lamp
+yellowLamp.name=Fancy Lamp
+limeLamp.name=Fancy Lamp
+greenLamp.name=Fancy Lamp
+cyanLamp.name=Fancy Lamp
+lightBlueLamp.name=Fancy Lamp
+blueLamp.name=Fancy Lamp
+purpleLamp.name=Fancy Lamp
+magentaLamp.name=Fancy Lamp
+pinkLamp.name=Fancy Lamp
+brownLamp.name=Fancy Lamp
+
+tile.case.redline=Red Lining
+tile.case.blueline=Blue Lining
+tile.case.greenline=Green Lining
+tile.case.blackline=Black Lining
+
+lamp.hood0=White Lamp Hood
+lamp.hood1=Light Gray Lamp Hood
+lamp.hood2=Gray Lamp Hood
+lamp.hood3=Black Lamp Hood
+lamp.hood4=Red Lamp Hood
+lamp.hood5=Orange Lamp Hood
+lamp.hood6=Yellow Lamp Hood
+lamp.hood7=Lime Lamp Hood
+lamp.hood8=Green Lamp Hood
+lamp.hood9=Cyan Lamp Hood
+lamp.hood10=Light Blue Lamp Hood
+lamp.hood11=Blue Lamp Hood
+lamp.hood12=Purple Lamp Hood
+lamp.hood13=Magenta Lamp Hood
+lamp.hood14=Pink Lamp Hood
+lamp.hood15=Brown Lamp Hood
+
+lantern.candle0=White Candle
+lantern.candle1=Light Gray Candle
+lantern.candle2=Gray Candle
+lantern.candle3=Black Candle
+lantern.candle4=Red Candle
+lantern.candle5=Orange Candle
+lantern.candle6=Yellow Candle
+lantern.candle7=Lime Candle
+lantern.candle8=Green Candle
+lantern.candle9=Cyan Candle
+lantern.candle10=Light Blue Candle
+lantern.candle11=Blue Candle
+lantern.candle12=Purple Candle
+lantern.candle13=Magenta Candle
+lantern.candle14=Pink Candle
+lantern.candle15=Brown Candle
+
+// Items
+item.tapeMeasure.name=Tape Measure
+item.tape.name=Tape Measure Reel
+item.BiblioChase.name=Print Press Chase
+item.PrintPlate.name=Print Press Plate
+item.EnchantedPlate.name=Enchanted Plate
+item.BiblioRedBook.name=Redstone: Volume I
+item.BiblioGlasses.readingglasses.name=Reading Glasses
+item.BiblioGlasses.tintedglasses.name=Tinted Glasses
+item.BiblioGlasses.monocle.name=Monocle
+item.BiblioDrill.name=Screw Gun
+item.BiblioCreativeLock.name=Lock and Key
+item.BiblioClipboard.name=Clipboard
+
