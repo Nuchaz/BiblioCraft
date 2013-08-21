@@ -30,6 +30,6 @@ Language	    -           Lang Code	        -       Author(s)
  
  Swedish	           -     sv_SE	       -             Allmyr
  
- Itallian	           -     it_IT	     -               TheVikingWarrior
+ Italian	           -     it_IT	     -               TheVikingWarrior
  
  French - fr_CA - NetherPortal57
