@@ -35,3 +35,5 @@ Language	    -           Lang Code	        -       Author(s)
  French - fr_CA - NetherPortal57
  
  Danish - dk_DK - solida1987
+ 
+ Finnish - fi_FI - Shariest
