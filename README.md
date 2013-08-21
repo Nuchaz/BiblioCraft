@@ -33,3 +33,5 @@ Language	    -           Lang Code	        -       Author(s)
  Italian	           -     it_IT	     -               TheVikingWarrior
  
  French - fr_CA - NetherPortal57
+ 
+ Danish - dk_DK - solida1987
