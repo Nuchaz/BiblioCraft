@@ -1,0 +1,175 @@
+language.name=Finnish
+language.region=FI
+language.code=fi_FI
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// Gui stuff
+gui.armorstand=Varuste Jalusta
+gui.bookcase=Kirjahylly
+gui.cookiejar=Keksi Purnukka
+gui.shelf=Puinen hylly
+gui.label=Puinen etiketti
+gui.potionshelf=Juoma hylly
+gui.typeset.selectbook=Ole hyvä ja valitse kirja
+gui.table=Puinen pöytä
+gui.case=Vitriini
+gui.toolrack=Työkalu teline
+gui.desk=Puinen lipasto
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=Mitta Pohjoinen/Etelä = 
+tape.measureeastwest=Mitta Itä/Länsi = 
+tape.measureheight=Mitta Korkeus = 
+tape.nomeasure=Ei mittaus tulosta
+tape.measure=Measurement = Mitta
+tape.startmeasure=Aloitetaan mittaus.
+tape.mode0=Vaihdetaan moodia: Pohjoinen/Etelä, Itä/Länsi, ja korkeus.
+tape.mode1=Vaihdetaan moodia absoluuttiseen mittaus-tulokseen.
+
+lock.creativeonly=Vain luovaa tilaa käyttäville
+lock.notowner=Et ole tämän palikan omistaja.
+lock.locked=Tämä palikka on lukittu.
+lock.unlocked=Tämä palikka on avattu lukituksestaan.
+
+// Blocks
+CookieJar.name=Keksipurnukka
+MarkerPole.name=Merkkari
+tile.BiblioType.name=Laonta pöytä
+tile.BiblioPress.name=Painokone
+tile.BiblioArmorStand.name=Varuste Jalusta
+OakBookcase.name=Tamminen Kirjahylly
+SpruceBookcase.name=Kuusipuinen Kirjahylly
+BirchBookcase.name=Koivuinen Kirjahylly
+JungleBookcase.name=Viidakkopuinen Kirjahylly
+OakPotionShelf.name=Tamminen Juoma Hyllykkö 
+SprucePotionShelf.name=Kuusipuinen Juoma Hyllykkö
+BirchPotionShelf.name=Koivuinen Juoma Hyllykkö
+JunglePotionShelf.name=Viidakkopuinen Juoma Hyllykkö
+OakShelf.name=Tamminen Hyllykkö
+SpruceShelf.name=Kuusipuinen Hyllykkö
+BirchShelf.name=Koivuinen Hyllykkö
+JungleShelf.name=Viidakkopuinen Puinen
+OakWeaponRack.name=Tamminen Aseistus Teline
+SpruceWeaponRack.name=Kuusipuinen Aseistus Teline
+BirchWeaponRack.name=Koivuinen Aseistus Teline
+JungleWeaponRack.name=Viidakkopuinen Aseistus Teline
+OakLabel.name=Tamminen Etiketti
+SpruceLabel.name=Kuusipuinen Etiketti
+BirchLabel.name=Koivuinen Etiketti
+JungleLabel.name=Viidakkopuinen Etiketti
+RedLinedOakCase.name=Tamminen Vitriini
+BlueLinedOakCase.name=Tamminen Vitriini
+GreenLinedOakCase.name=Tamminen Vitriini
+BlackLinedOakCase.name=Tamminen Vitriini
+RedLinedSpruceCase.name=Kuusipuinen Vitriini
+BlueLinedSpruceCase.name=Kuusipuinen Vitriini
+GreenLinedSpruceCase.name=Kuusipuinen Vitriini
+BlackLinedSpruceCase.name=Kuusipuinen Vitriini
+RedLinedBirchCase.name=Koivuinen Vitriini
+BlueLinedBirchCase.name=Koivuinen Vitriini
+GreenLinedBirchCase.name=Koivuinen Vitriini
+BlackLinedBirchCase.name=Koivuinen Vitriini
+RedLinedJungleCase.name=Viidakkopuinen Vitriini
+BlueLinedJungleCase.name=Viidakkopuinen Vitriini
+GreenLinedJungleCase.name=Viidakkopuinen Vitriini
+BlackLinedJungleCase.name=Viidakkopuinen Vitriini
+OakWritingDesk.name=Tamminen Lipasto
+SpruceWritingDesk.name=Kuusipuinen Lipasto
+BirchWritingDesk.name=Koivuinen Lipasto
+JungleWritingDesk.name=Viidakkopuinen Lipasto
+OakTable.name=Tamminen Pöytä
+SpruceTable.name=Kuusipuinen Pöytä
+BirchTable.name=Koivuinen Pöytä
+JungleTable.name=Viidakkopuinen Pöytä
+
+//lights
+whiteLantern.name=Kultainen Lyhty
+lightGrayLantern.name=Kultainen Lyhty
+grayLantern.name=Kultainen Lyhty
+blackLantern.name=Kultainen Lyhty
+redLantern.name=Kultainen Lyhty
+orangeLantern.name=Kultainen Lyhty
+yellowLantern.name=Kultainen Lyhty
+limeLantern.name=Kultainen Lyhty
+greenLantern.name=Kultainen Lyhty
+cyanLantern.name=Kultainen Lyhty
+lightBlueLantern.name=Kultainen Lyhty
+blueLantern.name=Kultainen Lyhty
+purpleLantern.name=Kultainen Lyhty
+magentaLantern.name=Kultainen Lyhty
+pinkLantern.name=Kultainen Lyhty
+brownLantern.name=Kultainen Lyhty
+
+whiteLamp.name=Koristeellinen Lamppu
+lightGrayLamp.name=Koristeellinen Lamppu
+grayLamp.name=Koristeellinen Lamppu
+blackLamp.name=Koristeellinen Lamppu
+redLamp.name=Koristeellinen Lamppu
+orangeLamp.name=Koristeellinen Lamppu
+yellowLamp.name=Koristeellinen Lamppu
+limeLamp.name=Koristeellinen Lamppu
+greenLamp.name=Koristeellinen Lamppu
+cyanLamp.name=Koristeellinen Lamppu
+lightBlueLamp.name=Koristeellinen Lamppu
+blueLamp.name=Koristeellinen Lamppu
+purpleLamp.name=Koristeellinen Lamppu
+magentaLamp.name=Koristeellinen Lamppu
+pinkLamp.name=Koristeellinen Lamppu
+brownLamp.name=Koristeellinen Lamppu
+
+tile.case.redline=Punainen Liina
+tile.case.blueline=Sininen Liina
+tile.case.greenline=Vihreä Liina
+tile.case.blackline=Musta Liina
+
+lamp.hood0=Valkoinen Lampun Koppa
+lamp.hood1=Vaaleanharmaa Lampun Koppa
+lamp.hood2=Harmaa Lampun Koppa
+lamp.hood3=Musta Lampun Koppa
+lamp.hood4=Punainen Lampun Koppa
+lamp.hood5=Oranssi Lampun Koppa
+lamp.hood6=Keltainen Lampun Koppa
+lamp.hood7=Lime Lampun Koppa
+lamp.hood8=Vihreä Lampun Koppa
+lamp.hood9=Sinivihreä Lampun Koppa
+lamp.hood10=Vaalensininen Lampun Koppa
+lamp.hood11=Sininen Lampun Koppa
+lamp.hood12=Purppura Lampun Koppa
+lamp.hood13=Sinipunainen Lampun Koppa
+lamp.hood14=Pinkki Lampun Koppa
+lamp.hood15=Ruskea Lampun Koppa
+
+lantern.candle0=Valkoinen Kynttilä
+lantern.candle1=Vaaleanharmaa Kynttilä
+lantern.candle2=Harmaa Kynttilä
+lantern.candle3=Musta Kynttilä
+lantern.candle4=Punainen Kynttilä
+lantern.candle5=Oranssi Kynttilä
+lantern.candle6=Keltainen Kynttilä
+lantern.candle7=Lime Kynttilä
+lantern.candle8=Vihreä Kynttilä
+lantern.candle9=Sinivihreä Kynttilä
+lantern.candle10=Vaalensininen Kynttilä
+lantern.candle11=Sininen Kynttilä
+lantern.candle12=Purppura Kynttilä
+lantern.candle13=Sinipunainen Kynttilä
+lantern.candle14=Pinkki Kynttilä
+lantern.candle15=Ruskea Kynttilä
+
+// Items
+item.tapeMeasure.name=Mittanauha
+item.tape.name=Mittarulla
+item.BiblioChase.name=Painaisimen Runko
+item.PrintPlate.name=Painaisimen Levy
+item.EnchantedPlate.name=Lumottu Levy
+item.BiblioRedBook.name=Punakivi: Osa I
+item.BiblioGlasses.readingglasses.name=Lukulasit 
+item.BiblioGlasses.tintedglasses.name=Tummennetut Lasit
+item.BiblioGlasses.monocle.name=Monokkeli
+item.BiblioDrill.name=Akkuporakone
+item.BiblioCreativeLock.name=Lukko ja Avain
+item.BiblioClipboard.name=Kirjoituslevy 
+
