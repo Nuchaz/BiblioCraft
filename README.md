@@ -37,3 +37,5 @@ Language	    -           Lang Code	        -       Author(s)
  Danish - dk_DK - solida1987
  
  Finnish - fi_FI - Shariest
+ 
+ Turkish - tr_TR - Advancensar
