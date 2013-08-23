@@ -1,0 +1,174 @@
+﻿language.name=Türkçe
+language.region=TR
+language.code=tr_TR
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// Gui stuff
+gui.armorstand=Zırh Standı
+gui.bookcase=Kitaplık
+gui.cookiejar=Kurabiye Kavanozu
+gui.shelf=Ahşap Raf
+gui.label=Ahşap Etiket
+gui.potionshelf=İksir Rafı
+gui.typeset.selectbook=Lütfen bir kitap seçin
+gui.table=Ahşap Masa
+gui.case=Gösteriş Kutusu
+gui.toolrack=Araç Rafı
+gui.desk=Ahşap Sıra
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=Ölçüm Kuzey/Güney = 
+tape.measureeastwest=Ölçüm Doğu/Batı = 
+tape.measureheight=Ölçüm Yükseklik = 
+tape.nomeasure=Ölçüm yok.
+tape.measure=Measurement = 
+tape.startmeasure=Ölçüm başlatılıyor.
+tape.mode0=Ölçüm modu Kuzey/Güney, Doğu/Batı, and yükseklik olarak değiştirildi.
+tape.mode1=Ölçüm modu mutlak ölçüm olarak değiştirildi.
+
+lock.creativeonly=Sadece Yaratıcı modu
+lock.notowner=Bu bloğun sahibi değilsin.
+lock.locked=Bu blok kilitlendi.
+lock.unlocked=Bu bloğun kilidi açıldı.
+
+// Blocks
+CookieJar.name=Kurabiye Kavanozu
+MarkerPole.name=İşaretleyici
+tile.BiblioType.name=Dizgi Masası
+tile.BiblioPress.name=Matbaa
+tile.BiblioArmorStand.name=Zırh Standı
+OakBookcase.name=Meşe Kitaplık
+SpruceBookcase.name=Ladin Kitaplık
+BirchBookcase.name=Huş Ağacı Kitaplık
+JungleBookcase.name=Orman Ağacı Kitaplık
+OakPotionShelf.name=Meşe İksir Rafı
+SprucePotionShelf.name=Ladin İksir Rafı
+BirchPotionShelf.name=Huş Ağacı İksir Rafı
+JunglePotionShelf.name=Orman Ağacı İksir Rafı
+OakShelf.name=Meşe Raf
+SpruceShelf.name=Ladin Raf
+BirchShelf.name=Huş Ağacı Raf
+JungleRaf.name=Orman Ağacı Raf
+OakWeaponRack.name=Meşe Araç Rafı
+SpruceWeaponRack.name=Ladin Araç Rafı
+BirchWeaponRack.name=Huş Ağacı Araç Rafı
+JungleWeaponRack.name=Orman Ağacı Araç Rafı
+OakLabel.name=MeşeWood Etiket
+SpruceLabel.name=Ladin Etiket
+BirchLabel.name=Huş Ağacı Etiket
+JungleEtiket.name=Orman Ağacı Etiket
+RedLinedOakCase.name=Meşe Kutu
+BlueLinedOakCase.name=Meşe Kutu
+GreenLinedOakCase.name=Meşe Kutu
+BlackLinedOakCase.name=Meşe Kutu
+RedLinedSpruceCase.name=Ladin Kutu
+BlueLinedSpruceCase.name=Ladin Kutu
+GreenLinedSpruceCase.name=Ladin Kutu
+BlackLinedSpruceCase.name=Ladin Kutu
+RedLinedBirchCase.name=Huş Ağacı Kutu
+BlueLinedBirchCase.name=Huş Ağacı Kutu
+GreenLinedBirchCase.name=Huş Ağacı Kutu
+BlackLinedBirchCase.name=Huş Ağacı Kutu
+RedLinedOrman Ağacı Kutu.name=Orman Ağacı Kutu
+BlueLinedOrman Ağacı Kutu.name=Orman Ağacı Kutu
+GreenLinedOrman Ağacı Kutu.name=Orman Ağacı Kutu
+BlackLinedOrman Ağacı Kutu.name=Orman Ağacı Kutu
+OakWritingDesk.name=MeşeDesk
+SpruceWritingDesk.name=Ladin Desk
+BirchWritingDesk.name=Huş Ağacı Desk
+JungleWritingDesk.name=Orman Ağacı Desk
+OakTable.name=Meşe Masa
+SpruceTable.name=Ladin Masa
+BirchTable.name=Huş Ağacı Masa
+JungleMasa.name=Orman Ağacı Masa
+
+//lights
+whiteLantern.name=Altın Fener
+lightgrayLantern.name=Altın Fener
+grayLantern.name=Altın Fener
+blackLantern.name=Altın Fener
+redLantern.name=Altın Fener
+orangeLantern.name=Altın Fener
+yellowLantern.name=Altın Fener
+limeLantern.name=Altın Fener
+greenLantern.name=Altın Fener
+cyanLantern.name=Altın Fener
+lightBlueLantern.name=Altın Fener
+blueLantern.name=Altın Fener
+purpleLantern.name=Altın Fener
+magentaLantern.name=Altın Fener
+pinkLantern.name=Altın Fener
+brownLantern.name=Altın Fener
+
+whiteLamp.name=Süslü Lamba
+lightgrayLamp.name=Süslü Lamba
+grayLamp.name=Süslü Lamba
+blackLamp.name=Süslü Lamba
+redLamp.name=Süslü Lamba
+orangeLamp.name=Süslü Lamba
+yellowLamp.name=Süslü Lamba
+limeLamp.name=Süslü Lamba
+greenLamp.name=Süslü Lamba
+cyanLamp.name=Süslü Lamba
+lightBlueLamp.name=Süslü Lamba
+blueLamp.name=Süslü Lamba
+purpleLamp.name=Süslü Lamba
+magentaLamp.name=Süslü Lamba
+pinkLamp.name=Süslü Lamba
+brownLamp.name=Süslü Lamba
+
+tile.case.redline=Kırmızı Astar
+tile.case.blueline=Mavi Astar
+tile.case.greenline=Yeşil Astar
+tile.case.Siyahline=Siyah Astar
+
+lamp.hood0=Beyaz Lamba Başlığı
+lamp.hood1=Açık Gri Lamba Başlığı
+lamp.hood2=Gri Lamba Başlığı
+lamp.hood3=Siyah Lamba Başlığı
+lamp.hood4=Kırmızı Lamba Başlığı
+lamp.hood5=Turuncu Lamba Başlığı
+lamp.hood6=Sarı Lamba Başlığı
+lamp.hood7=Açık Yeşil Lamba Başlığı
+lamp.hood8=Yeşil Lamba Başlığı
+lamp.hood9=Turkuaz Lamba Başlığı
+lamp.hood10=Açık Mavi Lamba Başlığı
+lamp.hood11=Mavi Lamba Başlığı
+lamp.hood12=Mor Lamba Başlığı
+lamp.hood13=Eflatun Lamba Başlığı
+lamp.hood14=Pembe Lamba Başlığı
+lamp.hood15=Kahverengi Lamba Başlığı
+
+lantern.candle0=Beyaz Mum
+lantern.candle1=Açık Gri Mum
+lantern.candle2=Gri Mum
+lantern.candle3=Siyah Mum
+lantern.candle4=Kırmızı Mum
+lantern.candle5=Turuncu Mum
+lantern.candle6=Sarı Mum
+lantern.candle7=Açık Yeşil Mum
+lantern.candle8=Yeşil Mum
+lantern.candle9=Turkuaz Mum
+lantern.candle10=Açık Mavi Mum
+lantern.candle11=Mavi Mum
+lantern.candle12=Mor Mum
+lantern.candle13=Eflatun Mum
+lantern.candle14=Pembe Mum
+lantern.candle15=Kahverengi Mum
+
+// Items
+item.tapeMeasure.name=Şerit Metre
+item.tape.name=Şerit Metre Makarası
+item.BiblioChase.name=Matbaa Oluğu
+item.PrintPlate.name=Matbaa Plakası
+item.EnchantedPlate.name=Büyülü Plaka
+item.BiblioRedBook.name=Kızıltaş: Cilt I
+item.BiblioGlasses.readingglasses.name=Okuma Gözlüğü
+item.BiblioGlasses.tintedglasses.name=Renkli Gözlük
+item.BiblioGlasses.monocle.name=Monokl
+item.BiblioDrill.name=Şarjlı Tornavida
+item.BiblioCreativeLock.name=Kilit ve Anahtar
+item.BiblioClipboard.name=Pano
