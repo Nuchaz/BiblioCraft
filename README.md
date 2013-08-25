@@ -39,3 +39,5 @@ Language	    -           Lang Code	        -       Author(s)
  Finnish - fi_FI - Shariest
  
  Turkish - tr_TR - Advancensar
+ 
+ Norwegian - no_NO - mariogrip
