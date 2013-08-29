@@ -1,0 +1,174 @@
+language.name=Spanish
+language.region=UY
+language.code=es_UY
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// Gui stuff
+gui.armorstand=Soporte para armadura
+gui.bookcase=Librería
+gui.cookiejar=Tarro de galletas
+gui.shelf=Estantería de madera
+gui.label=Rótulo de madera
+gui.potionshelf=Estantería de pociones
+gui.typeset.selectbook=Elige un libro por favor
+gui.table=Mesa de madera
+gui.case=Vitrina
+gui.toolrack=Colgador de herramientas
+gui.desk=Escritorio de madera
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=Distancia Norte/Sur =
+tape.measureeastwest=Distancia Este/Oeste =
+tape.measureheight=Distanica en altura =
+tape.nomeasure=No se realizó la medición
+tape.measure=Distancia =
+tape.startmeasure=Comenzando medición.
+tape.mode0=Cambiando modo de medición a Norte/Sur, Este/Oeste y Altura.
+tape.mode1=Cambiando modo de medición a distancia absoluta.
+
+lock.creativeonly=Sólo modo Creativo
+lock.notowner=No eres el propietario de este bloque.
+lock.locked=Este bloque ha sido bloqueado.
+lock.unlocked=Este bloque ha sido desbloqueado.
+
+// Blocks
+CookieJar.name=Tarro de galletas
+MarkerPole.name=Marcador
+tile.BiblioType.name=Mesa de tipografía
+tile.BiblioPress.name=Imprenta
+tile.BiblioArmorStand.name=Soporte para armadura
+OakBookcase.name=Librería de roble
+SpruceBookcase.name=Librería de abeto
+BirchBookcase.name=Librería de abedul
+JungleBookcase.name=Librería de madera de selva
+OakPotionShelf.name=Estantería de pociones de roble
+SprucePotionShelf.name=Estantería de pociones de abeto
+BirchPotionShelf.name=Estantería de pociones de abedul
+JunglePotionShelf.name=Estantería de pociones de madera de jungla
+OakShelf.name=Estantería de roble
+SpruceShelf.name=Estantería de abeto
+BirchShelf.name=Estantería de abedul
+JungleShelf.name=Estantería de madera de jungla
+OakWeaponRack.name=Colgador de herramientas de roble
+SpruceWeaponRack.name=Colgador de herramientas de abeto
+BirchWeaponRack.name=Colgador de herramientas de abedul
+JungleWeaponRack.name=Colgador de herramientas de madera de jungla
+OakLabel.name=Rótulo de roble
+SpruceLabel.name=Rótulo de abeto
+BirchLabel.name=Rótulo de abedul
+JungleLabel.name=Rótulo de madera de jungla
+RedLinedOakCase.name=Vitrina de roble
+BlueLinedOakCase.name=Vitrina de roble
+GreenLinedOakCase.name=Vitrina de roble
+BlackLinedOakCase.name=Vitrina de roble
+RedLinedSpruceCase.name=Vitrina de abeto
+BlueLinedSpruceCase.name=Vitrina de abeto
+GreenLinedSpruceCase.name=Vitrina de abeto
+BlackLinedSpruceCase.name=Vitrina de abeto
+RedLinedBirchCase.name=Vitrina de abedul
+BlueLinedBirchCase.name=Vitrina de abedul
+GreenLinedBirchCase.name=Vitrina de abedul
+BlackLinedBirchCase.name=Vitrina de abedul
+RedLinedJungleCase.name=Vitrina de madera de jungla
+BlueLinedJungleCase.name=Vitrina de madera de jungla
+GreenLinedJungleCase.name=Vitrina de madera de jungla
+BlackLinedJungleCase.name=Vitrina de madera de jungla
+OakWritingDesk.name=Escritorio de roble
+SpruceWritingDesk.name=Escritorio de abeto
+BirchWritingDesk.name=Escritorio de abedul
+JungleWritingDesk.name=Escritorio de madera de jungla
+OakTable.name=Mesa de roble
+SpruceTable.name=Mesa de abeto
+BirchTable.name=Mesa de abedul
+JungleTable.name=Mesa de madera de jungla
+
+//lights
+whiteLantern.name=Farol de oro
+lightGrayLantern.name=Farol de oro
+grayLantern.name=Farol de oro
+blackLantern.name=Farol de oro
+redLantern.name=Farol de oro
+orangeLantern.name=Farol de oro
+yellowLantern.name=Farol de oro
+limeLantern.name=Farol de oro
+greenLantern.name=Farol de oro
+cyanLantern.name=Farol de oro
+lightBlueLantern.name=Farol de oro
+blueLantern.name=Farol de oro
+purpleLantern.name=Farol de oro
+magentaLantern.name=Farol de oro
+pinkLantern.name=Farol de oro
+brownLantern.name=Farol de oro
+
+whiteLamp.name=Lámpara de lujo
+lightGrayLamp.name=Lámpara de lujo
+grayLamp.name=Lámpara de lujo
+blackLamp.name=Lámpara de lujo
+redLamp.name=Lámpara de lujo
+orangeLamp.name=Lámpara de lujo
+yellowLamp.name=Lámpara de lujo
+limeLamp.name=Lámpara de lujo
+greenLamp.name=Lámpara de lujo
+cyanLamp.name=Lámpara de lujo
+lightBlueLamp.name=Lámpara de lujo
+blueLamp.name=Lámpara de lujo
+purpleLamp.name=Lámpara de lujo
+magentaLamp.name=Lámpara de lujo
+pinkLamp.name=Lámpara de lujo
+brownLamp.name=Lámpara de lujo
+
+tile.case.redline=Revestimento rojo
+tile.case.blueline=Revestimento azul
+tile.case.greenline=Revestimento verde
+tile.case.blackline=Revestimento negro 
+
+lamp.hood0=
+lamp.hood1=Gris claro
+lamp.hood2=Gris
+lamp.hood3=Negra
+lamp.hood4=Roja
+lamp.hood5=Naranja
+lamp.hood6=Amarilla
+lamp.hood7=Lima
+lamp.hood8=Verde
+lamp.hood9=Cian
+lamp.hood10=Azul claro
+lamp.hood11=Azul
+lamp.hood12=Violeta
+lamp.hood13=Magenta
+lamp.hood14=Rosa
+lamp.hood15=Marrón
+
+lantern.candle0=Vela blanca
+lantern.candle1=Vela gris claro
+lantern.candle2=Vela gris
+lantern.candle3=Vela negra
+lantern.candle4=Vela roja
+lantern.candle5=Vela naranja
+lantern.candle6=Vela amarilla
+lantern.candle7=Vela lima
+lantern.candle8=Vela verde
+lantern.candle9=Vela cian
+lantern.candle10=Vela azul claro
+lantern.candle11=Vela azul
+lantern.candle12=Vela violeta
+lantern.candle13=Vela magenta
+lantern.candle14=Vela rosa
+lantern.candle15=Vela marrón
+
+// Items
+item.tapeMeasure.name=Cinta métrica
+item.tape.name=Carrete de cinta métrica
+item.BiblioChase.name=Marco de impresión
+item.PrintPlate.name=Placa de impresión
+item.EnchantedPlate.name=Placa encantada
+item.BiblioRedBook.name=Redstone: Volumen I
+item.BiblioGlasses.readingglasses.name=Anteojos de lectura
+item.BiblioGlasses.tintedglasses.name=Anteojos tintados
+item.BiblioGlasses.monocle.name=Monóculo
+item.BiblioDrill.name=Atornillador neumático
+item.BiblioCreativeLock.name=Llave y cerradura
+item.BiblioClipboard.name=Portapapeles 
