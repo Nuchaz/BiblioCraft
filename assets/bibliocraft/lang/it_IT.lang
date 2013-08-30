@@ -28,7 +28,7 @@ tape.measureheight=Misurazione altezza =
 tape.nomeasure=Nessuna Misurazione.
 tape.measure=Misuro = 
 tape.startmeasure=Iniziando a Misurare.
-tape.mode0=Scambiando la modalità a Nord/Sud, Est/Ovest, e altezza.
+tape.mode0=Scambiando la modalità a Nord/Sud, Est/Ovest e altezza.
 tape.mode1=Scambiando la modalità a misurazione assoluta.
 
 
@@ -62,10 +62,10 @@ OakWeaponRack.name=Scaffale per Attrezzi di Quercia
 SpruceWeaponRack.name=Scaffale per Attrezzi di Abete
 BirchWeaponRack.name=Scaffale per Attrezzi di Betulla
 JungleWeaponRack.name=Scaffale per Attrezzi di legno della Giungla
-OakLabel.name=Etichetta di Legno di Quercia
-SpruceLabel.name=Etichetta di Legno di Abete
-BirchLabel.name=Etichetta di Legno di Betulla
-JungleLabel.name=Etichetta di Legno della Giungla
+OakLabel.name=Etichetta di Quercia
+SpruceLabel.name=Etichetta di Abete
+BirchLabel.name=Etichetta di Betulla
+JungleLabel.name=Etichetta di legno della Giungla
 RedLinedOakCase.name=Contenitore di Quercia
 BlueLinedOakCase.name=Contenitore di Quercia
 GreenLinedOakCase.name=Contenitore di Quercia
@@ -169,14 +169,14 @@ lantern.candle15=Candela Marrone
 // Items
 
 item.tapeMeasure.name=Metro
-item.tape.name=Nastro di Misura
+item.tape.name=Metro a Nastro
 item.BiblioChase.name=Blocco per Stampa
-item.PrintPlate.name=Piastra perw Stampa
+item.PrintPlate.name=Piastra per Stampa
 item.EnchantedPlate.name=Piastra Incantata
 item.BiblioRedBook.name=Pietrarossa: Volume I
 item.BiblioGlasses.readingglasses.name=Occhiali
 item.BiblioGlasses.tintedglasses.name=Occhiali Scuri
 item.BiblioGlasses.monocle.name=Monocolo
 item.BiblioDrill.name=Vite Elerttrica
-item.BiblioCreativeLock.name=Serratura e Chiave
+item.BiblioCreativeLock.name=Chiave e Lucchetto
 item.BiblioClipboard.name=Cartella 
