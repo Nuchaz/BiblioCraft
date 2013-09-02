@@ -1,0 +1,120 @@
+language.name=English
+language.region=US
+language.code=en_US
+
+// Tab Names
+itemGroup.BiblioWoodsNatura=BiblioWoods: Natura Edition
+
+//natura woods
+
+BloodwoodBookcase.name=Bloodwood Bookcase
+DarkwoodBookcase.name=Darkwood Bookcase
+EucalyptusBookcase.name=Eucalyptus Bookcase
+FusewoodBookcase.name=Fusewood Bookcase
+GhostwoodBookcase.name=Ghostwood Bookcase
+HopseedBookcase.name=Hopseed Bookcase
+MapleBookcase.name=Maple Bookcase
+PurpleheartBookcase.name=Amaranth Bookcase
+RedwoodBookcase.name=Redwood Bookcase
+SilverbellBookcase.name=Silverbell Bookcase
+SakuraBookcase.name=Sakura Bookcase
+TigerBookcase.name=Tiger Bookcase
+WillowBookcase.name=Willow Bookcase
+
+BloodwoodDesk.name=Bloodwood Desk
+DarkwoodDesk.name=Darkwood Desk
+EucalyptusDesk.name=Eucalyptus Desk
+FusewoodDesk.name=Fusewood Desk
+GhostwoodDesk.name=Ghostwood Desk
+HopseedDesk.name=Hopseed Desk
+MapleDesk.name=Maple Desk
+PurpleheartDesk.name=Amaranth Desk
+RedwoodDesk.name=Redwood Desk
+SilverbellDesk.name=Silverbell Desk
+SakuraDesk.name=Sakura Desk
+TigerDesk.name=Tiger Desk
+WillowDesk.name=Willow Desk
+
+BloodwoodCase.name=Bloodwood Case
+DarkwoodCase.name=Darkwood Case
+EucalyptusCase.name=Eucalyptus Case
+FusewoodCase.name=Fusewood Case
+GhostwoodCase.name=Ghostwood Case
+HopseedCase.name=Hopseed Case
+MapleCase.name=Maple Case
+PurpleheartCase.name=Amaranth Case
+RedwoodCase.name=Redwood Case
+SilverbellCase.name=Silverbell Case
+SakuraCase.name=Sakura Case
+TigerCase.name=Tiger Case
+WillowCase.name=Willow Case
+
+BloodwoodShelf.name=Bloodwood Shelf
+DarkwoodShelf.name=Darkwood Shelf
+EucalyptusShelf.name=Eucalyptus Shelf
+FusewoodShelf.name=Fusewood Shelf
+GhostwoodShelf.name=Ghostwood Shelf
+HopseedShelf.name=Hopseed Shelf
+MapleShelf.name=Maple Shelf
+PurpleheartShelf.name=Amaranth Shelf
+RedwoodShelf.name=Redwood Shelf
+SilverbellShelf.name=Silverbell Shelf
+SakuraShelf.name=Sakura Shelf
+TigerShelf.name=Tiger Shelf
+WillowShelf.name=Willow Shelf
+
+BloodwoodLabel.name=Bloodwood Label
+DarkwoodLabel.name=Darkwood Label
+EucalyptusLabel.name=Eucalyptus Label
+FusewoodLabel.name=Fusewood Label
+GhostwoodLabel.name=Ghostwood Label
+HopseedLabel.name=Hopseed Label
+MapleLabel.name=Maple Label
+PurpleheartLabel.name=Amaranth Label
+RedwoodLabel.name=Redwood Label
+SilverbellLabel.name=Silverbell Label
+SakuraLabel.name=Sakura Label
+TigerLabel.name=Tiger Label
+WillowLabel.name=Willow Label
+
+BloodwoodPotionShelf.name=Bloodwood Potion Shelf
+DarkwoodPotionShelf.name=Darkwood Potion Shelf
+EucalyptusPotionShelf.name=Eucalyptus Potion Shelf
+FusewoodPotionShelf.name=Fusewood Potion Shelf
+GhostwoodPotionShelf.name=Ghostwood Potion Shelf
+HopseedPotionShelf.name=Hopseed Potion Shelf
+MaplePotionShelf.name=Maple Potion Shelf
+PurpleheartPotionShelf.name=Amaranth Potion Shelf
+RedwoodPotionShelf.name=Redwood Potion Shelf
+SilverbellPotionShelf.name=Silverbell Potion Shelf
+SakuraPotionShelf.name=Sakura Potion Shelf
+TigerPotionShelf.name=Tiger Potion Shelf
+WillowPotionShelf.name=Willow Potion Shelf
+
+BloodwoodTable.name=Bloodwood Table
+DarkwoodTable.name=Darkwood Table
+EucalyptusTable.name=Eucalyptus Table
+FusewoodTable.name=Fusewood Table
+GhostwoodTable.name=Ghostwood Table
+HopseedTable.name=Hopseed Table
+MapleTable.name=Maple Table
+PurpleheartTable.name=Amaranth Table
+RedwoodTable.name=Redwood Table
+SilverbellTable.name=Silverbell Table
+SakuraTable.name=Sakura Table
+TigerTable.name=Tiger Table
+WillowTable.name=Willow Table
+
+BloodwoodToolrack.name=Bloodwood Tool Rack
+DarkwoodToolrack.name=Darkwood Tool Rack
+EucalyptusToolrack.name=Eucalyptus Tool Rack
+FusewoodToolrack.name=Fusewood Tool Rack
+GhostwoodToolrack.name=Ghostwood Tool Rack
+HopseedToolrack.name=Hopseed Tool Rack
+MapleToolrack.name=Maple Tool Rack
+PurpleheartToolrack.name=Amaranth Tool Rack
+RedwoodToolrack.name=Redwood Tool Rack
+SilverbellToolrack.name=Silverbell Tool Rack
+SakuraToolrack.name=Sakura Tool Rack
+TigerToolrack.name=Tiger Tool Rack
+WillowToolrack.name=Willow Tool Rack

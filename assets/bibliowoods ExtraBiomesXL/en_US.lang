@@ -1,0 +1,73 @@
+language.name=English
+language.region=US
+language.code=en_US
+
+// Tab Names
+itemGroup.BiblioWoodsEBXL=BiblioWoods: ExtrabiomesXL Edition
+
+
+// EBXL woods addon
+
+AcaciaBookcase.name=Acacia Bookcase
+AutumnBookcase.name=Autumn Bookcase
+BaldCypressBookcase.name=Bald Cypress Bookcase
+CypressBookcase.name=Cypress Bookcase
+FirBookcase.name=Fir Bookcase
+JapaneseMapleBookcase.name=Japanese Maple Bookcase
+RainbowEucalyptusBookcase.name=Rainbow Eucalyptus Bookcase
+ebxlRedwoodBookcase.name=Redwood Bookcase
+SakuraBookcase.name=Sakura Bookcase
+AcaciaCase.name=Acacia Case
+AutumnCase.name=Autumn Case
+BaldCypressCase.name=Bald Cypress Case
+CypressCase.name=Cypress Case
+FirCase.name=Fir Case
+JapaneseebxlRedwoodCase.name=Japanese Maple Case
+RainbowEucalyptusCase.name=Rainbow Eucalyptus Case
+ebxlRedwoodCase.name=Redwood Case
+SakuraCase.name=Sakura Case
+AcaciaLabel.name=Acacia Label
+AutumnLabel.name=Autumn Label
+BaldCypressLabel.name=Bald Cypress Label
+CypressLabel.name=Cypress Label
+FirLabel.name=Fir Label
+JapaneseMapleLabel.name=Japanese Maple Label
+RainbowEucalyptusLabel.name=Rainbow Eucalyptus Label
+ebxlRedwoodLabel.name=Redwood Label
+SakuraLabel.name=Sakura Label
+AcaciaPotionShelf.name=Acacia Potion Shelf
+AutumnPotionShelf.name=Autumn Potion Shelf
+BaldCypressPotionShelf.name=Bald Cypress Potion Shelf
+CypressPotionShelf.name=Cypress Potion Shelf
+FirPotionShelf.name=Fir Potion Shelf
+JapaneseMaplePotionShelf.name=Japanese Maple Potion Shelf
+RainbowEucalyptusPotionShelf.name=Rainbow Eucalyptus Potion Shelf
+ebxlRedwoodPotionShelf.name=Redwood Potion Shelf
+SakuraPotionShelf.name=Sakura Potion Shelf
+AcaciaShelf.name=Acacia Shelf
+AutumnShelf.name=Autumn Shelf
+BaldCypressShelf.name=Bald Cypress Shelf
+CypressShelf.name=Cypress Shelf
+FirShelf.name=Fir Shelf
+JapaneseMapleShelf.name=Japanese Maple Shelf
+RainbowEucalyptusShelf.name=Rainbow Eucalyptus Shelf
+ebxlRedwoodShelf.name=Redwood Shelf
+SakuraShelf.name=Sakura Shelf
+AcaciaTable.name=Acacia Table
+AutumnTable.name=Autumn Table
+BaldCypressTable.name=Bald Cypress Table
+CypressTable.name=Cypress Table
+FirTable.name=Fir Table
+JapaneseMapleTable.name=Japanese Maple Table
+RainbowEucalyptusTable.name=Rainbow Eucalyptus Table
+ebxlRedwoodTable.name=Redwood Table
+SakuraTable.name=Sakura Table
+AcaciaToolRack.name=Acacia Tool Rack
+AutumnToolRack.name=Autumn Tool Rack
+BaldCypressToolRack.name=BaldCypress Tool Rack
+CypressToolRack.name=Cypress Tool Rack
+FirToolRack.name=Fir Tool Rack
+JapaneseMapleToolRack.name=Japanese Maple Tool Rack
+RainbowEucalyptusToolRack.name=Rainbow Eucalyptus Tool Rack
+ebxlRedwoodToolRack.name=Redwood Tool Rack
+SakuraToolRack.name=Sakura Tool Rack
