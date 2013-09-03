@@ -1,0 +1,73 @@
+language.name=Italiano
+language.region=IT
+language.code=it_IT
+
+// Tab Names
+itemGroup.BiblioWoodsEBXL=BiblioWoods: ExtrabiomesXL Edition
+
+
+// EBXL woods addon
+
+AcaciaBookcase.name=Libreria di Acacia
+AutumnBookcase.name=Libreria di legno Autunnale
+BaldCypressBookcase.name=Libreria di Cipresso spoglio
+CypressBookcase.name=Libreria di Cipresso
+FirBookcase.name=Libreria di Abete
+JapaneseMapleBookcase.name=Libreria di Acero Giapponese
+RainbowEucalyptusBookcase.name=Libreria di Eucalipto
+ebxlRedwoodBookcase.name=Libreria di Redwood
+SakuraBookcase.name=Libreria di Ciliegio
+AcaciaCase.name=Contenitore Acacia 
+AutumnCase.name=Contenitore legno Autunnale
+BaldCypressCase.name=Contenitore di Cipresso spoglio
+CypressCase.name=Contenitore di Cipresso
+FirCase.name=Contenitore di Abete
+JapaneseebxlRedwoodCase.name=Contenitore di Acero Giapponese
+RainbowEucalyptusCase.name=Contenitore di Eucalipto
+ebxlRedwoodCase.name=Contenitore di Redwood
+SakuraCase.name=Contenitore di Ciliegio
+AcaciaLabel.name=Etichetta di Acacia 
+AutumnLabel.name=Etichetta di legno Autunnale
+BaldCypressLabel.name=Etichetta di Cipresso spoglio
+CypressLabel.name=Etichetta di Cipresso
+FirLabel.name=Etichetta di Abete
+JapaneseMapleLabel.name=Etichetta di Acero Giapponese
+RainbowEucalyptusLabel.name=Etichetta di Eucalipto
+ebxlRedwoodLabel.name=Etichetta di Redwood
+SakuraLabel.name=Etichetta di Ciliegio
+AcaciaPotionShelf.name=Scaffale per le Pozioni di Acacia 
+AutumnPotionShelf.name=Scaffale per le Pozioni di legno Autunnale
+BaldCypressPotionShelf.name=Scaffale per le Pozioni di Cipresso spoglio
+CypressPotionShelf.name=Scaffale per le Pozioni di Cipresso
+FirPotionShelf.name=Scaffale per le Pozioni di Abete
+JapaneseMaplePotionShelf.name=Scaffale per le Pozioni di Acero Giapponese
+RainbowEucalyptusPotionShelf.name=Scaffale per le Pozioni di Eucalipto
+ebxlRedwoodPotionShelf.name=Scaffale per le Pozioni di Redwood
+SakuraPotionShelf.name=Scaffale per le Pozioni di Ciliegio
+AcaciaShelf.name=Scaffale di Acacia 
+AutumnShelf.name=Scaffale di legno Autunnale
+BaldCypressShelf.name=Scaffale di Cipresso spoglio
+CypressShelf.name=Scaffale di Cipresso
+FirShelf.name=Scaffale di Abete
+JapaneseMapleShelf.name=Scaffale di Acero Giapponese
+RainbowEucalyptusShelf.name=Scaffale di Eucalipto
+ebxlRedwoodShelf.name=Scaffale di Redwood
+SakuraShelf.name=Scaffale di Ciliegio
+AcaciaTable.name=Tavolo di Acacia
+AutumnTable.name=Tavolo di legno Autunnale
+BaldCypressTable.name=Tavolo di Cipresso spoglio 
+CypressTable.name=Tavolo di Cipresso
+FirTable.name=Tavolo di Abete
+JapaneseMapleTable.name=Tavolo di Acero Giapponese
+RainbowEucalyptusTable.name=Tavolo di Eucalipto
+ebxlRedwoodTable.name=Tavolo di Redwood
+SakuraTable.name=Tavolo di Ciliegio
+AcaciaToolRack.name=Scaffale per Attrezzi di Acacia 
+AutumnToolRack.name=Scaffale per Attrezzi di legno Autunnale
+BaldCypressToolRack.name=Scaffale per Attrezzi di Cipresso spoglio 
+CypressToolRack.name=Scaffale per Attrezzi di Cipresso
+FirToolRack.name=Scaffale per Attrezzi di Abete
+JapaneseMapleToolRack.name=Scaffale per Attrezzi di Acero Giapponese
+RainbowEucalyptusToolRack.name=Scaffale per Attrezzi di Eucalipto
+ebxlRedwoodToolRack.name=Scaffale per Attrezzi di Redwood
+SakuraToolRack.name=Scaffale per Attrezzi di Ciliegio
