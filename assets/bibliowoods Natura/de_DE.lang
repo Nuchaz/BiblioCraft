@@ -1,0 +1,120 @@
+﻿language.name=German
+language.region=DE
+language.code=de_DE
+
+// Tab Names
+itemGroup.BiblioWoodsNatura=BiblioWoods: Natura-Edition
+
+//natura woods
+
+BloodwoodBookcase.name=Blutholz-Bücherschrank
+DarkwoodBookcase.name=Dunkelholz-Bücherschrank
+EucalyptusBookcase.name=Eukalyptus-Bücherschrank
+FusewoodBookcase.name=Zündholz-Bücherschrank
+GhostwoodBookcase.name=Geisterholz-Bücherschrank
+HopseedBookcase.name=Hopseed-Bücherschrank
+MapleBookcase.name=Ahornholz-Bücherschrank
+PurpleheartBookcase.name=Amarant-Bücherschrank
+RedwoodBookcase.name=Mammutbaumholz-Bücherschrank
+SilverbellBookcase.name=Halesia-Bücherschrank
+SakuraBookcase.name=Japanischer Blütenkirschholz-Bücherschrank
+TigerBookcase.name=Tigerholz-Bücherschrank
+WillowBookcase.name=Weiden-Bücherschrank
+
+BloodwoodDesk.name=Blutholz-Schreibtisch
+DarkwoodDesk.name=Dunkelholz-Schreibtisch
+EucalyptusDesk.name=Eukalyptus-Schreibtisch
+FusewoodDesk.name=Zündholz-Schreibtisch
+GhostwoodDesk.name=Geisterholz-Schreibtisch
+HopseedDesk.name=Hopseed-Schreibtisch
+MapleDesk.name=Ahornholz-Schreibtisch
+PurpleheartDesk.name=Amarant-Schreibtisch
+RedwoodDesk.name=Mammutbaumholz-Schreibtisch
+SilverbellDesk.name=Halesia-Schreibtisch
+SakuraDesk.name=Japanischer Blütenkirschholz-Schreibtisch
+TigerDesk.name=Tigerholz-Schreibtisch
+WillowDesk.name=Weiden-Schreibtisch
+
+BloodwoodCase.name=Blutholz-Schaukasten
+DarkwoodCase.name=Dunkelholz-Schaukasten
+EucalyptusCase.name=Eukalyptus-Schaukasten
+FusewoodCase.name=Zündholz-Schaukasten
+GhostwoodCase.name=Geisterholz-Schaukasten
+HopseedCase.name=Hopseed-Schaukasten
+MapleCase.name=Ahornholz-Schaukasten
+PurpleheartCase.name=Amarant-Schaukasten
+RedwoodCase.name=Mammutbaumholz-Schaukasten
+SilverbellCase.name=Halesia-Schaukasten
+SakuraCase.name=Japanischer Blütenkirschholz-Schaukasten
+TigerCase.name=Tigerholz-Schaukasten
+WillowCase.name=Weiden-Schaukasten
+
+BloodwoodShelf.name=Blutholz-Regal
+DarkwoodShelf.name=Dunkelholz-Regal
+EucalyptusShelf.name=Eukalyptus-Regal
+FusewoodShelf.name=Zündholz-Regal
+GhostwoodShelf.name=Geisterholz-Regal
+HopseedShelf.name=Hopseed-Regal
+MapleShelf.name=Ahornholz-Regal
+PurpleheartShelf.name=Amarant-Regal
+RedwoodShelf.name=Mammutbaumholz-Regal
+SilverbellShelf.name=Halesia-Regal
+SakuraShelf.name=Japanisches Blütenkirschholz-Regal
+TigerShelf.name=Tigerholz-Regal
+WillowShelf.name=Weiden-Regal
+
+BloodwoodLabel.name=Blutholz-Schlidchen
+DarkwoodLabel.name=Dunkelholz-Schlidchen
+EucalyptusLabel.name=Eukalyptus-Schlidchen
+FusewoodLabel.name=Zündholz-Schlidchen
+GhostwoodLabel.name=Geisterholz-Schlidchen
+HopseedLabel.name=Hopseed-Schlidchen
+MapleLabel.name=Ahornholz-Schlidchen
+PurpleheartLabel.name=Amarant-Schlidchen
+RedwoodLabel.name=Mammutbaumholz-Schlidchen
+SilverbellLabel.name=Halesia-Schlidchen
+SakuraLabel.name=Japanisches Blütenkirschholz-Schlidchen
+TigerLabel.name=Tigerholz-Schlidchen
+WillowLabel.name=Weiden-Schlidchen
+
+BloodwoodPotionShelf.name=Blutholz-Trankregal
+DarkwoodPotionShelf.name=Dunkelholz-Trankregal
+EucalyptusPotionShelf.name=Eukalyptus-Trankregal
+FusewoodPotionShelf.name=Zündholz-Trankregal
+GhostwoodPotionShelf.name=Geisterholz-Trankregal
+HopseedPotionShelf.name=Hopseed-Trankregal
+MaplePotionShelf.name=Ahornholz-Trankregal
+PurpleheartPotionShelf.name=Amarant-Trankregal
+RedwoodPotionShelf.name=Mammutbaumholz-Trankregal
+SilverbellPotionShelf.name=Halesia-Trankregal
+SakuraPotionShelf.name=Japanisches Blütenkirschholz-Trankregal
+TigerPotionShelf.name=Tigerholz-Trankregal
+WillowPotionShelf.name=Weiden-Trankregal
+
+BloodwoodTable.name=Blutholz-Tisch
+DarkwoodTable.name=Dunkelholz-Tisch
+EucalyptusTable.name=Eukalyptus-Tisch
+FusewoodTable.name=Zündholz-Tisch
+GhostwoodTable.name=Geisterholz-Tisch
+HopseedTable.name=Hopseed-Tisch
+MapleTable.name=Ahornholz-Tisch
+PurpleheartTable.name=Amarant-Tisch
+RedwoodTable.name=Mammutbaumholz-Tisch
+SilverbellTable.name=Halesia-Tisch
+SakuraTable.name=Japanischer Blütenkirschholz-Tisch
+TigerTable.name=Tigerholz-Tisch
+WillowTable.name=Weiden-Tisch
+
+BloodwoodToolrack.name=Blutholz-Werkzeugregal
+DarkwoodToolrack.name=Dunkelholz-Werkzeugregal
+EucalyptusToolrack.name=Eukalyptus-Werkzeugregal
+FusewoodToolrack.name=Zündholz-Werkzeugregal
+GhostwoodToolrack.name=Geisterholz-Werkzeugregal
+HopseedToolrack.name=Hopseed-Werkzeugregal
+MapleToolrack.name=Ahornholz-Werkzeugregal
+PurpleheartToolrack.name=Amarant-Werkzeugregal
+RedwoodToolrack.name=Mammutbaumholz-Werkzeugregal
+SilverbellToolrack.name=Halesia-Werkzeugregal
+SakuraToolrack.name=Japanisches Blütenkirschholz-Werkzeugregal
+TigerToolrack.name=Tigerholz-Werkzeugregal
+WillowToolrack.name=Weiden-Werkzeugregal
