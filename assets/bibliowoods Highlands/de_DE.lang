@@ -1,0 +1,43 @@
+﻿language.name=German
+language.region=DE
+language.code=de_DE
+
+// Tab Names
+itemGroup.BiblioWoodsHighlands=BiblioWoods: Highlands-Edition
+
+
+// Highlands Woods addon
+
+GreyWoodBookcase.name=Grauholz-Bücherschrank
+hlRedWoodBookcase.name=Rotholz-Bücherschrank
+WhiteWoodBookcase.name=Weißholz-Bücherschrank
+YellowWoodBookcase.name=Gelbholz-Bücherschrank
+GreyWoodCase.name=Grauholz-Schaukasten
+hlRedWoodCase.name=Rotholz-Schaukasten
+WhiteWoodCase.name=Weißholz-Schaukasten
+YellowWoodCase.name=Gelbholz-Schaukasten
+GreyWoodDesk.name=Grauholz-Schreibtisch
+hlRedWoodDesk.name=Rotholz-Schreibtisch
+WhiteWoodDesk.name=Weißholz-Schreibtisch
+YellowWoodDesk.name=Gelbholz-Schreibtisch
+GreyWoodLabel.name=Grauholz-Schildchen
+hlRedWoodLabel.name=Rotholz-Schildchen
+WhiteWoodLabel.name=Weißholz-Schildchen
+YellowWoodLabel.name=Gelbholz-Schildchen
+GreyWoodPotionShelf.name=Grauholz-Trankregal
+hlRedWoodPotionShelf.name=Rotholz-Trankregal
+WhiteWoodPotionShelf.name=Weißholz-Trankregal
+YellowWoodPotionShelf.name=Gelbholz-Trankregal
+GreyWoodShelf.name=Grauholz-Regal
+hlRedWoodShelf.name=Rotholz-Regal
+WhiteWoodShelf.name=Weißholz-Regal
+YellowWoodShelf.name=Gelbholz-Regal
+GreyWoodTable.name=Grauholz-Tisch
+hlRedWoodTable.name=Rotholz-Tisch
+WhiteWoodTable.name=Weißholz-Tisch
+YellowWoodTable.name=Gelbholz-Tisch
+GreyWoodToolRack.name=Grauholz-Werkzeugregal
+hlRedWoodToolRack.name=Rotholz-Werkzeugregal
+WhiteWoodToolRack.name=Weißholz-Werkzeugregal
+YellowWoodToolRack.name=Gelbholz-Werkzeugregal
+

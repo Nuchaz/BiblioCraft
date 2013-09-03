@@ -1,0 +1,73 @@
+﻿language.name=German
+language.region=DE
+language.code=de_DE
+
+// Tab Names
+itemGroup.BiblioWoodsEBXL=BiblioWoods: ExtrabiomesXL-Edition
+
+
+// EBXL woods addon
+
+AcaciaBookcase.name=Akazien-Bücherschrank
+AutumnBookcase.name=Herbstholz-Bücherschrank
+BaldCypressBookcase.name=Sumpfzypressen-Bücherschrank
+CypressBookcase.name=Zypressen-Bücherschrank
+FirBookcase.name=Tannenholz-Bücherschrank
+JapaneseMapleBookcase.name=Fächer-Ahorn-Bücherschrank
+RainbowEucalyptusBookcase.name=Regenbogen-Eukalyptus-Bücherschrank
+ebxlRedwoodBookcase.name=Mammutbaumholz-Bücherschrank
+SakuraBookcase.name=Japanischer Blütenkirschholz-Bücherschrank
+AcaciaCase.name=Akazien-Schaukasten
+AutumnCase.name=Herbstholz-Schaukasten
+BaldCypressCase.name=Sumpfzypressen-Schaukasten
+CypressCase.name=Zypressen-Schaukasten
+FirCase.name=Tannenholz-Schaukasten
+JapaneseebxlRedwoodCase.name=Fächer-Ahorn-Schaukasten
+RainbowEucalyptusCase.name=Regenbogen-Eukalyptus-Schaukasten
+ebxlRedwoodCase.name=Mammutbaumholz-Schaukasten
+SakuraCase.name=Japanischer Blütenkirschholz-Schaukasten
+AcaciaLabel.name=Akazien-Schildchen
+AutumnLabel.name=Herbstholz-Schildchen
+BaldCypressLabel.name=Sumpfzypressen-Schildchen
+CypressLabel.name=Zypressen-Schildchen
+FirLabel.name=Tannenholz-Schildchen
+JapaneseMapleLabel.name=Fächer-Ahorn-Schildchen
+RainbowEucalyptusLabel.name=Regenbogen-Eukalyptus-Schildchen
+ebxlRedwoodLabel.name=Mammutbaumholz-Schildchen
+SakuraLabel.name=Japanisches Blütenkirschholz-Schildchen
+AcaciaPotionShelf.name=Akazien-Trankregal
+AutumnPotionShelf.name=Herbstholz-Trankregal
+BaldCypressPotionShelf.name=Sumpfzypressen-Trankregal
+CypressPotionShelf.name=Zypressen-Trankregal
+FirPotionShelf.name=Tannenholz-Trankregal
+JapaneseMaplePotionShelf.name=Fächer-Ahorn-Trankregal
+RainbowEucalyptusPotionShelf.name=Regenbogen-Eukalyptus-Trankregal
+ebxlRedwoodPotionShelf.name=Mammutbaumholz-Trankregal
+SakuraPotionShelf.name=Japanisches Blütenkirschholz-Trankregal
+AcaciaShelf.name=Akazien-Regal
+AutumnShelf.name=Herbstholz-Regal
+BaldCypressShelf.name=Sumpfzypressen-Regal
+CypressShelf.name=Zypressen-Regal
+FirShelf.name=Tannenholz-Regal
+JapaneseMapleShelf.name=Fächer-Ahorn-Regal
+RainbowEucalyptusShelf.name=Regenbogen-Eukalyptus-Regal
+ebxlRedwoodShelf.name=Mammutbaumholz-Regal
+SakuraShelf.name=Japanisches Blütenkirschholz-Regal
+AcaciaTable.name=Akazien-Tisch
+AutumnTable.name=Herbstholz-Tisch
+BaldCypressTable.name=Sumpfzypressen-Tisch
+CypressTable.name=Zypressen-Tisch
+FirTable.name=Tannenholz-Tisch
+JapaneseMapleTable.name=Fächer-Ahorn-Tisch
+RainbowEucalyptusTable.name=Regenbogen-Eukalyptus-Tisch
+ebxlRedwoodTable.name=Mammutbaumholz-Tisch
+SakuraTable.name=Japanischer Blütenkirschholz-Tisch
+AcaciaToolRack.name=Akazien-Werkzeugregal
+AutumnToolRack.name=Herbstholz-Werkzeugregal
+BaldCypressToolRack.name=Sumpfzypressen-Werkzeugregal
+CypressToolRack.name=Zypressen-Werkzeugregal
+FirToolRack.name=Tannenholz-Werkzeugregal
+JapaneseMapleToolRack.name=Fächer-Ahorn-Werkzeugregal
+RainbowEucalyptusToolRack.name=Regenbogen-Eukalyptus-Werkzeugregal
+ebxlRedwoodToolRack.name=Mammutbaumholz-Werkzeugregal
+SakuraToolRack.name=Japanisches Blütenkirschholz-Werkzeugregal
