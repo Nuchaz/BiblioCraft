@@ -1,0 +1,42 @@
+language.name=Italiano
+language.region=IT
+language.code=it_IT
+
+// Tab Names
+itemGroup.BiblioWoodsHighlands=BiblioWoods: Highlands Edition
+
+
+// Highlands Woods addon
+
+GreyWoodBookcase.name=Libreria di legno Grigio
+hlRedWoodBookcase.name=Libreria di legno Rosso
+WhiteWoodBookcase.name=Libreria di legno Bianco
+YellowWoodBookcase.name=Libreria di legno Giallo
+GreyWoodCase.name=Contenitore di legno Grigio
+hlRedWoodCase.name=Contenitore di legno Rosso
+WhiteWoodCase.name=Contenitore di legno Bianco
+YellowWoodCase.name=Contenitore di legno Giallo
+GreyWoodDesk.name=Scrivania di legno Grigio
+hlRedWoodDesk.name=Scrivania di legno Rosso
+WhiteWoodDesk.name=Scrivania di legno Bianco
+YellowWoodDesk.name=Scrivania di legno Giallo
+GreyWoodLabel.name=Etichetta di legno Grigio
+hlRedWoodLabel.name=Etichetta di legno Rosso
+WhiteWoodLabel.name=Etichetta di legno Bianco
+YellowWoodLabel.name=Etichetta di legno Giallo
+GreyWoodPotionShelf.name=Scaffale per le Pozioni di legno Grigio
+hlRedWoodPotionShelf.name=Scaffale per le Pozioni di legno Rosso
+WhiteWoodPotionShelf.name=Scaffale per le Pozioni di legno Bianco
+YellowWoodPotionShelf.name=Scaffale per le Pozioni
+GreyWoodShelf.name=Scaffale di legno Grigio
+hlRedWoodShelf.name=Scaffale di legno Rosso
+WhiteWoodShelf.name=Scaffale di legno Bianco
+YellowWoodShelf.name=Scaffale di legno Giallo
+GreyWoodTable.name=Tavolo di legno Grigio
+hlRedWoodTable.name=Tavolo di legno Rosso
+WhiteWoodTable.name=Tavolo di legno Bianco
+YellowWoodTable.name=Tavolo di legno Giallo
+GreyWoodToolRack.name=Scaffale per Attrezzi di legno Grigio
+hlRedWoodToolRack.name=Scaffale per Attrezzi di legno Rosso
+WhiteWoodToolRack.name=Scaffale per Attrezzi di legno Bianco
+YellowWoodToolRack.name=Scaffale per Attrezzi di legno Giallo
