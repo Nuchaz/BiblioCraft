@@ -1,0 +1,120 @@
+language.name=Italiano
+language.region=IT
+language.code=it_IT
+
+// Tab Names
+itemGroup.BiblioWoodsNatura=BiblioWoods: Natura Edition
+
+//natura woods
+
+BloodwoodBookcase.name=Libreira di legno Insanguinato
+DarkwoodBookcase.name=Libreira di legno Oscuro
+EucalyptusBookcase.name=Libreira di Eucalpito
+FusewoodBookcase.name=Libreira di legno Esplosivo
+GhostwoodBookcase.name=Libreira di legno Fantasma
+HopseedBookcase.name=Libreira di Hopseed
+MapleBookcase.name=Libreira di Acero
+PurpleheartBookcase.name=Libreira di Amaranto
+RedwoodBookcase.name=Libreira di Redwood
+SilverbellBookcase.name=Libreira di Silverbell
+SakuraBookcase.name=Libreira di Ciliegio
+TigerBookcase.name=Libreira di legno Tigrato
+WillowBookcase.name=Libreira di Salice
+
+BloodwoodDesk.name=Libreria di legno Insanguinato
+DarkwoodDesk.name=Libreria di legno Oscuro
+EucalyptusDesk.name=Libreria di Eucalpito
+FusewoodDesk.name=Libreria di legno Esplosivo
+GhostwoodDesk.name=Libreria di legno Fantasma
+HopseedDesk.name=Libreria di Hopseed
+MapleDesk.name=Libreria di Acero
+PurpleheartDesk.name=Libreria di Amaranto
+RedwoodDesk.name=Libreria di Redwood
+SilverbellDesk.name=Libreria di Silverbell
+SakuraDesk.name=Libreria di Ciliegio
+TigerDesk.name=Libreria di legno Tigrato
+WillowDesk.name=Libreria di Salice
+
+BloodwoodCase.name=Contenotore di legno Insanguinato
+DarkwoodCase.name=Contenotore di legno Oscuro
+EucalyptusCase.name=Contenotore di Eucalpito
+FusewoodCase.name=Contenotore di legno Esplosivo
+GhostwoodCase.name=Contenotore di legno Fantasma
+HopseedCase.name=Contenotore di Hopseed
+MapleCase.name=Contenotore di Acero
+PurpleheartCase.name=Contenotore di Amaranto
+RedwoodCase.name=Contenotore di Redwood
+SilverbellCase.name=Contenotore di Silverbell
+SakuraCase.name=Contenotore di Ciliegio
+TigerCase.name=Contenotore di legno Tigrato
+WillowCase.name=Contenotore di Salice
+
+BloodwoodShelf.name=Scaffale di legno Insanguinato
+DarkwoodShelf.name=Scaffale di legno Oscuro
+EucalyptusShelf.name=Scaffale di Eucalpito
+FusewoodShelf.name=Scaffale di legno Esplosivo
+GhostwoodShelf.name=Scaffale di legno Fantasma
+HopseedShelf.name=Scaffale di Hopseed
+MapleShelf.name=Scaffale di Acero
+PurpleheartShelf.name=Scaffale di Amaranto
+RedwoodShelf.name=Scaffale di Redwood
+SilverbellShelf.name=Scaffale di Silverbell
+SakuraShelf.name=Scaffale di Ciliegio
+TigerShelf.name=Scaffale di legno Tigrato
+WillowShelf.name=Scaffale di Salice
+
+BloodwoodLabel.name=Etichetta di legno Insanguinato
+DarkwoodLabel.name=Etichetta di legno Oscuro
+EucalyptusLabel.name=Etichetta di Eucalpito
+FusewoodLabel.name=Etichetta di legno Esplosivo
+GhostwoodLabel.name=Etichetta di legno Fantasma
+HopseedLabel.name=Etichetta di Hopseed
+MapleLabel.name=Etichetta di Acero
+PurpleheartLabel.name=Etichetta di Amaranto
+RedwoodLabel.name=Etichetta di Redwood
+SilverbellLabel.name=Etichetta di Silverbell
+SakuraLabel.name=Etichetta di Ciliegio
+TigerLabel.name=Etichetta di legno Tigrato
+WillowLabel.name=Etichetta di Salice
+
+BloodwoodPotionShelf.name=Scaffale per le Pozioni di legno Insanguinato
+DarkwoodPotionShelf.name=Scaffale per le Pozioni di legno Oscuro
+EucalyptusPotionShelf.name=Scaffale per le Pozioni di Eucalpito
+FusewoodPotionShelf.name=Scaffale per le Pozioni di legno Esplosivo
+GhostwoodPotionShelf.name=Scaffale per le Pozioni di legno Fantasma
+HopseedPotionShelf.name=Scaffale per le Pozioni di Hopseed
+MaplePotionShelf.name=Scaffale per le Pozioni di Acero
+PurpleheartPotionShelf.name=Scaffale per le Pozioni di Amaranto
+RedwoodPotionShelf.name=Scaffale per le Pozioni di Redwood
+SilverbellPotionShelf.name=Scaffale per le Pozioni di Silverbell
+SakuraPotionShelf.name=Scaffale per le Pozioni di Ciliegio
+TigerPotionShelf.name=Scaffale per le Pozioni di legno Tigrato
+WillowPotionShelf.name=Scaffale per le Pozioni di Salice
+
+BloodwoodTable.name=Tavolo di legno Insanguinato
+DarkwoodTable.name=Tavolo di legno Oscuro
+EucalyptusTable.name=Tavolo di Eucalpito
+FusewoodTable.name=Tavolo di legno Esplosivo
+GhostwoodTable.name=Tavolo di legno Fantasma
+HopseedTable.name=Tavolo di Hopseed
+MapleTable.name=Tavolo di Acero
+PurpleheartTable.name=Tavolo di Amaranto
+RedwoodTable.name=Tavolo di Redwood
+SilverbellTable.name=Tavolo di Silverbell
+SakuraTable.name=Tavolo di Ciliegio
+TigerTable.name=Tavolo di legno Tigrato
+WillowTable.name=Tavolo di Salice
+
+BloodwoodToolrack.name=Scaffale per Attrezzi di legno Insanguinato
+DarkwoodToolrack.name=Scaffale per Attrezzi di legno Oscuro
+EucalyptusToolrack.name=Scaffale per Attrezzi di Eucalpito
+FusewoodToolrack.name=Scaffale per Attrezzi di legno Esplosivo
+GhostwoodToolrack.name=Scaffale per Attrezzi di legno Fantasma
+HopseedToolrack.name=Scaffale per Attrezzi di Hopseed
+MapleToolrack.name=Scaffale per Attrezzi di Acero
+PurpleheartToolrack.name=Scaffale per Attrezzi di Amaranto
+RedwoodToolrack.name=Scaffale per Attrezzi di Redwood
+SilverbellToolrack.name=Scaffale per Attrezzi di Silverbell
+SakuraToolrack.name=Scaffale per Attrezzi di Ciliegio
+TigerToolrack.name=Scaffale per Attrezzi di legno Tigrato
+WillowToolrack.name=Scaffale per Attrezzi di Salice
