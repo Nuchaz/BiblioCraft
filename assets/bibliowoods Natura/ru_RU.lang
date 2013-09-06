@@ -1,0 +1,120 @@
+language.name=Russian
+language.region=RU
+language.code=ru_RU
+
+// Tab Names
+itemGroup.BiblioWoodsNatura=BiblioWoods: Вариант Natura
+
+//natura woods
+
+BloodwoodBookcase.name=Книжный шкаф из древесины кровавого дерева
+DarkwoodBookcase.name=Книжный шкаф из древесины тёмного дерева
+EucalyptusBookcase.name=Книжный шкаф из древесины эвкалипта
+FusewoodBookcase.name=Книжный шкаф из древесины плавкого дерева
+GhostwoodBookcase.name=Книжный шкаф из древесины призрачного дерева
+HopseedBookcase.name=Книжный шкаф из древесины хмельного дерева
+MapleBookcase.name=Книжный шкаф из древесины клёна
+PurpleheartBookcase.name=Книжный шкаф из древесины щирицы
+RedwoodBookcase.name=Книжный шкаф из древесины красного дерева
+SilverbellBookcase.name=Книжный шкаф из древесины галезии
+SakuraBookcase.name=Книжный шкаф из древесины сакуры
+TigerBookcase.name=Книжный шкаф из древесины тигрового дерева
+WillowBookcase.name=Книжный шкаф из древесины ивы
+
+BloodwoodDesk.name=Письменный стол из древесины кровавого дерева
+DarkwoodDesk.name=Письменный стол из древесины тёмного дерева
+EucalyptusDesk.name=Письменный стол из древесины эвкалипта
+FusewoodDesk.name=Письменный стол из древесины плавкого дерева
+GhostwoodDesk.name=Письменный стол из древесины призрачного дерева
+HopseedDesk.name=Письменный стол из древесины хмельного дерева
+MapleDesk.name=Письменный стол из древесины клёна
+PurpleheartDesk.name=Письменный стол из древесины щирицы
+RedwoodDesk.name=Письменный стол из древесины красного дерева
+SilverbellDesk.name=Письменный стол из древесины галезии
+SakuraDesk.name=Письменный стол из древесины сакуры
+TigerDesk.name=Письменный стол из древесины тигрового дерева
+WillowDesk.name=Письменный стол из древесины ивы
+
+BloodwoodCase.name=Витрина из древесины кровавого дерева
+DarkwoodCase.name=Витрина из древесины тёмного дерева
+EucalyptusCase.name=Витрина из древесины эвкалипта
+FusewoodCase.name=Витрина из древесины плавкого дерева
+GhostwoodCase.name=Витрина из древесины призрачного дерева
+HopseedCase.name=Витрина из древесины хмельного дерева
+MapleCase.name=Витрина из древесины клёна
+PurpleheartCase.name=Витрина из древесины щирицы
+RedwoodCase.name=Витрина из древесины красного дерева
+SilverbellCase.name=Витрина из древесины галезии
+SakuraCase.name=Витрина из древесины сакуры
+TigerCase.name=Витрина из древесины тигрового дерева
+WillowCase.name=Витрина из древесины ивы
+
+BloodwoodShelf.name=Полка из древесины кровавого дерева
+DarkwoodShelf.name=Полка из древесины тёмного дерева
+EucalyptusShelf.name=Полка из древесины эвкалипта
+FusewoodShelf.name=Полка из древесины плавкого дерева
+GhostwoodShelf.name=Полка из древесины призрачного дерева
+HopseedShelf.name=Полка из древесины хмельного дерева
+MapleShelf.name=Полка из древесины клёна
+PurpleheartShelf.name=Полка из древесины щирицы
+RedwoodShelf.name=Полка из древесины красного дерева
+SilverbellShelf.name=Полка из древесины галезии
+SakuraShelf.name=Полка из древесины сакуры
+TigerShelf.name=Полка из древесины тигрового дерева
+WillowShelf.name=Полка из древесины ивы
+
+BloodwoodLabel.name=Бирка из древесины кровавого дерева
+DarkwoodLabel.name=Бирка из древесины тёмного дерева
+EucalyptusLabel.name=Бирка из древесины эвкалипта
+FusewoodLabel.name=Бирка из древесины плавкого дерева
+GhostwoodLabel.name=Бирка из древесины призрачного дерева
+HopseedLabel.name=Бирка из древесины хмельного дерева
+MapleLabel.name=Бирка из древесины клёна
+PurpleheartLabel.name=Бирка из древесины щирицы
+RedwoodLabel.name=Бирка из древесины красного дерева
+SilverbellLabel.name=Бирка из древесины галезии
+SakuraLabel.name=Бирка из древесины сакуры
+TigerLabel.name=Бирка из древесины тигрового дерева
+WillowLabel.name=WБирка из древесины ивы
+
+BloodwoodPotionShelf.name=Полка для зелий из древесины кровавого дерева
+DarkwoodPotionShelf.name=Полка для зелий из древесины тёмного дерева
+EucalyptusPotionShelf.name=Полка для зелий из древесины эвкалипта
+FusewoodPotionShelf.name=Полка для зелий из древесины плавкого дерева
+GhostwoodPotionShelf.name=Полка для зелий из древесины призрачного дерева
+HopseedPotionShelf.name=Полка для зелий из древесины хмельного дерева
+MaplePotionShelf.name=Полка для зелий из древесины клёна
+PurpleheartPotionShelf.name=Полка для зелий из древесины щирицы
+RedwoodPotionShelf.name=Полка для зелий из древесины красного дерева
+SilverbellPotionShelf.name=Полка для зелий из древесины галезии
+SakuraPotionShelf.name=Полка для зелий из древесины сакуры
+TigerPotionShelf.name=Полка для зелий из древесины тигрового дерева
+WillowPotionShelf.name=Полка для зелий из древесины ивы
+
+BloodwoodTable.name=Стол из древесины кровавого дерева
+DarkwoodTable.name=Стол из древесины тёмного дерева
+EucalyptusTable.name=Стол из древесины эвкалипта
+FusewoodTable.name=Стол из древесины плавкого дерева
+GhostwoodTable.name=Стол из древесины призрачного дерева
+HopseedTable.name=Стол из древесины хмельного дерева
+MapleTable.name=Стол из древесины клёна
+PurpleheartTable.name=Стол из древесины щирицы
+RedwoodTable.name=Стол из древесины красного дерева
+SilverbellTable.name=Стол из древесины галезии
+SakuraTable.name=Стол из древесины сакуры
+TigerTable.name=Стол из древесины тигрового дерева
+WillowTable.name=Стол из древесины ивы
+
+BloodwoodToolrack.name=Стеллаж для инструментов из древесины кровавого дерева
+DarkwoodToolrack.name=Стеллаж для инструментов из древесины тёмного дерева
+EucalyptusToolrack.name=Стеллаж для инструментов из древесины эвкалипта
+FusewoodToolrack.name=Стеллаж для инструментов из древесины плавкого дерева
+GhostwoodToolrack.name=Стеллаж для инструментов из древесины призрачного дерева
+HopseedToolrack.name=Стеллаж для инструментов из древесины хмельного дерева
+MapleToolrack.name=Стеллаж для инструментов из древесины клёна
+PurpleheartToolrack.name=Стеллаж для инструментов из древесины щирицы
+RedwoodToolrack.name=Стеллаж для инструментов из древесины красного дерева
+SilverbellToolrack.name=Стеллаж для инструментов из древесины галезии
+SakuraToolrack.name=Стеллаж для инструментов из древесины сакуры
+TigerToolrack.name=Стеллаж для инструментов из древесины тигрового дерева
+WillowToolrack.name=Стеллаж для инструментов из древесины ивы
