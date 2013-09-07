@@ -1,0 +1,43 @@
+language.name=Russian
+language.region=RU
+language.code=ru_RU
+
+// Tab Names
+itemGroup.BiblioWoodsHighlands=BiblioWoods: Вариант Highlands
+
+
+// Highlands Woods addon
+
+GreyWoodBookcase.name=Книжный шкаф из серой древесины
+hlRedWoodBookcase.name=Книжный шкаф из красной древесины
+WhiteWoodBookcase.name=Книжный шкаф из белой древесины
+YellowWoodBookcase.name=Книжный шкаф из жёлтой древесины
+GreyWoodCase.name=Витрина из серой древесины
+hlRedWoodCase.name=Витрина из красной древесины
+WhiteWoodCase.name=Витрина из белой древесины
+YellowWoodCase.name=Витрина из жёлтой древесины
+GreyWoodDesk.name=Письменный стол из серой древесины
+hlRedWoodDesk.name=Письменный стол из красной древесины
+WhiteWoodDesk.name=Письменный стол из белой древесины
+YellowWoodDesk.name=Письменный стол из жёлтой древесины
+GreyWoodLabel.name=Бирка из серой древесины
+hlRedWoodLabel.name=Бирка из красной древесины
+WhiteWoodLabel.name=Бирка из белой древесины
+YellowWoodLabel.name=Бирка из жёлтой древесины
+GreyWoodPotionShelf.name=Полка для зелий из серой древесины
+hlRedWoodPotionShelf.name=Полка для зелий из красной древесины
+WhiteWoodPotionShelf.name=Полка для зелий из белой древесины
+YellowWoodPotionShelf.name=Полка для зелий из жёлтой древесины
+GreyWoodShelf.name=Полка из серой древесины
+hlRedWoodShelf.name=Полка из красной древесины
+WhiteWoodShelf.name=Полка из белой древесины
+YellowWoodShelf.name=Полка из жёлтой древесины
+GreyWoodTable.name=Стол из серой древесины
+hlRedWoodTable.name=Стол из красной древесины
+WhiteWoodTable.name=Стол из белой древесины
+YellowWoodTable.name=Стол из жёлтой древесины
+GreyWoodToolRack.name=Стеллаж для инструментов из серой древесины
+hlRedWoodToolRack.name=Стеллаж для инструментов из красной древесины
+WhiteWoodToolRack.name=Стеллаж для инструментов из белой древесины
+YellowWoodToolRack.name=Стеллаж для инструментов из жёлтой древесины
+
