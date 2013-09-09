@@ -13,7 +13,7 @@ gui.shelf=Estantería de madera
 gui.label=Rótulo de madera
 gui.potionshelf=Estantería de pociones
 gui.typeset.selectbook=Elige un libro por favor
-gui.table=Mesa de Madera
+gui.table=Mesa de madera
 gui.case=Vitrina
 gui.toolrack=Colgador de herramientas
 gui.desk=Escritorio de madera
@@ -23,7 +23,7 @@ gui.desk=Escritorio de madera
 tape.measurenorthsouth=Distancia Norte/Sur =
 tape.measureeastwest=Distancia Este/Oeste =
 tape.measureheight=Distanica en altura =
-tape.nomeasure=No se realió la medición
+tape.nomeasure=No se realizó la medición
 tape.measure=Distancia =
 tape.startmeasure=Comenzando medición.
 tape.mode0=Cambiando modo de medición a Norte/Sur, Este/Oeste y Altura.
