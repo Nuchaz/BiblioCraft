@@ -1,0 +1,175 @@
+language.name=Francais
+language.region=FR
+language.code=fr_FR
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// Gui stuff
+gui.armorstand=Armor Stand
+gui.bookcase=Bookcase
+gui.cookiejar=Cookie Jar
+gui.shelf=Wooden Shelf
+gui.label=Wooden Label
+gui.potionshelf=Potion Shelf
+gui.typeset.selectbook=Please Select a Book
+gui.table=Wooden Table
+gui.case=Display Case
+gui.toolrack=Tool Rack
+gui.desk=Wooden Desk
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=Mesure Nord/Sud = 
+tape.measureeastwest=Mesure Est/Ouest = 
+tape.measureheight=Mesure de la hauteur = 
+tape.nomeasure=Aucune mesure.
+tape.measure=Mesure = 
+tape.startmeasure=Départ de la Mesure.
+tape.mode0=Changement du mode Nord/Sud, Est/Ouest et hauteur.
+tape.mode1=Changement du mode à mesure absolu.
+
+lock.creativeonly=Mode créatif seulement.
+lock.notowner=Vous n'êtes pas le propriétaire de ce bloc.
+lock.locked=Ce bloc a été vérouillé.
+lock.unlocked=Ce bloc a été déverrouillé.
+
+// Blocks
+CookieJar.name=Bocal à cookie
+MarkerPole.name=Marqueur
+tile.BiblioType.name=Tableau de composition
+tile.BiblioPress.name=Presse d'impression
+tile.BiblioArmorStand.name=Porte armure
+OakBookcase.name=Bibliothèque en chêne
+SpruceBookcase.name=Bibliothèque en épicéa
+BirchBookcase.name=Bibliothèque en bouleau
+JungleBookcase.name=Bibliothèque en acajou
+OakPotionShelf.name=Etagère à potions en Bouleau
+SprucePotionShelf.name=Etagère à potions en épicéa
+BirchPotionShelf.name=Etagère à potions en chêne
+JunglePotionShelf.name=Etagère à potions en acajou
+OakShelf.name=Etagère en bouleau
+SpruceShelf.name=Etagère en épicéa
+BirchShelf.name=Etagère en chêne
+JungleShelf.name=Etagère en acajou
+OakWeaponRack.name=Porte-outils en bouleau
+SpruceWeaponRack.name=Porte-outils en épicéa
+BirchWeaponRack.name=Porte-outils en chêne
+JungleWeaponRack.name=Porte-outils en acajou
+OakLabel.name=Pancarte en bouleau
+SpruceLabel.name=Pancarte en épicéa
+BirchLabel.name=Pancarte en chêne
+JungleLabel.name=Pancarte en acajou
+RedLinedOakCase.name=Vitrine en bouleau
+BlueLinedOakCase.name=Vitrine en bouleau
+GreenLinedOakCase.name=Vitrine en bouleau
+BlackLinedOakCase.name=Vitrine en bouleau
+RedLinedSpruceCase.name=Vitrine en épicéa
+BlueLinedSpruceCase.name=Vitrine en épicéa
+GreenLinedSpruceCase.name=Vitrine en épicéa
+BlackLinedSpruceCase.name=Vitrine en épicéa
+RedLinedBirchCase.name=Vitrine en chêne
+BlueLinedBirchCase.name=Vitrine en chêne
+GreenLinedBirchCase.name=Vitrine en chêne
+BlackLinedBirchCase.name=Vitrine en chêne
+RedLinedJungleCase.name=Vitrine en acajou
+BlueLinedJungleCase.name=Vitrine en acajou
+GreenLinedJungleCase.name=Vitrine en acajou
+BlackLinedJungleCase.name=Vitrine en acajou
+OakWritingDesk.name=Bureau en bouleau
+SpruceWritingDesk.name=Bureau en épicéa
+BirchWritingDesk.name=Bureau en chêne
+JungleWritingDesk.name=Bureau en acajou
+OakTable.name=Table en bouleau
+SpruceTable.name=Table en épicéa
+BirchTable.name=Table en chêne
+JungleTable.name=Table en acajou
+
+//lights
+whiteLantern.name=Lanterne dorée
+lightGrayLantern.name=Lanterne dorée
+grayLantern.name=Lanterne dorée
+blackLantern.name=Lanterne dorée
+redLantern.name=Lanterne dorée
+orangeLantern.name=Lanterne dorée
+yellowLantern.name=Lanterne dorée
+limeLantern.name=Lanterne dorée
+greenLantern.name=Lanterne dorée
+cyanLantern.name=Lanterne dorée
+lightBlueLantern.name=Lanterne dorée
+blueLantern.name=Lanterne dorée
+purpleLantern.name=Lanterne dorée
+magentaLantern.name=Lanterne dorée
+pinkLantern.name=Lanterne dorée
+brownLantern.name=Lanterne dorée
+
+whiteLamp.name=Lampe fantaisie
+lightGrayLamp.name=Lampe fantaisie
+grayLamp.name=Lampe fantaisie
+blackLamp.name=Lampe fantaisie
+redLamp.name=Lampe fantaisie
+orangeLamp.name=Lampe fantaisie
+yellowLamp.name=Lampe fantaisie
+limeLamp.name=Lampe fantaisie
+greenLamp.name=Lampe fantaisie
+cyanLamp.name=Lampe fantaisie
+lightBlueLamp.name=Lampe fantaisie
+blueLamp.name=Lampe fantaisie
+purpleLamp.name=Lampe fantaisie
+magentaLamp.name=Lampe fantaisie
+pinkLamp.name=Lampe fantaisie
+brownLamp.name=Lampe fantaisie
+
+tile.case.redline=Doublure rouge
+tile.case.blueline=Doublure bleu
+tile.case.greenline=Doublure verte
+tile.case.blackline=Doublure noir
+
+lamp.hood0=Couvercle blanc
+lamp.hood1=Couvercle gris clair
+lamp.hood2=Couvercle gris
+lamp.hood3=Couvercle noir
+lamp.hood4=Couvercle rouge
+lamp.hood5=Couvercle orange
+lamp.hood6=Couvercle jaune
+lamp.hood7=Couvercle vert clair
+lamp.hood8=Couvercle vert
+lamp.hood9=Couvercle cyan
+lamp.hood10=Couvercle bleu clair
+lamp.hood11=Couvercle bleu
+lamp.hood12=Couvercle violet
+lamp.hood13=Couvercle magenta
+lamp.hood14=Couvercle rose
+lamp.hood15=Couvercle marron
+
+lantern.candle0=Bougie blanche
+lantern.candle1=Bougie gris claire
+lantern.candle2=Bougie grise
+lantern.candle3=Bougie noir
+lantern.candle4=Bougie rouge
+lantern.candle5=Bougie orange
+lantern.candle6=Bougie jaune
+lantern.candle7=Bougie vert clair
+lantern.candle8=Bougie verte
+lantern.candle9=Bougie cyan
+lantern.candle10=Bougie bleu clair
+lantern.candle11=Bougie bleu
+lantern.candle12=Bougie violette
+lantern.candle13=Bougie magenta
+lantern.candle14=Bougie rose
+lantern.candle15=Bougie marron
+
+// Items
+item.tapeMeasure.name=Mètre à ruban
+item.tape.name=Bobine de mètre à ruban
+item.BiblioChase.name=Cadre de Presse d'impression
+item.PrintPlate.name=Plaque de Presse d'impression
+item.EnchantedPlate.name=Plaque enchantée
+item.BiblioRedBook.name=Redstone: Volume I
+item.BiblioGlasses.readingglasses.name=Lunette de lecture
+item.BiblioGlasses.tintedglasses.name=Lunette de soleil
+item.BiblioGlasses.monocle.name=Monocle
+item.BiblioDrill.name=Visseuse
+item.BiblioCreativeLock.name=Serrure et Clé
+item.BiblioClipboard.name=Presse-papiers
+
