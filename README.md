@@ -3,7 +3,9 @@ BiblioCraft
 This repository for now will be to catalog and maintain all the language support files. 
 Please feel free to read over translations and commit updates if you think something should be changed or
 to help keep up with my update. If you can translate a language not on this list, then please by all means 
-either submit a .lang file on here or on my forum and I shall add it to the github. 
+either submit a .lang file on here or on my forum and I shall add it to the github. This list may not fully 
+reflect what is in the repository as it is quite possible I have forget to mention somone or a language, so
+be sure to check the assets folder for a complete list.
 
 
 Current Submissions are:
@@ -41,3 +43,5 @@ Language	    -           Lang Code	        -       Author(s)
  Turkish - tr_TR - Advancensar
  
  Norwegian - no_NO - mariogrip
+
+French - fr_FR - Linyor
