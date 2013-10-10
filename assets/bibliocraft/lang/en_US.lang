@@ -5,6 +5,42 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
+// All BiblioCraft 1.5 additions/////////////////////
+// 1.5 gui stuff
+gui.mapWaypoint.accept=Accept
+gui.mapWaypoint.remove=Remove
+gui.mapWaypoint.cancel=Cancel
+gui.mapWaypoint.waypoint=Waypoint
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Dinner Plate
+gui.discRack=Disc Rack
+
+screwgun.firstSeat=First seat selected.
+screwgun.secondSeat=Attempting to attach/detach seats.
+
+// 1.5 Blocks
+DiscRack.name=Disc Rack
+DinnerPlate.name=Dinner Plate
+OakMapFrame.name=Oak Map Frame
+SpruceMapFrame.name=Spruce Map Frame
+BirchMapFrame.name=Birch Map Frame
+JungleMapFrame.name=Jungle Map Frame
+OakSeat.name=Oak Seat
+SpruceSeat.name=Spruce Seat
+BirchSeat.name=Birch Seat
+JungleSeat.name=Jungle Seat
+
+// 1.5 Items
+item.seatBack.OakSeatBack.name=Oak Seat Back
+item.seatBack.SpruceSeatBack.name=Spruce Seat Back
+item.seatBack.BirchSeatBack.name=Birch Seat Back
+item.seatBack.JungleSeatBack.name=Jungle Seat Back
+item.BiblioWayPointCompass.name=Waypoint Compass
+item.BiblioMapTool.name=Drafting Compass
+
+// End of 1.5 additions ////////////////////////////
+
 // Gui stuff
 gui.armorstand=Armor Stand
 gui.bookcase=Bookcase
