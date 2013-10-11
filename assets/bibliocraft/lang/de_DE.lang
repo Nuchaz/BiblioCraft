@@ -5,6 +5,42 @@ language.code=de_DE
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
+// All BiblioCraft 1.5 additions/////////////////////
+// 1.5 gui stuff
+gui.mapWaypoint.accept=Akzeptieren
+gui.mapWaypoint.remove=Entfernen
+gui.mapWaypoint.cancel=Abbrechen
+gui.mapWaypoint.waypoint=Wegpunkt
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Teller
+gui.discRack=Plattenregal
+
+screwgun.firstSeat=Erster Sitz ausgewählt.
+screwgun.secondSeat=Versuche, Sitze anzubringen/abzutrennen.
+
+// 1.5 Blocks
+DiscRack.name=Plattenregal
+DinnerPlate.name=Teller
+OakMapFrame.name=Eichenholz-Kartenrahmen
+SpruceMapFrame.name=Fichtenholz-Kartenrahmen
+BirchMapFrame.name=Birkenholz-Kartenrahmen
+JungleMapFrame.name=Tropenholz-Kartenrahmen
+OakSeat.name=Eichenholzsitz
+SpruceSeat.name=Fichtenholzsitz
+BirchSeat.name=Birkenholzsitz
+JungleSeat.name=Tropenholzsitz
+
+// 1.5 Items
+item.seatBack.OakSeatBack.name=Eichenholzrücksitz
+item.seatBack.SpruceSeatBack.name=Fichtenholzrücksitz
+item.seatBack.BirchSeatBack.name=Birkenholzrücksitz
+item.seatBack.JungleSeatBack.name=Tropenholzrücksitz
+item.BiblioWayPointCompass.name=Wegpunktkompass
+item.BiblioMapTool.name=Entwurfskompass
+
+// End of 1.5 additions ////////////////////////////
+
 // Gui stuff
 gui.armorstand=Rüstungsstand
 gui.bookcase=Bücherschrank
