@@ -1,12 +1,45 @@
 language.name=Italiano
-
 language.region=IT
-
 language.code=it_IT
-
 
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
+
+// All BiblioCraft 1.5 additions/////////////////////
+// 1.5 gui stuff
+gui.mapWaypoint.accept=Accettato
+gui.mapWaypoint.remove=Rimosso
+gui.mapWaypoint.cancel=Cancellato
+gui.mapWaypoint.waypoint=Punto
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Piatto
+gui.discRack=Scaffale per Dischi
+
+screwgun.firstSeat=Selezionato primo schienale.
+screwgun.secondSeat=Provato a attaccare/dividere sedie.
+
+// 1.5 Blocks
+DiscRack.name=Scaffale per Dischi
+DinnerPlate.name=Piatto
+OakMapFrame.name=Cornice per Mappa di Quercia
+SpruceMapFrame.name=Cornice per Mappa di Abete
+BirchMapFrame.name=Cornice per Mappa di Betulla
+JungleMapFrame.name=Cornice per Mappa di Legno della Giungla
+OakSeat.name=Sedia di Quercia
+SpruceSeat.name=Sedia di Abete
+BirchSeat.name=Sedia di Betulla
+JungleSeat.name=Sedia di Legno della Giungla
+
+// 1.5 Items
+item.seatBack.OakSeatBack.name=Schienale di Quercia
+item.seatBack.SpruceSeatBack.name=Schienale di Abete
+item.seatBack.BirchSeatBack.name=Schienale di Betulla
+item.seatBack.JungleSeatBack.name=Schienale di Legno della Giungla
+item.BiblioWayPointCompass.name=Bussola per Punti
+item.BiblioMapTool.name=Bussola Puntatore
+
+// End of 1.5 additions ////////////////////////////
 
 // Gui stuff
 gui.armorstand=Manichino
