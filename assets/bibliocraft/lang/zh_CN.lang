@@ -1,4 +1,4 @@
-?language.name=Simplified Chinese
+language.name=Simplified Chinese
 language.region=CN
 language.code=zh_CN
 
@@ -16,8 +16,8 @@ gui.compass.z=Z:
 gui.dinnerPlate=餐盘
 gui.discRack=唱片
 
-screwgun.firstSeat=First seat selected.
-screwgun.secondSeat=Attempting to attach/detach seats.
+screwgun.firstSeat=已选中第一个椅子.
+screwgun.secondSeat=尝试叠加/分离椅子.
 
 // 1.5 Blocks
 DiscRack.name=唱片架
