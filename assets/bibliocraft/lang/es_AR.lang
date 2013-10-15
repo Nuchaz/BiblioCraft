@@ -5,10 +5,46 @@ language.code=es_AR
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
+// All BiblioCraft 1.5 additions/////////////////////
+// 1.5 gui stuff
+gui.mapWaypoint.accept=Aceptar
+gui.mapWaypoint.remove=Borrar
+gui.mapWaypoint.cancel=Cancelar
+gui.mapWaypoint.waypoint=Marcador
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Plato
+gui.discRack=Estantería de Discos
+
+screwgun.firstSeat=Primer asiento seleccionado.
+screwgun.secondSeat=Tratando de unir/separar asientos.
+
+// 1.5 Blocks
+DiscRack.name=Estantería de Discos
+DinnerPlate.name=Plato
+OakMapFrame.name=Marco de Mapas de Roble
+SpruceMapFrame.name=Marco de Mapas de Abeto
+BirchMapFrame.name=Marco de Mapas de Abedul
+JungleMapFrame.name=Marco de Mapas de Selva
+OakSeat.name=Asiento de Roble
+SpruceSeat.name=Asiento de Abeto
+BirchSeat.name=Asiento de Abedul
+JungleSeat.name=Asiento de Selva
+
+// 1.5 Items
+item.seatBack.OakSeatBack.name=Respaldo de Roble
+item.seatBack.SpruceSeatBack.name=Respaldo de Abeto
+item.seatBack.BirchSeatBack.name=Respaldo de Abedul
+item.seatBack.JungleSeatBack.name=Respaldo de Selva
+item.BiblioWayPointCompass.name=Brújula de Marcadores
+item.BiblioMapTool.name=Compás
+
+// End of 1.5 additions ////////////////////////////
+
 // Gui stuff
 gui.armorstand=Perchero
 gui.bookcase=Librería
-gui.cookiejar=Tarro de Galletas
+gui.cookiejar=Tarro de Galletitas
 gui.shelf=Estantería de Madera
 gui.label=Rótulo de Madera
 gui.potionshelf=Estantería de Pociones
@@ -35,7 +71,7 @@ lock.locked=Este bloque ha sido bloqueado.
 lock.unlocked=Este bloque ha sido desbloqueado.
 
 // Blocks
-CookieJar.name=Tarro de galletas
+CookieJar.name=Tarro de Galletitas
 MarkerPole.name=Marcador
 tile.BiblioType.name=Mesa de Tipografía
 tile.BiblioPress.name=Imprenta
