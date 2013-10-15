@@ -5,6 +5,42 @@ language.code=es_UY
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
+// All BiblioCraft 1.5 additions/////////////////////
+// 1.5 gui stuff
+gui.mapWaypoint.accept=Aceptar
+gui.mapWaypoint.remove=Borrar
+gui.mapWaypoint.cancel=Cancelar
+gui.mapWaypoint.waypoint=Marcador
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Plato
+gui.discRack=Estantería de discos
+
+screwgun.firstSeat=Primer asiento seleccionado.
+screwgun.secondSeat=Intentando unir/separar asientos.
+
+// 1.5 Blocks
+DiscRack.name=Estantería de discos
+DinnerPlate.name=Plato
+OakMapFrame.name=Marco de mapa de roble
+SpruceMapFrame.name=Marco de mapa de abeto
+BirchMapFrame.name=Marco de mapa de abedul
+JungleMapFrame.name=Marco de mapa de madera de jungla
+OakSeat.name=Asiento de roble
+SpruceSeat.name=Asiento de abeto
+BirchSeat.name=Asiento de abedul
+JungleSeat.name=Asiento de madera de jungla
+
+// 1.5 Items
+item.seatBack.OakSeatBack.name=Respaldo de roble
+item.seatBack.SpruceSeatBack.name=Respaldo de abeto
+item.seatBack.BirchSeatBack.name=Respaldo de abedul
+item.seatBack.JungleSeatBack.name=Respaldo de madera de jungla
+item.BiblioWayPointCompass.name=Brújula de marcadores
+item.BiblioMapTool.name=Compás
+
+// End of 1.5 additions ////////////////////////////
+
 // Gui stuff
 gui.armorstand=Soporte para armadura
 gui.bookcase=Librería
