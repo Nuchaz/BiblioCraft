@@ -5,8 +5,49 @@ language.code=de_DE
 // Tab Names
 itemGroup.BiblioWoodsNatura=BiblioWoods: Natura-Edition
 
-//natura woods
+// 1.5 additions
+BloodwoodMapFrame.name=Blutholz-Kartenrahmen
+DarkwoodMapFrame.name=Dunkelholz-Kartenrahmen
+EucalyptusMapFrame.name=Eukalyptus-Kartenrahmen
+FusewoodMapFrame.name=Zündholz-Kartenrahmen
+GhostwoodMapFrame.name=Geisterholz-Kartenrahmen
+HopseedMapFrame.name=Hopseed-Kartenrahmen
+MapleMapFrame.name=Ahornholz-Kartenrahmen
+PurpleheartMapFrame.name=Amarant-Kartenrahmen
+RedwoodMapFrame.name=Mammutbaumholz-Kartenrahmen
+SilverbellMapFrame.name=Halesia-Kartenrahmen
+SakuraMapFrame.name=Japanischer Blütenkirschholz-Kartenrahmen
+TigerMapFrame.name=Tigerholz-Kartenrahmen
+WillowMapFrame.name=Weiden-Kartenrahmen
+BloodwoodSeat.name=Blutholz-Sitz
+DarkwoodSeat.name=Dunkelholz-Sitz
+EucalyptusSeat.name=Eukalyptus-Sitz
+FusewoodSeat.name=Zündholz-Sitz
+GhostwoodSeat.name=Geisterholz-Sitz
+HopseedSeat.name=Hopseed-Sitz
+MapleSeat.name=Ahornholz-Sitz
+PurpleheartSeat.name=Amarant-Sitz
+RedwoodSeat.name=Mammutbaumholz-Sitz
+SilverbellSeat.name=Halesia-Sitz
+SakuraSeat.name=Japanischer Blütenkirschholz-Sitz
+TigerSeat.name=Tigerholz-Sitz
+WillowSeat.name=Weiden-Sitz
+item.seatBack.BloodwoodSeatBack.name=Blutholz-Rücksitz
+item.seatBack.DarkwoodSeatBack.name=Dunkelholz-Rücksitz
+item.seatBack.EucalyptusSeatBack.name=Eukalyptus-Rücksitz
+item.seatBack.FusewoodSeatBack.name=Zündholz-Rücksitz
+item.seatBack.GhostwoodSeatBack.name=Geisterholz-Rücksitz
+item.seatBack.HopseedSeatBack.name=Hopseed-Rücksitz
+item.seatBack.MapleSeatBack.name=Ahornholz-Rücksitz
+item.seatBack.PurpleheartSeatBack.name=Amarant-Rücksitz
+item.seatBack.RedwoodSeatBack.name=Mammutbaumholz-Rücksitz
+item.seatBack.SilverbellSeatBack.name=Halesia-Rücksitz
+item.seatBack.SakuraSeatBack.name=Japanischer Blütenkirschholz-Rücksitz
+item.seatBack.TigerSeatBack.name=Tigerholz-Rücksitz
+item.seatBack.WillowSeatBack.name=Weiden-Rücksitz
+// end of 1.5 additions
 
+//natura woods
 BloodwoodBookcase.name=Blutholz-Bücherschrank
 DarkwoodBookcase.name=Dunkelholz-Bücherschrank
 EucalyptusBookcase.name=Eukalyptus-Bücherschrank
