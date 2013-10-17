@@ -7,8 +7,8 @@ itemGroup.BiblioWoodsBoP=BiblioWoods: Biomes O'Plenty Edition
 
 // 1.5 additions
 AcaciaMapFrame.name=Acacia Map Frame
-CherryMapFrame.name=CherryMap Frame
-DarkMapFrame.name=Cherry Map Frame
+CherryMapFrame.name=Cherry Map Frame
+DarkMapFrame.name=Dark Map Frame
 FirMapFrame.name=Fir Map Frame
 HellBarkMapFrame.name=HellBark Map Frame
 HolyMapFrame.name=Holy Map Frame
