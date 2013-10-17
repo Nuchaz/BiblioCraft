@@ -5,6 +5,35 @@ language.code=de_DE
 // Tab Names
 itemGroup.BiblioWoodsEBXL=BiblioWoods: ExtrabiomesXL-Edition
 
+// 1.5 additions
+AcaciaMapFrame.name=Akazien-Kartenrahmen
+AutumnMapFrame.name=Herbstholz-Kartenrahmen
+BaldCypressMapFrame.name=Sumpfzypressen-Kartenrahmen
+CypressMapFrame.name=Zypressen-Kartenrahmen
+FirMapFrame.name=Tannenholz-Kartenrahmen
+JapaneseMapleMapFrame.name=Fächer-Ahorn-Kartenrahmen
+RainbowEucalyptusMapFrame.name=Regenbogen-Eukalyptus-Kartenrahmen
+ebxlRedwoodMapFrame.name=Mammutbaumholz-Kartenrahmen
+SakuraMapFrame.name=Japanischer Blütenkirschholz-Kartenrahmen
+AcaciaSeat.name=Akazien-Sitz
+AutumnSeat.name=Herbstholz-Sitz
+BaldCypressSeat.name=Sumpfzypressen-Sitz
+CypressSeat.name=Zypressen-Sitz
+FirSeat.name=Tannenholz-Sitz
+JapaneseMapleSeat.name=Fächer-Ahorn-Sitz
+RainbowEucalyptusSeat.name=Regenbogen-Eukalyptus-Sitz
+ebxlRedwoodSeat.name=Mammutbaumholz-Sitz
+SakuraSeat.name=Japanischer Blütenkirschholz-Sitz
+item.seatBack.AcaciaSeatBack.name=Akazien-Rücksitz
+item.seatBack.AutumnSeatBack.name=Herbstholz-Rücksitz
+item.seatBack.BaldCypressSeatBack.name=Sumpfzypressen-Rücksitz
+item.seatBack.CypressSeatBack.name=Zypressen-Rücksitz
+item.seatBack.FirSeatBack.name=Tannenholz-Rücksitz
+item.seatBack.JapaneseMapleSeatBack.name=Fächer-Ahorn-Rücksitz
+item.seatBack.RainbowEucalyptusSeatBack.name=Regenbogen-Eukalyptus-Rücksitz
+item.seatBack.ebxlRedwoodSeatBack.name=Mammutbaumholz-Rücksitz
+item.seatBack.SakuraSeatBack.name=Japanischer Blütenkirschholz-Rücksitz
+// end of 1.5 additions
 
 // EBXL woods addon
 

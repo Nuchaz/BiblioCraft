@@ -5,6 +5,47 @@ language.code=de_DE
 // Tab Names
 itemGroup.BiblioWoodsBoP=BiblioWoods: Biomes O'Plenty-Edition
 
+// 1.5 additions
+AcaciaMapFrame.name=Akazien-Kartenrahmen
+CherryMapFrame.name=Kirschholz-Kartenrahmen
+DarkMapFrame.name=Dunkler Kartenrahmen
+FirMapFrame.name=Tannenholz-Kartenrahmen
+HellBarkMapFrame.name=Höllenrinden-Kartenrahmen
+HolyMapFrame.name=Loftwood-Kartenrahmen
+JacarandaMapFrame.name=Jacaranda-Kartenrahmen
+MagicMapFrame.name=Magischer Kartenrahmen
+MangroveMapFrame.name=Mangroven-Kartenrahmen
+PalmMapFrame.name=Palmholz-Kartenrahmen
+PineMapFrame.name=Kiefernholz-Kartenrahmen
+RedwoodMapFrame.name=Mammutbaum-Kartenrahmen
+WillowMapFrame.name=Weiden-Kartenrahmen
+AcaciaSeat.name=Akazien-Sitz
+CherrySeat.name=Kirschholz-Sitz
+DarkSeat.name=Dunkler Sitz
+FirSeat.name=Tannenholz-Sitz
+HellBarkSeat.name=Höllenrinden-Sitz
+HolySeat.name=Loftwood-Sitz
+JacarandaSeat.name=Jacaranda-Sitz
+MagicSeat.name=Magischer Sitz
+MangroveSeat.name=Mangroven-Sitz
+PalmSeat.name=Palmholz-Sitz
+PineSeat.name=Kiefernholz-Sitz
+RedwoodSeat.name=Mammutbaum-Sitz
+WillowSeat.name=Weiden-Sitz
+item.seatBack.AcaciaSeatBack.name=Akazien-Rücksitz
+item.seatBack.CherrySeatBack.name=Kirschholz-Rücksitz
+item.seatBack.DarkSeatBack.name=Dunkler Rücksitz
+item.seatBack.FirSeatBack.name=Tannenholz-Rücksitz
+item.seatBack.HellBarkSeatBack.name=Höllenrinden-Rücksitz
+item.seatBack.HolySeatBack.name=Loftwood-Rücksitz
+item.seatBack.JacarandaSeatBack.name=Jacaranda-Rücksitz
+item.seatBack.MagicSeatBack.name=Magischer Rücksitz
+item.seatBack.MangroveSeatBack.name=Mangroven-Rücksitz
+item.seatBack.PalmSeatBack.name=Palmholz-Rücksitz
+item.seatBack.PineSeatBack.name=Kiefernholz-Rücksitz
+item.seatBack.RedwoodSeatBack.name=Mammutbaum-Rücksitz
+item.seatBack.WillowSeatBack.name=Weiden-Rücksitz
+// end of 1.5 additions
 
 // Blocks
 AcaciaBookcase.name=Akazien-Bücherschrank

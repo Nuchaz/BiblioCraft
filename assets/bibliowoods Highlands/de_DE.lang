@@ -5,6 +5,20 @@ language.code=de_DE
 // Tab Names
 itemGroup.BiblioWoodsHighlands=BiblioWoods: Highlands-Edition
 
+// 1.5 additions
+GreyWoodMapFrame.name=Grauholz-Kartenrahmen
+hlRedWoodMapFrame.name=Rotholz-Kartenrahmen
+WhiteWoodMapFrame.name=Weißholz-Kartenrahmen
+YellowWoodMapFrame.name=Gelbholz-Kartenrahmen
+GreyWoodSeat.name=Grauholz-Sitz
+hlRedWoodSeat.name=Rotholz-Sitz
+WhiteWoodSeat.name=Weißholz-Sitz
+YellowWoodSeat.name=Gelbholz-Sitz
+item.seatBack.GreyWoodSeatBack.name=Grauholz-Rücksitz
+item.seatBack.hlRedWoodSeatBack.name=Rotholz-Rücksitz
+item.seatBack.WhiteWoodSeatBack.name=Weißholz-Rücksitz
+item.seatBack.YellowWoodSeatBack.name=Gelbholz-Rücksitz
+// end of 1.5 additions
 
 // Highlands Woods addon
 
