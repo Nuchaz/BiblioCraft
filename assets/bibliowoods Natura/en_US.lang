@@ -5,8 +5,49 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioWoodsNatura=BiblioWoods: Natura Edition
 
-//natura woods
+// 1.5 additions
+BloodwoodMapFrame.name=Bloodwood Map Frame
+DarkwoodMapFrame.name=Darkwood Map Frame
+EucalyptusMapFrame.name=Eucalyptus Map Frame
+FusewoodMapFrame.name=Fusewood Map Frame
+GhostwoodMapFrame.name=Fusewood Map Frame
+HopseedMapFrame.name=Hopseed Map Frame
+MapleMapFrame.name=Maple Map Frame
+PurpleheartMapFrame.name=Purpleheart Map Frame
+RedwoodMapFrame.name=Redwood Map Frame
+SilverbellMapFrame.name=Silverbell Map Frame
+SakuraMapFrame.name=Sakura Map Frame
+TigerMapFrame.name=Tiger Map Frame
+WillowMapFrame.name=Willow Map Frame
+BloodwoodSeat.name=Bloodwood Seat
+DarkwoodSeat.name=Darkwood Seat
+EucalyptusSeat.name=Eucalyptus Seat
+FusewoodSeat.name=Fusewood Seat
+GhostwoodSeat.name=Ghostwood Seat
+HopseedSeat.name=Hopseed Seat
+MapleSeat.name=Maple Seat
+PurpleheartSeat.name=Purpleheart Seat
+RedwoodSeat.name=Redwood Seat
+SilverbellSeat.name=Silverbell Seat
+SakuraSeat.name=Sakura Seat
+TigerSeat.name=Tiger Seat
+WillowSeat.name=Willow Seat
+item.seatBack.BloodwoodSeatBack.name=Bloodwood Seat Back
+item.seatBack.DarkwoodSeatBack.name=Darkwood Seat Back
+item.seatBack.EucalyptusSeatBack.name=Eucalyptus Seat Back
+item.seatBack.FusewoodSeatBack.name=Fusewood Seat Back
+item.seatBack.GhostwoodSeatBack.name=Ghostwood Seat Back
+item.seatBack.HopseedSeatBack.name=Hopseed Seat Back
+item.seatBack.MapleSeatBack.name=Maple Seat Back
+item.seatBack.PurpleheartSeatBack.name=Purpleheart Seat Back
+item.seatBack.RedwoodSeatBack.name=Redwood Seat Back
+item.seatBack.SilverbellSeatBack.name=Silverbell Seat Back
+item.seatBack.SakuraSeatBack.name=Sakura Seat Back
+item.seatBack.TigerSeatBack.name=Tiger Seat Back
+item.seatBack.WillowSeatBack.name=Willow Seat Back
+// end of 1.5 additions
 
+//natura woods
 BloodwoodBookcase.name=Bloodwood Bookcase
 DarkwoodBookcase.name=Darkwood Bookcase
 EucalyptusBookcase.name=Eucalyptus Bookcase

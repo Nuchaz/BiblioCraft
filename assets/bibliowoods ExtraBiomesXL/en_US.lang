@@ -5,6 +5,35 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioWoodsEBXL=BiblioWoods: ExtrabiomesXL Edition
 
+// 1.5 additions
+AcaciaMapFrame.name=Acacia Map Frame
+AutumnMapFrame.name=Autumn Map Frame
+BaldCypressMapFrame.name=Bald Cypress Map Frame
+CypressMapFrame.name=Cypress Map Frame
+FirMapFrame.name=Fir Map Frame
+JapaneseMapleMapFrame.name=Japanese Maple Map Frame
+RainbowEucalyptusMapFrame.name=Rainbow Eucalyptus Map Frame
+ebxlRedwoodMapFrame.name=Redwood Map Frame
+SakuraMapFrame.name=Sakura Map Frame
+AcaciaSeat.name=Acacia Seat
+AutumnSeat.name=Autumn Seat
+BaldCypressSeat.name=Bald Cypress Seat
+CypressSeat.name=Cypress Seat
+FirSeat.name=Fir Seat
+JapaneseMapleSeat.name=Japanese Maple Seat
+RainbowEucalyptusSeat.name=Rainbow Eucalyptus Seat
+ebxlRedwoodSeat.name=Redwood Seat
+SakuraSeat.name=Sakura Seat
+item.seatBack.AcaciaSeatBack.name=Acacia Seat Back
+item.seatBack.AutumnSeatBack.name=Autumn Seat Back
+item.seatBack.BaldCypressSeatBack.name=Bald Cypress Seat Back
+item.seatBack.CypressSeatBack.name=Cypress Seat Back
+item.seatBack.FirSeatBack.name=Fir Seat Back
+item.seatBack.JapaneseMapleSeatBack.name=Japanese Maple Seat Back
+item.seatBack.RainbowEucalyptusSeatBack.name=Rainbow Eucalyptus Seat Back
+item.seatBack.ebxlRedwoodSeatBack.name=Redwood Seat Back
+item.seatBack.SakuraSeatBack.name=Sakura Seat Back
+// end of 1.5 additions
 
 // EBXL woods addon
 

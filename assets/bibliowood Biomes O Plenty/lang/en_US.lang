@@ -5,6 +5,47 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioWoodsBoP=BiblioWoods: Biomes O'Plenty Edition
 
+// 1.5 additions
+AcaciaMapFrame.name=Acacia Map Frame
+CherryMapFrame.name=CherryMap Frame
+DarkMapFrame.name=Cherry Map Frame
+FirMapFrame.name=Fir Map Frame
+HellBarkMapFrame.name=HellBark Map Frame
+HolyMapFrame.name=Holy Map Frame
+JacarandaMapFrame.name=Jacaranda Map Frame
+MagicMapFrame.name=Magic Map Frame
+MangroveMapFrame.name=Mangrove Map Frame
+PalmMapFrame.name=Palm Map Frame
+PineMapFrame.name=Pine Map Frame
+RedwoodMapFrame.name=Redwood Map Frame
+WillowMapFrame.name=Willow Map Frame
+AcaciaSeat.name=Acacia Seat
+CherrySeat.name=Cherry Seat
+DarkSeat.name=Dark Seat
+FirSeat.name=Fir Seat
+HellBarkSeat.name=HellBark Seat
+HolySeat.name=Holy Seat
+JacarandaSeat.name=Jacaranda Seat
+MagicSeat.name=Magic Seat
+MangroveSeat.name=Mangrove Seat
+PalmSeat.name=Palm Seat
+PineSeat.name=Pine Seat
+RedwoodSeat.name=Redwood Seat
+WillowSeat.name=Willow Seat
+item.seatBack.AcaciaSeatBack.name=Acacia Seat Back
+item.seatBack.CherrySeatBack.name=Cherry Seat Back
+item.seatBack.DarkSeatBack.name=Dark Seat Back
+item.seatBack.FirSeatBack.name=Fir Seat Back
+item.seatBack.HellBarkSeatBack.name=HellBark Seat Back
+item.seatBack.HolySeatBack.name=Holy Seat Back
+item.seatBack.JacarandaSeatBack.name=Jacaranda Seat Back
+item.seatBack.MagicSeatBack.name=Magic Seat Back
+item.seatBack.MangroveSeatBack.name=Mangrove Seat Back
+item.seatBack.PalmSeatBack.name=Palm Seat Back
+item.seatBack.PineSeatBack.name=Pine Seat Back
+item.seatBack.RedwoodSeatBack.name=Redwood Seat Back
+item.seatBack.WillowSeatBack.name=Willow Seat Back
+// end of 1.5 additions
 
 // Blocks
 AcaciaBookcase.name=Acacia Bookcase
