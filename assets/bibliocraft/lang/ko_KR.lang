@@ -1,0 +1,211 @@
+language.name=Korean
+language.region=KR
+language.code=ko_KR
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// All BiblioCraft 1.5 additions/////////////////////
+// 1.5 gui stuff
+gui.mapWaypoint.accept=추가
+gui.mapWaypoint.remove=제거
+gui.mapWaypoint.cancel=취소
+gui.mapWaypoint.waypoint=웨이포인트
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=접시
+gui.discRack=레코드 선반
+
+screwgun.firstSeat=시트를 선택합니다
+screwgun.secondSeat=시트를 장착/탈착하려 시도합니다
+
+// 1.5 Blocks
+DiscRack.name=레코드 선반
+DinnerPlate.name=접시
+OakMapFrame.name=참나무 지도 걸개
+SpruceMapFrame.name=가문비나무 지도 걸개
+BirchMapFrame.name=자작나무 지도 걸개
+JungleMapFrame.name=정글 나무 지도 걸개
+OakSeat.name=참나무 의자
+SpruceSeat.name=가문비나무 의자
+BirchSeat.name=자작나무 의자
+JungleSeat.name=정글 나무 의자
+
+// 1.5 Items
+item.seatBack.OakSeatBack.name=참나무 등받이
+item.seatBack.SpruceSeatBack.name=가문비나무 등받이
+item.seatBack.BirchSeatBack.name=자작나무 등받이
+item.seatBack.JungleSeatBack.name=정글 나무 등받이
+item.BiblioWayPointCompass.name=웨이포인트 나침반
+item.BiblioMapTool.name=제도용 컴퍼스
+
+// End of 1.5 additions ////////////////////////////
+
+// Gui stuff
+gui.armorstand=갑옷 거치대
+gui.bookcase=책장
+gui.cookiejar=쿠키 단지
+gui.shelf=목재 선반
+gui.label=목재 이름표
+gui.potionshelf=포션 선반
+gui.typeset.selectbook=책을 선택해 주세요
+gui.table=목재 탁자
+gui.case=진열장
+gui.toolrack=도구 거치대
+gui.desk=목재 책상
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=남/북 측정값 = 
+tape.measureeastwest=동/서 측정값 = 
+tape.measureheight=높이 측정값 = 
+tape.nomeasure=측정값이 없습니다
+tape.measure=측정값 = 
+tape.startmeasure=측정을 시작합니다
+tape.mode0=동/서, 남/북, 높이 측정 모드로 변경합니다
+tape.mode1=절대값 측정 모드로 변경합니다
+
+lock.creativeonly=크리에이티브모드 전용
+lock.notowner=권한이 없습니다
+lock.locked=잠겼습니다
+lock.unlocked=잠금이 해제되었습니다
+
+// Blocks
+CookieJar.name=쿠키 단지
+MarkerPole.name=마커
+tile.BiblioType.name=조판 작업대
+tile.BiblioPress.name=인쇄기
+tile.BiblioArmorStand.name=갑옷 걸개
+OakBookcase.name=참나무 책장
+SpruceBookcase.name=가문비나무 책장
+BirchBookcase.name=자작나무 책장
+JungleBookcase.name=정글 나무 책장
+OakPotionShelf.name=참나무 포션선반
+SprucePotionShelf.name=가문비나무 포션선반
+BirchPotionShelf.name=자작나무 포션선반
+JunglePotionShelf.name=정글 나무 포션선반
+OakShelf.name=참나무 선반
+SpruceShelf.name=가문비나무 선반
+BirchShelf.name=자작나무 선반
+JungleShelf.name=정글 나무 선반
+OakWeaponRack.name=참나무 도구걸개
+SpruceWeaponRack.name=가문비나무 도구걸개
+BirchWeaponRack.name=자작나무 도구걸개
+JungleWeaponRack.name=정글 나무 도구걸개
+OakLabel.name=참나무 라벨
+SpruceLabel.name=가문비나무 라벨
+BirchLabel.name=자작나무 라벨
+JungleLabel.name=정글 나무 라벨
+RedLinedOakCase.name=참나무 진열장
+BlueLinedOakCase.name=참나무 진열장
+GreenLinedOakCase.name=참나무 진열장
+BlackLinedOakCase.name=참나무 진열장
+RedLinedSpruceCase.name=가문비나무 진열장
+BlueLinedSpruceCase.name=가문비나무 진열장
+GreenLinedSpruceCase.name=가문비나무 진열장
+BlackLinedSpruceCase.name=가문비나무 진열장
+RedLinedBirchCase.name=자작나무 진열장
+BlueLinedBirchCase.name=자작나무 진열장
+GreenLinedBirchCase.name=자작나무 진열장
+BlackLinedBirchCase.name=자작나무 진열장
+RedLinedJungleCase.name=정글 나무 진열장
+BlueLinedJungleCase.name=정글 나무 진열장
+GreenLinedJungleCase.name=정글 나무 진열장
+BlackLinedJungleCase.name=정글 나무 진열장
+OakWritingDesk.name=참나무 책상
+SpruceWritingDesk.name=가문비나무 책상
+BirchWritingDesk.name=자작나무 책상
+JungleWritingDesk.name=정글 나무 책상
+OakTable.name=참나무 탁자
+SpruceTable.name=가문비나무 탁자
+BirchTable.name=자작나무 탁자
+JungleTable.name=정글 나무 탁자
+
+//lights
+whiteLantern.name=황금랜턴
+lightGrayLantern.name=황금랜턴
+grayLantern.name=황금랜턴
+blackLantern.name=황금랜턴
+redLantern.name=황금랜턴
+orangeLantern.name=황금랜턴
+yellowLantern.name=황금랜턴
+limeLantern.name=황금랜턴
+greenLantern.name=황금랜턴
+cyanLantern.name=황금랜턴
+lightBlueLantern.name=황금랜턴
+blueLantern.name=황금랜턴
+purpleLantern.name=황금랜턴
+magentaLantern.name=황금랜턴
+pinkLantern.name=황금랜턴
+brownLantern.name=황금랜턴
+
+whiteLamp.name=화려한 조명
+lightGrayLamp.name=화려한 조명
+grayLamp.name=화려한 조명
+blackLamp.name=화려한 조명
+redLamp.name=화려한 조명
+orangeLamp.name=화려한 조명
+yellowLamp.name=화려한 조명
+limeLamp.name=화려한 조명
+greenLamp.name=화려한 조명
+cyanLamp.name=화려한 조명
+lightBlueLamp.name=화려한 조명
+blueLamp.name=화려한 조명
+purpleLamp.name=화려한 조명
+magentaLamp.name=화려한 조명
+pinkLamp.name=화려한 조명
+brownLamp.name=화려한 조명
+
+tile.case.redline=빨간색 안감
+tile.case.blueline=파란색 안감
+tile.case.greenline=초록색 안감
+tile.case.blackline=검은색 안감
+
+lamp.hood0=흰색 조명 가리개
+lamp.hood1=연회색 조명 가리개
+lamp.hood2=회색 조명 가리개
+lamp.hood3=검은색 조명 가리개
+lamp.hood4=빨간색 조명 가리개
+lamp.hood5=주황색 조명 가리개
+lamp.hood6=노란색 조명 가리개
+lamp.hood7=라임색 조명 가리개
+lamp.hood8=초록색 조명 가리개
+lamp.hood9=연두색 조명 가리개
+lamp.hood10=하늘색 조명 가리개
+lamp.hood11=파란색 조명 가리개
+lamp.hood12=보라색 조명 가리개
+lamp.hood13=자주색 조명 가리개
+lamp.hood14=분홍색 조명 가리개
+lamp.hood15=갈색 조명 가리개
+
+lantern.candle0=흰색 양초
+lantern.candle1=연회색 양초
+lantern.candle2=갈색 양초
+lantern.candle3=검은색 양초
+lantern.candle4=빨간색 양초
+lantern.candle5=주황색 양초
+lantern.candle6=노란색 양초
+lantern.candle7=라임색 양초
+lantern.candle8=초록색 양초
+lantern.candle9=연두색 양초
+lantern.candle10=하늘색 양초
+lantern.candle11=파란색 양초
+lantern.candle12=보라색 양초
+lantern.candle13=자주색 양초
+lantern.candle14=분홍색 양초
+lantern.candle15=갈색 양초
+
+// Items
+item.tapeMeasure.name=줄자
+item.tape.name=줄자 감개
+item.BiblioChase.name=활자판
+item.PrintPlate.name=인쇄판
+item.EnchantedPlate.name=인챈트판
+item.BiblioRedBook.name=레드스톤: Vol. I
+item.BiblioGlasses.readingglasses.name=돋보기
+item.BiblioGlasses.tintedglasses.name=색안경
+item.BiblioGlasses.monocle.name=모노클
+item.BiblioDrill.name=스크루 드라이버
+item.BiblioCreativeLock.name=Lock and Key
+item.BiblioClipboard.name=클립보드
+
