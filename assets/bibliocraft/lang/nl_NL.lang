@@ -5,7 +5,7 @@ language.code=nl_NL
 itemGroup.BiblioCraft=BiblioCraft
 
 // Gui stuff
-gui.armorstand=Armor Stand
+gui.armorstand=Pantser Stand
 gui.bookcase=BoekenKast
 gui.cookiejar=KoekTrommel
 gui.shelf=Schap
@@ -29,14 +29,14 @@ tape.mode0=Omschakelen naar Noord/Zuid, Oost/West, en Hoogte.
 tape.mode1=Omschakelen naar absolute Afmeting.
 
 lock.creativeonly=Alleen in Creative Mode
-lock.notowner=Jij Beheert dit Blok.
+lock.notowner=Jij Beheert dit Blok niet.
 lock.locked=Dit Blok is nu Vergrendeld.
 lock.unlocked=Dit Blok is nu Ontgrendeld.
 
 // Blocks
 CookieJar.name=Koektrommel
 MarkerPole.name=Markering
-tile.BiblioType.name=Letterzet Tafel
+tile.BiblioType.name=Bijzet Tafel
 tile.BiblioPress.name=Drukpers
 tile.BiblioArmorStand.name=Pantser Rek
 OakBookcase.name=Eikenhouten BoekenKast
@@ -119,7 +119,7 @@ magentaLamp.name=Chique Lamp
 pinkLamp.name=Chique Lamp
 brownLamp.name=Chique Lamp
 
-tile.case.redline=Roode Voering
+tile.case.redline=Rode Voering
 tile.case.blueline=Blauwe Voering
 tile.case.greenline=Groene Voering
 tile.case.blackline=Zwarte Voering
