@@ -159,17 +159,49 @@ lantern.candle13=Сиреневая свеча
 lantern.candle14=Розовая свеча
 lantern.candle15=Коричневая свеча
 
-// Items
 item.tapeMeasure.name=Мерная лента
 item.tape.name=Катушка мерной ленты
 item.BiblioChase.name=Печатный рама
 item.PrintPlate.name=Печатная форма
 item.EnchantedPlate.name=Зачарованная форма
-item.BiblioRedBook.name=Красный камень: Том I
+item.BiblioRedBook.name=Книга-рычаг
 item.BiblioGlasses.readingglasses.name=Очки для чтения
 item.BiblioGlasses.tintedglasses.name=Окрашенные очки
 item.BiblioGlasses.monocle.name=Монокль
-item.BiblioDrill.name=Шуруповёрт
+item.BiblioDrill.name=Дрель
 item.BiblioCreativeLock.name=Замок и ключ
 item.BiblioClipboard.name=Блокнот
 
+// All BiblioCraft 1.5 additions/////////////////////
+// 1.5 gui stuff
+gui.mapWaypoint.accept=Подтвердить
+gui.mapWaypoint.remove=Удалить
+gui.mapWaypoint.cancel=Отмена
+gui.mapWaypoint.waypoint=Пометка
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Поднос
+gui.discRack=Полка для пластинок
+
+screwgun.firstSeat=Выбрано певрое сиденье.
+screwgun.secondSeat=Попытка отсоединения/присоединения сидений.
+
+// 1.5 Blocks
+DiscRack.name=Полка для пластинок
+DinnerPlate.name=Поднос
+OakMapFrame.name=Дубовая рамка для карты
+SpruceMapFrame.name=Еловая рамка для карты
+BirchMapFrame.name=Берёзовая рамка для карты
+JungleMapFrame.name=Рамка для карты из древесины тропического дерева
+OakSeat.name=Дубовое сиденье
+SpruceSeat.name=Еловое сиденье
+BirchSeat.name=Берёзовое сиденье
+JungleSeat.name=Сиденье из тропического дерева
+
+// 1.5 Items
+item.seatBack.OakSeatBack.name=Дубовая спинка
+item.seatBack.SpruceSeatBack.name=Еловая спинка
+item.seatBack.BirchSeatBack.name=Берёзовая спинка
+item.seatBack.JungleSeatBack.name=Спинка из древесины тропического дерева
+item.BiblioWayPointCompass.name=Координатный компасс
+item.BiblioMapTool.name=Циркуль

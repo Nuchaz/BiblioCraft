@@ -5,6 +5,47 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioWoodsBoP=BiblioWoods: Вариант Biomes O'Plenty
 
+// 1.5 additions
+AcaciaMapFrame.name=Рамка для карты из древесины акации
+CherryMapFrame.name=Рамка для карты из древесины вишнёвого дерева
+DarkMapFrame.name=Рамка для карты из древесины тёмного дерева
+FirMapFrame.name=Рамка для карты из древесины пихты
+HellBarkMapFrame.name=Рамка для карты из древесины адского дерева
+HolyMapFrame.name=Рамка для карты из древесины лофтвуда
+JacarandaMapFrame.name=Рамка для карты из древесины жакаранды
+MagicMapFrame.name=Рамка для карты из древесины магического дерева
+MangroveMapFrame.name=Рамка для карты из древесины мангрового дерева
+PalmMapFrame.name=Рамка для карты из древесины пальмы
+PineMapFrame.name=Рамка для карты из древесины сосны
+RedwoodMapFrame.name=Рамка для карты из древесины красного дерева
+WillowMapFrame.name=Рамка для карты из древесины ивы
+AcaciaSeat.name=Сиденье из древесины акации
+CherrySeat.name=Сиденье из древесины вишнёвого дерева
+DarkSeat.name=Сиденье из древесины тёмного дерева
+FirSeat.name=Сиденье из древесины пихты
+HellBarkSeat.name=Сиденье из древесины адского дерева
+HolySeat.name=Сиденье из древесины лофтвуда
+JacarandaSeat.name=Сиденье из древесины жакаранды
+MagicSeat.name=Сиденье из древесины магического дерева
+MangroveSeat.name=Сиденье из древесины мангрового дерева
+PalmSeat.name=Сиденье из древесины пальмы
+PineSeat.name=Сиденье из древесины сосны
+RedwoodSeat.name=Сиденье из древесины красного дерева
+WillowSeat.name=Сиденье из древесины ивы
+item.seatBack.AcaciaSeatBack.name=Спинка из древесины акации
+item.seatBack.CherrySeatBack.name=Спинка из древесины вишнёвого дерева
+item.seatBack.DarkSeatBack.name=Спинка из древесины тёмного дерева
+item.seatBack.FirSeatBack.name=Спинка из древесины пихты
+item.seatBack.HellBarkSeatBack.name=Спинка из древесины адского дерева
+item.seatBack.HolySeatBack.name=Спинка из древесины лофтвуда
+item.seatBack.JacarandaSeatBack.name=Спинка из древесины жакаранды
+item.seatBack.MagicSeatBack.name=Спинка из древесины магического дерева
+item.seatBack.MangroveSeatBack.name=Спинка из древесины магрового дерева
+item.seatBack.PalmSeatBack.name=Спинка из древесины пальмы
+item.seatBack.PineSeatBack.name=Спинка из древесины сосны
+item.seatBack.RedwoodSeatBack.name=Спинка из древесины красного дерева
+item.seatBack.WillowSeatBack.name=Спинка из древесины ивы
+// end of 1.5 additions
 
 // Blocks
 AcaciaBookcase.name=Книжный шкаф из древесины акации
