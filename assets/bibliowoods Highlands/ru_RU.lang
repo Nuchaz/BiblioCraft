@@ -5,9 +5,22 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioWoodsHighlands=BiblioWoods: Вариант Highlands
 
+// 1.5 additions
+GreyWoodMapFrame.name=Рамка для карты из серой древесины
+hlRedWoodMapFrame.name=Рамка для карты из красной древесины
+WhiteWoodMapFrame.name=Рамка для карты из белой древесины
+YellowWoodMapFrame.name=Рамка для карты из жёлтой древесины
+GreyWoodSeat.name=Стул из серой древесины
+hlRedWoodSeat.name=Стул из красной древесины
+WhiteWoodSeat.name=Стул из белой древесины
+YellowWoodSeat.name=Стул из жёлтой древесины
+item.seatBack.GreyWoodSeatBack.name=Спинка стула из серой древесины
+item.seatBack.hlRedWoodSeatBack.name=Спинка стула из красной древесины
+item.seatBack.WhiteWoodSeatBack.name=Спинка стула из белой древесины
+item.seatBack.YellowWoodSeatBack.name=Спинка стула из жёлтой древесины
+// end of 1.5 additions
 
 // Highlands Woods addon
-
 GreyWoodBookcase.name=Книжный шкаф из серой древесины
 hlRedWoodBookcase.name=Книжный шкаф из красной древесины
 WhiteWoodBookcase.name=Книжный шкаф из белой древесины
@@ -40,4 +53,3 @@ GreyWoodToolRack.name=Стеллаж для инструментов из сер
 hlRedWoodToolRack.name=Стеллаж для инструментов из красной древесины
 WhiteWoodToolRack.name=Стеллаж для инструментов из белой древесины
 YellowWoodToolRack.name=Стеллаж для инструментов из жёлтой древесины
-
