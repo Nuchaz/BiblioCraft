@@ -5,6 +5,42 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
+// All BiblioCraft 1.5 additions/////////////////////
+// 1.5 gui stuff
+gui.mapWaypoint.accept=Подтвердить
+gui.mapWaypoint.remove=Удалить
+gui.mapWaypoint.cancel=Отмена
+gui.mapWaypoint.waypoint=Метка
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Обеденная тарелка
+gui.discRack=Стойка для пластинок
+
+screwgun.firstSeat=Выбран первый стул.
+screwgun.secondSeat=Попытка отсоединения/присоединения стульев.
+
+// 1.5 Blocks
+DiscRack.name=Стойка для пластинок
+DinnerPlate.name=Обеденная тарелка
+OakMapFrame.name=Дубовая рамка для карты
+SpruceMapFrame.name=Еловая рамка для карты
+BirchMapFrame.name=Берёзовая рамка для карты
+JungleMapFrame.name=Рамка для карты из тропического дерева
+OakSeat.name=Дубовый стул
+SpruceSeat.name=Еловый стул
+BirchSeat.name=Берёзовый стул
+JungleSeat.name=Стул из тропического дерева
+
+// 1.5 Items
+item.seatBack.OakSeatBack.name=Дубовая спинка стула
+item.seatBack.SpruceSeatBack.name=Еловая спинка стула
+item.seatBack.BirchSeatBack.name=Берёзовая спинка стула
+item.seatBack.JungleSeatBack.name=Спинка стула из тропического дерева
+item.BiblioWayPointCompass.name=Координатный компасс
+item.BiblioMapTool.name=Циркуль
+
+// End of 1.5 additions ////////////////////////////
+
 // Gui stuff
 gui.armorstand=Стойка для брони
 gui.bookcase=Книжный шкаф
@@ -17,7 +53,6 @@ gui.table=Деревянный стол
 gui.case=Витрина
 gui.toolrack=Стеллаж для инструментов
 gui.desk=Деревянный письменный стол
-
 
 //Tape Measure Texts
 tape.measurenorthsouth=Измерение север/юг =
@@ -159,6 +194,7 @@ lantern.candle13=Сиреневая свеча
 lantern.candle14=Розовая свеча
 lantern.candle15=Коричневая свеча
 
+// Items
 item.tapeMeasure.name=Мерная лента
 item.tape.name=Катушка мерной ленты
 item.BiblioChase.name=Печатный рама
@@ -171,37 +207,3 @@ item.BiblioGlasses.monocle.name=Монокль
 item.BiblioDrill.name=Дрель
 item.BiblioCreativeLock.name=Замок и ключ
 item.BiblioClipboard.name=Блокнот
-
-// All BiblioCraft 1.5 additions/////////////////////
-// 1.5 gui stuff
-gui.mapWaypoint.accept=Подтвердить
-gui.mapWaypoint.remove=Удалить
-gui.mapWaypoint.cancel=Отмена
-gui.mapWaypoint.waypoint=Пометка
-gui.compass.x=X:
-gui.compass.z=Z:
-gui.dinnerPlate=Поднос
-gui.discRack=Полка для пластинок
-
-screwgun.firstSeat=Выбрано певрое сиденье.
-screwgun.secondSeat=Попытка отсоединения/присоединения сидений.
-
-// 1.5 Blocks
-DiscRack.name=Полка для пластинок
-DinnerPlate.name=Поднос
-OakMapFrame.name=Дубовая рамка для карты
-SpruceMapFrame.name=Еловая рамка для карты
-BirchMapFrame.name=Берёзовая рамка для карты
-JungleMapFrame.name=Рамка для карты из древесины тропического дерева
-OakSeat.name=Дубовое сиденье
-SpruceSeat.name=Еловое сиденье
-BirchSeat.name=Берёзовое сиденье
-JungleSeat.name=Сиденье из тропического дерева
-
-// 1.5 Items
-item.seatBack.OakSeatBack.name=Дубовая спинка
-item.seatBack.SpruceSeatBack.name=Еловая спинка
-item.seatBack.BirchSeatBack.name=Берёзовая спинка
-item.seatBack.JungleSeatBack.name=Спинка из древесины тропического дерева
-item.BiblioWayPointCompass.name=Координатный компасс
-item.BiblioMapTool.name=Циркуль
