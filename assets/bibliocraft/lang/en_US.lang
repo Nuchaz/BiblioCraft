@@ -54,7 +54,6 @@ gui.case=Display Case
 gui.toolrack=Tool Rack
 gui.desk=Wooden Desk
 
-
 //Tape Measure Texts
 tape.measurenorthsouth=Measurement North/South = 
 tape.measureeastwest=Measurement East/West = 
@@ -208,4 +207,3 @@ item.BiblioGlasses.monocle.name=Monocle
 item.BiblioDrill.name=Screw Gun
 item.BiblioCreativeLock.name=Lock and Key
 item.BiblioClipboard.name=Clipboard
-

@@ -21,7 +21,6 @@ item.seatBack.YellowWoodSeatBack.name=Yellow Wood Seat Back
 // end of 1.5 additions
 
 // Highlands Woods addon
-
 GreyWoodBookcase.name=Grey Wood Bookcase
 hlRedWoodBookcase.name=Red Wood Bookcase
 WhiteWoodBookcase.name=White Wood Bookcase
@@ -54,4 +53,3 @@ GreyWoodToolRack.name=Grey Wood Tool Rack
 hlRedWoodToolRack.name=Red Wood Tool Rack
 WhiteWoodToolRack.name=White Wood Tool Rack
 YellowWoodToolRack.name=Yellow Wood Tool Rack
-

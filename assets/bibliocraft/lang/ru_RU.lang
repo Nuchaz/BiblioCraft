@@ -5,6 +5,42 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
+// All BiblioCraft 1.5 additions/////////////////////
+// 1.5 gui stuff
+gui.mapWaypoint.accept=Подтвердить
+gui.mapWaypoint.remove=Удалить
+gui.mapWaypoint.cancel=Отмена
+gui.mapWaypoint.waypoint=Метка
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Обеденная тарелка
+gui.discRack=Стойка для пластинок
+
+screwgun.firstSeat=Выбран первый стул.
+screwgun.secondSeat=Попытка отсоединения/присоединения стульев.
+
+// 1.5 Blocks
+DiscRack.name=Стойка для пластинок
+DinnerPlate.name=Обеденная тарелка
+OakMapFrame.name=Дубовая рамка для карты
+SpruceMapFrame.name=Еловая рамка для карты
+BirchMapFrame.name=Берёзовая рамка для карты
+JungleMapFrame.name=Рамка для карты из тропического дерева
+OakSeat.name=Дубовый стул
+SpruceSeat.name=Еловый стул
+BirchSeat.name=Берёзовый стул
+JungleSeat.name=Стул из тропического дерева
+
+// 1.5 Items
+item.seatBack.OakSeatBack.name=Дубовая спинка стула
+item.seatBack.SpruceSeatBack.name=Еловая спинка стула
+item.seatBack.BirchSeatBack.name=Берёзовая спинка стула
+item.seatBack.JungleSeatBack.name=Спинка стула из тропического дерева
+item.BiblioWayPointCompass.name=Координатный компас
+item.BiblioMapTool.name=Циркуль
+
+// End of 1.5 additions ////////////////////////////
+
 // Gui stuff
 gui.armorstand=Стойка для брони
 gui.bookcase=Книжный шкаф
@@ -17,7 +53,6 @@ gui.table=Деревянный стол
 gui.case=Витрина
 gui.toolrack=Стеллаж для инструментов
 gui.desk=Деревянный письменный стол
-
 
 //Tape Measure Texts
 tape.measurenorthsouth=Измерение север/юг =
@@ -40,50 +75,50 @@ MarkerPole.name=Указатель
 tile.BiblioType.name=Типографский стол
 tile.BiblioPress.name=Печатный станок
 tile.BiblioArmorStand.name=Стойка для брони
-OakBookcase.name=Книжный шкаф из древесины дуба
-SpruceBookcase.name=Книжный шкаф из древесины ели
-BirchBookcase.name=Книжный шкаф из древесины берёзы
-JungleBookcase.name=Книжный шкаф из древесины тропического дерева
-OakPotionShelf.name=Полка для зелий из древесины дуба
-SprucePotionShelf.name=Полка для зелий из древесины ели
-BirchPotionShelf.name=Полка для зелий из древесины берёзы
-JunglePotionShelf.name=Полка для зелий из древесины тропического дерева
-OakShelf.name=Полка из древесины дуба
-SpruceShelf.name=Полка из древесины ели
-BirchShelf.name=Полка из древесины берёзы
-JungleShelf.name=Полка из древесины тропического дерева
-OakWeaponRack.name=Стеллаж для инструментов из древесины дуба
-SpruceWeaponRack.name=Стеллаж для инструментов из древесины ели
-BirchWeaponRack.name=Стеллаж для инструментов из древесины берёзы
-JungleWeaponRack.name=Стеллаж для инструментов из древесины тропического дерева
-OakLabel.name=Бирка из древесины дуба
-SpruceLabel.name=Бирка из древесины ели
-BirchLabel.name=Бирка из древесины берёзы
-JungleLabel.name=Бирка из древесины тропического дерева
-RedLinedOakCase.name=Витрина из древесины дуба
-BlueLinedOakCase.name=Витрина из древесины дуба
-GreenLinedOakCase.name=Витрина из древесины дуба
-BlackLinedOakCase.name=Витрина из древесины дуба
-RedLinedSpruceCase.name=Витрина из древесины ели
-BlueLinedSpruceCase.name=Витрина из древесины ели
-GreenLinedSpruceCase.name=Витрина из древесины ели
-BlackLinedSpruceCase.name=Витрина из древесины ели
-RedLinedBirchCase.name=Витрина из древесины берёзы
-BlueLinedBirchCase.name=Витрина из древесины берёзы
-GreenLinedBirchCase.name=Витрина из древесины берёзы
-BlackLinedBirchCase.name=Витрина из древесины берёзы
-RedLinedJungleCase.name=Витрина из древесины тропического дерева
-BlueLinedJungleCase.name=Витрина из древесины тропического дерева
-GreenLinedJungleCase.name=Витрина из древесины тропического дерева
-BlackLinedJungleCase.name=Витрина из древесины тропического дерева
-OakWritingDesk.name=Письменный стол из древесины дуба
-SpruceWritingDesk.name=Письменный стол из древесины ели
-BirchWritingDesk.name=Письменный стол из древесины берёзы
-JungleWritingDesk.name=Письменный стол из древесины тропического дерева
-OakTable.name=Стол из древесины дуба
-SpruceTable.name=Стол из древесины ели
-BirchTable.name=Стол из древесины берёзы
-JungleTable.name=Стол из древесины тропического дерева
+OakBookcase.name=Дубовый книжный шкаф
+SpruceBookcase.name=Еловый книжный шкаф
+BirchBookcase.name=Берёзовый книжный шкаф
+JungleBookcase.name=Книжный шкаф из тропического дерева
+OakPotionShelf.name=Дубовая полка для зелий
+SprucePotionShelf.name=Еловая полка для зелий
+BirchPotionShelf.name=Берёзовая полка для зелий
+JunglePotionShelf.name=Полка для зелий из тропического дерева
+OakShelf.name=Дубовая полка
+SpruceShelf.name=Еловая полка
+BirchShelf.name=Берёзовая полка
+JungleShelf.name=Полка из тропического дерева
+OakWeaponRack.name=Дубовый стеллаж для инструментов
+SpruceWeaponRack.name=Еловый стеллаж для инструментов
+BirchWeaponRack.name=Берёзовый стеллаж для инструментов
+JungleWeaponRack.name=Стеллаж для инструментов из тропического дерева
+OakLabel.name=Дубовая бирка
+SpruceLabel.name=Еловая бирка
+BirchLabel.name=Берёзовая бирка
+JungleLabel.name=Бирка из тропического дерева
+RedLinedOakCase.name=Дубовая витрина
+BlueLinedOakCase.name=Дубовая витрина
+GreenLinedOakCase.name=Дубовая витрина
+BlackLinedOakCase.name=Дубовая витрина
+RedLinedSpruceCase.name=Еловая витрина
+BlueLinedSpruceCase.name=Еловая витрина
+GreenLinedSpruceCase.name=Еловая витрина
+BlackLinedSpruceCase.name=Еловая витрина
+RedLinedBirchCase.name=Берёзовая витрина
+BlueLinedBirchCase.name=Берёзовая витрина
+GreenLinedBirchCase.name=Берёзовая витрина
+BlackLinedBirchCase.name=Берёзовая витрина
+RedLinedJungleCase.name=Витрина из тропического дерева
+BlueLinedJungleCase.name=Витрина из тропического дерева
+GreenLinedJungleCase.name=Витрина из тропического дерева
+BlackLinedJungleCase.name=Витрина из тропического дерева
+OakWritingDesk.name=Дубовый письменный стол
+SpruceWritingDesk.name=Еловый письменный стол
+BirchWritingDesk.name=Берёзовый письменный стол
+JungleWritingDesk.name=Письменный стол из тропического дерева
+OakTable.name=Дубовый стол
+SpruceTable.name=Еловый стол
+BirchTable.name=Берёзовый стол
+JungleTable.name=Стол из тропического дерева
 
 //lights
 whiteLantern.name=Золотой фонарь
@@ -159,49 +194,16 @@ lantern.candle13=Сиреневая свеча
 lantern.candle14=Розовая свеча
 lantern.candle15=Коричневая свеча
 
+// Items
 item.tapeMeasure.name=Мерная лента
 item.tape.name=Катушка мерной ленты
-item.BiblioChase.name=Печатный рама
+item.BiblioChase.name=Печатная рама
 item.PrintPlate.name=Печатная форма
 item.EnchantedPlate.name=Зачарованная форма
-item.BiblioRedBook.name=Книга-рычаг
+item.BiblioRedBook.name=Красный камень: Том I
 item.BiblioGlasses.readingglasses.name=Очки для чтения
 item.BiblioGlasses.tintedglasses.name=Окрашенные очки
 item.BiblioGlasses.monocle.name=Монокль
 item.BiblioDrill.name=Дрель
 item.BiblioCreativeLock.name=Замок и ключ
 item.BiblioClipboard.name=Блокнот
-
-// All BiblioCraft 1.5 additions/////////////////////
-// 1.5 gui stuff
-gui.mapWaypoint.accept=Подтвердить
-gui.mapWaypoint.remove=Удалить
-gui.mapWaypoint.cancel=Отмена
-gui.mapWaypoint.waypoint=Пометка
-gui.compass.x=X:
-gui.compass.z=Z:
-gui.dinnerPlate=Поднос
-gui.discRack=Полка для пластинок
-
-screwgun.firstSeat=Выбрано певрое сиденье.
-screwgun.secondSeat=Попытка отсоединения/присоединения сидений.
-
-// 1.5 Blocks
-DiscRack.name=Полка для пластинок
-DinnerPlate.name=Поднос
-OakMapFrame.name=Дубовая рамка для карты
-SpruceMapFrame.name=Еловая рамка для карты
-BirchMapFrame.name=Берёзовая рамка для карты
-JungleMapFrame.name=Рамка для карты из древесины тропического дерева
-OakSeat.name=Дубовое сиденье
-SpruceSeat.name=Еловое сиденье
-BirchSeat.name=Берёзовое сиденье
-JungleSeat.name=Сиденье из тропического дерева
-
-// 1.5 Items
-item.seatBack.OakSeatBack.name=Дубовая спинка
-item.seatBack.SpruceSeatBack.name=Еловая спинка
-item.seatBack.BirchSeatBack.name=Берёзовая спинка
-item.seatBack.JungleSeatBack.name=Спинка из древесины тропического дерева
-item.BiblioWayPointCompass.name=Координатный компасс
-item.BiblioMapTool.name=Циркуль
