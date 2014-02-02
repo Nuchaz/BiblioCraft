@@ -5,11 +5,23 @@ language.code=it_IT
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
+// 1.5.5 localization updates
+enchant.reading=Lettura
+redbook.by=di
+plate.notValid=Non Valido
+typesetting.requires=Richiede
+typesetting.levels=Livelli
+typesetting.chase=Blocchi
+typesetting.bookSelect=Seleziona un libro.
+print.ink=Inchiostro
+print.book=Libri
+// end of 1.5.5 update
+
 // All BiblioCraft 1.5 additions/////////////////////
 // 1.5 gui stuff
-gui.mapWaypoint.accept=Accettato
-gui.mapWaypoint.remove=Rimosso
-gui.mapWaypoint.cancel=Cancellato
+gui.mapWaypoint.accept=Accetta
+gui.mapWaypoint.remove=Rimuovi
+gui.mapWaypoint.cancel=Cancella
 gui.mapWaypoint.waypoint=Punto
 gui.compass.x=X:
 gui.compass.z=Z:
@@ -36,8 +48,8 @@ item.seatBack.OakSeatBack.name=Schienale di Quercia
 item.seatBack.SpruceSeatBack.name=Schienale di Abete
 item.seatBack.BirchSeatBack.name=Schienale di Betulla
 item.seatBack.JungleSeatBack.name=Schienale di Legno della Giungla
-item.BiblioWayPointCompass.name=Compasso
-item.BiblioMapTool.name=Bussola Puntatore
+item.BiblioWayPointCompass.name=Bussola
+item.BiblioMapTool.name=Compasso
 
 // End of 1.5 additions ////////////////////////////
 
@@ -55,14 +67,14 @@ gui.toolrack=Scaffale per Attrezzi
 gui.desk=Scrivania
 
 //Tape Measure Texts
-tape.measurenorthsouth=Misurazione Nord/Sud = 
-tape.measureeastwest=Misurazione Est/Ovest = 
-tape.measureheight=Misurazione altezza = 
+tape.measurenorthsouth=Misura Nord/Sud = 
+tape.measureeastwest=Misura Est/Ovest = 
+tape.measureheight=Misura altezza = 
 tape.nomeasure=Nessuna Misurazione.
-tape.measure=Misuro = 
-tape.startmeasure=Iniziando a Misurare.
-tape.mode0=Scambiando la modalità a Nord/Sud, Est/Ovest e altezza.
-tape.mode1=Scambiando la modalità a misurazione assoluta.
+tape.measure=Misura = 
+tape.startmeasure=Inizio a Misurare.
+tape.mode0=Scambio la modalità in Nord/Sud, Est/Ovest e altezza.
+tape.mode1=Scambio la modalità in misurazione assoluta.
 
 
 
@@ -210,6 +222,6 @@ item.BiblioRedBook.name=Pietrarossa: Volume I
 item.BiblioGlasses.readingglasses.name=Occhiali
 item.BiblioGlasses.tintedglasses.name=Occhiali Scuri
 item.BiblioGlasses.monocle.name=Monocolo
-item.BiblioDrill.name=Vite Elerttrica
+item.BiblioDrill.name=Vite Elettrica
 item.BiblioCreativeLock.name=Chiave e Lucchetto
 item.BiblioClipboard.name=Cartella
