@@ -67,14 +67,14 @@ gui.toolrack=Scaffale per Attrezzi
 gui.desk=Scrivania
 
 //Tape Measure Texts
-tape.measurenorthsouth=Misurazione Nord/Sud = 
-tape.measureeastwest=Misurazione Est/Ovest = 
-tape.measureheight=Misurazione altezza = 
+tape.measurenorthsouth=Misura Nord/Sud = 
+tape.measureeastwest=Misura Est/Ovest = 
+tape.measureheight=Misura altezza = 
 tape.nomeasure=Nessuna Misurazione.
-tape.measure=Misuro = 
-tape.startmeasure=Iniziando a Misurare.
-tape.mode0=Scambiando la modalità a Nord/Sud, Est/Ovest e altezza.
-tape.mode1=Scambiando la modalità a misurazione assoluta.
+tape.measure=Misura = 
+tape.startmeasure=Inizio a Misurare.
+tape.mode0=Scambio la modalità in Nord/Sud, Est/Ovest e altezza.
+tape.mode1=Scambio la modalità in misurazione assoluta.
 
 
 
