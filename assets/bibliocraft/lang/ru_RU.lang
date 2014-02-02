@@ -5,6 +5,18 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
+// 1.5.5 localization updates
+enchant.reading=Чтение
+redbook.by=от
+plate.notValid=Не действительная
+typesetting.requires=Требуется:
+typesetting.levels=Levels
+typesetting.chase=Рама
+typesetting.bookSelect=Выбрать книгу.
+print.ink=Чернила
+print.book=Книги
+// end of 1.5.5 update
+
 // All BiblioCraft 1.5 additions/////////////////////
 // 1.5 gui stuff
 gui.mapWaypoint.accept=Подтвердить
