@@ -5,6 +5,18 @@ language.code=de_DE
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 
+// 1.5.5 localization updates
+enchant.reading=Lesen
+redbook.by=von
+plate.notValid=Ungültig
+typesetting.requires=Erfordert
+typesetting.levels=Level
+typesetting.chase=Platten
+typesetting.bookSelect=Wähle ein Buch
+print.ink=Tinte
+print.book=Bücher
+// end of 1.5.5 update
+
 // All BiblioCraft 1.5 additions/////////////////////
 // 1.5 gui stuff
 gui.mapWaypoint.accept=Akzeptieren
