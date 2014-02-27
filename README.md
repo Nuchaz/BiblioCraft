@@ -42,6 +42,6 @@ Language	    -           Lang Code	        -       Author(s)
  
  Turkish - tr_TR - Advancensar
  
- Norwegian - no_NO - mariogrip
+ Norwegian - no_NO - NikolaiNyegaard and mariogrip
 
 French - fr_FR - Linyor
