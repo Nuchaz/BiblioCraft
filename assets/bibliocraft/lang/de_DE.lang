@@ -4,54 +4,51 @@ language.code=de_DE
 
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=BiblioCraft: Beleuchtung
 
-// 1.5.5 localization updates
-enchant.reading=Lesen
-redbook.by=von
-plate.notValid=Ungültig
-typesetting.requires=Erfordert
-typesetting.levels=Level
-typesetting.chase=Platten
-typesetting.bookSelect=Wähle ein Buch
-print.ink=Tinte
-print.book=Bücher
-// end of 1.5.5 update
 
-// All BiblioCraft 1.5 additions/////////////////////
-// 1.5 gui stuff
-gui.mapWaypoint.accept=Akzeptieren
-gui.mapWaypoint.remove=Entfernen
-gui.mapWaypoint.cancel=Abbrechen
-gui.mapWaypoint.waypoint=Wegpunkt
-gui.compass.x=X:
-gui.compass.z=Z:
-gui.dinnerPlate=Teller
-gui.discRack=Plattenregal
+// All BiblioCraft 1.6 additions and changes/////////////////////
+AcaciaDesk.name=Akazienholz-Schreibtisch
+OldOakDesk.name=Schwarzeichenholz-Schreibtisch
+AcaciaBookcase.name=Akazienholz-Bücherschrank
+OldOakBookcase.name=Schwarzeichenholz-Bücherschrank
+AcaciaPotionShelf.name=Akazienholz-Trankregal
+OldOakPotionShelf.name=Schwarzeichenholz-Trankregal
+AcaciaShelf.name=Akazienholzregal
+OldOakShelf.name=Schwarzeichenholzregal
+AcaciaWeaponRack.name=Akazienholz-Werkzeugregal
+OldOakWeaponRack.name=Schwarzeichenholz-Werkzeugregal
+AcaciaLabel.name=Akazienholzschildchen
+OldOakLabel.name=Schwarzeichenholzschildchen
+AcaciaTable.name=Akazienholztisch
+OldOakTable.name=Schwarzeichenholztisch
+AcaciaMapFrame.name=Akazienholz-Kartenrahmen
+OldOakMapFrame.name=Schwarzeichenholz-Kartenrahmen
+AcaciaSeat.name=Akazienholzsitz
+OldOakSeat.name=Schwarzeichenholzsitz
+OakCase.name=Eichenholz-Schaukasten
+SpruceCase.name=Fichtenholz-Schaukasten
+BirchCase.name=Birkenholz-Schaukasten
+JungleCase.name=Tropenholz-Schaukasten
+AcaciaCase.name=Akazienholz-Schaukasten
+OldOakCase.name=Schwarzeichenholz-Schaukasten
+item.seatBack.AcaciaSeatBack.name=Akazienholzsitzlehne
+item.seatBack.OldOakSeatBack.name=Schwarzeichenholzsitzlehne
+lighting.metalIron=Besteht aus Eisen
+lighting.metalGold=Besteht aus Gold
+gui.typesetting.guiTitle=Drucksetzer: Buch-Management
+gui.typesetting.pageOfpages=von
+gui.typesetting.public=Öffentlich
+gui.typesetting.private=Privat
+gui.typesetting.delete=Löschen
+gui.typesetting.select=Wählen
+gui.typesetting.nextPage=Nächste Seite
+gui.typesetting.prevPage=Seite zurück
+gui.typesetting.exit=Beenden
+gui.typesetting.enableDiscard=Abbrechen
+// End of 1.6 additions ////////////////////////////
 
-screwgun.firstSeat=Erster Sitz ausgewählt.
-screwgun.secondSeat=Versuche, Sitze anzubringen/abzutrennen.
 
-// 1.5 Blocks
-DiscRack.name=Plattenregal
-DinnerPlate.name=Teller
-OakMapFrame.name=Eichenholz-Kartenrahmen
-SpruceMapFrame.name=Fichtenholz-Kartenrahmen
-BirchMapFrame.name=Birkenholz-Kartenrahmen
-JungleMapFrame.name=Tropenholz-Kartenrahmen
-OakSeat.name=Eichenholzsitz
-SpruceSeat.name=Fichtenholzsitz
-BirchSeat.name=Birkenholzsitz
-JungleSeat.name=Tropenholzsitz
-
-// 1.5 Items
-item.seatBack.OakSeatBack.name=Eichenholzrücksitz
-item.seatBack.SpruceSeatBack.name=Fichtenholzrücksitz
-item.seatBack.BirchSeatBack.name=Birkenholzrücksitz
-item.seatBack.JungleSeatBack.name=Tropenholzrücksitz
-item.BiblioWayPointCompass.name=Wegpunktkompass
-item.BiblioMapTool.name=Entwurfskompass
-
-// End of 1.5 additions ////////////////////////////
 
 // Gui stuff
 gui.armorstand=Rüstungsstand
@@ -60,12 +57,31 @@ gui.cookiejar=Keksglas
 gui.shelf=Regal
 gui.label=Schildchen
 gui.potionshelf=Trankregal
-gui.typeset.selectbook=Bitte wähle ein Buch
 gui.table=Tisch
 gui.case=Schaukasten
 gui.toolrack=Werkzeugregal
 gui.desk=Schreibtisch
+gui.mapWaypoint.accept=Annehmen
+gui.mapWaypoint.remove=Entfernen
+gui.mapWaypoint.cancel=Abbrechen
+gui.mapWaypoint.waypoint=Wegpunkt
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Teller
+gui.discRack=Plattenregal
 
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=Lesen
+redbook.by=von
+plate.notValid=Ungültig
+typesetting.requires=Erfordert
+typesetting.levels=Level
+typesetting.chase=Drucksatzrahmen
+typesetting.bookSelect=Wähle ein Buch.
+print.ink=Tinte
+print.book=Bücher
+screwgun.firstSeat=Erster Sitz ausgewählt.
+screwgun.secondSeat=Versuche, Sitze anzubringen/abzutrennen.
 
 //Tape Measure Texts
 tape.measurenorthsouth=Messung Nord/Süd = 
@@ -76,7 +92,6 @@ tape.measure=Gemessen =
 tape.startmeasure=Starte Messung.
 tape.mode0=Ändere Modus zu Nord/Süd, Ost/West und Höhe.
 tape.mode1=Ändere Modus zu absoluter Messung.
-
 lock.creativeonly=Nur Kreativmodus
 lock.notowner=Du bist nicht Besitzer dieses Blocks.
 lock.locked=Dieser Block wurde gesperrt.
@@ -85,7 +100,7 @@ lock.unlocked=Dieser Block wurde entsperrt.
 // Blocks
 CookieJar.name=Keksglas
 MarkerPole.name=Marker
-tile.BiblioType.name=Druckerplattenpresse
+tile.BiblioType.name=Drucksetzer
 tile.BiblioPress.name=Druckpresse
 tile.BiblioArmorStand.name=Rüstungsstand
 OakBookcase.name=Eichenholz-Bücherschrank
@@ -108,22 +123,6 @@ OakLabel.name=Eichenholzschildchen
 SpruceLabel.name=Fichtenholzschildchen
 BirchLabel.name=Birkenholzschildchen
 JungleLabel.name=Tropenholzschildchen
-RedLinedOakCase.name=Eichenholz-Schaukasten
-BlueLinedOakCase.name=Eichenholz-Schaukasten
-GreenLinedOakCase.name=Eichenholz-Schaukasten
-BlackLinedOakCase.name=Eichenholz-Schaukasten
-RedLinedSpruceCase.name=Fichtenholz-Schaukasten
-BlueLinedSpruceCase.name=Fichtenholz-Schaukasten
-GreenLinedSpruceCase.name=Fichtenholz-Schaukasten
-BlackLinedSpruceCase.name=Fichtenholz-Schaukasten
-RedLinedBirchCase.name=Birkenholz-Schaukasten
-BlueLinedBirchCase.name=Birkenholz-Schaukasten
-GreenLinedBirchCase.name=Birkenholz-Schaukasten
-BlackLinedBirchCase.name=Birkenholz-Schaukasten
-RedLinedJungleCase.name=Tropenholz-Schaukasten
-BlueLinedJungleCase.name=Tropenholz-Schaukasten
-GreenLinedJungleCase.name=Tropenholz-Schaukasten
-BlackLinedJungleCase.name=Tropenholz-Schaukasten
 OakWritingDesk.name=Eichenholz-Schreibtisch
 SpruceWritingDesk.name=Fichtenholz-Schreibtisch
 BirchWritingDesk.name=Birkenholz-Schreibtisch
@@ -132,24 +131,34 @@ OakTable.name=Eichenholztisch
 SpruceTable.name=Fichtenholztisch
 BirchTable.name=Birkenholztisch
 JungleTable.name=Tropenholztisch
+DiscRack.name=Plattenregal
+DinnerPlate.name=Teller
+OakMapFrame.name=Eichenholz-Kartenrahmen
+SpruceMapFrame.name=Fichtenholz-Kartenrahmen
+BirchMapFrame.name=Birkenholz-Kartenrahmen
+JungleMapFrame.name=Tropenholz-Kartenrahmen
+OakSeat.name=Eichenholzsitz
+SpruceSeat.name=Fichtenholzsitz
+BirchSeat.name=Birkenholzsitz
+JungleSeat.name=Tropenholzsitz
 
 //lights
-whiteLantern.name=Goldene Laterne
-lightGrayLantern.name=Goldene Laterne
-grayLantern.name=Goldene Laterne
-blackLantern.name=Goldene Laterne
-redLantern.name=Goldene Laterne
-orangeLantern.name=Goldene Laterne
-yellowLantern.name=Goldene Laterne
-limeLantern.name=Goldene Laterne
-greenLantern.name=Goldene Laterne
-cyanLantern.name=Goldene Laterne
-lightBlueLantern.name=Goldene Laterne
-blueLantern.name=Goldene Laterne
-purpleLantern.name=Goldene Laterne
-magentaLantern.name=Goldene Laterne
-pinkLantern.name=Goldene Laterne
-brownLantern.name=Goldene Laterne
+whiteLantern.name=Schicke Laterne
+lightGrayLantern.name=Schicke Laterne
+grayLantern.name=Schicke Laterne
+blackLantern.name=Schicke Laterne
+redLantern.name=Schicke Laterne
+orangeLantern.name=Schicke Laterne
+yellowLantern.name=Schicke Laterne
+limeLantern.name=Schicke Laterne
+greenLantern.name=Schicke Laterne
+cyanLantern.name=Schicke Laterne
+lightBlueLantern.name=Schicke Laterne
+blueLantern.name=Schicke Laterne
+purpleLantern.name=Schicke Laterne
+magentaLantern.name=Schicke Laterne
+pinkLantern.name=Schicke Laterne
+brownLantern.name=Schicke Laterne
 
 whiteLamp.name=Schicke Lampe
 lightGrayLamp.name=Schicke Lampe
@@ -167,11 +176,6 @@ purpleLamp.name=Schicke Lampe
 magentaLamp.name=Schicke Lampe
 pinkLamp.name=Schicke Lampe
 brownLamp.name=Schicke Lampe
-
-tile.case.redline=Rotes Futter
-tile.case.blueline=Blaues Futter
-tile.case.greenline=Grünes Futter
-tile.case.blackline=Schwarzes Futter
 
 lamp.hood0=Weißer Lampenschirm
 lamp.hood1=Hellgrauer Lampenschirm
@@ -210,9 +214,9 @@ lantern.candle15=Braune Kerze
 // Items
 item.tapeMeasure.name=Maßband
 item.tape.name=Maßbandrolle
-item.BiblioChase.name=Druckerpressenrahmen
-item.PrintPlate.name=Druckerpressenplatte
-item.EnchantedPlate.name=Verzauberte Platte
+item.BiblioChase.name=Drucksatzrahmen
+item.PrintPlate.name=Drucksatz
+item.EnchantedPlate.name=Verzauberter Satz
 item.BiblioRedBook.name=Redstone: Band I
 item.BiblioGlasses.readingglasses.name=Lesebrille
 item.BiblioGlasses.tintedglasses.name=Getönte Brille
@@ -220,3 +224,9 @@ item.BiblioGlasses.monocle.name=Monokel
 item.BiblioDrill.name=Schraubendreher
 item.BiblioCreativeLock.name=Schlüssel und Schloss
 item.BiblioClipboard.name=Klemmbrett
+item.seatBack.OakSeatBack.name=Eichenholzsitzlehne
+item.seatBack.SpruceSeatBack.name=Fichtenholzsitzlehne
+item.seatBack.BirchSeatBack.name=Birkenholzsitzlehne
+item.seatBack.JungleSeatBack.name=Tropenholzsitzlehne
+item.BiblioWayPointCompass.name=Wegpunktkompass
+item.BiblioMapTool.name=Entwurfskompass
