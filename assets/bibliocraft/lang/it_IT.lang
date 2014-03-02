@@ -4,21 +4,60 @@ language.code=it_IT
 
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=BiblioCraft Luci
 
-// 1.5.5 localization updates
-enchant.reading=Lettura
-redbook.by=di
-plate.notValid=Non Valido
-typesetting.requires=Richiede
-typesetting.levels=Livelli
-typesetting.chase=Blocchi
-typesetting.bookSelect=Seleziona un libro.
-print.ink=Inchiostro
-print.book=Libri
-// end of 1.5.5 update
+// All BiblioCraft 1.6 additions and changes/////////////////////
+AcaciaDesk.name=Scrivania di Acacia
+OldOakDesk.name=Scrivania di Quercia Scura
+AcaciaBookcase.name=Libreria di Acacia
+OldOakBookcase.name=Libreria di Quercia Scura
+AcaciaPotionShelf.name=Scaffale per le Pozioni di Acacia
+OldOakPotionShelf.name=Scaffale per le Pozioni di Quercia Scura
+AcaciaShelf.name=Scaffale di Acacia
+OldOakShelf.name=Scaffale di Quercia Scura
+AcaciaWeaponRack.name=Scaffale per Attrezzi di Acacia
+OldOakWeaponRack.name=Scaffale per Attrezzi di Quercia Scura
+AcaciaLabel.name=Etichetta di Acacia
+OldOakLabel.name=Etichetta di Quercia Scura
+AcaciaTable.name=Tavolo di Acacia
+OldOakTable.name=Tavolo di Quercia Scura
+AcaciaMapFrame.name=Cornice per Mappa di Acacia
+OldOakMapFrame.name=Cornice per Mappa di Quercia Scura
+AcaciaSeat.name=Sedia di Acacia
+OldOakSeat.name=Sedia di Quercia Scura
+OakCase.name=Vetrina di Quercia
+SpruceCase.name=Vetrina di Abete
+BirchCase.name=Vetrina di Betulla
+JungleCase.name=Vetrina di Legno della Giungla
+AcaciaCase.name=Vetrina di Acacia
+OldOakCase.name=Vetrina di Quercia Scura
+item.seatBack.AcaciaSeatBack.name=Schienale di Acacia
+item.seatBack.OldOakSeatBack.name=Schienale di Quercia Scura
+lighting.metalIron=Fatto di Ferro
+lighting.metalGold=Fatto d'Oro 
+gui.typesetting.guiTitle=Tavolo del Tipografo: Gestione dei Libri
+gui.typesetting.pageOfpages=di
+gui.typesetting.public=Publico
+gui.typesetting.private=Privato
+gui.typesetting.delete=Elimina
+gui.typesetting.select=Seleziona
+gui.typesetting.nextPage=Prossima Pagina
+gui.typesetting.prevPage=Pagina Precedente
+gui.typesetting.exit=Esci
+gui.typesetting.enableDiscard=Scarta
+// End of 1.6 additions ////////////////////////////
 
-// All BiblioCraft 1.5 additions/////////////////////
-// 1.5 gui stuff
+// Gui stuff
+gui.armorstand=Manichino
+gui.bookcase=Libreria
+gui.cookiejar=Vaso di Biscotti
+gui.shelf=Scaffale
+gui.label=Etichetta di Legno
+gui.potionshelf=Scaffale per le Pozioni
+gui.table=Tavolo
+gui.case=Vetrina
+gui.toolrack=Scaffale per Attrezzi
+gui.desk=Scrivania
 gui.mapWaypoint.accept=Accetta
 gui.mapWaypoint.remove=Rimuovi
 gui.mapWaypoint.cancel=Cancella
@@ -28,43 +67,18 @@ gui.compass.z=Z:
 gui.dinnerPlate=Piatto
 gui.discRack=Scaffale per Dischi
 
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=Lettura
+redbook.by=di
+plate.notValid=Non Valido
+typesetting.requires=Richiede
+typesetting.levels=Livelli
+typesetting.chase=Blocchi
+typesetting.bookSelect=Seleziona un libro.
+print.ink=Inchiostro
+print.book=Libri
 screwgun.firstSeat=Selezionato primo schienale.
 screwgun.secondSeat=Provato a attaccare/dividere sedie.
-
-// 1.5 Blocks
-DiscRack.name=Scaffale per Dischi
-DinnerPlate.name=Piatto
-OakMapFrame.name=Cornice per Mappa di Quercia
-SpruceMapFrame.name=Cornice per Mappa di Abete
-BirchMapFrame.name=Cornice per Mappa di Betulla
-JungleMapFrame.name=Cornice per Mappa di Legno della Giungla
-OakSeat.name=Sedia di Quercia
-SpruceSeat.name=Sedia di Abete
-BirchSeat.name=Sedia di Betulla
-JungleSeat.name=Sedia di Legno della Giungla
-
-// 1.5 Items
-item.seatBack.OakSeatBack.name=Schienale di Quercia
-item.seatBack.SpruceSeatBack.name=Schienale di Abete
-item.seatBack.BirchSeatBack.name=Schienale di Betulla
-item.seatBack.JungleSeatBack.name=Schienale di Legno della Giungla
-item.BiblioWayPointCompass.name=Bussola
-item.BiblioMapTool.name=Compasso
-
-// End of 1.5 additions ////////////////////////////
-
-// Gui stuff
-gui.armorstand=Manichino
-gui.bookcase=Libreria
-gui.cookiejar=Vaso di Biscotti
-gui.shelf=Scaffale
-gui.label=Etichetta di Legno
-gui.potionshelf=Scaffale per le Pozioni
-gui.typeset.selectbook=Seleziona un Libro
-gui.table=Tavolo
-gui.case=Vetrina
-gui.toolrack=Scaffale per Attrezzi
-gui.desk=Scrivania
 
 //Tape Measure Texts
 tape.measurenorthsouth=Misura Nord/Sud = 
@@ -75,15 +89,10 @@ tape.measure=Misura =
 tape.startmeasure=Inizio a Misurare.
 tape.mode0=Scambio la modalità in Nord/Sud, Est/Ovest e altezza.
 tape.mode1=Scambio la modalità in misurazione assoluta.
-
-
-
 lock.creativeonly=Solo in Modalità Creativa
 lock.notowner=Non sei il propietario di questo blocco.
 lock.locked=Queto blocco è stato bloccato.
 lock.unlocked=Queto blocco è stato sbloccato.
-
-
 
 // Blocks
 CookieJar.name=Vaso di Biscotti
@@ -111,22 +120,6 @@ OakLabel.name=Etichetta di Quercia
 SpruceLabel.name=Etichetta di Abete
 BirchLabel.name=Etichetta di Betulla
 JungleLabel.name=Etichetta di Legno della Giungla
-RedLinedOakCase.name=Vetrina di Quercia
-BlueLinedOakCase.name=Vetrina di Quercia
-GreenLinedOakCase.name=Vetrina di Quercia
-BlackLinedOakCase.name=Vetrina di Quercia
-RedLinedSpruceCase.name=Vetrina di Abete
-BlueLinedSpruceCase.name=Vetrina di Abete
-GreenLinedSpruceCase.name=Vetrina di Abete
-BlackLinedSpruceCase.name=Vetrina di Abete
-RedLinedBirchCase.name=Vetrina di Betulla
-BlueLinedBirchCase.name=Vetrina di Betulla
-GreenLinedBirchCase.name=Vetrina di Betulla
-BlackLinedBirchCase.name=Vetrina di Betulla
-RedLinedJungleCase.name=Vetrina di Legno della Giungla
-BlueLinedJungleCase.name=Vetrina di Legno della Giungla
-GreenLinedJungleCase.name=Vetrina di Legno della Giungla
-BlackLinedJungleCase.name=Vetrina di Legno della Giungla
 OakWritingDesk.name=Scrivania di Quercia
 SpruceWritingDesk.name=Scrivania di Abete
 BirchWritingDesk.name=Scrivania di Betulla
@@ -135,25 +128,34 @@ OakTable.name=Tavolo di Quercia
 SpruceTable.name=Tavolo di Quercia
 BirchTable.name=Tavolo di Quercia
 JungleTable.name=Tavolo di Legno della Giungla
+DiscRack.name=Scaffale per Dischi
+DinnerPlate.name=Piatto
+OakMapFrame.name=Cornice per Mappa di Quercia
+SpruceMapFrame.name=Cornice per Mappa di Abete
+BirchMapFrame.name=Cornice per Mappa di Betulla
+JungleMapFrame.name=Cornice per Mappa di Legno della Giungla
+OakSeat.name=Sedia di Quercia
+SpruceSeat.name=Sedia di Abete
+BirchSeat.name=Sedia di Betulla
+JungleSeat.name=Sedia di Legno della Giungla
 
 //lights
-
-whiteLantern.name=Lanterna d'Oro
-lightGrayLantern.name=Lanterna d'Oro
-grayLantern.name=Lanterna d'Oro
-blackLantern.name=Lanterna d'Oro
-redLantern.name=Lanterna d'Oro
-orangeLantern.name=Lanterna d'Oro
-yellowLantern.name=Lanterna d'Oro
-limeLantern.name=Lanterna d'Oro
-greenLantern.name=Lanterna d'Oro
-cyanLantern.name=Lanterna d'Oro
-lightBlueLantern.name=Lanterna d'Oro
-blueLantern.name=Lanterna d'Oro
-purpleLantern.name=Lanterna d'Oro
-magentaLantern.name=Lanterna d'Oro
-pinkLantern.name=Lanterna d'Oro
-brownLantern.name=Lanterna d'Oro
+whiteLantern.name=Lanterna Chic
+lightGrayLantern.name=Lanterna Chic
+grayLantern.name=Lanterna Chic
+blackLantern.name=Lanterna Chic
+redLantern.name=Lanterna Chic
+orangeLantern.name=Lanterna Chic
+yellowLantern.name=Lanterna Chic
+limeLantern.name=Lanterna Chic
+greenLantern.name=Lanterna Chic
+cyanLantern.name=Lanterna Chic
+lightBlueLantern.name=Lanterna Chic
+blueLantern.name=Lanterna Chic
+purpleLantern.name=Lanterna Chic
+magentaLantern.name=Lanterna Chic
+pinkLantern.name=Lanterna Chic
+brownLantern.name=Lanterna Chic
 
 whiteLamp.name=Lampada
 lightGrayLamp.name=Lampada
@@ -171,11 +173,6 @@ purpleLamp.name=Lampada
 magentaLamp.name=Lampada
 pinkLamp.name=Lampada
 brownLamp.name=Lampada
-
-tile.case.redline=Rosso
-tile.case.blueline=Blu
-tile.case.greenline=Verde
-tile.case.blackline=Nero
 
 lamp.hood0=Paralume Bianco
 lamp.hood1=Paralume Grigio Chiaro
@@ -222,6 +219,12 @@ item.BiblioRedBook.name=Pietrarossa: Volume I
 item.BiblioGlasses.readingglasses.name=Occhiali
 item.BiblioGlasses.tintedglasses.name=Occhiali Scuri
 item.BiblioGlasses.monocle.name=Monocolo
-item.BiblioDrill.name=Vite Elettrica
+item.BiblioDrill.name=Vite a Pietrarossa
 item.BiblioCreativeLock.name=Chiave e Lucchetto
 item.BiblioClipboard.name=Cartella
+item.seatBack.OakSeatBack.name=Schienale di Quercia
+item.seatBack.SpruceSeatBack.name=Schienale di Abete
+item.seatBack.BirchSeatBack.name=Schienale di Betulla
+item.seatBack.JungleSeatBack.name=Schienale di Legno della Giungla
+item.BiblioWayPointCompass.name=Bussola
+item.BiblioMapTool.name=Compasso
