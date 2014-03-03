@@ -91,7 +91,7 @@ tape.nomeasure=No Measurement.
 tape.measure=Measurement = 
 tape.startmeasure=Starting Measurement.
 tape.mode0=Switching mode to North/South, East/West, and height.
-tape.mode1=Switching mode to absolute measurment.
+tape.mode1=Switching mode to absolute measurement.
 lock.creativeonly=Creative Mode Only
 lock.notowner=You are not the owner of this block.
 lock.locked=This block has been locked.
