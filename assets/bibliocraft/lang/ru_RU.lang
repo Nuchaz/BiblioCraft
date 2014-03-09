@@ -4,6 +4,49 @@ language.code=ru_RU
 
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=Освещение из BiblioCraft
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+AcaciaDesk.name=Акациевый стол
+OldOakDesk.name=Тёмнодубовый стол
+AcaciaBookcase.name=Акациевая книжная полка
+OldOakBookcase.name=Тёмнодубовая книжная полка
+AcaciaPotionShelf.name=Акациевая полка для зелий
+OldOakPotionShelf.name=Тёмнодубовая полка для зелий
+AcaciaShelf.name=Акациевая полка
+OldOakShelf.name=Тёмнодубовая полка
+AcaciaWeaponRack.name=Акациевый стеллаж
+OldOakWeaponRack.name=Тёмнодубовый стеллаж
+AcaciaLabel.name=Акациевая бирка
+OldOakLabel.name=Тёмнодубовая бирка
+AcaciaTable.name=Акациевый стол
+OldOakTable.name=Тёмнодубовый стол
+AcaciaMapFrame.name=Акациевая рамка для карты
+OldOakMapFrame.name=Тёмнодубовая рамка для карты
+AcaciaSeat.name=Акациевое сиденье
+OldOakSeat.name=Тёмнодубовое сиденье
+OakCase.name=Дубовая подкладка
+SpruceCase.name=Еловая подкладка
+BirchCase.name=Берёзовая подкладка
+JungleCase.name=Тропическодревесная подкладка
+AcaciaCase.name=Акациевая подкладка
+OldOakCase.name=Тёмнодревесная подкладка
+item.seatBack.AcaciaSeatBack.name=Акациевая спинка
+item.seatBack.OldOakSeatBack.name=Тёмнодревесная подкладка
+lighting.metalIron=Сделано из железа
+lighting.metalGold=Сделано из золота
+gui.typesetting.guiTitle=Набор текста в таблице: книга
+gui.typesetting.pageOfpages=из
+gui.typesetting.public=Публично
+gui.typesetting.private=Личное
+gui.typesetting.delete=Удалить
+gui.typesetting.select=Выбрать
+gui.typesetting.nextPage=Следующая страница
+gui.typesetting.prevPage=Предыдущая страница
+gui.typesetting.exit=Выход
+gui.typesetting.enableDiscard=Отсеить
+// End of 1.6 additions ////////////////////////////
 
 // 1.5.5 localization updates
 enchant.reading=Чтение
@@ -107,22 +150,6 @@ OakLabel.name=Дубовая бирка
 SpruceLabel.name=Еловая бирка
 BirchLabel.name=Берёзовая бирка
 JungleLabel.name=Бирка из тропического дерева
-RedLinedOakCase.name=Дубовая витрина
-BlueLinedOakCase.name=Дубовая витрина
-GreenLinedOakCase.name=Дубовая витрина
-BlackLinedOakCase.name=Дубовая витрина
-RedLinedSpruceCase.name=Еловая витрина
-BlueLinedSpruceCase.name=Еловая витрина
-GreenLinedSpruceCase.name=Еловая витрина
-BlackLinedSpruceCase.name=Еловая витрина
-RedLinedBirchCase.name=Берёзовая витрина
-BlueLinedBirchCase.name=Берёзовая витрина
-GreenLinedBirchCase.name=Берёзовая витрина
-BlackLinedBirchCase.name=Берёзовая витрина
-RedLinedJungleCase.name=Витрина из тропического дерева
-BlueLinedJungleCase.name=Витрина из тропического дерева
-GreenLinedJungleCase.name=Витрина из тропического дерева
-BlackLinedJungleCase.name=Витрина из тропического дерева
 OakWritingDesk.name=Дубовый письменный стол
 SpruceWritingDesk.name=Еловый письменный стол
 BirchWritingDesk.name=Берёзовый письменный стол
@@ -166,11 +193,6 @@ purpleLamp.name=Светильник
 magentaLamp.name=Светильник
 pinkLamp.name=Светильник
 brownLamp.name=Светильник
-
-tile.case.redline=Красная подкладка
-tile.case.blueline=Синяя подкладка
-tile.case.greenline=Зелёная подкладка
-tile.case.blackline=Чёрная подкладка
 
 lamp.hood0=Белый плафон
 lamp.hood1=Светло-серый плафон
