@@ -228,5 +228,5 @@ item.seatBack.OakSeatBack.name=Eichenholzsitzlehne
 item.seatBack.SpruceSeatBack.name=Fichtenholzsitzlehne
 item.seatBack.BirchSeatBack.name=Birkenholzsitzlehne
 item.seatBack.JungleSeatBack.name=Tropenholzsitzlehne
-item.BiblioWayPointCompass.name=Wegpunktkompass
-item.BiblioMapTool.name=Entwurfskompass
+item.BiblioWayPointCompass.name=Marschkompass
+item.BiblioMapTool.name=Stechzirkel
