@@ -7,6 +7,11 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Beleuchtung
 
 
+//1.6.2 additions
+gui.redbook.title=Buchtitel:
+gui.redbook.description.p1=Das Redstone-Buch wird in Kombination mit einem Bücherschrank verwendet, um ein Redstone-Signal auszusenden. Wenn in einem Bücherschrank platziert, wird ein Redstone-Signal zu allen Seiten außer der Vorderseite entsendet. Die Stärke des Signals hängt von dem Slot des Bücherschrankes ab, in dem das Buch sich befindet. 
+gui.redbook.description.p2=Ein Bücherschrank hat 16 Slots, Slot 1 ist oben links und Slot 16 unten rechts. Wenn das Redstone-Buch in Slot 1 platziert wird, wird der Bücherschrank kein Redstone-Signal aussenden. Wenn das Buch in Slot 2 platziert wird, wird ein Signal der Stärke 1 ausgesendet. Jeder Slot danach erhöht die Stärke um 1, bis Slot 16, der das volle Redstone-Signal der Stärke 15 aussenden lässt.
+
 // All BiblioCraft 1.6 additions and changes/////////////////////
 AcaciaDesk.name=Akazienholz-Schreibtisch
 OldOakDesk.name=Schwarzeichenholz-Schreibtisch
