@@ -7,6 +7,11 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=Освещение из BiblioCraft
 
 
+//1.6.2 additions
+gui.redbook.title=Название:
+gui.redbook.description.p1=Редстоун-книга используется в комбинации с книжной полкой для подачи редстоун-сигнала. При установке такой книги на полку, полкой будет выдаст сигнал редстоуна со всех сторон, кроме переда. Сила зависит от места кгиги на полке. 
+gui.redbook.description.p2=В книжной полке 16 мест, начиная с 1 сверху слева и заканчивая 16-ым снизу справа. Если редстоун-книга стоит на первом месте, сигнала не будет. Если на 2-ом, то сила будет равна 1. Каждое место увеличивает силу на 1. В итоге 16-ое место выдает сигнал в полную силу (15).
+
 // All BiblioCraft 1.6 additions and changes/////////////////////
 AcaciaDesk.name=Акациевый стол
 OldOakDesk.name=Тёмнодубовый стол
@@ -48,20 +53,19 @@ gui.typesetting.exit=Выход
 gui.typesetting.enableDiscard=Отсеить
 // End of 1.6 additions ////////////////////////////
 
-// 1.5.5 localization updates
-enchant.reading=Чтение
-redbook.by=от
-plate.notValid=Не действительная
-typesetting.requires=Требуется:
-typesetting.levels=Levels
-typesetting.chase=Рама
-typesetting.bookSelect=Выбрать книгу.
-print.ink=Чернила
-print.book=Книги
-// end of 1.5.5 update
 
-// All BiblioCraft 1.5 additions/////////////////////
-// 1.5 gui stuff
+
+// Gui stuff
+gui.armorstand=Стойка для брони
+gui.bookcase=Книжный шкаф
+gui.cookiejar=Банка для печенья
+gui.shelf=Деревянная полка
+gui.label=Деревянная бирка
+gui.potionshelf=Полка для зелий
+gui.table=Деревянный стол
+gui.case=Витрина
+gui.toolrack=Стеллаж для инструментов
+gui.desk=Деревянный письменный стол
 gui.mapWaypoint.accept=Подтвердить
 gui.mapWaypoint.remove=Удалить
 gui.mapWaypoint.cancel=Отмена
@@ -71,43 +75,18 @@ gui.compass.z=Z:
 gui.dinnerPlate=Обеденная тарелка
 gui.discRack=Стойка для пластинок
 
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=Чтение
+redbook.by=от
+plate.notValid=Не действительная
+typesetting.requires=Требуется:
+typesetting.levels=Levels
+typesetting.chase=Рама
+typesetting.bookSelect=Выбрать книгу.
+print.ink=Чернила
+print.book=Книги
 screwgun.firstSeat=Выбран первый стул.
 screwgun.secondSeat=Попытка отсоединения/присоединения стульев.
-
-// 1.5 Blocks
-DiscRack.name=Стойка для пластинок
-DinnerPlate.name=Обеденная тарелка
-OakMapFrame.name=Дубовая рамка для карты
-SpruceMapFrame.name=Еловая рамка для карты
-BirchMapFrame.name=Берёзовая рамка для карты
-JungleMapFrame.name=Рамка для карты из тропического дерева
-OakSeat.name=Дубовый стул
-SpruceSeat.name=Еловый стул
-BirchSeat.name=Берёзовый стул
-JungleSeat.name=Стул из тропического дерева
-
-// 1.5 Items
-item.seatBack.OakSeatBack.name=Дубовая спинка стула
-item.seatBack.SpruceSeatBack.name=Еловая спинка стула
-item.seatBack.BirchSeatBack.name=Берёзовая спинка стула
-item.seatBack.JungleSeatBack.name=Спинка стула из тропического дерева
-item.BiblioWayPointCompass.name=Координатный компас
-item.BiblioMapTool.name=Циркуль
-
-// End of 1.5 additions ////////////////////////////
-
-// Gui stuff
-gui.armorstand=Стойка для брони
-gui.bookcase=Книжный шкаф
-gui.cookiejar=Банка для печенья
-gui.shelf=Деревянная полка
-gui.label=Деревянная бирка
-gui.potionshelf=Полка для зелий
-gui.typeset.selectbook=Пожалуйста, выберите книгу
-gui.table=Деревянный стол
-gui.case=Витрина
-gui.toolrack=Стеллаж для инструментов
-gui.desk=Деревянный письменный стол
 
 //Tape Measure Texts
 tape.measurenorthsouth=Измерение север/юг =
@@ -118,7 +97,6 @@ tape.measure=Измерение =
 tape.startmeasure=Начало измерения.
 tape.mode0=Переключение режима на север/юг, восток/запад, и высоту.
 tape.mode1=Переключение режима на абсолютное измерение.
-
 lock.creativeonly=Только для творческого режима
 lock.notowner=Вы не владелец этого блока.
 lock.locked=Этот блок был закрыт.
@@ -158,6 +136,16 @@ OakTable.name=Дубовый стол
 SpruceTable.name=Еловый стол
 BirchTable.name=Берёзовый стол
 JungleTable.name=Стол из тропического дерева
+DiscRack.name=Стойка для пластинок
+DinnerPlate.name=Обеденная тарелка
+OakMapFrame.name=Дубовая рамка для карты
+SpruceMapFrame.name=Еловая рамка для карты
+BirchMapFrame.name=Берёзовая рамка для карты
+JungleMapFrame.name=Рамка для карты из тропического дерева
+OakSeat.name=Дубовый стул
+SpruceSeat.name=Еловый стул
+BirchSeat.name=Берёзовый стул
+JungleSeat.name=Стул из тропического дерева
 
 //lights
 whiteLantern.name=Золотой фонарь
@@ -234,10 +222,16 @@ item.tape.name=Катушка мерной ленты
 item.BiblioChase.name=Печатная рама
 item.PrintPlate.name=Печатная форма
 item.EnchantedPlate.name=Зачарованная форма
-item.BiblioRedBook.name=Красный камень: Том I
+item.BiblioRedBook.name=Редстоун: Том I
 item.BiblioGlasses.readingglasses.name=Очки для чтения
 item.BiblioGlasses.tintedglasses.name=Окрашенные очки
 item.BiblioGlasses.monocle.name=Монокль
 item.BiblioDrill.name=Дрель
 item.BiblioCreativeLock.name=Замок и ключ
 item.BiblioClipboard.name=Блокнот
+item.seatBack.OakSeatBack.name=Дубовая спинка стула
+item.seatBack.SpruceSeatBack.name=Еловая спинка стула
+item.seatBack.BirchSeatBack.name=Берёзовая спинка стула
+item.seatBack.JungleSeatBack.name=Спинка стула из тропического дерева
+item.BiblioWayPointCompass.name=Координатный компас
+item.BiblioMapTool.name=Циркуль
