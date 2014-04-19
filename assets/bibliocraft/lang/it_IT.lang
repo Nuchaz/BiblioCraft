@@ -6,6 +6,11 @@ language.code=it_IT
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Luci
 
+//1.6.2 additions
+gui.redbook.title=Titolo del Libro:
+gui.redbook.description.p1=Il libro della pietrarossa è usato in combinazione con una libreria per emettere un segnale di pietrarossa. Quando viene messo nella libreria viene emesso un segnale di pietrarossa da tutti i lati tranne dal fronte. La forza del segnale dipende dallo slot che occupa il libro nella libreria. 
+gui.redbook.description.p2=La libreria ha 16 slots, il slot 1 è quello alla tua sinistra in alto e il 16 alla tua destra in basso. Se il libro è posizionato nello slot 1, la libreria non emetterà nessun segnale. Se il libro è posizionato nello slot 2 la libreria emetterà un segnale di forza 1. Ogni slot dopo quelllo aumenterà la forza di 1, fino ad arrivare allo slot 16 che emette un segnale 15 che è il massimo.
+
 // All BiblioCraft 1.6 additions and changes/////////////////////
 AcaciaDesk.name=Scrivania di Acacia
 OldOakDesk.name=Scrivania di Quercia Scura
