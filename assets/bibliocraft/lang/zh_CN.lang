@@ -3,10 +3,69 @@ language.region=CN
 language.code=zh_CN
 
 // Tab Names
-itemGroup.BiblioCraft=收藏馆
+itemGroup.BiblioCraft=展示架
+itemGroup.BiblioCraftLights=展示架灯具
 
-// All BiblioCraft 1.5 additions/////////////////////
-// 1.5 gui stuff
+
+//1.6.2 additions
+gui.redbook.title=书名:
+gui.redbook.description.p1=红石书可以用于书架，发出红石信号. 当被放入一个书架时，除了书架正前方外，其它方向均会红石信号. 红石信号强度取决于红石书在书架中的位置. 
+gui.redbook.description.p2=书架有16个空格, 第一个格子为左上第一格，第16格为右下最后一格. 如果红石书被放到第一个格子里，书架不会发出任何红石信号. 如果红石书被放到第二格，书架会发出强度为1的红石信号. 每往后放一个，发出的红石信号强度就会增加, 当红石书被放到第16格时，会发出强度为15的红石信号.
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+AcaciaDesk.name=刺槐台桌
+OldOakDesk.name=深色橡木台桌
+AcaciaBookcase.name=刺槐书架
+OldOakBookcase.name=深色橡木书架
+AcaciaPotionShelf.name=刺槐药水架
+OldOakPotionShelf.name=深色橡木药水架
+AcaciaShelf.name=刺槐架子
+OldOakShelf.name=深色橡木架子
+AcaciaWeaponRack.name=刺槐工具架
+OldOakWeaponRack.name=深色橡木工具架
+AcaciaLabel.name=刺槐标签
+OldOakLabel.name=深色橡木标签
+AcaciaTable.name=刺槐桌子
+OldOakTable.name=深色橡木桌子
+AcaciaMapFrame.name=刺槐地图框架
+OldOakMapFrame.name=深色橡木地图框架
+AcaciaSeat.name=刺槐椅子
+OldOakSeat.name=深色橡木椅子
+OakCase.name=橡木盒子
+SpruceCase.name=云杉盒子
+BirchCase.name=桦木盒子
+JungleCase.name=丛林木盒子
+AcaciaCase.name=刺槐盒子
+OldOakCase.name=深色橡木盒子
+item.seatBack.AcaciaSeatBack.name=刺槐椅子背
+item.seatBack.OldOakSeatBack.name=深色橡木椅子背
+lighting.metalIron=铁质
+lighting.metalGold=金质
+gui.typesetting.guiTitle=排版台: 书籍管理
+gui.typesetting.pageOfpages=of
+gui.typesetting.public=公用
+gui.typesetting.private=私用
+gui.typesetting.delete=删除
+gui.typesetting.select=选择
+gui.typesetting.nextPage=下一页
+gui.typesetting.prevPage=上一页
+gui.typesetting.exit=退出
+gui.typesetting.enableDiscard=放弃
+// End of 1.6 additions ////////////////////////////
+
+
+
+// Gui stuff
+gui.armorstand=衣架
+gui.bookcase=书架
+gui.cookiejar=曲奇罐
+gui.shelf=Wooden架子
+gui.label=Wooden标签
+gui.potionshelf=药水架
+gui.table=Wooden桌子
+gui.case=Display盒子
+gui.toolrack=工具架
+gui.desk=Wooden台桌
 gui.mapWaypoint.accept=确认
 gui.mapWaypoint.remove=移除
 gui.mapWaypoint.cancel=取消
@@ -16,43 +75,18 @@ gui.compass.z=Z:
 gui.dinnerPlate=餐盘
 gui.discRack=唱片
 
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=读取
+redbook.by=by
+plate.notValid=无效
+typesetting.requires=需要
+typesetting.levels=等级
+typesetting.chase=Chases
+typesetting.bookSelect=选择一本书.
+print.ink=墨
+print.book=书
 screwgun.firstSeat=已选中第一个椅子.
 screwgun.secondSeat=尝试叠加/分离椅子.
-
-// 1.5 Blocks
-DiscRack.name=唱片架
-DinnerPlate.name=餐盘
-OakMapFrame.name=橡木地图框架
-SpruceMapFrame.name=云杉地图框架
-BirchMapFrame.name=白桦地图框架
-JungleMapFrame.name=丛林地图框架
-OakSeat.name=橡木椅
-SpruceSeat.name=云杉椅
-BirchSeat.name=白桦椅
-JungleSeat.name=丛林椅
-
-// 1.5 Items
-item.seatBack.OakSeatBack.name=橡木椅背
-item.seatBack.SpruceSeatBack.name=云杉椅背
-item.seatBack.BirchSeatBack.name=白桦椅背
-item.seatBack.JungleSeatBack.name=丛林椅背
-item.BiblioWayPointCompass.name=路标盘
-item.BiblioMapTool.name=制图盘
-
-// End of 1.5 additions ////////////////////////////
-
-// Gui stuff
-gui.armorstand=衣架
-gui.bookcase=书架
-gui.cookiejar=曲奇罐
-gui.shelf=架子
-gui.label=标签
-gui.potionshelf=药水架
-gui.typeset.selectbook=请选择一本书
-gui.table=桌子
-gui.case=展示盒
-gui.toolrack=工具架
-gui.desk=台桌
 
 //Tape Measure Texts
 tape.measurenorthsouth=测得南北方向间距=
@@ -91,24 +125,8 @@ BirchWeaponRack.name=白桦木工具架
 JungleWeaponRack.name=丛林木工具架
 OakLabel.name=橡木标签
 SpruceLabel.name=云杉木标签
-BirchLabel.name=白桦木标签
-JungleLabel.name=丛林木标签
-RedLinedOakCase.name=橡木盒子
-BlueLinedOakCase.name=橡木盒子
-GreenLinedOakCase.name=橡木盒子
-BlackLinedOakCase.name=橡木盒子
-RedLinedSpruceCase.name=云杉木盒子
-BlueLinedSpruceCase.name=云杉木盒子
-GreenLinedSpruceCase.name=云杉木盒子
-BlackLinedSpruceCase.name=云杉木盒子
-RedLinedBirchCase.name=白桦木盒子
-BlueLinedBirchCase.name=白桦木盒子
-GreenLinedBirchCase.name=白桦木盒子
-BlackLinedBirchCase.name=白桦木盒子
-RedLinedJungleCase.name=丛林木盒子
-BlueLinedJungleCase.name=丛林木盒子
-GreenLinedJungleCase.name=丛林木盒子
-BlackLinedJungleCase.name=丛林木盒子
+BirchLabel.name=桦木 Wood标签
+JungleLabel.name=丛林木 Wood标签
 OakWritingDesk.name=橡木台桌
 SpruceWritingDesk.name=云杉木台桌
 BirchWritingDesk.name=白桦木台桌
@@ -117,6 +135,17 @@ OakTable.name=橡木桌子
 SpruceTable.name=云杉木桌子
 BirchTable.name=白桦木桌子
 JungleTable.name=丛林木桌子
+DiscRack.name=唱片架
+DinnerPlate.name=餐盘
+OakMapFrame.name=橡木地图框架
+SpruceMapFrame.name=云杉地图框架
+BirchMapFrame.name=桦木地图框架
+JungleMapFrame.name=丛林木地图框架
+OakSeat.name=橡木椅子
+SpruceSeat.name=云杉椅子
+BirchSeat.name=桦木椅子
+JungleSeat.name=丛林木椅子
+
 //lights
 whiteLantern.name=黄金灯笼
 lightGrayLantern.name=黄金灯笼
@@ -134,6 +163,7 @@ purpleLantern.name=黄金灯笼
 magentaLantern.name=黄金灯笼
 pinkLantern.name=黄金灯笼
 brownLantern.name=黄金灯笼
+
 whiteLamp.name=精致灯具
 lightGrayLamp.name=精致灯具
 grayLamp.name=精致灯具
@@ -150,10 +180,7 @@ purpleLamp.name=精致灯具
 magentaLamp.name=精致灯具
 pinkLamp.name=精致灯具
 brownLamp.name=精致灯具
-tile.case.redline=红色衬底
-tile.case.blueline=蓝色衬底
-tile.case.greenline=绿色衬底
-tile.case.blackline=黑色衬底
+
 lamp.hood0=白色灯罩
 lamp.hood1=浅灰色灯罩
 lamp.hood2=灰色灯罩
@@ -170,6 +197,7 @@ lamp.hood12=紫色灯罩
 lamp.hood13=品红色灯罩
 lamp.hood14=粉色灯罩
 lamp.hood15=棕色灯罩
+
 lantern.candle0=白色蜡烛
 lantern.candle1=浅灰色蜡烛
 lantern.candle2=灰色蜡烛
@@ -186,6 +214,7 @@ lantern.candle12=紫色蜡烛
 lantern.candle13=品红色蜡烛
 lantern.candle14=粉色蜡烛
 lantern.candle15=棕色蜡烛
+
 // Items
 item.tapeMeasure.name=卷尺
 item.tape.name=卷尺卷筒
@@ -199,3 +228,10 @@ item.BiblioGlasses.monocle.name=单片眼镜
 item.BiblioDrill.name=机械螺丝刀
 item.BiblioCreativeLock.name=锁与钥匙
 item.BiblioClipboard.name=写字板
+item.seatBack.OakSeatBack.name=橡木椅子背
+item.seatBack.SpruceSeatBack.name=云杉椅子背
+item.seatBack.BirchSeatBack.name=桦木椅子背
+item.seatBack.JungleSeatBack.name=丛林木椅子背
+item.BiblioWayPointCompass.name=路标盘
+item.BiblioMapTool.name=制图盘
+
