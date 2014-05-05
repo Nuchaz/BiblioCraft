@@ -6,13 +6,122 @@ language.code=en_US
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Lighting
 
+// All BiblioCraft 1.7 additions and changes///
+swordpedestal.name=Sword Pedestal
+swordpedestal.white=White Trim
+swordpedestal.orange=Orange Trim
+swordpedestal.magenta=Magenta Trim
+swordpedestal.lightblue=Light Blue Trim
+swordpedestal.yellow=Yellow Trim
+swordpedestal.lime=Lime Trim
+swordpedestal.pink=Pink Trim
+swordpedestal.gray=Gray Trim
+swordpedestal.lightgray=Light Gray Trim
+swordpedestal.cyan=Cyan Trim
+swordpedestal.purple=Purple Trim
+swordpedestal.blue=Blue Trim
+swordpedestal.brown=Brown Trim
+swordpedestal.green=Green Trim
+swordpedestal.red=Red Trim
+swordpedestal.black=Black Trim
 
-//1.6.2 additions
+OakSign.name=Oak Fancy Sign
+SpruceSign.name=Spruce Fancy Sign
+BirchSign.name=Birch Fancy Sign
+JungleSign.name=Jungle Fancy Sign
+AcaciaSign.name=Acacia Fancy Sign
+OldOakSign.name=Dark Oak Fancy Sign
+
+OakWorkbench.name=Oak Fancy Workbench
+SpruceWorkbench.name=Spruce Fancy Workbench
+BirchWorkbench.name=Birch Fancy Workbench
+JungleWorkbench.name=Jungle Fancy Workbench
+AcaciaWorkbench.name=Acacia Fancy Workbench
+OldOakWorkbench.name=Dark Oak Fancy Workbench
+
+tile.BiblioBell.name=Desk Bell
+
+item.RecipeBook.name=Empty Recipe Book
+item.SlottedBook.name=Slotted Book
+item.BigBook.name=Big Writing Book
+item.HandDrill.name=Hand Drill
+
+book.bold=B
+book.italic=I
+book.underline=U
+book.strike=Strike
+book.obfuscated=O
+book.reset=Reset
+book.save=Save
+book.sign=Sign
+book.entertitle=Enter Book Title:
+book.by=by
+book.signnotice=Important Note! When you sign the book, it will no longer be editable. Including editing text, formatting, chapters, and additional pages.
+book.textscale=Text Scale
+book.lineselected=Selected Line
+book.cancel=Cancel
+book.linenum=Line# =
+book.title=Title
+book.description=Description
+book.ingredients=Ingredients Required:
+book.overwriterecipe=Overwrite current
+book.overwriterecipe2=recipe book.
+book.saverecipe=Save recipe to
+book.saverecipe2=blank book.
+book.loadrecipe=Load components
+book.loadrecipe2=from inventory.
+book.areyousure=Are you sure?
+book.areyousure2=Clicking yes will permanently lock this book from being edited.
+book.setrecipename=Recipe:
+gui.fancyworkbench=Fancy Workbench
+
+gui.sign.left=Left
+gui.sign.center=Center
+gui.sign.right=Right
+
+gui.sign.black=Black
+gui.sign.darkblue=Dark Blue
+gui.sign.darkgreen=Dark Green
+gui.sign.darkaqua=Dark Aqua
+gui.sign.darkred=Dark Red
+gui.sign.darkpurple=Dark Purple
+gui.sign.gold=Gold
+gui.sign.gray=Gray
+gui.sign.darkgray=Dark Gray
+gui.sign.blue=Blue
+gui.sign.green=Green
+gui.sign.aqua=Aqua
+gui.sign.red=Red
+gui.sign.lightpurple=Light Purple
+gui.sign.yellow=Yellow
+gui.sign.white=White
+
+gui.sign.tooltip1=Click a box or press tab to select an editing panel. Tab will cycle panels.
+gui.sign.tooltip2=Click the box above to select slot 1 editing options panel. Edit scale, position, and rotation.
+gui.sign.tooltip3=Click the box above to select the text editing options. Edit scale and add vanilla style formating.
+gui.sign.tooltip4=Click the box above to select slot 2 for editing options. Edit scale, position, and rotation.
+gui.sign.tooltip5=Adjust block scale.
+gui.sign.tooltip6=Adjust block rotation. Blocks can face to the left, center, or right. Items can only face left or right.
+gui.sign.tooltip7=Adjust block position. Position can also be adjusted with the arrow keys or the WASD keys.
+gui.sign.tooltip8=Enter one of the following numbers/ letters after the formatting symbol:
+gui.sign.tooltip9=Click the button or press the 'alt' key to add a formatting symbol to the selected line.
+
+gui.sign.bold=Bold
+gui.sign.strikethrough=Strikethrough
+gui.sign.underline=Underline
+gui.sign.italic=Italic
+
+gui.sign.scale=Text Scale
+gui.sign.format=Format
+gui.sign.linenum=Line#
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Book Title:
 gui.redbook.description.p1=The redstone book is used in combination with the bookcase to emit a redstone signal. When placed on the bookcase a redstone signal will be emitted from all sides except the front. The strength of the signal is based on what slot on the bookcase the book occupies. 
 gui.redbook.description.p2=The bookcase has 16 slots, slot 1 being the top left slot and slot 16 being the bottom right. If the redstone book is placed in slot 1, the bookcase will emit no redstone signal. If the redstone book is placed in slot 2 the bookcase will emit redstone with a strength of 1. Each slot after that increases the strength by 1, all the way to slot 16 which emits a full redstone strength of 15.
 
-// All BiblioCraft 1.6 additions and changes/////////////////////
+
 AcaciaDesk.name=Acacia Desk
 OldOakDesk.name=Dark Oak Desk
 AcaciaBookcase.name=Acacia Bookcase
