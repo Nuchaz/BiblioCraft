@@ -6,12 +6,121 @@ language.code=it_IT
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Luci
 
-//1.6.2 additions
+// All BiblioCraft 1.7 additions and changes///
+swordpedestal.name=Piedistallo per Spada
+swordpedestal.white=Ornamenti Bianchi
+swordpedestal.orange=Ornamenti Arancioni
+swordpedestal.magenta=Ornamenti Magenta
+swordpedestal.lightblue=Ornamenti Blu Chiari
+swordpedestal.yellow=Ornamenti Gialli
+swordpedestal.lime=Ornamenti Lime
+swordpedestal.pink=Ornamenti Rosa
+swordpedestal.gray=Ornamenti Grigi
+swordpedestal.lightgray=Ornamenti Grigio Chiari
+swordpedestal.cyan=Ornamenti Ciani
+swordpedestal.purple=Ornamenti Viola
+swordpedestal.blue=Ornamenti Blu
+swordpedestal.brown=Ornamenti Marroni
+swordpedestal.green=Ornamenti Verdi
+swordpedestal.red=Ornamenti Rossi
+swordpedestal.black=Ornamenti Neri
+
+OakSign.name=Cartello Chic di Quercia
+SpruceSign.name=Cartello Chic di Abete
+BirchSign.name=Cartello Chic di Betulla
+JungleSign.name=Cartello Chic di Legno della Giungla
+AcaciaSign.name=Cartello Chic di Acacia
+OldOakSign.name=Cartello Chic di Quercia Scura
+
+OakWorkbench.name=Banco da Lavoro Chic di Quercia
+SpruceWorkbench.name=Banco da Lavoro Chic di Abete
+BirchWorkbench.name=Banco da Lavoro Chic di Betulla
+JungleWorkbench.name=Banco da Lavoro Chic di Legno della Giungla
+AcaciaWorkbench.name=Banco da Lavoro Chic di Acacia
+OldOakWorkbench.name=Banco da Lavoro Chic di Quercia Scura
+
+tile.BiblioBell.name=Campanella da Scrivania
+
+item.RecipeBook.name=Libro delle Ricette Vuoto
+item.SlottedBook.name=Libro con Scompartimento
+item.BigBook.name=Libro Scritto Grosso
+item.HandDrill.name=Trapano a Mano
+
+book.bold=G
+book.italic=C
+book.underline=S
+book.strike=Barrato
+book.obfuscated=O
+book.reset=Risetta
+book.save=Salva
+book.sign=Firma
+book.entertitle=Inserisci il Titolo del Libro:
+book.by=di
+book.signnotice=Attenzione! Dopo aver firmato il libro non potrai più modificarlo. Includendo modificando testi, formattazione, capitoli, e altre pagine.
+book.textscale=Scala Testo
+book.lineselected=Linea Selezionata
+book.cancel=Cancella
+book.linenum=Linea# =
+book.title=Titolo
+book.description=Desrizione
+book.ingredients=Ingredienti Richiesti:
+book.overwriterecipe=Sovrascrive il libro
+book.overwriterecipe2=delle ricette attuale.
+book.saverecipe=Salva la ricetta
+book.saverecipe2=in un libro vuoto.
+book.loadrecipe=Scarica i componenti
+book.loadrecipe2=dall'inventario.
+book.areyousure=Sei sicuro?
+book.areyousure2=Premendo si il libro non potrà più essere modificarlo.
+book.setrecipename=Ricetta:
+gui.fancyworkbench=Banco da Lavoro
+
+gui.sign.left=Sinistra
+gui.sign.center=Centro
+gui.sign.right=Destra
+
+gui.sign.black=Nero
+gui.sign.darkblue=Blu Scuro
+gui.sign.darkgreen=Verde Scuro
+gui.sign.darkaqua=Aqua Scura
+gui.sign.darkred=Rosso Scuro
+gui.sign.darkpurple=Viola Scuro
+gui.sign.gold=Oro
+gui.sign.gray=Grigio
+gui.sign.darkgray=Grigio Scuro
+gui.sign.blue=Blu
+gui.sign.green=Verde
+gui.sign.aqua=Aqua
+gui.sign.red=Rosso
+gui.sign.lightpurple=Viola Chiaro
+gui.sign.yellow=Giallo
+gui.sign.white=Bianco
+
+gui.sign.tooltip1=Click a box or press tab to select an editing panel. Tab will cycle panels.
+gui.sign.tooltip2=Click the box above to select slot 1 editing options panel. Edit scale, position, and rotation.
+gui.sign.tooltip3=Click the box above to select the text editing options. Edit scale and add vanilla style formating.
+gui.sign.tooltip4=Click the box above to select slot 2 for editing options. Edit scale, position, and rotation.
+gui.sign.tooltip5=Adjust block scale.
+gui.sign.tooltip6=Adjust block rotation. Blocks can face to the left, center, or right. Items can only face left or right.
+gui.sign.tooltip7=Adjust block position. Position can also be adjusted with the arrow keys or the WASD keys.
+gui.sign.tooltip8=Enter one of the following numbers/ letters after the formatting symbol:
+gui.sign.tooltip9=Click the button or press the 'alt' key to add a formatting symbol to the selected line.
+
+gui.sign.bold=Grassetto
+gui.sign.strikethrough=Barrato
+gui.sign.underline=Sottolineato
+gui.sign.italic=Corsivo
+
+gui.sign.scale=Scala Testo
+gui.sign.format=Formato
+gui.sign.linenum=Linea#
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Titolo del Libro:
 gui.redbook.description.p1=Il libro della pietrarossa è usato in combinazione con una libreria per emettere un segnale di pietrarossa. Quando viene messo nella libreria viene emesso un segnale di pietrarossa da tutti i lati tranne dal fronte. La forza del segnale dipende dallo slot che occupa il libro nella libreria. 
 gui.redbook.description.p2=La libreria ha 16 slots, il slot 1 è quello alla tua sinistra in alto e il 16 alla tua destra in basso. Se il libro è posizionato nello slot 1, la libreria non emetterà nessun segnale. Se il libro è posizionato nello slot 2 la libreria emetterà un segnale di forza 1. Ogni slot dopo quelllo aumenterà la forza di 1, fino ad arrivare allo slot 16 che emette un segnale 15 che è il massimo.
 
-// All BiblioCraft 1.6 additions and changes/////////////////////
 AcaciaDesk.name=Scrivania di Acacia
 OldOakDesk.name=Scrivania di Quercia Scura
 AcaciaBookcase.name=Libreria di Acacia
@@ -224,7 +333,7 @@ item.BiblioRedBook.name=Pietrarossa: Volume I
 item.BiblioGlasses.readingglasses.name=Occhiali
 item.BiblioGlasses.tintedglasses.name=Occhiali Scuri
 item.BiblioGlasses.monocle.name=Monocolo
-item.BiblioDrill.name=Vite a Pietrarossa
+item.BiblioDrill.name=Trapano a Pietrarossa
 item.BiblioCreativeLock.name=Chiave e Lucchetto
 item.BiblioClipboard.name=Cartella
 item.seatBack.OakSeatBack.name=Schienale di Quercia
