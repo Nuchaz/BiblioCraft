@@ -6,13 +6,121 @@ language.code=de_DE
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Beleuchtung
 
+// All BiblioCraft 1.7 additions and changes///
+swordpedestal.name=Schwertsockel
+swordpedestal.white=Weiße Version
+swordpedestal.orange=Orange Version
+swordpedestal.magenta=Magentafarbene Version
+swordpedestal.lightblue=Hellblaue Version
+swordpedestal.yellow=Gelbe Version
+swordpedestal.lime=Hellgrüne Version
+swordpedestal.pink=Pinke Version
+swordpedestal.gray=Graue Version
+swordpedestal.lightgray=Hellgraue Version
+swordpedestal.cyan=Türkise Version
+swordpedestal.purple=Violette Version
+swordpedestal.blue=Blaue Version
+swordpedestal.brown=Braune Version
+swordpedestal.green=Grüne Version
+swordpedestal.red=Rote Version
+swordpedestal.black=Schwarze Version
 
-//1.6.2 additions
+OakSign.name=Schickes Eichenholzschild
+SpruceSign.name=Schickes Fichtenholzschild
+BirchSign.name=Schickes Birkenholzschild
+JungleSign.name=Schickes Tropenholzschild
+AcaciaSign.name=Schickes Akazienholzholzschild
+OldOakSign.name=Schickes Schwarzeichenholzschild
+
+OakWorkbench.name=Schicke Eichenholzwerkbank
+SpruceWorkbench.name=Schicke Fichtenholzwerkbank
+BirchWorkbench.name=Schicke Birkenholzwerkbank
+JungleWorkbench.nameSchicke Tropenholzwerkbank
+AcaciaWorkbench.name=Schicke Akazienholzwerkbank
+OldOakWorkbench.name=Schicke Schwarzeichenholzwerkbank
+
+tile.BiblioBell.name=Schreibtischglocke
+
+item.RecipeBook.name=Leeres Rezeptbuch
+item.SlottedBook.name=Schlitzbuch
+item.BigBook.name=Dickes Schreibbuch
+item.HandDrill.name=Handbohrer
+
+book.bold=F
+book.italic=K
+book.underline=U
+book.strike=Strich
+book.obfuscated=O
+book.reset=Reset
+book.save=Speichern
+book.sign=Signieren
+book.entertitle=Buchtitel eingeben:
+book.by=von
+book.signnotice=Wichtiger Hinweis! Wenn du das Buch signierst, kann es nicht mehr bearbeitet werden, einschließlich Text, Formatierung, Kapiteln und zusätzlichen Seiten.
+book.textscale=Schriftgröße
+book.lineselected=Ausgewählte Zeile
+book.cancel=Abbrechen
+book.linenum=Zeilen# =
+book.title=Titel
+book.description=Beschreibung
+book.ingredients=Benötigte Materialien:
+book.overwriterecipe=Aktuelles Rezeptbuch
+book.overwriterecipe2=überschreiben.
+book.saverecipe=Rezept in leeres
+book.saverecipe2=Buch speichern.
+book.loadrecipe=Komponenten aus
+book.loadrecipe2=Inventar laden.
+book.areyousure=Bist du sicher?
+book.areyousure2=Hierauf zu klicken, wird das Buch nicht mehr änderbar machen.
+book.setrecipename=Rezept:
+gui.fancyworkbench=Schicke Werkbank
+
+gui.sign.left=Links
+gui.sign.center=Mitte
+gui.sign.right=Rechts
+
+gui.sign.black=Schwarz
+gui.sign.darkblue=Dunkelblau
+gui.sign.darkgreen=Dunkelgrün
+gui.sign.darkaqua=Dunkelcyan
+gui.sign.darkred=Dunkelrot
+gui.sign.darkpurple=Dunkelviolett
+gui.sign.gold=Goldfarben
+gui.sign.gray=Grau
+gui.sign.darkgray=Dunkelgrau
+gui.sign.blue=Blau
+gui.sign.green=Grün
+gui.sign.aqua=Cyan
+gui.sign.red=Rot
+gui.sign.lightpurple=Hellviolett
+gui.sign.yellow=Gelb
+gui.sign.white=Weiß
+
+gui.sign.tooltip1=Klicke auf eine Box oder drücke Tab, um ein Bearbeitungspanel auszuwählen. Tab wird durch die Panels rotieren.
+gui.sign.tooltip2=Klicke auf die Box oben, um das Bearbeitungsoptionenpanel für Slot 1 auszuwählen. Bearbeite Größe, Position und Drehung.
+gui.sign.tooltip3=Klicke auf die Box oben, um die Textbearbeitungsoptionen auszuwählen. Bearbeite Größe und Vanilla-Stilformatierung.
+gui.sign.tooltip4=Klicke auf die Box oben, um Slot 2 für Bearbeitungsoptionen auszuwählen. Bearbeite Größe, Position und Drehung.
+gui.sign.tooltip5=Ändere die Blockgröße.
+gui.sign.tooltip6=Ändere die Blockdrehung. Blöcke können nach links, rechts oder in die Mitte zeigen. Items können nur nach links und rechts zeigen.
+gui.sign.tooltip7=Ändere die Blockposition. Die Position kann auch mit den Pfeiltasten sowie den WASD-Tasten geändert werden.
+gui.sign.tooltip8=Gib eine(n) der folgenden Zahlen/Buchstaben nach dem Formatierungssymbol ein:
+gui.sign.tooltip9=Klicke auf den Knopf oder drücke die 'Alt'-Taste, um der ausgewählten Zeile ein Formatierungssymbol hinzuzufügen.
+
+gui.sign.bold=Fett
+gui.sign.strikethrough=Durchgestrichen
+gui.sign.underline=Unterstichen
+gui.sign.italic=Kursiv
+
+gui.sign.scale=Schriftgröße
+gui.sign.format=Formatierung
+gui.sign.linenum=Zeilen#
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Buchtitel:
 gui.redbook.description.p1=Das Redstone-Buch wird in Kombination mit einem Bücherschrank verwendet, um ein Redstone-Signal auszusenden. Wenn in einem Bücherschrank platziert, wird ein Redstone-Signal zu allen Seiten außer der Vorderseite entsendet. Die Stärke des Signals hängt von dem Slot des Bücherschrankes ab, in dem das Buch sich befindet. 
 gui.redbook.description.p2=Ein Bücherschrank hat 16 Slots, Slot 1 ist oben links und Slot 16 unten rechts. Wenn das Redstone-Buch in Slot 1 platziert wird, wird der Bücherschrank kein Redstone-Signal aussenden. Wenn das Buch in Slot 2 platziert wird, wird ein Signal der Stärke 1 ausgesendet. Jeder Slot danach erhöht die Stärke um 1, bis Slot 16, der das volle Redstone-Signal der Stärke 15 aussenden lässt.
 
-// All BiblioCraft 1.6 additions and changes/////////////////////
 AcaciaDesk.name=Akazienholz-Schreibtisch
 OldOakDesk.name=Schwarzeichenholz-Schreibtisch
 AcaciaBookcase.name=Akazienholz-Bücherschrank
