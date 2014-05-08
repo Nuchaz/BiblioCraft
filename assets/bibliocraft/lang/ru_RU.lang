@@ -4,44 +4,152 @@ language.code=ru_RU
 
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
-itemGroup.BiblioCraftLights=Освещение из BiblioCraft
+itemGroup.BiblioCraftLights=BiblioCraft: Освещение
 
+// All BiblioCraft 1.7 additions and changes///
+swordpedestal.name=Пьедестал для меча
+swordpedestal.white=Белая отделка
+swordpedestal.orange=Оранжевая отделка
+swordpedestal.magenta=Сиреневая отделка
+swordpedestal.lightblue=Светло-синяя отделка
+swordpedestal.yellow=Жёлтая отделка
+swordpedestal.lime=Лаймовая отделка
+swordpedestal.pink=Розовая отделка
+swordpedestal.gray=Серая отделка
+swordpedestal.lightgray=Светло-серая отделка
+swordpedestal.cyan=Бирюзовая отделка
+swordpedestal.purple=Фиолетовая отделка
+swordpedestal.blue=Синяя отделка
+swordpedestal.brown=Коричневая отделка
+swordpedestal.green=Зелёная отделка
+swordpedestal.red=Красная отделка
+swordpedestal.black=Чёрная отделка
 
-//1.6.2 additions
-gui.redbook.title=Название:
-gui.redbook.description.p1=Редстоун-книга используется в комбинации с книжной полкой для подачи редстоун-сигнала. При установке такой книги на полку, полкой будет выдаст сигнал редстоуна со всех сторон, кроме переда. Сила зависит от места кгиги на полке. 
-gui.redbook.description.p2=В книжной полке 16 мест, начиная с 1 сверху слева и заканчивая 16-ым снизу справа. Если редстоун-книга стоит на первом месте, сигнала не будет. Если на 2-ом, то сила будет равна 1. Каждое место увеличивает силу на 1. В итоге 16-ое место выдает сигнал в полную силу (15).
+OakSign.name=Дубовая модная табличка
+SpruceSign.name=Еловая модная табличка
+BirchSign.name=Берёзовая модная табличка
+JungleSign.name=Модная табличка из тропического дерева
+AcaciaSign.name=Модная табличка из акации
+OldOakSign.name=Модная табличка из тёмного дуба
+
+OakWorkbench.name=Дубовый модный верстак
+SpruceWorkbench.name=Еловый модный верстак
+BirchWorkbench.name=Берёзовый модный верстак
+JungleWorkbench.name=Модный верстак из тропического дерева
+AcaciaWorkbench.name=Модный верстак из акации
+OldOakWorkbench.name=Модный верстак из тёмного дуба
+
+tile.BiblioBell.name=Настольный звонок
+
+item.RecipeBook.name=Пустая книга для рецептов
+item.SlottedBook.name=Slotted Book
+item.BigBook.name=Большая письменная книга
+item.HandDrill.name=Ручная дрель
+
+book.bold=Ж
+book.italic=К
+book.underline=Ч
+book.strike=Зачёрк.
+book.obfuscated=O
+book.reset=Сбросить
+book.save=Сохранить
+book.sign=Подписать
+book.entertitle=Введите название книги:
+book.by=от
+book.signnotice=Важное примечание! Когда Вы подпишите книгу, она перестанет быть редактируемой. Включая редактирование текста, форматирование, главы и дополнительные страницы.
+book.textscale=Размер текста
+book.lineselected=Выбранная линия
+book.cancel=Отмена
+book.linenum=Линия# =
+book.title=Название
+book.description=Описание
+book.ingredients=Необходимые ингредиенты:
+book.overwriterecipe=Переписать текущую
+book.overwriterecipe2=книгу рецептов.
+book.saverecipe=Сохранить рецепт на
+book.saverecipe2=пустую книгу.
+book.loadrecipe=Загрузить компоненты
+book.loadrecipe2=из инвентаря.
+book.areyousure=Вы уверены?
+book.areyousure2=Нажатие да, навсегда заблокирует эту книгу от редактирования.
+book.setrecipename=Рецепт:
+gui.fancyworkbench=Модный верстак
+
+gui.sign.left=Влево
+gui.sign.center=В центр
+gui.sign.right=Вправо
+
+gui.sign.black=Чёрный
+gui.sign.darkblue=Тёмно-синий
+gui.sign.darkgreen=Тёмно-зелёный
+gui.sign.darkaqua=Тёмно-водный
+gui.sign.darkred=Тёмно-красный
+gui.sign.darkpurple=Тёмно-фиолетовый
+gui.sign.gold=Золотой
+gui.sign.gray=Серый
+gui.sign.darkgray=Тёмно-серый
+gui.sign.blue=Синий
+gui.sign.green=Зелёный
+gui.sign.aqua=Водный
+gui.sign.red=Красный
+gui.sign.lightpurple=Светло-фиолетовый
+gui.sign.yellow=Жёлтый
+gui.sign.white=Белый
+
+gui.sign.tooltip1=Нажмите на поле или нажмите tab, чтобы выбрать панель редактирования. Tab will cycle panels.
+gui.sign.tooltip2=Нажмите на поле выше, чтобы выбрать 1-ый слот опций редактирования. Отредактируйте размер, позицию и поворот.
+gui.sign.tooltip3=Нажмите на поле выше, чтобы выбрать опции редактирования текста. Отредактируйте размер и форматирование.
+gui.sign.tooltip4=Нажмите на поле выше, чтобы выбрать 2-ой слот опций редактирования. Отредактируйте размер, позицию и поворот.
+gui.sign.tooltip5=Откорректируйте размер блока.
+gui.sign.tooltip6=Откорректируйте поворот блока. Блоки могут быть повёрнуты влево, в центр или вправо. Предметы могут быть повёрнуты только влево или вправо.
+gui.sign.tooltip7=Откорректируйте позицию блока. Позиция также может быть скорректирована с помощью стрелок или клавишами WASD.
+gui.sign.tooltip8=Введите один из следующих номеров/ букв после символа форматирования:
+gui.sign.tooltip9=Нажмите кнопку или нажмите кнопку 'alt', чтобы добавить символ форматирования на выбранную линию.
+
+gui.sign.bold=Полужирный
+gui.sign.strikethrough=Зачёркнутый
+gui.sign.underline=Подчёркнутый
+gui.sign.italic=Курсивный
+
+gui.sign.scale=Размер текста
+gui.sign.format=Форматирование
+gui.sign.linenum=Линия#
 
 // All BiblioCraft 1.6 additions and changes/////////////////////
-AcaciaDesk.name=Акациевый стол
-OldOakDesk.name=Тёмнодубовый стол
-AcaciaBookcase.name=Акациевая книжная полка
-OldOakBookcase.name=Тёмнодубовая книжная полка
-AcaciaPotionShelf.name=Акациевая полка для зелий
-OldOakPotionShelf.name=Тёмнодубовая полка для зелий
-AcaciaShelf.name=Акациевая полка
-OldOakShelf.name=Тёмнодубовая полка
-AcaciaWeaponRack.name=Акациевый стеллаж
-OldOakWeaponRack.name=Тёмнодубовый стеллаж
-AcaciaLabel.name=Акациевая бирка
-OldOakLabel.name=Тёмнодубовая бирка
-AcaciaTable.name=Акациевый стол
-OldOakTable.name=Тёмнодубовый стол
-AcaciaMapFrame.name=Акациевая рамка для карты
-OldOakMapFrame.name=Тёмнодубовая рамка для карты
-AcaciaSeat.name=Акациевое сиденье
-OldOakSeat.name=Тёмнодубовое сиденье
-OakCase.name=Дубовая подкладка
-SpruceCase.name=Еловая подкладка
-BirchCase.name=Берёзовая подкладка
-JungleCase.name=Тропическодревесная подкладка
-AcaciaCase.name=Акациевая подкладка
-OldOakCase.name=Тёмнодревесная подкладка
-item.seatBack.AcaciaSeatBack.name=Акациевая спинка
-item.seatBack.OldOakSeatBack.name=Тёмнодревесная подкладка
+gui.redbook.title=Название книги:
+gui.redbook.description.p1=Редстоун-книга используется в комбинации с книжной полкой для подачи редстоун-сигнала. При установке такой книги на полку, полкой будет выдан сигнал редстоуна со всех сторон, кроме переда. Сила зависит от места книги на полке. 
+gui.redbook.description.p2=В книжной полке 16 мест, начиная с 1 сверху слева и заканчивая 16-ым снизу справа. Если редстоун-книга стоит на первом месте, сигнала не будет. Если на 2-ом, то сила будет равна 1. Каждое место увеличивает силу на 1. В итоге 16-ое место выдаёт сигнал в полную силу (15).
+
+
+AcaciaDesk.name=Письменный стол из акации
+OldOakDesk.name=Письменный стол из тёмного дуба
+AcaciaBookcase.name=Книжный шкаф из акации
+OldOakBookcase.name=Книжный шкаф из тёмного дуба
+AcaciaPotionShelf.name=Полка для зелий из акации
+OldOakPotionShelf.name=Полка для зелий из тёмного дуба
+AcaciaShelf.name=Полка из акации
+OldOakShelf.name=Полка из тёмного дуба
+AcaciaWeaponRack.name=Стеллаж для инструментов из акации
+OldOakWeaponRack.name=Стеллаж для инструментов из тёмного дуба
+AcaciaLabel.name=Бирка из акации
+OldOakLabel.name=Бирка из тёмного дуба
+AcaciaTable.name=Стол из акации
+OldOakTable.name=Стол из тёмного дуба
+AcaciaMapFrame.name=Рамка для карты из акации
+OldOakMapFrame.name=Рамка для карты из тёмного дуба
+AcaciaSeat.name=Стул из акации
+OldOakSeat.name=Стул из тёмного дуба
+OakCase.name=Дубовая витрина
+SpruceCase.name=Еловая витрина
+BirchCase.name=Берёзовая витрина
+JungleCase.name=Витрина из тропического дерева
+AcaciaCase.name=Витрина из акации
+OldOakCase.name=Витрина из тёмного дуба
+item.seatBack.AcaciaSeatBack.name=Спинка стула из акации
+item.seatBack.OldOakSeatBack.name=Спинка стула из тёмного дуба
 lighting.metalIron=Сделано из железа
 lighting.metalGold=Сделано из золота
-gui.typesetting.guiTitle=Набор текста в таблице: книга
+gui.typesetting.guiTitle=Типографский стол: Управление книгой
 gui.typesetting.pageOfpages=из
 gui.typesetting.public=Публично
 gui.typesetting.private=Личное
@@ -226,7 +334,7 @@ item.BiblioRedBook.name=Редстоун: Том I
 item.BiblioGlasses.readingglasses.name=Очки для чтения
 item.BiblioGlasses.tintedglasses.name=Окрашенные очки
 item.BiblioGlasses.monocle.name=Монокль
-item.BiblioDrill.name=Дрель
+item.BiblioDrill.name=Шуруповёрт
 item.BiblioCreativeLock.name=Замок и ключ
 item.BiblioClipboard.name=Блокнот
 item.seatBack.OakSeatBack.name=Дубовая спинка стула
