@@ -18,7 +18,7 @@ Language	    -           Lang Code	        -       Author(s)
  
  Latvian	 - lv_LV	   -     TehDnS
  
- Russian	 -  ru_RU	    -  kol999
+ Russian	 -  ru_RU	    -  kol999 and Adaptivity
  
  Lithuanian	  - lt_LT	       -        auris331
  
