@@ -6,13 +6,122 @@ language.code=ru_RU
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=Освещение из BiblioCraft
 
+// All BiblioCraft 1.7 additions and changes///
+swordpedestal.name=Пьедестал для меча
+swordpedestal.white=Белая отделка
+swordpedestal.orange=Оранжевая отделка
+swordpedestal.magenta=Пурпурная отделка
+swordpedestal.lightblue=Голубая отделка
+swordpedestal.yellow=Жёлтая отделка
+swordpedestal.lime=Лаймовая отделка
+swordpedestal.pink=Розовая отделка
+swordpedestal.gray=Серая отделка
+swordpedestal.lightgray=Светло-серая отделка
+swordpedestal.cyan=Бирюзовая отделка
+swordpedestal.purple=Фиолетовая отделка
+swordpedestal.blue=Синяя отделка
+swordpedestal.brown=Коричневая отделка
+swordpedestal.green=Зелёная отделка
+swordpedestal.red=Красная отделка
+swordpedestal.black=Чёрная отделка
 
-//1.6.2 additions
+OakSign.name=Красивая табличка из дуба
+SpruceSign.name=Красивая табличка из ели
+BirchSign.name=Красивая табличка из берёзы
+JungleSign.name=Красивая табличка из тропического дерева
+AcaciaSign.name=Красивая табличка из акации
+OldOakSign.name=Красивая табличка из тёмного дуба
+
+OakWorkbench.name=Красивый верстак из дуба
+SpruceWorkbench.name=Красивый верстак из ели
+BirchWorkbench.name=Красивый верстак из берёзы
+JungleWorkbench.name=Красивый верстак из тропического дерева
+AcaciaWorkbench.name=Красивый верстак из акации
+OldOakWorkbench.name=Красивый верстак из тёмного дуба
+
+tile.BiblioBell.name=Колокольчик
+
+item.RecipeBook.name=Пустая книга рецептов
+item.SlottedBook.name=Вырезанная книга
+item.BigBook.name=Большая книга
+item.HandDrill.name=Коловорот
+
+book.bold=Ж
+book.italic=Н
+book.underline=П
+book.strike=Зачерк.
+book.obfuscated=O
+book.reset=Сбросить
+book.save=Сохранить
+book.sign=Подписать
+book.entertitle=Введите название:
+book.by=от
+book.signnotice=Внимание! Когда книга подписана, её нельзя изменять. Включая доп. текст, вёрстку, главы, и новые страницы.
+book.textscale=Размер шрифта
+book.lineselected=Выделенная строка
+book.cancel=Отмена
+book.linenum=Строка# =
+book.title=Название
+book.description=Описание
+book.ingredients=Ингредиенты:
+book.overwriterecipe=Перезаписывается
+book.overwriterecipe2=книга рецептов.
+book.saverecipe=Сохранить рецепты в
+book.saverecipe2=пустую книгу.
+book.loadrecipe=Загрузить компоненты
+book.loadrecipe2=из инвентаря.
+book.areyousure=Серьёзно?
+book.areyousure2=Если Вы нажмёте "Да", то книгу больше нельзя будет изменять.
+book.setrecipename=Рецепт:
+gui.fancyworkbench=Красивый верстак
+
+gui.sign.left=Лево
+gui.sign.center=Центр
+gui.sign.right=Право
+
+gui.sign.black=Чёрный
+gui.sign.darkblue=Тёмно-синий
+gui.sign.darkgreen=Тёмно-зелёный
+gui.sign.darkaqua=Тёмно-голубой
+gui.sign.darkred=Тёмно-красный
+gui.sign.darkpurple=Тёмно-фиолетовый
+gui.sign.gold=Золотой
+gui.sign.gray=Серый
+gui.sign.darkgray=Тёмно-серый
+gui.sign.blue=Синий
+gui.sign.green=Зелёный
+gui.sign.aqua=Голубой
+gui.sign.red=Красный
+gui.sign.lightpurple=Светло-фиолетовый
+gui.sign.yellow=Жёлтый
+gui.sign.white=Белый
+
+gui.sign.tooltip1=Нажмите на клавишу Tab для выбора нужной панели. Tab прокручивает панели.
+gui.sign.tooltip2=Click the box above to select slot 1 editing options panel. Edit scale, position, and rotation.
+gui.sign.tooltip3=Click the box above to select the text editing options. Edit scale and add vanilla style formating.
+gui.sign.tooltip4=Click the box above to select slot 2 for editing options. Edit scale, position, and rotation.
+gui.sign.tooltip5=Adjust block scale.
+gui.sign.tooltip6=Adjust block rotation. Blocks can face to the left, center, or right. Items can only face left or right.
+gui.sign.tooltip7=Adjust block position. Position can also be adjusted with the arrow keys or the WASD keys.
+gui.sign.tooltip8=Enter one of the following numbers/ letters after the formatting symbol:
+gui.sign.tooltip9=Click the button or press the 'alt' key to add a formatting symbol to the selected line.
+
+gui.sign.bold=Жирный
+gui.sign.strikethrough=Перечёркнутый
+gui.sign.underline=Подчёркнутый
+gui.sign.italic=Наклонный
+
+gui.sign.scale=Размер шрифта
+gui.sign.format=Формат
+gui.sign.linenum=Строка#
+
+
+
 gui.redbook.title=Название:
 gui.redbook.description.p1=Редстоун-книга используется в комбинации с книжной полкой для подачи редстоун-сигнала. При установке такой книги на полку, полкой будет выдаст сигнал редстоуна со всех сторон, кроме переда. Сила зависит от места кгиги на полке. 
 gui.redbook.description.p2=В книжной полке 16 мест, начиная с 1 сверху слева и заканчивая 16-ым снизу справа. Если редстоун-книга стоит на первом месте, сигнала не будет. Если на 2-ом, то сила будет равна 1. Каждое место увеличивает силу на 1. В итоге 16-ое место выдает сигнал в полную силу (15).
 
-// All BiblioCraft 1.6 additions and changes/////////////////////
+
 AcaciaDesk.name=Акациевый стол
 OldOakDesk.name=Тёмнодубовый стол
 AcaciaBookcase.name=Акациевая книжная полка
