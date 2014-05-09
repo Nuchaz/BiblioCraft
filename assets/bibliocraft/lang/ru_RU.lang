@@ -25,24 +25,24 @@ swordpedestal.green=Зелёная отделка
 swordpedestal.red=Красная отделка
 swordpedestal.black=Чёрная отделка
 
-OakSign.name=Дубовая модная табличка
-SpruceSign.name=Еловая модная табличка
-BirchSign.name=Берёзовая модная табличка
-JungleSign.name=Модная табличка из тропического дерева
-AcaciaSign.name=Модная табличка из акации
-OldOakSign.name=Модная табличка из тёмного дуба
+OakSign.name=Дубовая красивая табличка
+SpruceSign.name=Еловая красивая табличка
+BirchSign.name=Берёзовая красивая табличка
+JungleSign.name=Красивая табличка из тропического дерева
+AcaciaSign.name=Красивая табличка из акации
+OldOakSign.name=Красивая табличка из тёмного дуба
 
-OakWorkbench.name=Дубовый модный верстак
-SpruceWorkbench.name=Еловый модный верстак
-BirchWorkbench.name=Берёзовый модный верстак
-JungleWorkbench.name=Модный верстак из тропического дерева
-AcaciaWorkbench.name=Модный верстак из акации
-OldOakWorkbench.name=Модный верстак из тёмного дуба
+OakWorkbench.name=Дубовый красивый верстак
+SpruceWorkbench.name=Еловый красивый верстак
+BirchWorkbench.name=Берёзовый красивый верстак
+JungleWorkbench.name=Красивый верстак из тропического дерева
+AcaciaWorkbench.name=Красивый верстак из акации
+OldOakWorkbench.name=Красивый верстак из тёмного дуба
 
 tile.BiblioBell.name=Настольный звонок
 
-item.RecipeBook.name=Пустая книга для рецептов
-item.SlottedBook.name=Slotted Book
+item.RecipeBook.name=Пустая книга рецептов
+item.SlottedBook.name=Вырезанная книга
 item.BigBook.name=Большая письменная книга
 item.HandDrill.name=Ручная дрель
 
@@ -58,9 +58,9 @@ book.entertitle=Введите название книги:
 book.by=от
 book.signnotice=Важное примечание! Когда Вы подпишите книгу, она перестанет быть редактируемой. Включая редактирование текста, форматирование, главы и дополнительные страницы.
 book.textscale=Размер текста
-book.lineselected=Выбранная линия
+book.lineselected=Выбранная строка
 book.cancel=Отмена
-book.linenum=Линия# =
+book.linenum=Строка# =
 book.title=Название
 book.description=Описание
 book.ingredients=Необходимые ингредиенты:
@@ -71,9 +71,9 @@ book.saverecipe2=пустую книгу.
 book.loadrecipe=Загрузить компоненты
 book.loadrecipe2=из инвентаря.
 book.areyousure=Вы уверены?
-book.areyousure2=Нажатие да, навсегда заблокирует эту книгу от редактирования.
+book.areyousure2=Нажатие "да", навсегда заблокирует эту книгу от редактирования.
 book.setrecipename=Рецепт:
-gui.fancyworkbench=Модный верстак
+gui.fancyworkbench=Красивыйм верстак
 
 gui.sign.left=Влево
 gui.sign.center=В центр
@@ -96,7 +96,7 @@ gui.sign.lightpurple=Светло-фиолетовый
 gui.sign.yellow=Жёлтый
 gui.sign.white=Белый
 
-gui.sign.tooltip1=Нажмите на поле или нажмите tab, чтобы выбрать панель редактирования. Tab will cycle panels.
+gui.sign.tooltip1=Нажмите на поле или нажмите tab, чтобы выбрать панель редактирования. Tab прокручивает панели.
 gui.sign.tooltip2=Нажмите на поле выше, чтобы выбрать 1-ый слот опций редактирования. Отредактируйте размер, позицию и поворот.
 gui.sign.tooltip3=Нажмите на поле выше, чтобы выбрать опции редактирования текста. Отредактируйте размер и форматирование.
 gui.sign.tooltip4=Нажмите на поле выше, чтобы выбрать 2-ой слот опций редактирования. Отредактируйте размер, позицию и поворот.
@@ -104,7 +104,7 @@ gui.sign.tooltip5=Откорректируйте размер блока.
 gui.sign.tooltip6=Откорректируйте поворот блока. Блоки могут быть повёрнуты влево, в центр или вправо. Предметы могут быть повёрнуты только влево или вправо.
 gui.sign.tooltip7=Откорректируйте позицию блока. Позиция также может быть скорректирована с помощью стрелок или клавишами WASD.
 gui.sign.tooltip8=Введите один из следующих номеров/ букв после символа форматирования:
-gui.sign.tooltip9=Нажмите кнопку или нажмите кнопку 'alt', чтобы добавить символ форматирования на выбранную линию.
+gui.sign.tooltip9=Нажмите кнопку или нажмите кнопку 'alt', чтобы добавить символ форматирования на выбранную строку.
 
 gui.sign.bold=Полужирный
 gui.sign.strikethrough=Зачёркнутый
@@ -113,7 +113,7 @@ gui.sign.italic=Курсивный
 
 gui.sign.scale=Размер текста
 gui.sign.format=Форматирование
-gui.sign.linenum=Линия#
+gui.sign.linenum=Строка#
 
 // All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Название книги:
