@@ -73,7 +73,7 @@ book.loadrecipe2=из инвентаря.
 book.areyousure=Вы уверены?
 book.areyousure2=Нажатие "да", навсегда заблокирует эту книгу от редактирования.
 book.setrecipename=Рецепт:
-gui.fancyworkbench=Красивыйм верстак
+gui.fancyworkbench=Красивый верстак
 
 gui.sign.left=Влево
 gui.sign.center=В центр
