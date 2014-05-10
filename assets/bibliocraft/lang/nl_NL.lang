@@ -1,14 +1,13 @@
 language.name=Nederlands
 language.region=NL
 language.code=nl_NL
-"
-"
+
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=Bibliocraft Licht
 
-
-// All BiblioCraft 1.7 additions and changes///Zwaardhouder
+// All BiblioCraft 1.7 additions and changes///
+swordpedestal.name=Zwaardhouder
 swordpedestal.white=Witte rand
 swordpedestal.orange=Oranje rand
 swordpedestal.magenta=Magenta rand
