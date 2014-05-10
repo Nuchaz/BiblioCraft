@@ -4,86 +4,259 @@ language.code=fr_FR
 
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=Éclairage de BiblioCraft
+
+// All BiblioCraft 1.7 additions and changes///
+swordpedestal.name=Piédestal pour épée
+swordpedestal.white=Blanc
+swordpedestal.orange=Orange
+swordpedestal.magenta=Magenta
+swordpedestal.lightblue=Bleu Clair
+swordpedestal.yellow=Jaune
+swordpedestal.lime=Vert Clair
+swordpedestal.pink=Rose
+swordpedestal.gray=Gris
+swordpedestal.lightgray=Gris Clair
+swordpedestal.cyan=Cyan
+swordpedestal.purple=Violet
+swordpedestal.blue=Bleu
+swordpedestal.brown=Marron
+swordpedestal.green=Vert
+swordpedestal.red=Rouge
+swordpedestal.black=Noir
+
+OakSign.name=Panneau amélioré en chêne
+SpruceSign.name=Panneau amélioré en sapin
+BirchSign.name=Panneau amélioré en bouleau
+JungleSign.name=Panneau amélioré en acajou
+AcaciaSign.name=Panneau amélioré en acacia
+OldOakSign.name=Panneau amélioré en chêne noir
+
+OakWorkbench.name=Table de travail améliorée en chêne
+SpruceWorkbench.name=Table de travail améliorée en sapin
+BirchWorkbench.name=Table de travail améliorée en bouleau
+JungleWorkbench.name=Table de travail améliorée en acajou
+AcaciaWorkbench.name=Table de travail améliorée en acacia
+OldOakWorkbench.name=Table de travail améliorée en chêne noir
+
+tile.BiblioBell.name=Clochette de bureau
+
+item.RecipeBook.name=Livre de recette vide
+item.SlottedBook.name=Livre creux
+item.BigBook.name=Gros livre éditable
+item.HandDrill.name=Vilebrequin
+
+book.bold=G
+book.italic=I
+book.underline=S
+book.strike=Barré
+book.obfuscated=O
+book.reset=Réinitialiser
+book.save=Sauvegarder
+book.sign=Signer
+book.entertitle=Entrez le titre du livre:
+book.by=par
+book.signnotice=Important! Une fois signé, ce livre ne sera plus éditable. Vous ne pourrez plus éditer le texte,le formattage,les chapitres et les pages additionelles
+book.textscale=Taille du texte
+book.lineselected=Ligne selectionnée
+book.cancel=Annuler
+book.linenum=Ligne# =
+book.title=Titre
+book.description=Description
+book.ingredients=Ingrédients requis:
+book.overwriterecipe=Ecraser
+book.overwriterecipe2=Livre de recette
+book.saverecipe=Sauvegarder la recette vers
+book.saverecipe2=Livre vide.
+book.loadrecipe=Charger les composants
+book.loadrecipe2=depuis l'inventaire
+book.areyousure=Êtes vous sûr?
+book.areyousure2=Cliquer sur oui empêchera le livre d'être à nouveau édité
+book.setrecipename=Recette:
+gui.fancyworkbench=Table de travail améliorée
+
+gui.sign.left=Gauche
+gui.sign.center=Centre
+gui.sign.right=Droite
+
+gui.sign.black=Noir
+gui.sign.darkblue=Bleu Foncé
+gui.sign.darkgreen=Vert Foncé
+gui.sign.darkaqua=Cyan Foncé
+gui.sign.darkred=Rouge Foncé
+gui.sign.darkpurple=Violet Foncé
+gui.sign.gold=Or
+gui.sign.gray=Gris
+gui.sign.darkgray=Gris Foncé
+gui.sign.blue=Bleu
+gui.sign.green=Vert
+gui.sign.aqua=Cyan
+gui.sign.red=Rouge
+gui.sign.lightpurple=Violet Clair
+gui.sign.yellow=Jaune
+gui.sign.white=Blanc
+
+gui.sign.tooltip1=Cliquez sur un cadre ou appuyez sur tab pour sélectionner un panneau d'édition. Tab changera de panneau.
+gui.sign.tooltip2=Cliquez sur le cadre au dessus pour sélectionner le panneau d'édition du premier emplacement. Editez la taille,la position et la rotation.
+gui.sign.tooltip3=Cliquez sur le cadre au dessus pour sélectionner les options d'éditage de texte. Editez la taille et ajoutez du formatage à la manière de vanilla.
+gui.sign.tooltip4=Cliquez sur le cadre au dessus pour selectionner le panneau d'édition du second emplacement. Editez la taille,la position et la rotation.
+gui.sign.tooltip5=Ajuster la taille du bloc.
+gui.sign.tooltip6=Ajuster la rotation du bloc. Les blocs peuvent êtres orientés vers la gauche, la droite ou vers le centre. Les objets ne peuvent que êtres orientés vers la droite ou la gauche.
+gui.sign.tooltip7=Ajuster la position du bloc. La position peut également être ajustée avec les touches flechées ou les touches WASD.
+gui.sign.tooltip8=Entrez l'un des chiffres/lettres suivantes après le symbole de formatage.
+gui.sign.tooltip9=Cliquez sur le bouton ou appuyez sur la touche "alt" pour ajouter un symbole de formatage à la ligne selectionnée.
+
+gui.sign.bold=Gras
+gui.sign.strikethrough=Barré
+gui.sign.underline=Souligné
+gui.sign.italic=Italique
+
+gui.sign.scale=Taille du texte
+gui.sign.format=Format
+gui.sign.linenum=Ligne#
+
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=Titre du livre:
+gui.redbook.description.p1=Le livre de redstone, avec la bibliothèque peut émmetre un signal de redstone. Une fois placé dans une bibliothèque, un signal de redstone sera émmis de tout les côtés sauf en face. La force du signal dépend de la position du livre dans la bibliothèque.
+gui.redbook.description.p2=La bibliothèque possède 16 emplacements, le premier étant celui en haut à gauche et le seizième étant celui en bas à droite. Si le livre est placé dans le premier emplacement, la bibliothèque n'émmetra pas de signal de redstone. Si le livre est placé dans le second emplacement, la bibliothèque émmetra un signal d'une force de 1. S'il est placé dans le troisième emplacement, ce signal aura une force de 2 et ainsi de suite.
+
+
+
+AcaciaDesk.name=Bureau en acacia
+OldOakDesk.name=Bureau en chêne noir
+AcaciaBookcase.name=Bibliothèque en acacia
+OldOakBookcase.name=Bibliothèque en chêne noir
+AcaciaPotionShelf.name=Etagère à potions en acacia
+OldOakPotionShelf.name=Etagère à potions en chêne noir
+AcaciaShelf.name=Etagère en acacia
+OldOakShelf.name=Etagère en chêne noir
+AcaciaWeaponRack.name=Etagère à outils en acacia
+OldOakWeaponRack.name=Etagère à outils en chêne noir
+AcaciaLabel.name=Pancarte en acacia
+OldOakLabel.name=Pancarte en chêne noir
+AcaciaTable.name=Table en acacia
+OldOakTable.name=Table en chêne noir
+AcaciaMapFrame.name=Cadre pour carte en acacia
+OldOakMapFrame.name=Cadre pour carte en chêne noir
+AcaciaSeat.name=Chaise en acacia
+OldOakSeat.name=Chaise en chêne noir
+OakCase.name=Boite en chêne
+SpruceCase.name=Boite en sapin
+BirchCase.name=Boite en bouleau
+JungleCase.name=Boite en acajou
+AcaciaCase.name=Boite en acacia
+OldOakCase.name=Boite en chêne noir
+item.seatBack.AcaciaSeatBack.name=Dossier de chaise en acacia
+item.seatBack.OldOakSeatBack.name=Dossier de chaise en chêne noir
+lighting.metalIron=en Fer
+lighting.metalGold=en Or
+gui.typesetting.guiTitle=Table de copiage: Gestion des Livres
+gui.typesetting.pageOfpages=de
+gui.typesetting.public=Public
+gui.typesetting.private=Privé
+gui.typesetting.delete=Supprimer
+gui.typesetting.select=Selectionner
+gui.typesetting.nextPage=Page suivante
+gui.typesetting.prevPage=Page précedente
+gui.typesetting.exit=Quitter
+gui.typesetting.enableDiscard=Annuler
+// End of 1.6 additions ////////////////////////////
+
+
 
 // Gui stuff
-gui.armorstand=Armor Stand
-gui.bookcase=Bookcase
-gui.cookiejar=Cookie Jar
-gui.shelf=Wooden Shelf
-gui.label=Wooden Label
-gui.potionshelf=Potion Shelf
-gui.typeset.selectbook=Please Select a Book
-gui.table=Wooden Table
-gui.case=Display Case
-gui.toolrack=Tool Rack
-gui.desk=Wooden Desk
+gui.armorstand=Mannequin pour armure
+gui.bookcase=Bibliothèque
+gui.cookiejar=Pot de biscuits
+gui.shelf=Etagère en bois
+gui.label=Pancarte en bois
+gui.potionshelf=Etagère à potions
+gui.table=Table en bois
+gui.case=Boite d'exposition
+gui.toolrack=Etagère à outils
+gui.desk=Bureau en bois
+gui.mapWaypoint.accept=Accepter
+gui.mapWaypoint.remove=Supprimer
+gui.mapWaypoint.cancel=Annuler
+gui.mapWaypoint.waypoint=Repère
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Assiette
+gui.discRack=Etagère à CD
 
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=Lecture
+redbook.by=par
+plate.notValid=Invalide
+typesetting.requires=Requiert
+typesetting.levels=Niveaux
+typesetting.chase=Cadres
+typesetting.bookSelect=Sélectionnez un livre.
+print.ink=Encre
+print.book=Livres
+screwgun.firstSeat=Premier siège sélectionné
+screwgun.secondSeat=Tentative d'attacher/détacher les sieges
 
 //Tape Measure Texts
-tape.measurenorthsouth=Mesure Nord/Sud = 
-tape.measureeastwest=Mesure Est/Ouest = 
-tape.measureheight=Mesure de la hauteur = 
+tape.measurenorthsouth=Mesure Nord/Sud =
+tape.measureeastwest=Mesure Est/Ouest =
+tape.measureheight=Mesure de la hauteur =
 tape.nomeasure=Aucune mesure.
-tape.measure=Mesure = 
+tape.measure=Mesure =
 tape.startmeasure=Départ de la Mesure.
 tape.mode0=Changement du mode Nord/Sud, Est/Ouest et hauteur.
 tape.mode1=Changement du mode à mesure absolu.
-
 lock.creativeonly=Mode créatif seulement.
 lock.notowner=Vous n'êtes pas le propriétaire de ce bloc.
 lock.locked=Ce bloc a été vérouillé.
 lock.unlocked=Ce bloc a été déverrouillé.
 
 // Blocks
-CookieJar.name=Bocal à cookie
+CookieJar.name=Bocal à biscuit
 MarkerPole.name=Marqueur
-tile.BiblioType.name=Tableau de composition
-tile.BiblioPress.name=Presse d'impression
-tile.BiblioArmorStand.name=Porte armure
+tile.BiblioType.name=Table de copiage
+tile.BiblioPress.name=Presse d'imprimerie
+tile.BiblioArmorStand.name=Mannequin pour armure
 OakBookcase.name=Bibliothèque en chêne
-SpruceBookcase.name=Bibliothèque en épicéa
+SpruceBookcase.name=Bibliothèque en sapin
 BirchBookcase.name=Bibliothèque en bouleau
 JungleBookcase.name=Bibliothèque en acajou
 OakPotionShelf.name=Etagère à potions en Bouleau
-SprucePotionShelf.name=Etagère à potions en épicéa
+SprucePotionShelf.name=Etagère à potions en sapin
 BirchPotionShelf.name=Etagère à potions en chêne
 JunglePotionShelf.name=Etagère à potions en acajou
 OakShelf.name=Etagère en bouleau
-SpruceShelf.name=Etagère en épicéa
+SpruceShelf.name=Etagère en sapin
 BirchShelf.name=Etagère en chêne
 JungleShelf.name=Etagère en acajou
 OakWeaponRack.name=Porte-outils en bouleau
-SpruceWeaponRack.name=Porte-outils en épicéa
+SpruceWeaponRack.name=Porte-outils en sapin
 BirchWeaponRack.name=Porte-outils en chêne
 JungleWeaponRack.name=Porte-outils en acajou
 OakLabel.name=Pancarte en bouleau
-SpruceLabel.name=Pancarte en épicéa
+SpruceLabel.name=Pancarte en sapin
 BirchLabel.name=Pancarte en chêne
 JungleLabel.name=Pancarte en acajou
-RedLinedOakCase.name=Vitrine en bouleau
-BlueLinedOakCase.name=Vitrine en bouleau
-GreenLinedOakCase.name=Vitrine en bouleau
-BlackLinedOakCase.name=Vitrine en bouleau
-RedLinedSpruceCase.name=Vitrine en épicéa
-BlueLinedSpruceCase.name=Vitrine en épicéa
-GreenLinedSpruceCase.name=Vitrine en épicéa
-BlackLinedSpruceCase.name=Vitrine en épicéa
-RedLinedBirchCase.name=Vitrine en chêne
-BlueLinedBirchCase.name=Vitrine en chêne
-GreenLinedBirchCase.name=Vitrine en chêne
-BlackLinedBirchCase.name=Vitrine en chêne
-RedLinedJungleCase.name=Vitrine en acajou
-BlueLinedJungleCase.name=Vitrine en acajou
-GreenLinedJungleCase.name=Vitrine en acajou
-BlackLinedJungleCase.name=Vitrine en acajou
 OakWritingDesk.name=Bureau en bouleau
-SpruceWritingDesk.name=Bureau en épicéa
+SpruceWritingDesk.name=Bureau en sapin
 BirchWritingDesk.name=Bureau en chêne
 JungleWritingDesk.name=Bureau en acajou
 OakTable.name=Table en bouleau
-SpruceTable.name=Table en épicéa
+SpruceTable.name=Table en sapin
 BirchTable.name=Table en chêne
 JungleTable.name=Table en acajou
+DiscRack.name=Etagère à CD
+DinnerPlate.name=Assiette
+OakMapFrame.name=Cadre pour carte en chêne
+SpruceMapFrame.name=Cadre pour carte en sapin
+BirchMapFrame.name=Cadre pour carte en bouleau
+JungleMapFrame.name=Cadre pour carte en acajou
+OakSeat.name=Chaise en chêne
+SpruceSeat.name=Chaise en sapin
+BirchSeat.name=Chaise en bouleau
+JungleSeat.name=Chaise en acajou
 
 //lights
 whiteLantern.name=Lanterne dorée
@@ -119,11 +292,6 @@ purpleLamp.name=Lampe fantaisie
 magentaLamp.name=Lampe fantaisie
 pinkLamp.name=Lampe fantaisie
 brownLamp.name=Lampe fantaisie
-
-tile.case.redline=Doublure rouge
-tile.case.blueline=Doublure bleu
-tile.case.greenline=Doublure verte
-tile.case.blackline=Doublure noir
 
 lamp.hood0=Couvercle blanc
 lamp.hood1=Couvercle gris clair
@@ -172,4 +340,10 @@ item.BiblioGlasses.monocle.name=Monocle
 item.BiblioDrill.name=Visseuse
 item.BiblioCreativeLock.name=Serrure et Clé
 item.BiblioClipboard.name=Presse-papiers
+item.seatBack.OakSeatBack.name=Dossier de chaise en chêne
+item.seatBack.SpruceSeatBack.name=Dossier de chaise en sapin
+item.seatBack.BirchSeatBack.name=Dossier de chaise en bouleau
+item.seatBack.JungleSeatBack.name=Dossier de chaise en acajou
+item.BiblioWayPointCompass.name=Compas à repère
+item.BiblioMapTool.name=Compas de dessin
 
