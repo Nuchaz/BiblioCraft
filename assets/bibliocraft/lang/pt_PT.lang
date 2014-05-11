@@ -42,8 +42,8 @@ OldOakWorkbench.name=Mesa de Trabalho Sofisticada de Carvalho Escuro
 tile.BiblioBell.name=Campainha de Recepção
 
 item.RecipeBook.name=Livro de Receitas Vazio
-item.SlottedBook.name=
-item.BigBook.name=
+
+
 item.HandDrill.name=Berbequim Manual
 
 book.bold=N
@@ -142,15 +142,8 @@ AcaciaMapFrame.name=Quadro de Mapa de Acácia
 OldOakMapFrame.name=Quadro de Mapa de Carvalho Escuro
 AcaciaSeat.name=Banco de Acácia
 OldOakSeat.name=Banco de Carvalho Escuro
-OakCase.name=
-SpruceCase.name=
-BirchCase.name=
-JungleCase.name=
-AcaciaCase.name=
-OldOakCase.name=
-item.seatBack.AcaciaSeatBack.name=
-item.seatBack.OldOakSeatBack.name=
-lighting.metalIron=Feito de Ferro
+
+
 lighting.metalGold=Feito de Ouro
 gui.typesetting.guiTitle=Mesa de Tipografia: Gestão do Livro
 gui.typesetting.pageOfpages=de
@@ -187,13 +180,12 @@ gui.dinnerPlate=Prato
 gui.discRack=Estante para Discos
 
 // In game messages, reading glasses stuff and other stuff
-enchant.reading=
+
 redbook.by=por
 plate.notValid=Não Válido
 typesetting.requires=Requer
 typesetting.levels=Níveis
-typesetting.chase=
-typesetting.bookSelect=
+
 print.ink=Tinta
 print.book=Livros
 screwgun.firstSeat=Primeiro Banco seleccionado.
