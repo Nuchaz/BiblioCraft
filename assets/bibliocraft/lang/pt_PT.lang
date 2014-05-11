@@ -1,0 +1,348 @@
+language.name=Português(PT)
+language.region=PT
+language.code=pt_PT
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=Iluminação do Bibliocraft
+
+// All BiblioCraft 1.7 additions and changes///
+swordpedestal.name=Pedestal para Espada
+swordpedestal.white=Guarnição Branca
+swordpedestal.orange=Guarnição Laranja
+swordpedestal.magenta=Guarnição Magenta
+swordpedestal.lightblue=Guarnição Azul Clara
+swordpedestal.yellow=Guarnição Amarela
+swordpedestal.lime=Guarnição Lima
+swordpedestal.pink=Guarnição Rosa
+swordpedestal.gray=Guarnição Cinzenta
+swordpedestal.lightgray=Guarnição Cinzenta Clara
+swordpedestal.cyan=Guarnição Ciana
+swordpedestal.purple=Guarnição Roxa
+swordpedestal.blue=Guarnição Azul
+swordpedestal.brown=Guarnição Castanha
+swordpedestal.green=Guarnição Verde
+swordpedestal.red=Guarnição Vermelha
+swordpedestal.black=Guarnição Preta
+
+OakSign.name=Tableta de Carvalho
+SpruceSign.name=Tableta de Abeto
+BirchSign.name=Tableta de Bétula
+JungleSign.name=Tableta de Madeira da Selva
+AcaciaSign.name=Tableta de Madeira de Acácia
+OldOakSign.name=Tabelta de Carvalho Escuro
+
+OakWorkbench.name=Mesa de Trabalho Sofisticada de Carvalho
+SpruceWorkbench.name=Mesa de Trabalho Sofisticada de Abeto
+BirchWorkbench.name=Mesa de Trabalho Sofisticada de Abeto
+JungleWorkbench.name=Mesa de Trabalho Sofisticada de Bétula
+AcaciaWorkbench.name=Mesa de Trabalho Sofisticada de Acácia
+OldOakWorkbench.name=Mesa de Trabalho Sofisticada de Carvalho Escuro
+
+tile.BiblioBell.name=Campainha de Recepção
+
+item.RecipeBook.name=Livro de Receitas Vazio
+item.SlottedBook.name=
+item.BigBook.name=
+item.HandDrill.name=Berbequim Manual
+
+book.bold=N
+book.italic=I
+book.underline=S
+book.strike=Rasurado
+book.obfuscated=O
+book.reset=Reset
+book.save=Salvar
+book.sign=Assinar
+book.entertitle=Introduzir o Título do livro:
+book.by=por
+book.signnotice=Nota Importante! Quando assinares o livro, não poderás voltar a editá-lo. Incluindo edição de texto, formatação, capítulos e páginas adicionais.
+book.textscale=Tamanho do Texto
+book.lineselected=Linha selecionada
+book.cancel=Cancelar
+book.linenum=Linha # =
+book.title=Título
+book.description=Descrição
+book.ingredients=Ingredientes necessários:
+book.overwriterecipe=Substituir atual
+book.overwriterecipe2=livro de receitas.
+book.saverecipe=Salvar receita para
+book.saverecipe2=livro em branco.
+book.loadrecipe=Carregar Componentes
+book.loadrecipe2=de inventário.
+book.areyousure=Tens a certeza?
+book.areyousure2=Ao clicar sim este livro não vai poder ser editado permanentemente.
+book.setrecipename=Receita:
+gui.fancyworkbench=Mesa de Trabalho Sofisticada
+
+gui.sign.left=Esquerda
+gui.sign.center=Centro
+gui.sign.right=Direita
+
+gui.sign.black=Preto
+gui.sign.darkblue=Azul Escuro
+gui.sign.darkgreen=Verde Escuro
+gui.sign.darkaqua=Aqua Escuro
+gui.sign.darkred=Vermelho Escuro
+gui.sign.darkpurple=Roxo Escuro
+gui.sign.gold=Ouro
+gui.sign.gray=Cinzento
+gui.sign.darkgray=Cinzento Escuro
+gui.sign.blue=Azul
+gui.sign.green=Verde
+gui.sign.aqua=Aqua
+gui.sign.red=Vermelho
+gui.sign.lightpurple=Roxo Claro
+gui.sign.yellow=Amarelo
+gui.sign.white=Branco
+
+gui.sign.tooltip1=Clicar numa caixa ou pressionar tab para selecionar um painel de edição. Tab alterna entre painéis.
+gui.sign.tooltip2=Clicar na caixa acima para selecionar as opções de edição do painel de slot 1. Editar tamanho, posição e rotação.
+gui.sign.tooltip3=Clicar na caixa acima para selecionar as opções de edição de texto. Editar escala e adicionar formatação estilo normal.
+gui.sign.tooltip4=Clicar na caixa acima para selecionar as opções de edição para o slot 2. Editar escala, posição e rotação.
+gui.sign.tooltip5=Ajustar tamanho do bloco.
+gui.sign.tooltip6=Ajustar a rotação do bloco. Os blocos podem se virar à esquerda, centro ou direita. Itens só podem se virar para a esquerda ou para a direita.
+gui.sign.tooltip7=Ajustar a posição do bloco. Também pode ser ajustada com as teclas de seta ou as teclas WASD.
+gui.sign.tooltip8=Introduzir um dos seguintes números / letras após o símbolo de formatação:
+gui.sign.tooltip9=Clicar no botão ou pressionar a tecla "alt" para adicionar um símbolo de formatação para a linha selecionada.
+
+gui.sign.bold=Negrito
+gui.sign.strikethrough=Rasurado
+gui.sign.underline=Sublinhado
+gui.sign.italic=Itálico
+
+gui.sign.scale=Tamanho do Texto
+gui.sign.format=Formato
+gui.sign.linenum=Linha#
+
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=Título do Livro:
+gui.redbook.description.p1=O livro redstone é utilizado em combinação com a estante para emitir um sinal de redstone. Quando colocado na estante um sinal redstone será emitido a partir de todos os lados, excepto de frente. A intensidade do sinal é baseado na ranhura que o livro ocupa na estante.
+gui.redbook.description.p2=A estante tem 16 slots, slot 1 é o slot superior esquerdo e slot de 16 sendo o canto inferior direito. Se o livro de redstone é colocado no slot 1, a estante de livros não irá emitir nenhum sinal redstone. Se o livro de redstone é colocado no slot 2 da estante emitirá redstone com uma força de 1. Cada slot depois aumenta a força em 1, até ao slot 16, que emite uma força redstone de 15.
+
+
+
+AcaciaDesk.name=Secretária de Acácia
+OldOakDesk.name=Secretária de Carvalho Escuro
+AcaciaBookcase.name=Estante de Livros de Acácia
+OldOakBookcase.name=Estante de Livros de Carvalho Escuro
+AcaciaPotionShelf.name=Estante de Poções de Acácia
+OldOakPotionShelf.name=Estante de Poções de Carvalho Escuro
+AcaciaShelf.name=Estante de Acácia
+OldOakShelf.name=Estante de Carvalho Escuro
+AcaciaWeaponRack.name=Estante de Ferramentas de Acácia
+OldOakWeaponRack.name=Estante de Ferramentas de Carvalho Escuro
+AcaciaLabel.name=Mostrador de Acácia
+OldOakLabel.name=Mostrador de Carvalho Escuro
+AcaciaTable.name=Mesa de Acácia
+OldOakTable.name=Mesa de Carvalho Escuro
+AcaciaMapFrame.name=Quadro de Mapa de Acácia
+OldOakMapFrame.name=Quadro de Mapa de Carvalho Escuro
+AcaciaSeat.name=Banco de Acácia
+OldOakSeat.name=Banco de Carvalho Escuro
+OakCase.name=
+SpruceCase.name=
+BirchCase.name=
+JungleCase.name=
+AcaciaCase.name=
+OldOakCase.name=
+item.seatBack.AcaciaSeatBack.name=
+item.seatBack.OldOakSeatBack.name=
+lighting.metalIron=Feito de Ferro
+lighting.metalGold=Feito de Ouro
+gui.typesetting.guiTitle=Mesa de Tipografia: Gestão do Livro
+gui.typesetting.pageOfpages=de
+gui.typesetting.public=Público
+gui.typesetting.private=Privado
+gui.typesetting.delete=Apagar
+gui.typesetting.select=Seleccionar
+gui.typesetting.nextPage=Próxima Página
+gui.typesetting.prevPage=Página Anterior
+gui.typesetting.exit=Sair
+gui.typesetting.enableDiscard=Descartar
+// End of 1.6 additions ////////////////////////////
+
+
+
+// Gui stuff
+gui.armorstand=Suporte de Armadura
+gui.bookcase=Estante de Livros
+gui.cookiejar=Frasco de Bolachas
+gui.shelf=Prateleira de Madeira
+gui.label=Etiqueta Madeira
+gui.potionshelf=Estante de Poções
+gui.table=Mesa de Madeira
+gui.case=Vitrina
+gui.toolrack=Estante de Ferramentas
+gui.desk=Escrivaninha de Madeira
+gui.mapWaypoint.accept=Aceitar
+gui.mapWaypoint.remove=Remover
+gui.mapWaypoint.cancel=Cancelar
+gui.mapWaypoint.waypoint=Marco
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Prato
+gui.discRack=Estante para Discos
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=
+redbook.by=por
+plate.notValid=Não Válido
+typesetting.requires=Requer
+typesetting.levels=Níveis
+typesetting.chase=
+typesetting.bookSelect=
+print.ink=Tinta
+print.book=Livros
+screwgun.firstSeat=Primeiro Banco seleccionado.
+screwgun.secondSeat=A tentar juntar/separar bancos.
+
+//Tape Measure Texts
+tape.measurenorthsouth=Medição Norte/Sul =
+tape.measureeastwest=Medição Este/Oeste =
+tape.measureheight=Medição Altura =
+tape.nomeasure=Nenhuma Medição.
+tape.measure=Medição =
+tape.startmeasure=A Iniciar Medição.
+tape.mode0=Alternar modo para Norte/Sul, Este/Oeste e altura.
+tape.mode1=Alternar modo para medição rigorosa.
+lock.creativeonly=Apenas Modo Criativo
+lock.notowner=Não és proprietário deste bloco.
+lock.locked=Este bloco foi bloqueado.
+lock.unlocked=Este bloco foi desbloqueado.
+
+// Blocks
+CookieJar.name=Frasco de Bolachas
+MarkerPole.name=Marcador
+tile.BiblioType.name=Mesa de Tipografia
+tile.BiblioPress.name=Prensa de Impressão
+tile.BiblioArmorStand.name=Suporte de Armadura
+OakBookcase.name=Estante de Livros de Carvalho
+SpruceBookcase.name=Estante de Livros de Abeto
+BirchBookcase.name=Estante de Livros de Bétua
+JungleBookcase.name=Estante de Livros de Madeira da Selva
+OakPotionShelf.name=Estante de Poções de Carvalho
+SprucePotionShelf.name=Estante de Poções de Abeto
+BirchPotionShelf.name=Estante de Poções de Bétula
+JunglePotionShelf.name=Estante de Poções de Madeira da Selva
+OakShelf.name=Estante de Carvalho
+SpruceShelf.name=Estante de Abeto
+BirchShelf.name=Estante de Bétula
+JungleShelf.name=Estante de Madeira da Selva
+OakWeaponRack.name=Estante de Ferramentas de Carvalho
+SpruceWeaponRack.name=Estante de Ferramentas de Abeto
+BirchWeaponRack.name=Estante de Ferramentas de Bétula
+JungleWeaponRack.name=Estante de Ferramentas de Madeira da Selva
+OakLabel.name=Indicação Madeira de Carvalho
+SpruceLabel.name=Mostrador de Madeira de Abeto
+BirchLabel.name=Mostrador de Madeira de Bétula
+JungleLabel.name=Mostrador de Madeira da Selva
+OakWritingDesk.name=Secretária de Carvalho
+SpruceWritingDesk.name=Secretária de Abeto
+BirchWritingDesk.name=Secretária de Bétula
+JungleWritingDesk.name=Secretária de Madeira da Selva
+OakTable.name=Mesa de Carvalho
+SpruceTable.name=Mesa de Abeto
+BirchTable.name=Mesa de Bétula
+JungleTable.name=Mesa de Madeira da Selva
+DiscRack.name=Estante para Discos
+DinnerPlate.name=Prato
+OakMapFrame.name=Quadro de Mapa de Carvalho
+SpruceMapFrame.name=Quadro de Mapa de Abeto
+BirchMapFrame.name=Quadro de Mapa de Bétula
+JungleMapFrame.name=Quadro de Mapa de Madeira da Selva
+OakSeat.name=Banco de Carvalho
+SpruceSeat.name=Banco de Abeto
+BirchSeat.name=Banco de Bétula
+JungleSeat.name=Banco de Madeira da Selva
+
+//lights
+whiteLantern.name=Lanterna Dourada
+lightGrayLantern.name=Lanterna Dourada
+grayLantern.name=Lanterna Dourada
+blackLantern.name=Lanterna Dourada
+redLantern.name=Lanterna Dourada
+orangeLantern.name=Lanterna Dourada
+yellowLantern.name=Lanterna Dourada
+limeLantern.name=Lanterna Dourada
+greenLantern.name=Lanterna Dourada
+cyanLantern.name=Lanterna Dourada
+lightBlueLantern.name=Lanterna Dourada
+blueLantern.name=Lanterna Dourada
+purpleLantern.name=Lanterna Dourada
+magentaLantern.name=Lanterna Dourada
+pinkLantern.name=Lanterna Dourada
+brownLantern.name=Lanterna Dourada
+
+whiteLamp.name=Candeeiro Dourado
+lightGrayLamp.name=Candeeiro Dourado
+grayLamp.name=Candeeiro Dourado
+blackLamp.name=Candeeiro Dourado
+redLamp.name=Candeeiro Dourado
+orangeLamp.name=Candeeiro Dourado
+yellowLamp.name=Candeeiro Dourado
+limeLamp.name=Candeeiro Dourado
+greenLamp.name=Candeeiro Dourado
+cyanLamp.name=Candeeiro Dourado
+lightBlueLamp.name=Candeeiro Dourado
+blueLamp.name=Candeeiro Dourado
+purpleLamp.name=Candeeiro Dourado
+magentaLamp.name=Candeeiro Dourado
+pinkLamp.name=Candeeiro Dourado
+brownLamp.name=Candeeiro Dourado
+
+lamp.hood0=Capa de Lâmpada Branca
+lamp.hood1=Capa de Lâmpada Cinza Claro
+lamp.hood2=Capa de Lâmpada Cinza
+lamp.hood3=Capa de Lâmpada Preta
+lamp.hood4=Capa de Lâmpada Vermelha
+lamp.hood5=Capa de Lâmpada Laranja
+lamp.hood6=Capa de Lâmpada Amarela
+lamp.hood7=Capa de Lâmpada Lima
+lamp.hood8=Capa de Lâmpada Verde
+lamp.hood9=Capa de Lâmpada Ciana
+lamp.hood10=Capa de Lâmpada Azul Clara
+lamp.hood11=Capa de Lâmpada Azul
+lamp.hood12=Capa de Lâmpada Lilás
+lamp.hood13=Capa de Lâmpada Magenta
+lamp.hood14=Capa de Lâmpada Rosa
+lamp.hood15=Capa de Lâmpada Castanha
+
+lantern.candle0=Vela Branca
+lantern.candle1=Vela Cinzenta Clara
+lantern.candle2=Vela Cinzenta
+lantern.candle3=Vela Preta
+lantern.candle4=Vela Vermelha
+lantern.candle5=Vela Laranja
+lantern.candle6=Vela Amarela
+lantern.candle7=Vela Lima
+lantern.candle8=Vela Verde
+lantern.candle9=Vela Ciana
+lantern.candle10=Vela Azul Clara
+lantern.candle11=Vela Azul
+lantern.candle12=Vela Roxa
+lantern.candle13=Vela Magenta
+lantern.candle14=Vela Rosa
+lantern.candle15=Vela Castanha
+
+// Items
+item.tapeMeasure.name=Fita Métrica
+item.tape.name=Rolo de Fita Métrica
+item.BiblioChase.name=Print Press Chase
+item.PrintPlate.name=Chapa de Prensa de Impressão
+item.EnchantedPlate.name=Chapa Encantada
+item.BiblioRedBook.name=Redstone: Volume I
+item.BiblioGlasses.readingglasses.name=Óculos de Leitura
+item.BiblioGlasses.tintedglasses.name=Óculos escuros
+item.BiblioGlasses.monocle.name=Monóculo
+item.BiblioDrill.name=Aparafusadora
+item.BiblioCreativeLock.name=Cadeado e Chave
+item.BiblioClipboard.name=Prancheta
+item.seatBack.OakSeatBack.name=
+item.seatBack.SpruceSeatBack.name=
+item.seatBack.BirchSeatBack.name=
+item.seatBack.JungleSeatBack.name=
+item.BiblioWayPointCompass.name=
+item.BiblioMapTool.name=
