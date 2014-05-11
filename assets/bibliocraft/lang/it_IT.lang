@@ -96,7 +96,7 @@ gui.sign.lightpurple=Viola Chiaro
 gui.sign.yellow=Giallo
 gui.sign.white=Bianco
 
-gui.sign.tooltip1=Clicca un quadrato o premi tab per selezionare un pannello. Tab ciclerà tra i pannelli.
+gui.sign.tooltip1=Clicca un quadrato o premi tab e seleziona un pannello. Tab ciclerà tra i pannelli.
 gui.sign.tooltip2=Clicca il quadrato sopra per selezionare il pannello 1. Modifica la dimensione del testo, la posizione, e la rotazione.
 gui.sign.tooltip3=Clicca il quadrato sopra per selezionare il pannello per modificare il testo. Modifica la scala e aggiungi la formatazione di vanilla.
 gui.sign.tooltip4=Clicca il quadrato sopra per selezionare il pannello 2. Modifica la dimensione del testo, la posizione, e la rotazione.
