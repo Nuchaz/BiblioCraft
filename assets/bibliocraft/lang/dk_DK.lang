@@ -4,38 +4,217 @@ language.code=dk_DK
 
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=BiblioCraft Belysning
+
+// All BiblioCraft 1.7 additions and changes///
+swordpedestal.name=Sværd-sokkel
+swordpedestal.white=Hvid Udsmykning
+swordpedestal.orange=Orange Udsmykning
+swordpedestal.magenta=Magenta Udsmykning
+swordpedestal.lightblue=Lyseblå Udsmykning
+swordpedestal.yellow=Gul Udsmykning
+swordpedestal.lime=Limegrøn Udsmykning
+swordpedestal.pink=Lyserød Udsmykning
+swordpedestal.gray=Grå Udsmykning
+swordpedestal.lightgray=Lysegrå Udsmykning
+swordpedestal.cyan=Cyan Udsmykning
+swordpedestal.purple=Lilla Udsmykning
+swordpedestal.blue=Blå Udsmykning
+swordpedestal.brown=Brun Udsmykning
+swordpedestal.green=Grøn Udsmykning
+swordpedestal.red=Rød Udsmykning
+swordpedestal.black=Sort Udsmykning
+
+OakSign.name=Fancy Egetræsskilt
+SpruceSign.name=Fancy Grantræsskilt
+BirchSign.name=Fancy Birketræsskilt
+JungleSign.name=Fancy Jugletræsskilt
+AcaciaSign.name=Fancy Akacietræsskilt
+OldOakSign.name=Fancy Mørkt Egetræsskilt
+
+OakWorkbench.name=Fancy Egetræsarbejdsbord
+SpruceWorkbench.name=Fancy Grantræsarbejdsbord
+BirchWorkbench.name=Fancy Birketræsarbejdsbord
+JungleWorkbench.name=Fancy Jungletræsarbejdsbord
+AcaciaWorkbench.name=Fancy Akacietræsarbejdsbord
+OldOakWorkbench.name=Fancy Mørkt Egetræsarbejdsbord
+
+tile.BiblioBell.name=Bordklokke
+
+item.RecipeBook.name=Tom Opskriftsbog
+item.SlottedBook.name=Hullet Bog
+item.BigBook.name=Stor Skrivebog
+item.HandDrill.name=Håndbor
+
+book.bold=§lF
+book.italic=§oK
+book.underline=§nU
+book.strike=§mStreget
+book.obfuscated=§kO
+book.reset=Reset
+book.save=Gem
+book.sign=Signér
+book.entertitle=Indtast Titel:
+book.by=af
+book.signnotice=Vigtigt Note! Når du signere bogen kan du ikke længere ændre den. Dette inkludere ændring af tekst, formatering sam tilføgelse af nye sider og kapitler.
+book.textscale=Tekststørrelse
+book.lineselected=Valgte Linje
+book.cancel=Anuller
+book.linenum=Linje# =
+book.title=Titel
+book.description=Beskrivelse
+book.ingredients=Påkrævede Ingredientser:
+book.overwriterecipe=Overskriv nuværende
+book.overwriterecipe2=opskriftsbog.
+book.saverecipe=Gem opskrift i
+book.saverecipe2=tom bog.
+book.loadrecipe=Indsæt komponenter
+book.loadrecipe2=fra inventar.
+book.areyousure=Er du sikker?
+book.areyousure2=Hvis du klikker vil denne bog ikke længere kunne ændres.
+book.setrecipename=Opskrift:
+gui.fancyworkbench=Fancy Arbejdsbord
+
+gui.sign.left=Højre
+gui.sign.center=Midt
+gui.sign.right=Venstre
+
+gui.sign.black=Sort
+gui.sign.darkblue=Mørkeblå
+gui.sign.darkgreen=Mørkegrøn
+gui.sign.darkaqua=Blågrøn
+gui.sign.darkred=Mørkerød
+gui.sign.darkpurple=Mørkelilla
+gui.sign.gold=Guldfarvet
+gui.sign.gray=Grå
+gui.sign.darkgray=Mørkegrå
+gui.sign.blue=Blå
+gui.sign.green=Lysegrøn
+gui.sign.aqua=Lyseblå
+gui.sign.red=Rød
+gui.sign.lightpurple=Lyslilla
+gui.sign.yellow=Gul
+gui.sign.white=Hvid
+
+gui.sign.tooltip1=Klik på en boks eller tryk Tab for at vælge et ændringspanel. Tab vil rotere gennem panelerne.
+gui.sign.tooltip2=Klik på boksen ovenover for at vælge plads 1's ændringspanel. Du kan ændre størrelse, placering og rotation.
+gui.sign.tooltip3=Klik på boksen ovenover for at vælge tekstændringsmulighederne. Du kan ændre størrelse og tilføje Vanilla-agtig formatering.
+gui.sign.tooltip4=Klik på boksen ovenover for at vælge plads 2's ændringspanel. Du kan ændre størrelse, placering og rotation.
+gui.sign.tooltip5=Juster blokstørrelsen.
+gui.sign.tooltip6=Juster blokkens rotation. Blokke kan vende mod vende mod venstre, højre eller midten. Ting kan kun vende mod højre eller venstre.
+gui.sign.tooltip7=Juster blokkens position. Positionen kan også ændres med piletasterne eller W-, A-, S-, og D-tasterne
+gui.sign.tooltip8=Indtast et af de følgende tal eller bogstaver efter formateringssymbloet:
+gui.sign.tooltip9=Klik på knappen eller tryk på "Alt"-tasten for at tilføje et formateringssymbol til den valgte linje.
+
+gui.sign.bold=§lFed
+gui.sign.strikethrough=§mGennemstreget
+gui.sign.underline=§nUnderstreget
+gui.sign.italic=§oKursiv
+
+gui.sign.scale=Skriftstørrelse
+gui.sign.format=Formatér
+gui.sign.linenum=Linje#
+
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=Bogtitel:
+gui.redbook.description.p1=Rødstensbogen anvendes i forbindelse med bogreolen til at udsende et rødstens-signal. Når den placeres i en bogreol vil et rødstenssignal blive udsendt fra alle sider undtagen forsiden. Signalets styrke afhænger af hvor i bogreolen bogen er placeret.
+gui.redbook.description.p2=Bogreolen har 16 pladser. Plads 1 er øverst til venstre og plads 16 er nederst til højre. Hvis rødstensbogen placeres på plads 1 udsender reolen inten rødstens signal. Hvis bogen placeres på plads 2 vil reolen udsende et signal med styrken 1. Derefter bliver styrken forøget med en for hver plads, hele vejen op til plads 16 der udsender et signal med den fulde styrke på 15.
+
+
+
+AcaciaDesk.name=Akacietræs-skrivebord
+OldOakDesk.name=Mørkt Egetræsskrivebord
+AcaciaBookcase.name=Akacietræs-bogreol
+OldOakBookcase.name=Mørk Egetræsbogreol
+AcaciaPotionShelf.name=Akacietræs-eliksirhylde
+OldOakPotionShelf.name=Mørk Egetræseliksirhylde
+AcaciaShelf.name=Akacietræshylde
+OldOakShelf.name=Mørk Egetræshylde
+AcaciaWeaponRack.name=Akacietræs-værktøjshylde
+OldOakWeaponRack.name=Mørk Egetræsværktøjshylde
+AcaciaLabel.name=Akacietræsmærkat
+OldOakLabel.name=Mørkt Egetræsmærkat
+AcaciaTable.name=Akacietræsbord
+OldOakTable.name=Mørkt Egetræsbord
+AcaciaMapFrame.name=Akacietræs-kortramme
+OldOakMapFrame.name=Mørk Egetræskortramme
+AcaciaSeat.name=Akacietræssæde
+OldOakSeat.name=Mørkt Egetræssæde
+OakCase.name=
+SpruceCase.name=
+BirchCase.name=
+JungleCase.name=
+AcaciaCase.name=
+OldOakCase.name=
+item.seatBack.AcaciaSeatBack.name=
+item.seatBack.OldOakSeatBack.name=
+lighting.metalIron=
+lighting.metalGold=
+gui.typesetting.guiTitle=
+gui.typesetting.pageOfpages=
+gui.typesetting.public=
+gui.typesetting.private=
+gui.typesetting.delete=
+gui.typesetting.select=
+gui.typesetting.nextPage=
+gui.typesetting.prevPage=
+gui.typesetting.exit=
+gui.typesetting.enableDiscard=
+// End of 1.6 additions ////////////////////////////
+
+
 
 // Gui stuff
-gui.armorstand=Rustning Holder
+gui.armorstand=Rustningsholder
 gui.bookcase=Bogreol
-gui.cookiejar=Kage D�se
-gui.shelf=Tr� Hylde
-gui.label=Tr� Makat
+gui.cookiejar=Kagedåse
+gui.shelf=Træ Hylde
+gui.label=Træ Makat
 gui.potionshelf=Flakong Hylde
-gui.typeset.selectbook=V�lg En Bog
-gui.table=tr� bord
+gui.table=træ bord
 gui.case=Monter
-gui.toolrack=V�rkt�js Skab
-gui.desk=Tr� Skrivebord
+gui.toolrack=Værktøjs Skab
+gui.desk=Træ Skrivebord
+gui.mapWaypoint.accept=
+gui.mapWaypoint.remove=
+gui.mapWaypoint.cancel=
+gui.mapWaypoint.waypoint=
+gui.compass.x=
+gui.compass.z=
+gui.dinnerPlate=
+gui.discRack=
 
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=
+redbook.by=
+plate.notValid=
+typesetting.requires=
+typesetting.levels=
+typesetting.chase=
+typesetting.bookSelect=
+print.ink=
+print.book=
+screwgun.firstSeat=
+screwgun.secondSeat=
 
 //Tape Measure Texts
-tape.measurenorthsouth=M�ling Nord/Syd =
-tape.measureeastwest=M�ling �st/vest =
-tape.measureheight=M�ling H�jde =
-tape.nomeasure=Ingen M�ling.
-tape.measure=M�ling =
-tape.startmeasure=Start M�ling.
-tape.mode0=Skifte Modus Til Nord/Syd, �st/Vest, og H�jde.
-tape.mode1=Skifte Modus Til Totale M�ling.
-
+tape.measurenorthsouth=Måling Nord/Syd =
+tape.measureeastwest=Måling Øst/vest =
+tape.measureheight=Måling Højde =
+tape.nomeasure=Ingen Måling.
+tape.measure=Måling =
+tape.startmeasure=Start Måling.
+tape.mode0=Skifte Modus Til Nord/Syd, Øst/Vest, og Højde.
+tape.mode1=Skifte Modus Til Totale Måling.
 lock.creativeonly=Creative Modus Kun
 lock.notowner=Du Ejer ikke Denne Blok
-lock.locked=This Blokkrn er l�st.
-lock.unlocked=Blokken er l�st op.
+lock.locked=This Blokkrn er låst.
+lock.unlocked=Blokken er låst op.
 
 // Blocks
-CookieJar.name=Kage D�se
+CookieJar.name=Kage Dåse
 MarkerPole.name=Makat
 tile.BiblioType.name=Skrivebord
 tile.BiblioPress.name=Trykke presse
@@ -52,30 +231,14 @@ OakShelf.name=Eg Hylde
 SpruceShelf.name=Gran Hylde
 BirchShelf.name=Birk Hylde
 JungleShelf.name=Jungel Hylde
-OakWeaponRack.name=Eg V�rkt�js Skab
-SpruceWeaponRack.name=Gran V�rkt�js Skab
-BirchWeaponRack.name=Birk V�rkt�js Skab
-JungleWeaponRack.name=Jungel Vrkt�js Skab
-OakLabel.name=eg Tr� Makat
-SpruceLabel.name=Gran Tr� Makat
-BirchLabel.name=Birk Tr� Makat
-JungleLabel.name=Jungel Tr� Makat
-RedLinedOakCase.name=Eg Monter
-BlueLinedOakCase.name=Eg Monter
-GreenLinedOakCase.name=Eg Monter
-BlackLinedOakCase.name=Eg Monter
-RedLinedSpruceCase.name=Gran Monter
-BlueLinedSpruceCase.name=Gran Monter
-GreenLinedSpruceCase.name=Gran Monter
-BlackLinedSpruceCase.name=Gran Monter
-RedLinedBirchCase.name=Birk Monter
-BlueLinedBirchCase.name=Birk Monter
-GreenLinedBirchCase.name=Birk Monter
-BlackLinedBirchCase.name=Birk Monter
-RedLinedJungleCase.name=Jungel Monter
-BlueLinedJungleCase.name=Jungel Monter
-GreenLinedJungleCase.name=Jungel Monter
-BlackLinedJungleCase.name=Jungel Monter
+OakWeaponRack.name=Eg Værktøjs Skab
+SpruceWeaponRack.name=Gran Værktøjs Skab
+BirchWeaponRack.name=Birk Værktøjs Skab
+JungleWeaponRack.name=Jungel Vrktøjs Skab
+OakLabel.name=eg Træ Makat
+SpruceLabel.name=Gran Træ Makat
+BirchLabel.name=Birk Træ Makat
+JungleLabel.name=Jungel Træ Makat
 OakWritingDesk.name=Eg Skrivebord
 SpruceWritingDesk.name=Gran Skrivebord
 BirchWritingDesk.name=Birk Skrivebord
@@ -84,6 +247,16 @@ OakTable.name=Eg Bord
 SpruceTable.name=Gran Bord
 BirchTable.name=Birk Bord
 JungleTable.name=Jungel Bord
+DiscRack.name=
+DinnerPlate.name=
+OakMapFrame.name=
+SpruceMapFrame.name=
+BirchMapFrame.name=
+JungleMapFrame.name=
+OakSeat.name=
+SpruceSeat.name=
+BirchSeat.name=
+JungleSeat.name=
 
 //lights
 whiteLantern.name=Gylden Lantern
@@ -120,55 +293,56 @@ magentaLamp.name=smart Lampe
 pinkLamp.name=smart Lampe
 brownLamp.name=smart Lampe
 
-tile.case.redline=r�dt betr�k
-tile.case.blueline=bl� betr�k
-tile.case.greenline=Gr�n betr�k
-tile.case.blackline=sort betr�k
-
 lamp.hood0=hvid lygte hjelm
-lamp.hood1=lyssegr� lygte hjelm
-lamp.hood2=Gr� lygte hjelm
+lamp.hood1=lyssegrå lygte hjelm
+lamp.hood2=Grå lygte hjelm
 lamp.hood3=sort lygte hjelm
-lamp.hood4=R�d lygte hjelm
+lamp.hood4=Rød lygte hjelm
 lamp.hood5=Orange lygte hjelm
 lamp.hood6=gul lygte hjelm
 lamp.hood7=Lime lygte hjelm
-lamp.hood8=Gr�n lygte hjelm
+lamp.hood8=Grøn lygte hjelm
 lamp.hood9=Cyan lygte hjelm
-lamp.hood10=lysebl� lygte hjelm
-lamp.hood11=Bl� lygte hjelm
+lamp.hood10=lyseblå lygte hjelm
+lamp.hood11=Blå lygte hjelm
 lamp.hood12=Purpel lygte hjelm
 lamp.hood13=Magenta lygte hjelm
-lamp.hood14=lysser�d lygte hjelm
+lamp.hood14=lysserød lygte hjelm
 lamp.hood15=Brun lygte hjelm
 
 lantern.candle0=hvid sterrinlys
-lantern.candle1=lyssegr� sterrinlys
-lantern.candle2=Gr� sterrinlys
+lantern.candle1=lyssegrå sterrinlys
+lantern.candle2=Grå sterrinlys
 lantern.candle3=sort sterrinlys
-lantern.candle4=R�d sterrinlys
+lantern.candle4=Rød sterrinlys
 lantern.candle5=Orange sterrinlys
 lantern.candle6=gul sterrinlys
 lantern.candle7=Lime sterrinlys
-lantern.candle8=Gr�n sterrinlys
+lantern.candle8=Grøn sterrinlys
 lantern.candle9=Cyan sterrinlys
-lantern.candle10=lyssebl� sterrinlys
-lantern.candle11=Bl� sterrinlys
+lantern.candle10=lysseblå sterrinlys
+lantern.candle11=Blå sterrinlys
 lantern.candle12=Purple sterrinlys
 lantern.candle13=Magenta sterrinlys
-lantern.candle14=lysser�d sterrinlys
+lantern.candle14=lysserød sterrinlys
 lantern.candle15=Brun sterrinlys
 
 // Items
-item.tapeMeasure.name=m�leb�nd
-item.tape.name=m�leb�nd holder
+item.tapeMeasure.name=målebånd
+item.tape.name=målebånd holder
 item.BiblioChase.name=stempel presse kase
 item.PrintPlate.name=stempel presse plade
 item.EnchantedPlate.name=forbedringe plade
-item.BiblioRedBook.name=R�dsten: Volume I
-item.BiblioGlasses.readingglasses.name=l�se briller
+item.BiblioRedBook.name=Rødsten: Volume I
+item.BiblioGlasses.readingglasses.name=læse briller
 item.BiblioGlasses.tintedglasses.name=solbriller
 item.BiblioGlasses.monocle.name=Monocel
 item.BiblioDrill.name=skrugemaskine
-item.BiblioCreativeLock.name=l�s og n�gle
+item.BiblioCreativeLock.name=lås og nøgle
 item.BiblioClipboard.name=udklipsholder
+item.seatBack.OakSeatBack.name=
+item.seatBack.SpruceSeatBack.name=
+item.seatBack.BirchSeatBack.name=
+item.seatBack.JungleSeatBack.name=
+item.BiblioWayPointCompass.name=
+item.BiblioMapTool.name=
