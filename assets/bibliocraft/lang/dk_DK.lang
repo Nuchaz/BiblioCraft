@@ -142,26 +142,7 @@ AcaciaMapFrame.name=Akacietræs-kortramme
 OldOakMapFrame.name=Mørk Egetræskortramme
 AcaciaSeat.name=Akacietræssæde
 OldOakSeat.name=Mørkt Egetræssæde
-OakCase.name=
-SpruceCase.name=
-BirchCase.name=
-JungleCase.name=
-AcaciaCase.name=
-OldOakCase.name=
-item.seatBack.AcaciaSeatBack.name=
-item.seatBack.OldOakSeatBack.name=
-lighting.metalIron=
-lighting.metalGold=
-gui.typesetting.guiTitle=
-gui.typesetting.pageOfpages=
-gui.typesetting.public=
-gui.typesetting.private=
-gui.typesetting.delete=
-gui.typesetting.select=
-gui.typesetting.nextPage=
-gui.typesetting.prevPage=
-gui.typesetting.exit=
-gui.typesetting.enableDiscard=
+
 // End of 1.6 additions ////////////////////////////
 
 
@@ -177,27 +158,10 @@ gui.table=træ bord
 gui.case=Monter
 gui.toolrack=Værktøjs Skab
 gui.desk=Træ Skrivebord
-gui.mapWaypoint.accept=
-gui.mapWaypoint.remove=
-gui.mapWaypoint.cancel=
-gui.mapWaypoint.waypoint=
-gui.compass.x=
-gui.compass.z=
-gui.dinnerPlate=
-gui.discRack=
+
 
 // In game messages, reading glasses stuff and other stuff
-enchant.reading=
-redbook.by=
-plate.notValid=
-typesetting.requires=
-typesetting.levels=
-typesetting.chase=
-typesetting.bookSelect=
-print.ink=
-print.book=
-screwgun.firstSeat=
-screwgun.secondSeat=
+
 
 //Tape Measure Texts
 tape.measurenorthsouth=Måling Nord/Syd =
@@ -247,16 +211,7 @@ OakTable.name=Eg Bord
 SpruceTable.name=Gran Bord
 BirchTable.name=Birk Bord
 JungleTable.name=Jungel Bord
-DiscRack.name=
-DinnerPlate.name=
-OakMapFrame.name=
-SpruceMapFrame.name=
-BirchMapFrame.name=
-JungleMapFrame.name=
-OakSeat.name=
-SpruceSeat.name=
-BirchSeat.name=
-JungleSeat.name=
+
 
 //lights
 whiteLantern.name=Gylden Lantern
@@ -340,9 +295,3 @@ item.BiblioGlasses.monocle.name=Monocel
 item.BiblioDrill.name=skrugemaskine
 item.BiblioCreativeLock.name=lås og nøgle
 item.BiblioClipboard.name=udklipsholder
-item.seatBack.OakSeatBack.name=
-item.seatBack.SpruceSeatBack.name=
-item.seatBack.BirchSeatBack.name=
-item.seatBack.JungleSeatBack.name=
-item.BiblioWayPointCompass.name=
-item.BiblioMapTool.name=
