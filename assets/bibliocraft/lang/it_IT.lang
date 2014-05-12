@@ -7,6 +7,10 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Luci
 
 // All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=Sei sicuro?
+gui.recipe.finalize=Cliccando si questo libro non potrà più essere modificato.
+gui.recipe.description=Aggiungi una descrizione.
+
 swordpedestal.name=Piedistallo per Spada
 swordpedestal.white=Decorazioni Bianche
 swordpedestal.orange=Decorazioni Arancioni
