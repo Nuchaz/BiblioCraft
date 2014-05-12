@@ -7,6 +7,10 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Lighting
 
 // All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=Are you sure?
+gui.recipe.finalize=Clicking yes will permanently lock this book from being edited.
+gui.recipe.description=Add a description.
+
 swordpedestal.name=Sword Pedestal
 swordpedestal.white=White Trim
 swordpedestal.orange=Orange Trim
