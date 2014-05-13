@@ -7,6 +7,10 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Beleuchtung
 
 // All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=Bist du sicher?
+gui.recipe.finalize='Ja' zu klicken, wird das Buch nicht unveränderbar machen.
+gui.recipe.description=Füge eine Beschreibung hinzu.
+
 swordpedestal.name=Schwertsockel
 swordpedestal.white=Weiße Version
 swordpedestal.orange=Orange Version
@@ -71,7 +75,7 @@ book.saverecipe2=Buch speichern.
 book.loadrecipe=Komponenten aus
 book.loadrecipe2=Inventar laden.
 book.areyousure=Bist du sicher?
-book.areyousure2=Hierauf zu klicken, wird das Buch nicht mehr änderbar machen.
+book.areyousure2=Hierauf zu klicken, wird das Buch unveränderbar machen.
 book.setrecipename=Rezept:
 gui.fancyworkbench=Schicke Werkbank
 
