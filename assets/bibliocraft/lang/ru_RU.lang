@@ -7,6 +7,10 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Освещение
 
 // All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=Вы уверены?
+gui.recipe.finalize=Нажатие "да", навсегда заблокирует эту книгу от редактирования.
+gui.recipe.description=Добавить описание.
+ 
 swordpedestal.name=Пьедестал для меча
 swordpedestal.white=Белая отделка
 swordpedestal.orange=Оранжевая отделка
@@ -44,7 +48,7 @@ tile.BiblioBell.name=Настольный звонок
 item.RecipeBook.name=Пустая книга рецептов
 item.SlottedBook.name=Вырезанная книга
 item.BigBook.name=Большая письменная книга
-item.HandDrill.name=Ручная дрель
+item.HandDrill.name=Коловорот
 
 book.bold=Ж
 book.italic=К
@@ -76,7 +80,7 @@ book.setrecipename=Рецепт:
 gui.fancyworkbench=Красивый верстак
 
 gui.sign.left=Влево
-gui.sign.center=В центр
+gui.sign.center=По центру
 gui.sign.right=Вправо
 
 gui.sign.black=Чёрный
@@ -96,14 +100,14 @@ gui.sign.lightpurple=Светло-фиолетовый
 gui.sign.yellow=Жёлтый
 gui.sign.white=Белый
 
-gui.sign.tooltip1=Нажмите на поле или нажмите tab, чтобы выбрать панель редактирования. Tab прокручивает панели.
-gui.sign.tooltip2=Нажмите на поле выше, чтобы выбрать 1-ый слот опций редактирования. Отредактируйте размер, позицию и поворот.
-gui.sign.tooltip3=Нажмите на поле выше, чтобы выбрать опции редактирования текста. Отредактируйте размер и форматирование.
-gui.sign.tooltip4=Нажмите на поле выше, чтобы выбрать 2-ой слот опций редактирования. Отредактируйте размер, позицию и поворот.
+gui.sign.tooltip1=Установите флажок или нажмите tab, чтобы выбрать панель редактирования. Tab прокручивает панели.
+gui.sign.tooltip2=Установите флажок выше, чтобы выбрать 1-ый слот опций редактирования. Отредактируйте размер, позицию и поворот.
+gui.sign.tooltip3=Установите флажок выше, чтобы выбрать опции редактирования текста. Отредактируйте размер и форматирование.
+gui.sign.tooltip4=Установите флажок выше, чтобы выбрать 2-ой слот опций редактирования. Отредактируйте размер, позицию и поворот.
 gui.sign.tooltip5=Откорректируйте размер блока.
 gui.sign.tooltip6=Откорректируйте поворот блока. Блоки могут быть повёрнуты влево, в центр или вправо. Предметы могут быть повёрнуты только влево или вправо.
 gui.sign.tooltip7=Откорректируйте позицию блока. Позиция также может быть скорректирована с помощью стрелок или клавишами WASD.
-gui.sign.tooltip8=Введите один из следующих номеров/ букв после символа форматирования:
+gui.sign.tooltip8=Введите один из следующих номеров/букв после символа форматирования:
 gui.sign.tooltip9=Нажмите кнопку или нажмите кнопку 'alt', чтобы добавить символ форматирования на выбранную строку.
 
 gui.sign.bold=Полужирный
@@ -112,7 +116,7 @@ gui.sign.underline=Подчёркнутый
 gui.sign.italic=Курсивный
 
 gui.sign.scale=Размер текста
-gui.sign.format=Форматирование
+gui.sign.format=Форматир.
 gui.sign.linenum=Строка#
 
 // All BiblioCraft 1.6 additions and changes/////////////////////
