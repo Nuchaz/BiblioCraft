@@ -6,6 +6,119 @@ language.code=zh_CN
 itemGroup.BiblioCraft=展示架
 itemGroup.BiblioCraftLights=展示架灯具
 
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=你确定吗?
+gui.recipe.finalize=点击yes会永久关闭这本书的编辑功能.
+gui.recipe.description=添加一个描述.
+
+swordpedestal.name=剑座
+swordpedestal.white=白色切边
+swordpedestal.orange=橙色切边
+swordpedestal.magenta=品红色切边
+swordpedestal.lightblue=淡蓝色切边
+swordpedestal.yellow=黄色切边
+swordpedestal.lime=黄绿色切边
+swordpedestal.pink=粉色切边
+swordpedestal.gray=灰色切边
+swordpedestal.lightgray=淡灰色切边
+swordpedestal.cyan=青色切边
+swordpedestal.purple=紫色切边
+swordpedestal.blue=蓝色切边
+swordpedestal.brown=棕色切边
+swordpedestal.green=绿色切边
+swordpedestal.red=红色切边
+swordpedestal.black=黑色切边
+
+OakSign.name=橡木奇特木牌
+SpruceSign.name=云杉奇特木牌
+BirchSign.name=桦木奇特木牌
+JungleSign.name=丛林奇特木牌
+AcaciaSign.name=金合欢奇特木牌
+OldOakSign.name=深色橡木奇特木牌
+
+OakWorkbench.name=橡木奇特工作台
+SpruceWorkbench.name=云杉奇特工作台
+BirchWorkbench.name=桦木奇特工作台
+JungleWorkbench.name=丛林奇特工作台
+AcaciaWorkbench.name=金合欢奇特工作台
+OldOakWorkbench.name=深色橡木奇特工作台
+
+tile.BiblioBell.name=桌铃
+
+item.RecipeBook.name=空白配方书
+item.SlottedBook.name=有槽的书
+item.BigBook.name=大成书
+item.HandDrill.name=手摇钻
+
+book.bold=B
+book.italic=I
+book.underline=U
+book.strike=中划线
+book.obfuscated=O
+book.reset=重置
+book.save=保存
+book.sign=签名
+book.entertitle=输入书名:
+book.by=by
+book.signnotice=重要提示! 当你给这本签名后, 它再也不能被编辑了. 包括编辑文字, 格式, 章节, 以及增加页数.
+book.textscale=文字比例
+book.lineselected=被选中的行
+book.cancel=取消
+book.linenum=行# =
+book.title=标题
+book.description=描述
+book.ingredients=需要材料:
+book.overwriterecipe=重写覆盖当前
+book.overwriterecipe2=配方书.
+book.saverecipe=保存配方至
+book.saverecipe2=空白书.
+book.loadrecipe=加载部件
+book.loadrecipe2=从物品栏.
+book.areyousure=你确定吗?
+book.areyousure2=点击yes会永久关闭这本书的编辑功能.
+book.setrecipename=配方:
+gui.fancyworkbench=奇特工作台
+
+gui.sign.left=左
+gui.sign.center=中央
+gui.sign.right=右
+
+gui.sign.black=黑色
+gui.sign.darkblue=深蓝色
+gui.sign.darkgreen=深绿色
+gui.sign.darkaqua=深水绿色
+gui.sign.darkred=暗红色
+gui.sign.darkpurple=暗紫色
+gui.sign.gold=金色
+gui.sign.gray=灰色
+gui.sign.darkgray=深灰色
+gui.sign.blue=蓝色
+gui.sign.green=绿色
+gui.sign.aqua=水绿色
+gui.sign.red=红色
+gui.sign.lightpurple=淡紫色
+gui.sign.yellow=黄色
+gui.sign.white=白色
+
+gui.sign.tooltip1=点击一个按键或者按Tab来选择编辑面板. Tab可以切换面板.
+gui.sign.tooltip2=点击上面的按键选择空槽1,编辑选项面板. 编辑比例,位置和选择.
+gui.sign.tooltip3=点击上面的按键选择文字编辑面板. 编辑比例,添加原版文字格式.
+gui.sign.tooltip4=点击上面的按键选择空槽2,编辑选项. 编辑比例,位置和选择.
+gui.sign.tooltip5=调整方块比例.
+gui.sign.tooltip6=调整方块旋转. 方块可以面朝左边,右边和中央. 但是物品只能面朝左右.
+gui.sign.tooltip7=调整方块位置. 可以使用方向键或者WASD键调整方块位置.
+gui.sign.tooltip8=输入格式符号后,输入以下任一数字/字母:
+gui.sign.tooltip9=点击这个按键或者按'alt'键,添加格式符号到选择的行中.
+
+gui.sign.bold=粗体
+gui.sign.strikethrough=删除线
+gui.sign.underline=下划线
+gui.sign.italic=斜体
+
+gui.sign.scale=文字比例
+gui.sign.format=格式
+gui.sign.linenum=行#
+
 
 //1.6.2 additions
 gui.redbook.title=书名:
@@ -13,31 +126,31 @@ gui.redbook.description.p1=红石书可以用于书架，发出红石信号. 当
 gui.redbook.description.p2=书架有16个空格, 第一个格子为左上第一格，第16格为右下最后一格. 如果红石书被放到第一个格子里，书架不会发出任何红石信号. 如果红石书被放到第二格，书架会发出强度为1的红石信号. 每往后放一个，发出的红石信号强度就会增加, 当红石书被放到第16格时，会发出强度为15的红石信号.
 
 // All BiblioCraft 1.6 additions and changes/////////////////////
-AcaciaDesk.name=刺槐台桌
+AcaciaDesk.name=金合欢台桌
 OldOakDesk.name=深色橡木台桌
-AcaciaBookcase.name=刺槐书架
+AcaciaBookcase.name=金合欢书架
 OldOakBookcase.name=深色橡木书架
-AcaciaPotionShelf.name=刺槐药水架
+AcaciaPotionShelf.name=金合欢药水架
 OldOakPotionShelf.name=深色橡木药水架
-AcaciaShelf.name=刺槐架子
+AcaciaShelf.name=金合欢架子
 OldOakShelf.name=深色橡木架子
-AcaciaWeaponRack.name=刺槐工具架
+AcaciaWeaponRack.name=金合欢工具架
 OldOakWeaponRack.name=深色橡木工具架
-AcaciaLabel.name=刺槐标签
+AcaciaLabel.name=金合欢标签
 OldOakLabel.name=深色橡木标签
-AcaciaTable.name=刺槐桌子
+AcaciaTable.name=金合欢桌子
 OldOakTable.name=深色橡木桌子
-AcaciaMapFrame.name=刺槐地图框架
+AcaciaMapFrame.name=金合欢地图框架
 OldOakMapFrame.name=深色橡木地图框架
-AcaciaSeat.name=刺槐椅子
+AcaciaSeat.name=金合欢椅子
 OldOakSeat.name=深色橡木椅子
 OakCase.name=橡木盒子
 SpruceCase.name=云杉盒子
 BirchCase.name=桦木盒子
 JungleCase.name=丛林木盒子
-AcaciaCase.name=刺槐盒子
+AcaciaCase.name=金合欢盒子
 OldOakCase.name=深色橡木盒子
-item.seatBack.AcaciaSeatBack.name=刺槐椅子背
+item.seatBack.AcaciaSeatBack.name=金合欢椅子背
 item.seatBack.OldOakSeatBack.name=深色橡木椅子背
 lighting.metalIron=铁质
 lighting.metalGold=金质
