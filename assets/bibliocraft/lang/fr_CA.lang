@@ -7,6 +7,10 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Éclairage
 
 // All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=Êtes vpis certain ?
+gui.recipe.finalize=Cliquer sur oui empêchera toute édition du livre.
+gui.recipe.description=Ajouter une descrition.
+
 swordpedestal.name=Piédestal pour épée
 swordpedestal.white=Bordure blanche
 swordpedestal.orange=Bordure orange
@@ -97,11 +101,11 @@ gui.sign.yellow=Jaune
 gui.sign.white=Blanc
 
 gui.sign.tooltip1=Cliquez sur un cadre ou appuyez sur tab pour sélectionner un panneau d'édition. Tab changera de panneau.
-gui.sign.tooltip2=Cliquez sur le cadre au dessus pour sélectionner le panneau d'édition du premier emplacement. Editez la taille,la position et la rotation.
-gui.sign.tooltip3=Cliquez sur le cadre au dessus pour sélectionner les options d'éditage de texte. Editez la taille et ajoutez du formatage à la manière de vanilla.
-gui.sign.tooltip4=Cliquez sur le cadre au dessus pour selectionner le panneau d'édition du second emplacement. Editez la taille,la position et la rotation.
+gui.sign.tooltip2=Cliquez sur le cadre au dessus pour sélectionner le panneau d'édition du premier emplacement. Éditez la taille,la position et la rotation.
+gui.sign.tooltip3=Cliquez sur le cadre au dessus pour sélectionner les options d'éditage de texte. Éditez la taille et ajoutez du formatage à la manière de vanilla.
+gui.sign.tooltip4=Cliquez sur le cadre au dessus pour selectionner le panneau d'édition du second emplacement. Éditez la taille,la position et la rotation.
 gui.sign.tooltip5=Ajuster la taille du bloc.
-gui.sign.tooltip6=Ajuster la rotation du bloc. Les blocs peuvent êtres orientés vers la gauche, la droite ou vers le centre. Les objets ne peuvent que êtres orientés vers la droite ou la gauche.
+gui.sign.tooltip6=Ajuster la rotation du bloc. Les blocs peuvent êtres orientés vers la gauche, la droite ou vers le centre. Les objets ne peuvent êtres orientés que vers la droite ou la gauche.
 gui.sign.tooltip7=Ajuster la position du bloc. La position peut également être ajustée avec les touches flechées ou les touches WASD.
 gui.sign.tooltip8=Entrez l'un des chiffres/lettres suivantes après le symbole de formatage.
 gui.sign.tooltip9=Cliquez sur le bouton ou appuyez sur la touche "alt" pour ajouter un symbole de formatage à la ligne selectionnée.
