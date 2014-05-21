@@ -4,9 +4,193 @@ language.code=es_AR
 
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=Luces de Bibliocraft
 
-// All BiblioCraft 1.5 additions/////////////////////
-// 1.5 gui stuff
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=¿Estás seguro?
+gui.recipe.finalize=Hacer click en "sí" impedirá que este libro sea editado. 
+gui.recipe.description=Agrega una descripción. 
+
+swordpedestal.name=Pedestal para Espada
+swordpedestal.white=Ribete Blanco
+swordpedestal.orange=Ribete Naranja
+swordpedestal.magenta=Ribete Magenta
+swordpedestal.lightblue=Ribete Celeste
+swordpedestal.yellow=Ribete Amarillo
+swordpedestal.lime=Ribete Verde Claro
+swordpedestal.pink=Ribete Rosado
+swordpedestal.gray=Ribete Gris Oscuro
+swordpedestal.lightgray=Ribete Gris Claro
+swordpedestal.cyan=Ribete Cian
+swordpedestal.purple=Ribete Púrpura
+swordpedestal.blue=Ribete Azul
+swordpedestal.brown=Ribete Marrón
+swordpedestal.green=Ribete Verde Oscuro
+swordpedestal.red=Ribete Rojo
+swordpedestal.black=Ribete Negro
+
+OakSign.name=Cartel Elegante de Roble
+SpruceSign.name=Cartel Elegante de Abeto
+BirchSign.name=Cartel Elegante de Abedul
+JungleSign.name=Cartel Elegante de Selva
+AcaciaSign.name=Cartel Elegante de Acacia
+OldOakSign.name=Cartel Elegante de Roble Oscuro
+
+OakWorkbench.name=Mesa de Trabajo Elegante de Roble
+SpruceWorkbench.name=Mesa de Trabajo Elegante de Abeto
+BirchWorkbench.name=Mesa de Trabajo Elegante de Abedul
+JungleWorkbench.name=Mesa de Trabajo Elegante de Selva
+AcaciaWorkbench.name=Mesa de Trabajo Elegante de Acacia
+OldOakWorkbench.name=Mesa de Trabajo Elegante de Roble Oscuro
+
+tile.BiblioBell.name=Campanilla
+
+item.RecipeBook.name=Libro de Recetas en Blanco
+item.SlottedBook.name=Libro con inventario
+item.BigBook.name=Gran libro
+item.HandDrill.name=Taladro manual
+
+book.bold=N
+book.italic=K
+book.underline=S
+book.strike=Tachado
+book.obfuscated=Ofuscado
+book.reset=Restablecer
+book.save=Guardar
+book.sign=Firmar
+book.entertitle=Ingresar el título del libro
+book.by=por
+"book.signnotice=Importante: cuando firmés el libro, ya no podrás editar el texto, 
+el formato, los capítulos o páginas adicionales. "
+book.textscale=Escala del texto
+book.lineselected=Línea seleccionada
+book.cancel=Cancelar
+book.linenum=Línea # = 
+book.title=Título
+book.description=Descripción
+book.ingredients=Ingredientes necesarios:
+book.overwriterecipe=Sobrescribir el actual
+book.overwriterecipe2=libro de recetas.
+book.saverecipe=Guardar receta en
+book.saverecipe2=libro en blanco. 
+book.loadrecipe=Tomar ingredientes
+book.loadrecipe2=del inventario.  
+book.areyousure=¿Estás seguro?
+book.areyousure2=Hacer click en "sí" va a impedir que este libro sea editado. 
+book.setrecipename=Receta: 
+gui.fancyworkbench=Mesa de Trabajo Elegante
+
+gui.sign.left=Izquierda
+gui.sign.center=Centrado
+gui.sign.right=Derecha
+
+gui.sign.black=Negro
+gui.sign.darkblue=Azul oscuro
+gui.sign.darkgreen=Verde oscuro
+gui.sign.darkaqua=Turquesa
+gui.sign.darkred=Rojo oscuro
+gui.sign.darkpurple=Morado
+gui.sign.gold=Dorado
+gui.sign.gray=Gris
+gui.sign.darkgray=Gris oscuro
+gui.sign.blue=Azul oscuro
+gui.sign.green=Verde claro
+gui.sign.aqua=Turquesa claro
+gui.sign.red=Rojo oscuro
+gui.sign.lightpurple=Violeta
+gui.sign.yellow=Amarillo
+gui.sign.white=Blanco
+
+gui.sign.tooltip1=Haz click en un cuadro para seleccionar un panel de edición. Tab rota entre paneles. 
+gui.sign.tooltip2=Haz click en el cuadro de arriba para seleccionar las opciones de edición de la casilla 1. Edita la escala, la posición y la rotación. 
+gui.sign.tooltip3=Haz click en el cuadro de arriba para seleccionar las opciones de edición de texto. Edita la escala y añade formato. 
+gui.sign.tooltip4=Haz click en el cuadro de arriba para seleccionar las opciones de edición de la casilla 2. Edita la escala, la posición y la rotación. 
+gui.sign.tooltip5=Ajusta la escala del bloque. 
+gui.sign.tooltip6=Ajusta la rotación de los bloques. Puedes centrar los bloques o rotarlos hacia la izquierda o la derecha. Solo puedes rotar los ítems hacia la izquierda o la derecha. 
+gui.sign.tooltip7=Ajusta la posición de los bloques. La posición también puede ajustarse con las flechas del teclado o las letras WASD. 
+gui.sign.tooltip8=Ingresa uno de los siguientes números/ después del símbolo de formato: 
+gui.sign.tooltip9=Aprieta el botón o la tecla "Alt" para añadir un símbolo de formato en la línea seleccionada. 
+
+gui.sign.bold=Negrita
+gui.sign.strikethrough=Tachado
+gui.sign.underline=Subrayado
+gui.sign.italic=Cursiva
+
+gui.sign.scale=Escala del texto
+gui.sign.format=Formato
+gui.sign.linenum=Línea#
+
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=Título del libro: 
+"gui.redbook.description.p1=El libro de redstone es utilizado en combinación con la librería
+para emitir una señal de redstone. Cuando se coloca en una
+librería, una señal de  redstone será emitida hacia todas las 
+direcciones excepto el frente. La fuerza de la señal depende 
+del lugar que ocupa el libro en la librería. "
+"gui.redbook.description.p2=La librería tiene 16 espacios. El espacio 1 es el de arriba a la 
+izquierda y el espacio 16 es el de abajo a la derecha. Si el 
+libro de redstone es colocado en el espacio 1, la librería 
+emitirá una señal de redstone con una fuerza de 1. Cada 
+espacio aumenta la fuerza de la señal por 1, hasta el epacio 16
+que emite una señal de fuerza 16. "
+
+
+
+AcaciaDesk.name=Escritorio de Acacia
+OldOakDesk.name=Escritorio de Roble oscuro
+AcaciaBookcase.name=Librería de Acacia
+OldOakBookcase.name=Librería de Roble Oscuro
+AcaciaPotionShelf.name=Estantería de Pociones de Acacia
+OldOakPotionShelf.name=Estantería de Pociones de Roble Oscuro
+AcaciaShelf.name=Estantería de Acacia
+OldOakShelf.name=Estantería de Roble Oscuro
+AcaciaWeaponRack.name=Colgador de Herramientas de Acacia
+OldOakWeaponRack.name=Colgador de Herramientas de Roble Oscuro
+AcaciaLabel.name=Rótulo de Acacia
+OldOakLabel.name=Rótulo de Roble Oscuro
+AcaciaTable.name=Mesa de Acacia
+OldOakTable.name=Mesa de Roble Oscuro
+AcaciaMapFrame.name=Marco de Mapas de Acacia
+OldOakMapFrame.name=Marco de Mapas de Roble Oscuro
+AcaciaSeat.name=Asiento de Acacia
+OldOakSeat.name=Asiento de Roble Oscuro
+OakCase.name=Vitrina de Roble
+SpruceCase.name=Vitrina de Abeto
+BirchCase.name=Vitrina de Abedul
+JungleCase.name=Vitrina de Selva
+AcaciaCase.name=Vitrina de Acacia
+OldOakCase.name=Vitrina de Roble Oscuro
+item.seatBack.AcaciaSeatBack.name=Vitrina de Acacia
+item.seatBack.OldOakSeatBack.name=Vitrina de Roble Oscuro
+lighting.metalIron=Hecho de Hierro.
+lighting.metalGold=Hecho de Oro. 
+gui.typesetting.guiTitle=Mesa de Tipografía: gestión de libros
+gui.typesetting.pageOfpages=de
+gui.typesetting.public=Público
+gui.typesetting.private=Privado
+gui.typesetting.delete=Suprimir
+gui.typesetting.select=Seleccionar
+gui.typesetting.nextPage=Próxima Página
+gui.typesetting.prevPage=Página Anterior
+gui.typesetting.exit=Salir
+gui.typesetting.enableDiscard=Descartar
+// End of 1.6 additions ////////////////////////////
+
+
+
+// Gui stuff
+gui.armorstand=Perchero
+gui.bookcase=Librería
+gui.cookiejar=Tarro de Galletitas
+gui.shelf=Estantería de Madera
+gui.label=Rótulo de Madera
+gui.potionshelf=Estantería de Pociones
+gui.table=Mesa de Madera
+gui.case=Vitrina
+gui.toolrack=Perchero para Herramientas
+gui.desk=Escritorio de Madera
 gui.mapWaypoint.accept=Aceptar
 gui.mapWaypoint.remove=Borrar
 gui.mapWaypoint.cancel=Cancelar
@@ -16,44 +200,18 @@ gui.compass.z=Z:
 gui.dinnerPlate=Plato
 gui.discRack=Estantería de Discos
 
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=Lectura
+redbook.by=por
+plate.notValid=Inválido
+typesetting.requires=Requiere
+typesetting.levels=Niveles
+typesetting.chase=Marco de Impresión
+typesetting.bookSelect=Elegir un libro. 
+print.ink=Tinta
+print.book=Libros
 screwgun.firstSeat=Primer asiento seleccionado.
 screwgun.secondSeat=Tratando de unir/separar asientos.
-
-// 1.5 Blocks
-DiscRack.name=Estantería de Discos
-DinnerPlate.name=Plato
-OakMapFrame.name=Marco de Mapas de Roble
-SpruceMapFrame.name=Marco de Mapas de Abeto
-BirchMapFrame.name=Marco de Mapas de Abedul
-JungleMapFrame.name=Marco de Mapas de Selva
-OakSeat.name=Asiento de Roble
-SpruceSeat.name=Asiento de Abeto
-BirchSeat.name=Asiento de Abedul
-JungleSeat.name=Asiento de Selva
-
-// 1.5 Items
-item.seatBack.OakSeatBack.name=Respaldo de Roble
-item.seatBack.SpruceSeatBack.name=Respaldo de Abeto
-item.seatBack.BirchSeatBack.name=Respaldo de Abedul
-item.seatBack.JungleSeatBack.name=Respaldo de Selva
-item.BiblioWayPointCompass.name=Brújula de Marcadores
-item.BiblioMapTool.name=Compás
-
-// End of 1.5 additions ////////////////////////////
-
-// Gui stuff
-gui.armorstand=Perchero
-gui.bookcase=Librería
-gui.cookiejar=Tarro de Galletitas
-gui.shelf=Estantería de Madera
-gui.label=Rótulo de Madera
-gui.potionshelf=Estantería de Pociones
-gui.typeset.selectbook=Elegí un libro por favor
-gui.table=Mesa de Madera
-gui.case=Vitrina
-gui.toolrack=Perchero para Herramientas
-gui.desk=Escritorio de Madera
-
 
 //Tape Measure Texts
 tape.measurenorthsouth=Distancia Norte/Sur =
@@ -64,7 +222,6 @@ tape.measure=Distancia =
 tape.startmeasure=Empezando medición.
 tape.mode0=Cambiando modo de medición a Norte/Sur, Este/Oeste y Altura.
 tape.mode1=Cambiando modo de medición a distancia absoluta.
-
 lock.creativeonly=Sólo Modo Creativo
 lock.notowner=No sos el propietario de este bloque.
 lock.locked=Este bloque ha sido bloqueado.
@@ -96,22 +253,6 @@ OakLabel.name=Rótulo de Roble
 SpruceLabel.name=Rótulo de Abeto
 BirchLabel.name=Rótulo de Abedul
 JungleLabel.name=Rótulo de Selva
-RedLinedOakCase.name=Vitrina de Roble
-BlueLinedOakCase.name=Vitrina de Roble
-GreenLinedOakCase.name=Vitrina de Roble
-BlackLinedOakCase.name=Vitrina de Roble
-RedLinedSpruceCase.name=Vitrina de Abeto
-BlueLinedSpruceCase.name=Vitrina de Abeto
-GreenLinedSpruceCase.name=Vitrina de Abeto
-BlackLinedSpruceCase.name=Vitrina de Abeto
-RedLinedBirchCase.name=Vitrina de Abedul
-BlueLinedBirchCase.name=Vitrina de Abedul
-GreenLinedBirchCase.name=Vitrina de Abedul
-BlackLinedBirchCase.name=Vitrina de Abedul
-RedLinedJungleCase.name=Vitrina de Selva
-BlueLinedJungleCase.name=Vitrina de Selva
-GreenLinedJungleCase.name=Vitrina de Selva
-BlackLinedJungleCase.name=Vitrina de Selva
 OakWritingDesk.name=Escritorio de Roble
 SpruceWritingDesk.name=Escritorio de Abeto
 BirchWritingDesk.name=Escritorio de Abedul
@@ -120,6 +261,16 @@ OakTable.name=Mesa de Roble
 SpruceTable.name=Mesa de Abeto
 BirchTable.name=Mesa de Abedul
 JungleTable.name=Mesa de Selva
+DiscRack.name=Estantería de Discos
+DinnerPlate.name=Plato
+OakMapFrame.name=Marco de Mapas de Roble
+SpruceMapFrame.name=Marco de Mapas de Abeto
+BirchMapFrame.name=Marco de Mapas de Abedul
+JungleMapFrame.name=Marco de Mapas de Selva
+OakSeat.name=Asiento de Roble
+SpruceSeat.name=Asiento de Abeto
+BirchSeat.name=Asiento de Abedul
+JungleSeat.name=Asiento de Selva
 
 //lights
 whiteLantern.name=Farol de Oro
@@ -156,12 +307,7 @@ magentaLamp.name=Lámpara de Lujo
 pinkLamp.name=Lámpara de Lujo
 brownLamp.name=Lámpara de Lujo
 
-tile.case.redline=Revestimento Rojo
-tile.case.blueline=Revestimento Azul
-tile.case.greenline=Revestimento Verde
-tile.case.blackline=Revestimento Negro 
-
-lamp.hood0=
+lamp.hood0=Blanca
 lamp.hood1=Gris claro
 lamp.hood2=Gris
 lamp.hood3=Negra
@@ -208,3 +354,9 @@ item.BiblioGlasses.monocle.name=Monóculo
 item.BiblioDrill.name=Atornillador Neumático
 item.BiblioCreativeLock.name=Llave y Cerradura
 item.BiblioClipboard.name=Portapapeles
+item.seatBack.OakSeatBack.name=Respaldo de Roble
+item.seatBack.SpruceSeatBack.name=Respaldo de Abeto
+item.seatBack.BirchSeatBack.name=Respaldo de Abedul
+item.seatBack.JungleSeatBack.name=Respaldo de Selva
+item.BiblioWayPointCompass.name=Brújula de Marcadores
+item.BiblioMapTool.name=Compás
