@@ -8,14 +8,14 @@ itemGroup.BiblioCraft=BiblioCraft
 // Gui stuff
 gui.armorstand=Rustiningstativ
 gui.bookcase=Bokhylle
-gui.cookiejar=Kjeksglass
+gui.cookiejar=Krukke med kjeks
 gui.shelf=Hylle
 gui.label=Etikett
 gui.potionshelf=Eleksirhylle
 gui.typeset.selectbook=Vennligst velg en bok
 gui.table=Bord
 gui.case=Utstillingskabinett
-gui.toolrack=Vertøyshylle
+gui.toolrack=Vertøyhylle
 gui.desk=Skrivebord
 
 
@@ -25,17 +25,17 @@ tape.measureeastwest=Måler Øst/Vest =
 tape.measureheight=Måler Høyde = 
 tape.nomeasure=Ingen Mål
 tape.measure=Måler
-tape.startmeasure=Starter Mål
+tape.startmeasure=Starter Måling
 tape.mode0=Bytter modus til Nord/Sør, Øst/vest, og høyde
 tape.mode1=Bytter modus til Nyaktig måling
 
 lock.creativeonly=Kun kreativ
 lock.notowner=Du er ikke eier av denne blokken
 lock.locked=Denne blokken er låst
-lock.unlocked=Denne blokken er opnet
+lock.unlocked=Denne blokken er opplåst
 
 // Blocks
-CookieJar.name=Kjeksglass
+CookieJar.name=Krukke med kjeks
 MarkerPole.name=Markør
 tile.BiblioType.name=Bokpresse
 tile.BiblioPress.name=Skriver
@@ -80,10 +80,10 @@ OakWritingDesk.name=Skrivebord av eik
 SpruceWritingDesk.name=Skrivebord av gran
 BirchWritingDesk.name=Skrivebord av bjørk
 JungleWritingDesk.name=Skrivebord av jungeltre
-OakTable.name=Bord (Eik)
-SpruceTable.name=Bord (Gran)
-BirchTable.name=Bord (Bjørk)
-JungleTable.name=Bord (Jungeltre)
+OakTable.name=Bord av eik
+SpruceTable.name=Bord av gran
+BirchTable.name=Bord av bjørk
+JungleTable.name=Bord av jungeltre
 
 //lights
 whiteLantern.name=Hvit lanterne
@@ -161,7 +161,7 @@ lantern.candle15=Brunt stearinlys
 
 // Items
 item.tapeMeasure.name=Måleteip
-item.tape.name=Måleteip-rull
+item.tape.name=Måleteiprull
 item.BiblioChase.name=Utskriftskasse
 item.PrintPlate.name=Utskriftsplate
 item.EnchantedPlate.name=Utskriftsplate (Skrevet)
