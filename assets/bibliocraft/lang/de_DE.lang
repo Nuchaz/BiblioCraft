@@ -107,7 +107,7 @@ gui.sign.tooltip4=Klicke auf die Box oben, um Slot 2 für Bearbeitungsoptionen a
 gui.sign.tooltip5=Ändere die Blockgröße.
 gui.sign.tooltip6=Ändere die Blockdrehung. Blöcke können nach links, rechts oder in die Mitte zeigen. Items können nur nach links und rechts zeigen.
 gui.sign.tooltip7=Ändere die Blockposition. Die Position kann auch mit den Pfeiltasten sowie den WASD-Tasten geändert werden.
-gui.sign.tooltip8=Gib eine(n) der folgenden Zahlen/Buchstaben nach dem Formatierungssymbol ein:
+gui.sign.tooltip8=Gib eine(n) der folgenden Zahlen / Buchstaben nach dem Formatierungssymbol ein:
 gui.sign.tooltip9=Klicke auf den Knopf oder drücke die 'Alt'-Taste, um der ausgewählten Zeile ein Formatierungssymbol hinzuzufügen.
 
 gui.sign.bold=Fett
