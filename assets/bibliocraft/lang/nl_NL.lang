@@ -1,12 +1,13 @@
 language.name=Nederlands
 language.region=NL
 language.code=nl_NL
-
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=Bibliocraft Licht
-
 // All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=Weet je het zeker?
+gui.recipe.finalize=Na op ja te hebben geklikt kan dit boek niet meer bewerkt worden.
+gui.recipe.description=Voeg een beschrijving toe
 swordpedestal.name=Zwaardhouder
 swordpedestal.white=Witte rand
 swordpedestal.orange=Oranje rand
@@ -24,28 +25,23 @@ swordpedestal.brown=Bruine rand
 swordpedestal.green=Groene rand
 swordpedestal.red=Rode rand
 swordpedestal.black=Zwarte Rand
-
 OakSign.name=Chique eikenhoutenbord
 SpruceSign.name=Chique sparrenhoutenbord
 BirchSign.name=Chique berkenhoutenbord
 JungleSign.name=Chique oerwoudhouten bord
 AcaciaSign.name=Chique acaciahouten bord
 OldOakSign.name=Chique donkereikenhoutenbord
-
 OakWorkbench.name=Chique eikenhoutenwerkbank
 SpruceWorkbench.name=Chique sparrenhoutenwerkbank
 BirchWorkbench.name=Chique berkenhoutenwerkbank
 JungleWorkbench.name=Chique oerwoudhouten werkbank
 AcaciaWorkbench.name=Chique acaciahouten werkbank
 OldOakWorkbench.name=Chique donkereikenhoutenwerkbank
-
 tile.BiblioBell.name=Bureaubel
-
 item.RecipeBook.name=Leeg receptenboek
 item.SlottedBook.name=[[can't translate, need context]]
 item.BigBook.name=[[can't translate, need context]]
 item.HandDrill.name=Handboor
-
 book.bold=B
 book.italic=I
 book.underline=U
@@ -74,11 +70,9 @@ book.areyousure=Zeker weten?
 book.areyousure2=Door op 'ja' te drukken verzegel je het boek en kan het definitief niet meer bewerkt worden.
 book.setrecipename=Recept:
 gui.fancyworkbench=Chiquee werkbank
-
 gui.sign.left=Links
 gui.sign.center=Midden
 gui.sign.right=Rechts
-
 gui.sign.black=Zwart
 gui.sign.darkblue=Donkerblauw
 gui.sign.darkgreen=Donkergroen
@@ -95,7 +89,6 @@ gui.sign.red=Rood
 gui.sign.lightpurple=Lichtpaars
 gui.sign.yellow=Geel
 gui.sign.white=Wit
-
 gui.sign.tooltip1=Klik op een vak of druk op tab om een bewerkingspaneel te selecteren. Door op tab te drukken wissel je tussen panelen
 gui.sign.tooltip2=Klik de knop hierboven om de bewerkingsopties van vak 1 te selecteren. Bewerk schaal, positie en rotatie.
 gui.sign.tooltip3=Klik de knop hierboven om de bewerkingsopties van de tekst te selecteren. Bewerk schaal, positie en rotatie.
@@ -105,25 +98,17 @@ gui.sign.tooltip6=Verander de rotatie van het blok. Blokken kunnen zich naar rec
 gui.sign.tooltip7=Verander de positie van het blok. De positie kan ook aangepast worden met de pijltoetsen of de WASD-toetsen
 gui.sign.tooltip8=Voeg een van de volgende nummers/letters in na het ontwerpsymbool:
 gui.sign.tooltip9=Klik op de knop of press de alt toets om een ontwerpsymbool in te voegen op de geselecteerde regel.
-
 gui.sign.bold=Dik gedrukt
 gui.sign.strikethrough=Doorstreept
 gui.sign.underline=Onderlijnt
 gui.sign.italic=Schuingedrukt
-
 gui.sign.scale=Lettergrootte
 gui.sign.format=Ontwerp
 gui.sign.linenum=Regel#
-
-
-
 // All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Boektitel
 gui.redbook.description.p1=Het redstoneboek wordt gebruikt in combinatie met een boekenkast om een redstone signaal af te geven. Zodra het boek in een boekenkast wordt geplaatst, zal er een redstone signaal worden afgegeven aan alle kanten met uitzondering van de voorkant. De sterkte van het signaal is afhankelijk van de positie van het boek in de boekenkast.
 gui.redbook.description.p2=De boekenkast heeft 16 plaatsten, plaats 1 is linksbovenin en plaats 16 rechtsonderin. Wanneer het redstoneboek op plaats 1 wordt geplaatst zal de boekenkast geen redstonesignaal afgeven. Als het boek op plaats 2 wordt geplaatst, geeft de boekenkast een redstonesignaal af met sterkte 1. Met elke plaats verder neemt het signaal met 1 sterkte toe, tot plaats 16 waar de boekenkast een volledig signaal van sterkte 15 afgeeft. 
-
-
-
 AcaciaDesk.name=Acaciahouten bureau
 OldOakDesk.name=Donker eikenhouten bureau
 AcaciaBookcase.name=Acaciahouten boekenkast
@@ -163,9 +148,6 @@ gui.typesetting.prevPage=Vorige pagina
 gui.typesetting.exit=Sluiten
 gui.typesetting.enableDiscard=Weggooien
 // End of 1.6 additions ////////////////////////////
-
-
-
 // Gui stuff
 gui.armorstand=Harnashouder
 gui.bookcase=Boekenkast
@@ -185,7 +167,6 @@ gui.compass.x=X:
 gui.compass.z=Z:
 gui.dinnerPlate=Bord
 gui.discRack=CD-rek
-
 // In game messages, reading glasses stuff and other stuff
 enchant.reading=Lezen
 redbook.by=door
@@ -198,7 +179,6 @@ print.ink=inkt
 print.book=Boeken
 screwgun.firstSeat=Eerste stoel geselecteerd
 screwgun.secondSeat=Proberen om kruk vast/los te maken
-
 //Tape Measure Texts
 tape.measurenorthsouth=Afmeting Noord/Zuid =
 tape.measureeastwest=Afmeting Oost/West =
@@ -212,7 +192,6 @@ lock.creativeonly=Alleen in Creative Mode
 lock.notowner=Jij beheert dit blok niet.
 lock.locked=Dit blok is nu vergrendeld.
 lock.unlocked=Dit blok is nu ontgrendeld.
-
 // Blocks
 CookieJar.name=Koektrommel
 MarkerPole.name=Markering
@@ -247,7 +226,7 @@ OakTable.name=Eikenhouten Tafel
 SpruceTable.name=Sparrenhouten Tafel
 BirchTable.name=Berkenhouten Tafel
 JungleTable.name=Oerwoudhouten Tafel
-DiscRack.name=CD-houder
+DiscRack.name=Platenhouder
 DinnerPlate.name=Bord
 OakMapFrame.name=Eikenhouten kaarthouder
 SpruceMapFrame.name=Sparrenhouten kaarthouder
@@ -257,7 +236,6 @@ OakSeat.name=Eikenhouten kruk
 SpruceSeat.name=Sparrenhouten kruk
 BirchSeat.name=Berkenhouten kruk
 JungleSeat.name=Oerwoudhouten kruk
-
 //lights
 whiteLantern.name=Gouden Lantaarn
 lightGrayLantern.name=Gouden Lantaarn
@@ -275,7 +253,6 @@ purpleLantern.name=Gouden Lantaarn
 magentaLantern.name=Gouden Lantaarn
 pinkLantern.name=Gouden Lantaarn
 brownLantern.name=Gouden Lantaarn
-
 whiteLamp.name=Chique Lamp
 lightGrayLamp.name=Chique Lamp
 grayLamp.name=Chique Lamp
@@ -292,7 +269,6 @@ purpleLamp.name=Chique Lamp
 magentaLamp.name=Chique Lamp
 pinkLamp.name=Chique Lamp
 brownLamp.name=Chique Lamp
-
 lamp.hood0=Witte Lampenkap
 lamp.hood1=Licht Grijze Lampenkap
 lamp.hood2=Grijze Lampenkap
@@ -309,7 +285,6 @@ lamp.hood12=Paarse Lampenkap
 lamp.hood13=Magenta Lampenkap
 lamp.hood14=Roze Lampenkap
 lamp.hood15=Bruine Lampenkap
-
 lantern.candle0=Witte Kaars
 lantern.candle1=Licht Grijze Kaars
 lantern.candle2=Grijze Kaars
@@ -326,7 +301,6 @@ lantern.candle12=Paarse Kaars
 lantern.candle13=Magenta Kaars
 lantern.candle14=Roze Kaars
 lantern.candle15=Bruine Kaars
-
 // Items
 item.tapeMeasure.name=Meetlint
 item.tape.name=Meetlint Haspel
@@ -345,4 +319,4 @@ item.seatBack.SpruceSeatBack.name=Sparrenhouten stoelleuning
 item.seatBack.BirchSeatBack.name=Berkenhouten stoelleuning
 item.seatBack.JungleSeatBack.name=Oerwoudhouten stoelleuning
 item.BiblioWayPointCompass.name=Coordinatenpunt kompas
-item.BiblioMapTool.name=passer
+item.BiblioMapTool.name=Passer
