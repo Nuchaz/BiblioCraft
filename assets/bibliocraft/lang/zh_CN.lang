@@ -29,19 +29,19 @@ swordpedestal.green=绿色切边
 swordpedestal.red=红色切边
 swordpedestal.black=黑色切边
 
-OakSign.name=橡木奇特木牌
-SpruceSign.name=云杉奇特木牌
-BirchSign.name=桦木奇特木牌
-JungleSign.name=丛林奇特木牌
-AcaciaSign.name=金合欢奇特木牌
-OldOakSign.name=深色橡木奇特木牌
+OakSign.name=橡木精致木牌
+SpruceSign.name=云杉精致木牌
+BirchSign.name=桦木精致木牌
+JungleSign.name=丛林精致木牌
+AcaciaSign.name=金合欢精致木牌
+OldOakSign.name=深色橡木精致木牌
 
-OakWorkbench.name=橡木奇特工作台
-SpruceWorkbench.name=云杉奇特工作台
-BirchWorkbench.name=桦木奇特工作台
-JungleWorkbench.name=丛林奇特工作台
-AcaciaWorkbench.name=金合欢奇特工作台
-OldOakWorkbench.name=深色橡木奇特工作台
+OakWorkbench.name=橡木精致工作台
+SpruceWorkbench.name=云杉精致工作台
+BirchWorkbench.name=桦木精致工作台
+JungleWorkbench.name=丛林精致工作台
+AcaciaWorkbench.name=金合欢精致工作台
+OldOakWorkbench.name=深色橡木精致工作台
 
 tile.BiblioBell.name=桌铃
 
@@ -77,7 +77,7 @@ book.loadrecipe2=从物品栏.
 book.areyousure=你确定吗?
 book.areyousure2=点击yes会永久关闭这本书的编辑功能.
 book.setrecipename=配方:
-gui.fancyworkbench=奇特工作台
+gui.fancyworkbench=精致工作台
 
 gui.sign.left=左
 gui.sign.center=中央
