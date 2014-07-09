@@ -1,0 +1,352 @@
+language.name=Dansk
+language.region=DK
+language.code=da_DK
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=BiblioCraft Belysning
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=Er du sikker?
+gui.recipe.finalize=Hvis du trykker ja vil denne bog ikke længere kunne ændres.
+gui.recipe.description=Tilføj en beskrivelse.
+
+swordpedestal.name=Sværd-sokkel
+swordpedestal.white=Hvid Udsmykning
+swordpedestal.orange=Orange Udsmykning
+swordpedestal.magenta=Magenta Udsmykning
+swordpedestal.lightblue=Lyseblå Udsmykning
+swordpedestal.yellow=Gul Udsmykning
+swordpedestal.lime=Limegrøn Udsmykning
+swordpedestal.pink=Lyserød Udsmykning
+swordpedestal.gray=Grå Udsmykning
+swordpedestal.lightgray=Lysegrå Udsmykning
+swordpedestal.cyan=Cyan Udsmykning
+swordpedestal.purple=Lilla Udsmykning
+swordpedestal.blue=Blå Udsmykning
+swordpedestal.brown=Brun Udsmykning
+swordpedestal.green=Grøn Udsmykning
+swordpedestal.red=Rød Udsmykning
+swordpedestal.black=Sort Udsmykning
+
+OakSign.name=Smart Egetræsskilt
+SpruceSign.name=Smart Grantræsskilt
+BirchSign.name=Smart Birketræsskilt
+JungleSign.name=Smart Jugletræsskilt
+AcaciaSign.name=Smart Akacietræsskilt
+OldOakSign.name=Smart Mørkt Egetræsskilt
+
+OakWorkbench.name=Smart Egetræsarbejdsbord
+SpruceWorkbench.name=Smart Grantræsarbejdsbord
+BirchWorkbench.name=Smart Birketræsarbejdsbord
+JungleWorkbench.name=Smart Jungletræsarbejdsbord
+AcaciaWorkbench.name=Smart Akacietræsarbejdsbord
+OldOakWorkbench.name=Smart Mørkt Egetræsarbejdsbord
+
+tile.BiblioBell.name=Bordklokke
+
+item.RecipeBook.name=Tom Opskriftsbog
+item.SlottedBook.name=Opbevaringsbog
+item.BigBook.name=Stor Skrivebog
+item.HandDrill.name=Håndbor
+
+book.bold=§lF
+book.italic=§oK
+book.underline=§nU
+book.strike=§mStreget
+book.obfuscated=§kO
+book.reset=Nulstil
+book.save=Gem
+book.sign=Signér
+book.entertitle=Indtast Titel:
+book.by=af
+book.signnotice=Vigtigt Note! Når du signerer bogen kan du ikke længere ændre den. Dette inkluderer ændring af tekst, formatering sam tilføgelse af nye sider og kapitler.
+book.textscale=Tekststørrelse
+book.lineselected=Valgte Linje
+book.cancel=Anuller
+book.linenum=Linje# =
+book.title=Titel
+book.description=Beskrivelse
+book.ingredients=Påkrævede Ingredientser:
+book.overwriterecipe=Overskriv nuværende
+book.overwriterecipe2=opskriftsbog.
+book.saverecipe=Gem opskrift i
+book.saverecipe2=tom bog.
+book.loadrecipe=Indsæt komponenter
+book.loadrecipe2=fra inventar.
+book.areyousure=Er du sikker?
+book.areyousure2=Hvis du trykker ja vil denne bog ikke længere kunne ændres.
+book.setrecipename=Opskrift:
+gui.fancyworkbench=Smart Arbejdsbord
+
+gui.sign.left=Højre
+gui.sign.center=Midt
+gui.sign.right=Venstre
+
+gui.sign.black=Sort
+gui.sign.darkblue=Mørkeblå
+gui.sign.darkgreen=Mørkegrøn
+gui.sign.darkaqua=Blågrøn
+gui.sign.darkred=Mørkerød
+gui.sign.darkpurple=Mørkelilla
+gui.sign.gold=Guldfarvet
+gui.sign.gray=Grå
+gui.sign.darkgray=Mørkegrå
+gui.sign.blue=Blå
+gui.sign.green=Lysegrøn
+gui.sign.aqua=Lyseblå
+gui.sign.red=Rød
+gui.sign.lightpurple=Lyslilla
+gui.sign.yellow=Gul
+gui.sign.white=Hvid
+
+gui.sign.tooltip1=Klik på en boks eller tryk Tab for at vælge et ændringspanel. Tab vil rotere gennem panelerne.
+gui.sign.tooltip2=Klik på boksen ovenover for at vælge plads 1's ændringspanel. Du kan ændre størrelse, placering og rotation.
+gui.sign.tooltip3=Klik på boksen ovenover for at vælge tekstændringsmulighederne. Du kan ændre størrelse og tilføje Vanilla-agtig formatering.
+gui.sign.tooltip4=Klik på boksen ovenover for at vælge plads 2's ændringspanel. Du kan ændre størrelse, placering og rotation.
+gui.sign.tooltip5=Juster blokstørrelsen.
+gui.sign.tooltip6=Juster blokkens rotation. Blokke kan vende mod vende mod venstre, højre eller midten. Ting kan kun vende mod højre eller venstre.
+gui.sign.tooltip7=Juster blokkens position. Positionen kan også ændres med piletasterne eller W-, A-, S-, og D-tasterne
+gui.sign.tooltip8=Indtast et af de følgende tal eller bogstaver efter formateringssymbloet:
+gui.sign.tooltip9=Klik på knappen eller tryk på "Alt"-tasten for at tilføje et formateringssymbol til den valgte linje.
+
+gui.sign.bold=§lFed
+gui.sign.strikethrough=§mGennemstreget
+gui.sign.underline=§nUnderstreget
+gui.sign.italic=§oKursiv
+
+gui.sign.scale=Skriftstørrelse
+gui.sign.format=Formatér
+gui.sign.linenum=Linje#
+
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=Bogtitel:
+gui.redbook.description.p1=Rødstensbogen anvendes i forbindelse med bogreolen til at udsende et rødstens-signal. Når den placeres i en bogreol vil et rødstenssignal blive udsendt fra alle sider undtagen forsiden. Signalets styrke afhænger af hvor i bogreolen bogen er placeret.
+gui.redbook.description.p2=Bogreolen har 16 pladser. Plads 1 er øverst til venstre og plads 16 er nederst til højre. Hvis rødstensbogen placeres på plads 1 udsender reolen inten rødstens signal. Hvis bogen placeres på plads 2 vil reolen udsende et signal med styrken 1. Derefter bliver styrken forøget med en for hver plads, hele vejen op til plads 16 der udsender et signal med den fulde styrke på 15.
+
+
+
+AcaciaDesk.name=Akacietræs-skrivebord
+OldOakDesk.name=Mørkt Egetræsskrivebord
+AcaciaBookcase.name=Akacietræs-bogreol
+OldOakBookcase.name=Mørk Egetræsbogreol
+AcaciaPotionShelf.name=Akacietræs-eliksirhylde
+OldOakPotionShelf.name=Mørk Egetræseliksirhylde
+AcaciaShelf.name=Akacietræshylde
+OldOakShelf.name=Mørk Egetræshylde
+AcaciaWeaponRack.name=Akacietræs-værktøjsskab
+OldOakWeaponRack.name=Mørkt Egetræsværktøjsskab
+AcaciaLabel.name=Akacietræsmærkat
+OldOakLabel.name=Mørkt Egetræsmærkat
+AcaciaTable.name=Akacietræsbord
+OldOakTable.name=Mørkt Egetræsbord
+AcaciaMapFrame.name=Akacietræs-kortramme
+OldOakMapFrame.name=Mørk Egetræskortramme
+AcaciaSeat.name=Akacietræssæde
+OldOakSeat.name=Mørkt Egetræssæde
+OakCase.name=Egetræsudstillingsskab
+SpruceCase.name=Grantræsudstillingsskab
+BirchCase.name=Birketræsudstillingsskab
+JungleCase.name=Jungletræsudstillingsskab
+AcaciaCase.name=Akacietræsudstillingsskab
+OldOakCase.name=Mørkt Egetræsudstillingsskab
+item.seatBack.AcaciaSeatBack.name=Akacietræsryglæn
+item.seatBack.OldOakSeatBack.name=Mørkt Egetræsryglæn
+lighting.metalIron=Lavet af Jern
+lighting.metalGold=Lavet af Guld
+gui.typesetting.guiTitle=Sættebord: Bog-administration
+gui.typesetting.pageOfpages=af
+gui.typesetting.public=Offentlig
+gui.typesetting.private=Privat
+gui.typesetting.delete=Slet
+gui.typesetting.select=Vælg
+gui.typesetting.nextPage=Næste Side
+gui.typesetting.prevPage=Forrige Side
+gui.typesetting.exit=Forlad
+gui.typesetting.enableDiscard=Kassér
+
+
+
+
+// Gui stuff
+gui.armorstand=Rustningsholder
+gui.bookcase=Bogreol
+gui.cookiejar=Kagedåse
+gui.shelf=Træhylde
+gui.label=Træmærkat
+gui.potionshelf=Eliksirhylde
+gui.table=Træbord
+gui.case=Montre
+gui.toolrack=Værktøjsskab
+gui.desk=Træskrivebord
+gui.mapWaypoint.accept=Acceptér
+gui.mapWaypoint.remove=Fjern
+gui.mapWaypoint.cancel=Anuller
+gui.mapWaypoint.waypoint=Waypoint
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Tallerken
+gui.discRack=Pladeholder
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=Læsning
+redbook.by=af
+plate.notValid=Ugyldig
+typesetting.requires=Kræver
+typesetting.levels=Levels
+typesetting.chase=Sættekasser
+typesetting.bookSelect=Vælg en bog
+print.ink=Blæk
+print.book=Bøger
+screwgun.firstSeat=Første sæde valgt.
+screwgun.secondSeat=Forsøger at fastgøre/aftage sæder.
+
+//Tape Measure Texts
+tape.measurenorthsouth=Måling Nord/Syd =
+tape.measureeastwest=Måling Øst/vest =
+tape.measureheight=Måling Højde =
+tape.nomeasure=Ingen Måling.
+tape.measure=Måling =
+tape.startmeasure=Starter Måling.
+tape.mode0=Skifter indstilling Til Nord/Syd, Øst/Vest, og Højde.
+tape.mode1=Skifter indstilling til absolut afstandsmåling.
+lock.creativeonly=Kun Kreativ Spiltilstand
+lock.notowner=Du ejer ikke denne blok.
+lock.locked=Blokken er blevet låst.
+lock.unlocked=Blokken er blevet låst op.
+
+// Blocks
+CookieJar.name=Kagedåse
+MarkerPole.name=Mærkat
+tile.BiblioType.name=Sættebord
+tile.BiblioPress.name=Trykpresse
+tile.BiblioArmorStand.name=Rustningsholder
+OakBookcase.name=Egetræsbogreol
+SpruceBookcase.name=Grantræsbogreol
+BirchBookcase.name=Birketræsbogreol
+JungleBookcase.name=Jungletræsbogreol
+OakPotionShelf.name=Egetræseliksirhylde
+SprucePotionShelf.name=Grantræseliksirhylde
+BirchPotionShelf.name=Birketræseliksirhylde
+JunglePotionShelf.name=Jungletræseliksirhylde
+OakShelf.name=Egetræshylde
+SpruceShelf.name=Grantræshylde
+BirchShelf.name=Birketræshylde
+JungleShelf.name=Jungletræshylde
+OakWeaponRack.name=Egetræsværktøjsskab
+SpruceWeaponRack.name=Grantræsværktøjsskab
+BirchWeaponRack.name=Birketræsværktøjsskab
+JungleWeaponRack.name=Jungletræsværktøjsskab
+OakLabel.name=Egetræsmærkat
+SpruceLabel.name=Grantræsmærkat
+BirchLabel.name=Birketræsmærkat
+JungleLabel.name=Jungletræsmærkat
+OakWritingDesk.name=Egetræsskrivebord
+SpruceWritingDesk.name=Grantræsskrivebord
+BirchWritingDesk.name=Birketræsskrivebord
+JungleWritingDesk.name=Jungletræsskrivebord
+OakTable.name=Egetræsbord
+SpruceTable.name=Grantræsbord
+BirchTable.name=Birketræsbord
+JungleTable.name=Jungletræsbord
+DiscRack.name=Pladeholder
+DinnerPlate.name=Tallerken
+OakMapFrame.name=Egetræs-kortramme
+SpruceMapFrame.name=Grantræs-kortramme
+BirchMapFrame.name=Birketræs-kortramme
+JungleMapFrame.name=Jungletræs-kortramme
+OakSeat.name=Egetræssæde
+SpruceSeat.name=Grantræssæde
+BirchSeat.name=Birketræssæde
+JungleSeat.name=Jungletræssæde
+
+//lights
+whiteLantern.name=Smart Lanterne
+lightGrayLantern.name=Smart Lanterne
+grayLantern.name=Smart Lanterne
+blackLantern.name=Smart Lanterne
+redLantern.name=Smart Lanterne
+orangeLantern.name=Smart Lanterne
+yellowLantern.name=Smart Lanterne
+limeLantern.name=Smart Lanterne
+greenLantern.name=Smart Lanterne
+cyanLantern.name=Smart Lanterne
+lightBlueLantern.name=Smart Lanterne
+blueLantern.name=Smart Lanterne
+purpleLantern.name=Smart Lanterne
+magentaLantern.name=Smart Lanterne
+pinkLantern.name=Smart Lanterne
+brownLantern.name=Smart Lanterne
+
+whiteLamp.name=Smart Lampe
+lightGrayLamp.name=Smart Lampe
+grayLamp.name=Smart Lampe
+blackLamp.name=Smart Lampe
+redLamp.name=Smart Lampe
+orangeLamp.name=Smart Lampe
+yellowLamp.name=Smart Lampe
+limeLamp.name=Smart Lampe
+greenLamp.name=Smart Lampe
+cyanLamp.name=Smart Lampe
+lightBlueLamp.name=Smart Lampe
+blueLamp.name=Smart Lampe
+purpleLamp.name=Smart Lampe
+magentaLamp.name=Smart Lampe
+pinkLamp.name=Smart Lampe
+brownLamp.name=Smart Lampe
+
+lamp.hood0=Hvid Lampeskærm
+lamp.hood1=Lysegrå Lampeskærm
+lamp.hood2=Grå Lampeskærm
+lamp.hood3=Sort Lampeskærm
+lamp.hood4=Rød Lampeskærm
+lamp.hood5=Orange Lampeskærm
+lamp.hood6=Gul Lampeskærm
+lamp.hood7=Limegrøn Lampeskærm
+lamp.hood8=Grøn Lampeskærm
+lamp.hood9=Cyan Lampeskærm
+lamp.hood10=Lyseblå Lampeskærm
+lamp.hood11=Blå Lampeskærm
+lamp.hood12=Lilla Lampeskærm
+lamp.hood13=Magenta Lampeskærm
+lamp.hood14=Lyserød Lampeskærm
+lamp.hood15=Brun Lampeskærm
+
+lantern.candle0=Hvidt Stearinlys
+lantern.candle1=Lysegråt Stearinlys
+lantern.candle2=Gråt Stearinlys
+lantern.candle3=Sort Stearinlys
+lantern.candle4=Rødt Stearinlys
+lantern.candle5=Orange Stearinlys
+lantern.candle6=Gult Stearinlys
+lantern.candle7=Limegrønt Stearinlys
+lantern.candle8=Grønt Stearinlys
+lantern.candle9=Cyant Stearinlys
+lantern.candle10=Lyseblåt Stearinlys
+lantern.candle11=Blåt Stearinlys
+lantern.candle12=Lilla Stearinlys
+lantern.candle13=Magenta Stearinlys
+lantern.candle14=Lyserødt Stearinlys
+lantern.candle15=Brunt Stearinlys
+
+// Items
+item.tapeMeasure.name=Målebånd
+item.tape.name=Målebåndsrulle
+item.BiblioChase.name=Sættekasse
+item.PrintPlate.name=Trykform
+item.EnchantedPlate.name=Fortryllet Trykform
+item.BiblioRedBook.name=Rødsten: Del I
+item.BiblioGlasses.readingglasses.name=Læsebriller
+item.BiblioGlasses.tintedglasses.name=Tonede Briller
+item.BiblioGlasses.monocle.name=Monokel
+item.BiblioDrill.name=Skruemaskine
+item.BiblioCreativeLock.name=Nøgle og Lås
+item.BiblioClipboard.name=Clipboard
+item.seatBack.OakSeatBack.name=Egetræsryglæn
+item.seatBack.SpruceSeatBack.name=Grantræsryglæn
+item.seatBack.BirchSeatBack.name=Birketræsryglæn
+item.seatBack.JungleSeatBack.name=Jungletræsryglæn
+item.BiblioWayPointCompass.name=Marchkompas
+item.BiblioMapTool.name=Passer
