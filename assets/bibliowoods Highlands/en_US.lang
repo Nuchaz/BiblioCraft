@@ -5,51 +5,68 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioWoodsHighlands=BiblioWoods: Highlands Edition
 
-// 1.5 additions
+GreyWoodFancyWorkbench.name=Grey Wood Fancy Workbench
+hlRedWoodFancyWorkbench.name=Red Wood Fancy Workbench
+WhiteWoodFancyWorkbench.name=White Wood Fancy Workbench
+YellowWoodFancyWorkbench.name=Yellow Wood Fancy Workbench
+
+GreyWoodFancySign.name=Grey Wood Fancy Sign
+hlRedWoodFancySign.name=Red Wood Fancy Sign
+WhiteWoodFancySign.name=White Wood Fancy Sign
+YellowWoodFancySign.name=Yellow Wood Fancy Sign
+
 GreyWoodMapFrame.name=Grey Wood Map Frame
 hlRedWoodMapFrame.name=Red Wood Map Frame
 WhiteWoodMapFrame.name=White Wood Map Frame
 YellowWoodMapFrame.name=Yellow Wood Map Frame
+
 GreyWoodSeat.name=Grey Wood Seat
 hlRedWoodSeat.name=Red Wood Seat
 WhiteWoodSeat.name=White Wood Seat
 YellowWoodSeat.name=Yellow Wood Seat
+
 item.seatBack.GreyWoodSeatBack.name=Grey Wood Seat Back
 item.seatBack.hlRedWoodSeatBack.name=Red Wood Seat Back
 item.seatBack.WhiteWoodSeatBack.name=White Wood Seat Back
 item.seatBack.YellowWoodSeatBack.name=Yellow Wood Seat Back
-// end of 1.5 additions
 
-// Highlands Woods addon
 GreyWoodBookcase.name=Grey Wood Bookcase
 hlRedWoodBookcase.name=Red Wood Bookcase
 WhiteWoodBookcase.name=White Wood Bookcase
 YellowWoodBookcase.name=Yellow Wood Bookcase
+
 GreyWoodCase.name=Grey Wood Case
 hlRedWoodCase.name=Red Wood Case
 WhiteWoodCase.name=White Wood Case
 YellowWoodCase.name=Yellow Wood Case
+
 GreyWoodDesk.name=Grey Wood Desk
 hlRedWoodDesk.name=Red Wood Desk
 WhiteWoodDesk.name=White Wood Desk
 YellowWoodDesk.name=Yellow Wood Desk
+
 GreyWoodLabel.name=Grey Wood Label
 hlRedWoodLabel.name=Red Wood Label
 WhiteWoodLabel.name=White Wood Label
 YellowWoodLabel.name=Yellow Wood Label
+
 GreyWoodPotionShelf.name=Grey Wood Potion Shelf
 hlRedWoodPotionShelf.name=Red Wood Potion Shelf
 WhiteWoodPotionShelf.name=White Wood Potion Shelf
 YellowWoodPotionShelf.name=Yellow Wood Potion Shelf
+
 GreyWoodShelf.name=Grey Wood Shelf
 hlRedWoodShelf.name=Red Wood Shelf
 WhiteWoodShelf.name=White Wood Shelf
 YellowWoodShelf.name=Yellow Wood Shelf
+
 GreyWoodTable.name=Grey Wood Table
 hlRedWoodTable.name=Red Wood Table
 WhiteWoodTable.name=White Wood Table
 YellowWoodTable.name=Yellow Wood Table
+
 GreyWoodToolRack.name=Grey Wood Tool Rack
 hlRedWoodToolRack.name=Red Wood Tool Rack
 WhiteWoodToolRack.name=White Wood Tool Rack
 YellowWoodToolRack.name=Yellow Wood Tool Rack
+
