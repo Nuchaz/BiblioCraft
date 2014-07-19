@@ -5,12 +5,39 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioWoodsNatura=BiblioWoods: Natura Edition
 
-// 1.5 additions
+BloodwoodFancyWorkbench.name=Bloodwood Fancy Workbench
+DarkwoodFancyWorkbench.name=Darkwood Fancy Workbench
+EucalyptusFancyWorkbench.name=Eucalyptus Fancy Workbench
+FusewoodFancyWorkbench.name=Fusewood Fancy Workbench
+GhostwoodFancyWorkbench.name=Fusewood Fancy Workbench
+HopseedFancyWorkbench.name=Hopseed Fancy Workbench
+MapleFancyWorkbench.name=Maple Fancy Workbench
+PurpleheartFancyWorkbench.name=Purpleheart Fancy Workbench
+RedwoodFancyWorkbench.name=Redwood Fancy Workbench
+SilverbellFancyWorkbench.name=Silverbell Fancy Workbench
+SakuraFancyWorkbench.name=Sakura Fancy Workbench
+TigerFancyWorkbench.name=Tiger Fancy Workbench
+WillowFancyWorkbench.name=Willow Fancy Workbench
+
+BloodwoodFancySign.name=Bloodwood Fancy Sign
+DarkwoodFancySign.name=Darkwood Fancy Sign
+EucalyptusFancySign.name=Eucalyptus Fancy Sign
+FusewoodFancySign.name=Fusewood Fancy Sign
+GhostwoodFancySign.name=Fusewood Fancy Sign
+HopseedFancySign.name=Hopseed Fancy Sign
+MapleFancySign.name=Maple Fancy Sign
+PurpleheartFancySign.name=Purpleheart Fancy Sign
+RedwoodFancySign.name=Redwood Fancy Sign
+SilverbellFancySign.name=Silverbell Fancy Sign
+SakuraFancySign.name=Sakura Fancy Sign
+TigerFancySign.name=Tiger Fancy Sign
+WillowFancySign.name=Willow Fancy Sign
+
 BloodwoodMapFrame.name=Bloodwood Map Frame
 DarkwoodMapFrame.name=Darkwood Map Frame
 EucalyptusMapFrame.name=Eucalyptus Map Frame
 FusewoodMapFrame.name=Fusewood Map Frame
-GhostwoodMapFrame.name=Ghostwood Map Frame
+GhostwoodMapFrame.name=Fusewood Map Frame
 HopseedMapFrame.name=Hopseed Map Frame
 MapleMapFrame.name=Maple Map Frame
 PurpleheartMapFrame.name=Purpleheart Map Frame
@@ -19,6 +46,7 @@ SilverbellMapFrame.name=Silverbell Map Frame
 SakuraMapFrame.name=Sakura Map Frame
 TigerMapFrame.name=Tiger Map Frame
 WillowMapFrame.name=Willow Map Frame
+
 BloodwoodSeat.name=Bloodwood Seat
 DarkwoodSeat.name=Darkwood Seat
 EucalyptusSeat.name=Eucalyptus Seat
@@ -32,6 +60,7 @@ SilverbellSeat.name=Silverbell Seat
 SakuraSeat.name=Sakura Seat
 TigerSeat.name=Tiger Seat
 WillowSeat.name=Willow Seat
+
 item.seatBack.BloodwoodSeatBack.name=Bloodwood Seat Back
 item.seatBack.DarkwoodSeatBack.name=Darkwood Seat Back
 item.seatBack.EucalyptusSeatBack.name=Eucalyptus Seat Back
@@ -45,9 +74,7 @@ item.seatBack.SilverbellSeatBack.name=Silverbell Seat Back
 item.seatBack.SakuraSeatBack.name=Sakura Seat Back
 item.seatBack.TigerSeatBack.name=Tiger Seat Back
 item.seatBack.WillowSeatBack.name=Willow Seat Back
-// end of 1.5 additions
 
-// Natura Woods addon
 BloodwoodBookcase.name=Bloodwood Bookcase
 DarkwoodBookcase.name=Darkwood Bookcase
 EucalyptusBookcase.name=Eucalyptus Bookcase
