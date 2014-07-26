@@ -5,8 +5,31 @@ language.code=zh_CN
 // Tab Names
 itemGroup.BiblioWoodsHighlands=收藏馆:高地版
 
+GreyWoodFancyWorkbench.name=灰木精致工作台
+hlRedWoodFancyWorkbench.name=红木精致工作台
+WhiteWoodFancyWorkbench.name=白木精致工作台
+YellowWoodFancyWorkbench.name=黄木精致工作台
 
-// Highlands Woods addon
+GreyWoodFancySign.name=灰木精致木牌
+hlRedWoodFancySign.name=红木精致木牌
+WhiteWoodFancySign.name=白木精致木牌
+YellowWoodFancySign.name=黄木精致木牌
+
+GreyWoodMapFrame.name=灰木地图框架
+hlRedWoodMapFrame.name=红木地图框架
+WhiteWoodMapFrame.name=白木地图框架
+YellowWoodMapFrame.name=黄木地图框架
+
+GreyWoodSeat.name=灰木座椅
+hlRedWoodSeat.name=红木座椅
+WhiteWoodSeat.name=白木座椅
+YellowWoodSeat.name=黄木座椅
+
+item.seatBack.GreyWoodSeatBack.name=灰木座椅背
+item.seatBack.hlRedWoodSeatBack.name=红木座椅背
+item.seatBack.WhiteWoodSeatBack.name=白木座椅背
+item.seatBack.YellowWoodSeatBack.name=黄木座椅背
+
 GreyWoodBookcase.name=灰木书架
 hlRedWoodBookcase.name=红木书架
 WhiteWoodBookcase.name=白木书架
