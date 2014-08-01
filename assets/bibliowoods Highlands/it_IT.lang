@@ -3,53 +3,69 @@ language.region=IT
 language.code=it_IT
 
 // Tab Names
-itemGroup.BiblioWoodsHighlands=BiblioWoods: Edizione Highlands
+itemGroup.BiblioWoodsHighlands=BiblioWoods: edizione Highlands
 
-// 1.5 additions
-GreyWoodMapFrame.name=Cornice per Mappa di Legno Grigio
-hlRedWoodMapFrame.name=Cornice per Mappa di Legno Rosso
-WhiteWoodMapFrame.name=Cornice per Mappa di Legno Bianco
-YellowWoodMapFrame.name=Cornice per Mappa di Legno Giallo
-GreyWoodSeat.name=Sedia di Legno Grigio
-hlRedWoodSeat.name=Sedia di Legno Rosso
-WhiteWoodSeat.name=Sedia di Legno Bianco
-YellowWoodSeat.name=Sedia di Legno Giallo
-item.seatBack.GreyWoodSeatBack.name=Schienale di Legno Grigio
-item.seatBack.hlRedWoodSeatBack.name=Schienale di Legno Rosso
-item.seatBack.WhiteWoodSeatBack.name=Schienale di Legno Bianco
-item.seatBack.YellowWoodSeatBack.name=Schienale di Legno Giallo
+GreyWoodFancyWorkbench.name=Banco da lavoro di legno grigio
+hlRedWoodFancyWorkbench.name=Banco da lavoro di legno rosso
+WhiteWoodFancyWorkbench.name=Banco da lavoro di legno bianco
+YellowWoodFancyWorkbench.name=Banco da lavoro
 
-// Highlands Woods addon
+GreyWoodFancySign.name=Cartello chic di legno grigio
+hlRedWoodFancySign.name=Cartello chic di legno rosso
+WhiteWoodFancySign.name=Cartello chic di legno bianco
+YellowWoodFancySign.name=Cartello chic di legno giallo
 
-GreyWoodBookcase.name=Libreria di Legno Grigio
-hlRedWoodBookcase.name=Libreria di Legno Rosso
-WhiteWoodBookcase.name=Libreria di Legno Bianco
-YellowWoodBookcase.name=Libreria di Legno Giallo
-GreyWoodCase.name=Vetrina di Legno Grigio
-hlRedWoodCase.name=Vetrina di Legno Rosso
-WhiteWoodCase.name=Vetrina di Legno Bianco
-YellowWoodCase.name=Vetrina di Legno Giallo
-GreyWoodDesk.name=Scrivania di Legno Grigio
-hlRedWoodDesk.name=Scrivania di Legno Rosso
-WhiteWoodDesk.name=Scrivania di Legno Bianco
-YellowWoodDesk.name=Scrivania di Legno Giallo
-GreyWoodLabel.name=Etichetta di Legno Grigio
-hlRedWoodLabel.name=Etichetta di Legno Rosso
-WhiteWoodLabel.name=Etichetta di Legno Bianco
-YellowWoodLabel.name=Etichetta di Legno Giallo
-GreyWoodPotionShelf.name=Scaffale per le Pozioni di Legno Grigio
-hlRedWoodPotionShelf.name=Scaffale per le Pozioni di Legno Rosso
-WhiteWoodPotionShelf.name=Scaffale per le Pozioni di Legno Bianco
-YellowWoodPotionShelf.name=Scaffale per le Pozioni di Legno Giallo
-GreyWoodShelf.name=Scaffale di Legno Grigio
-hlRedWoodShelf.name=Scaffale di Legno Rosso
-WhiteWoodShelf.name=Scaffale di Legno Bianco
-YellowWoodShelf.name=Scaffale di Legno Giallo
-GreyWoodTable.name=Tavolo di Legno Grigio
-hlRedWoodTable.name=Tavolo di Legno Rosso
-WhiteWoodTable.name=Tavolo di Legno Bianco
-YellowWoodTable.name=Tavolo di Legno Giallo
-GreyWoodToolRack.name=Scaffale per Attrezzi di Legno Grigio
-hlRedWoodToolRack.name=Scaffale per Attrezzi di Legno Rosso
-WhiteWoodToolRack.name=Scaffale per Attrezzi di Legno Bianco
-YellowWoodToolRack.name=Scaffale per Attrezzi di Legno Giallo
+GreyWoodMapFrame.name=Cornice per mappa di legno grigio
+hlRedWoodMapFrame.name=Cornice per mappa di legno rosso
+WhiteWoodMapFrame.name=Cornice per mappa di legno bianco
+YellowWoodMapFrame.name=Cornice per mappa di legno giallo
+
+GreyWoodSeat.name=Sedia di legno grigio
+hlRedWoodSeat.name=Sedia di legno rosso
+WhiteWoodSeat.name=Sedia di legno bianco
+YellowWoodSeat.name=Sedia di legno giallo
+
+item.seatBack.GreyWoodSeatBack.name=Schienale di legno grigio
+item.seatBack.hlRedWoodSeatBack.name=Schienale di legno rosso
+item.seatBack.WhiteWoodSeatBack.name=Schienale di legno bianco
+item.seatBack.YellowWoodSeatBack.name=Schienale di legno giallo
+
+GreyWoodBookcase.name=Libreria di legno grigio
+hlRedWoodBookcase.name=Libreria di legno rosso
+WhiteWoodBookcase.name=Libreria di legno bianco
+YellowWoodBookcase.name=Libreria di legno giallo
+
+GreyWoodCase.name=Vetrina di legno grigio
+hlRedWoodCase.name=Vetrina di legno rosso
+WhiteWoodCase.name=Vetrina di legno bianco
+YellowWoodCase.name=Vetrina di legno giallo
+
+GreyWoodDesk.name=Scrivania di legno grigio
+hlRedWoodDesk.name=Scrivania di legno rosso
+WhiteWoodDesk.name=Scrivania di legno bianco
+YellowWoodDesk.name=Scrivania di legno giallo
+
+GreyWoodLabel.name=Etichetta di legno grigio
+hlRedWoodLabel.name=Etichetta di legno rosso
+WhiteWoodLabel.name=Etichetta di legno bianco
+YellowWoodLabel.name=Etichetta di legno giallo
+
+GreyWoodPotionShelf.name=Scaffale per le pozioni di legno grigio
+hlRedWoodPotionShelf.name=Scaffale per le pozioni di legno rosso
+WhiteWoodPotionShelf.name=Scaffale per le pozioni di legno bianco
+YellowWoodPotionShelf.name=Scaffale per le pozioni di legno giallo
+
+GreyWoodShelf.name=Scaffale di legno grigio
+hlRedWoodShelf.name=Scaffale di legno rosso
+WhiteWoodShelf.name=Scaffale di legno bianco
+YellowWoodShelf.name=Scaffale di legno giallo
+
+GreyWoodTable.name=Tavolo di legno grigio
+hlRedWoodTable.name=Tavolo di legno rosso
+WhiteWoodTable.name=Tavolo di legno bianco
+YellowWoodTable.name=Tavolo di legno giallo
+
+GreyWoodToolRack.name=Scaffale per attrezzi di legno grigio
+hlRedWoodToolRack.name=Scaffale per attrezzi di legno rosso
+WhiteWoodToolRack.name=Scaffale per attrezzi di legno bianco
+YellowWoodToolRack.name=Scaffale per attrezzi di legno giallo
