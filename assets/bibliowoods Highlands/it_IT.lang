@@ -8,7 +8,7 @@ itemGroup.BiblioWoodsHighlands=BiblioWoods: edizione Highlands
 GreyWoodFancyWorkbench.name=Banco da lavoro di legno grigio
 hlRedWoodFancyWorkbench.name=Banco da lavoro di legno rosso
 WhiteWoodFancyWorkbench.name=Banco da lavoro di legno bianco
-YellowWoodFancyWorkbench.name=Banco da lavoro
+YellowWoodFancyWorkbench.name=Banco da lavoro di legno giallo
 
 GreyWoodFancySign.name=Cartello chic di legno grigio
 hlRedWoodFancySign.name=Cartello chic di legno rosso
@@ -20,10 +20,10 @@ hlRedWoodMapFrame.name=Cornice per mappa di legno rosso
 WhiteWoodMapFrame.name=Cornice per mappa di legno bianco
 YellowWoodMapFrame.name=Cornice per mappa di legno giallo
 
-GreyWoodSeat.name=Sedia di legno grigio
-hlRedWoodSeat.name=Sedia di legno rosso
-WhiteWoodSeat.name=Sedia di legno bianco
-YellowWoodSeat.name=Sedia di legno giallo
+GreyWoodSeat.name=Sgabello di legno grigio
+hlRedWoodSeat.name=Sgabello di legno rosso
+WhiteWoodSeat.name=Sgabello di legno bianco
+YellowWoodSeat.name=Sgabello di legno giallo
 
 item.seatBack.GreyWoodSeatBack.name=Schienale di legno grigio
 item.seatBack.hlRedWoodSeatBack.name=Schienale di legno rosso
@@ -50,10 +50,10 @@ hlRedWoodLabel.name=Etichetta di legno rosso
 WhiteWoodLabel.name=Etichetta di legno bianco
 YellowWoodLabel.name=Etichetta di legno giallo
 
-GreyWoodPotionShelf.name=Scaffale per le pozioni di legno grigio
-hlRedWoodPotionShelf.name=Scaffale per le pozioni di legno rosso
-WhiteWoodPotionShelf.name=Scaffale per le pozioni di legno bianco
-YellowWoodPotionShelf.name=Scaffale per le pozioni di legno giallo
+GreyWoodPotionShelf.name=Scaffale per pozioni di legno grigio
+hlRedWoodPotionShelf.name=Scaffale per pozioni di legno rosso
+WhiteWoodPotionShelf.name=Scaffale per pozioni di legno bianco
+YellowWoodPotionShelf.name=Scaffale per pozioni di legno giallo
 
 GreyWoodShelf.name=Scaffale di legno grigio
 hlRedWoodShelf.name=Scaffale di legno rosso
