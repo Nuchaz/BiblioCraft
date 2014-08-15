@@ -3,8 +3,8 @@ language.region=KR
 language.code=ko_KR
 
 // Tab Names
-itemGroup.BiblioCraft=BiblioCraft
-itemGroup.BiblioCraftLights=BiblioCraft 조명
+itemGroup.BiblioCraft=비블리오 크래프트
+itemGroup.BiblioCraftLights=비블리오 크래프트 조명
 
 // All BiblioCraft 1.7 additions and changes///
 gui.recipe.areyousure=진행하시겠습니까?
