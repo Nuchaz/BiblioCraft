@@ -5,51 +5,66 @@ language.code=de_DE
 // Tab Names
 itemGroup.BiblioWoodsHighlands=BiblioWoods: Highlands-Edition
 
-// 1.5 additions
+GreyWoodFancyWorkbench.name=Schicke Grauholzwerkbank
+hlRedWoodFancyWorkbench.name=Schicke Rotholzwerkbank
+WhiteWoodFancyWorkbench.name=Schicke Weißholzwerkbank
+YellowWoodFancyWorkbench.name=Schicke Gelbholzwerkbank
+
+GreyWoodFancySign.name=Schickes Grauholzschild
+hlRedWoodFancySign.name=Schickes Rotholzschild
+WhiteWoodFancySign.name=Schickes Weißholzschild
+YellowWoodFancySign.name=Schickes Gelbholzschild
+
 GreyWoodMapFrame.name=Grauholz-Kartenrahmen
 hlRedWoodMapFrame.name=Rotholz-Kartenrahmen
 WhiteWoodMapFrame.name=Weißholz-Kartenrahmen
 YellowWoodMapFrame.name=Gelbholz-Kartenrahmen
-GreyWoodSeat.name=Grauholz-Sitz
-hlRedWoodSeat.name=Rotholz-Sitz
-WhiteWoodSeat.name=Weißholz-Sitz
-YellowWoodSeat.name=Gelbholz-Sitz
-item.seatBack.GreyWoodSeatBack.name=Grauholz-Rücksitz
-item.seatBack.hlRedWoodSeatBack.name=Rotholz-Rücksitz
-item.seatBack.WhiteWoodSeatBack.name=Weißholz-Rücksitz
-item.seatBack.YellowWoodSeatBack.name=Gelbholz-Rücksitz
-// end of 1.5 additions
 
-// Highlands Woods addon
+GreyWoodSeat.name=Grauholzsitz
+hlRedWoodSeat.name=Rotholzsitz
+WhiteWoodSeat.name=Weißholzsitz
+YellowWoodSeat.name=Gelbholzsitz
+
+item.seatBack.GreyWoodSeatBack.name=Grauholzsitzlehne
+item.seatBack.hlRedWoodSeatBack.name=Rotholzsitzlehne
+item.seatBack.WhiteWoodSeatBack.name=Weißholzsitzlehne
+item.seatBack.YellowWoodSeatBack.name=Gelbholzsitzlehne
 
 GreyWoodBookcase.name=Grauholz-Bücherschrank
 hlRedWoodBookcase.name=Rotholz-Bücherschrank
 WhiteWoodBookcase.name=Weißholz-Bücherschrank
 YellowWoodBookcase.name=Gelbholz-Bücherschrank
+
 GreyWoodCase.name=Grauholz-Schaukasten
 hlRedWoodCase.name=Rotholz-Schaukasten
 WhiteWoodCase.name=Weißholz-Schaukasten
 YellowWoodCase.name=Gelbholz-Schaukasten
+
 GreyWoodDesk.name=Grauholz-Schreibtisch
 hlRedWoodDesk.name=Rotholz-Schreibtisch
 WhiteWoodDesk.name=Weißholz-Schreibtisch
 YellowWoodDesk.name=Gelbholz-Schreibtisch
-GreyWoodLabel.name=Grauholz-Schildchen
-hlRedWoodLabel.name=Rotholz-Schildchen
-WhiteWoodLabel.name=Weißholz-Schildchen
-YellowWoodLabel.name=Gelbholz-Schildchen
+
+GreyWoodLabel.name=Grauholzschildchen
+hlRedWoodLabel.name=Rotholzschildchen
+WhiteWoodLabel.name=Weißholzschildchen
+YellowWoodLabel.name=Gelbholzschildchen
+
 GreyWoodPotionShelf.name=Grauholz-Trankregal
 hlRedWoodPotionShelf.name=Rotholz-Trankregal
 WhiteWoodPotionShelf.name=Weißholz-Trankregal
 YellowWoodPotionShelf.name=Gelbholz-Trankregal
-GreyWoodShelf.name=Grauholz-Regal
-hlRedWoodShelf.name=Rotholz-Regal
-WhiteWoodShelf.name=Weißholz-Regal
-YellowWoodShelf.name=Gelbholz-Regal
-GreyWoodTable.name=Grauholz-Tisch
-hlRedWoodTable.name=Rotholz-Tisch
-WhiteWoodTable.name=Weißholz-Tisch
-YellowWoodTable.name=Gelbholz-Tisch
+
+GreyWoodShelf.name=Grauholzregal
+hlRedWoodShelf.name=Rotholzregal
+WhiteWoodShelf.name=Weißholzregal
+YellowWoodShelf.name=Gelbholzregal
+
+GreyWoodTable.name=Grauholztisch
+hlRedWoodTable.name=Rotholztsch
+WhiteWoodTable.name=Weißholztisch
+YellowWoodTable.name=Gelbholztisch
+
 GreyWoodToolRack.name=Grauholz-Werkzeugregal
 hlRedWoodToolRack.name=Rotholz-Werkzeugregal
 WhiteWoodToolRack.name=Weißholz-Werkzeugregal
