@@ -119,10 +119,11 @@ gui.sign.scale=Размер текста
 gui.sign.format=Форматир.
 gui.sign.linenum=Строка#
 
+
 // All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Название книги:
-gui.redbook.description.p1=Редстоун-книга используется в комбинации с книжной полкой для подачи редстоун-сигнала. При установке такой книги на полку, полкой будет выдан сигнал редстоуна со всех сторон, кроме переда. Сила зависит от места книги на полке. 
-gui.redbook.description.p2=В книжной полке 16 мест, начиная с 1 сверху слева и заканчивая 16-ым снизу справа. Если редстоун-книга стоит на первом месте, сигнала не будет. Если на 2-ом, то сила будет равна 1. Каждое место увеличивает силу на 1. В итоге 16-ое место выдаёт сигнал в полную силу (15).
+gui.redbook.description.p1=Красная книга используется в комбинации с книжной полкой для подачи сигнала красного камня. При установке такой книги на полку, полкой будет выдан сигнал красного камня со всех сторон, кроме переда. Сила зависит от места книги на полке. 
+gui.redbook.description.p2=В книжной полке 16 мест, начиная с 1 сверху слева и заканчивая 16-ым снизу справа. Если красная книга стоит на первом месте, сигнала не будет. Если на 2-ом, то сила будет равна 1. Каждое место увеличивает силу на 1. В итоге 16-ое место выдаёт сигнал в полную силу (15).
 
 
 AcaciaDesk.name=Письменный стол из акации
@@ -334,13 +335,13 @@ item.tape.name=Катушка мерной ленты
 item.BiblioChase.name=Печатная рама
 item.PrintPlate.name=Печатная форма
 item.EnchantedPlate.name=Зачарованная форма
-item.BiblioRedBook.name=Редстоун: Том I
+item.BiblioRedBook.name=Красный камень: Том I
 item.BiblioGlasses.readingglasses.name=Очки для чтения
 item.BiblioGlasses.tintedglasses.name=Окрашенные очки
 item.BiblioGlasses.monocle.name=Монокль
 item.BiblioDrill.name=Шуруповёрт
 item.BiblioCreativeLock.name=Замок и ключ
-item.BiblioClipboard.name=Блокнот
+item.BiblioClipboard.name=Планшет с зажимом для бумаги
 item.seatBack.OakSeatBack.name=Дубовая спинка стула
 item.seatBack.SpruceSeatBack.name=Еловая спинка стула
 item.seatBack.BirchSeatBack.name=Берёзовая спинка стула
