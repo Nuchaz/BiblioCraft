@@ -5,7 +5,34 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioWoodsNatura=BiblioWoods: Вариант Natura
 
-// 1.5 additions
+BloodwoodFancyWorkbench.name=Красивый верстак из кровавого дерева
+DarkwoodFancyWorkbench.name=Красивый верстак из тёмного дерева
+EucalyptusFancyWorkbench.name=Красивый верстак из эвкалипта
+FusewoodFancyWorkbench.name=Красивый верстак из плавкого дерева
+GhostwoodFancyWorkbench.name=Красивый верстак из призрачного дерева
+HopseedFancyWorkbench.name=Красивый верстак из хмельного дерева
+MapleFancyWorkbench.name=Красивый верстак из клёна
+PurpleheartFancyWorkbench.name=Красивый верстак из щирицы
+RedwoodFancyWorkbench.name=Красивый верстак из красного дерева
+SilverbellFancyWorkbench.name=Красивый верстак из галезии
+SakuraFancyWorkbench.name=Красивый верстак из сакуры
+TigerFancyWorkbench.name=Красивый верстак из тигрового дерева
+WillowFancyWorkbench.name=Красивый верстак из ивы
+
+BloodwoodFancySign.name=Красивая табличка из кровавого дерева
+DarkwoodFancySign.name=Красивая табличка из тёмного дерева
+EucalyptusFancySign.name=Красивая табличка из эвкалипта
+FusewoodFancySign.name=Красивая табличка из плавкого дерева
+GhostwoodFancySign.name=Красивая табличка из призрачного дерева
+HopseedFancySign.name=Красивая табличка из хмельного дерева
+MapleFancySign.name=Красивая табличка из клёна
+PurpleheartFancySign.name=Красивая табличка из щирицы
+RedwoodFancySign.name=Красивая табличка из красного дерева
+SilverbellFancySign.name=Красивая табличка из галезии
+SakuraFancySign.name=Красивая табличка из сакуры
+TigerFancySign.name=Красивая табличка из тигрового дерева
+WillowFancySign.name=Красивая табличка из ивы
+
 BloodwoodMapFrame.name=Рамка для карты из кровавого дерева
 DarkwoodMapFrame.name=Рамка для карты из тёмного дерева
 EucalyptusMapFrame.name=Рамка для карты из эвкалипта
@@ -19,6 +46,7 @@ SilverbellMapFrame.name=Рамка для карты из галезии
 SakuraMapFrame.name=Рамка для карты из сакуры
 TigerMapFrame.name=Рамка для карты из тигрового дерева
 WillowMapFrame.name=Рамка для карты из ивы
+
 BloodwoodSeat.name=Стул из кровавого дерева
 DarkwoodSeat.name=Стул из тёмного дерева
 EucalyptusSeat.name=Стул из эвкалипта
@@ -32,6 +60,7 @@ SilverbellSeat.name=Стул из галезии
 SakuraSeat.name=Стул из сакуры
 TigerSeat.name=Стул из тигрового дерева
 WillowSeat.name=Стул из ивы
+
 item.seatBack.BloodwoodSeatBack.name=Спинка стула из кровавого дерева
 item.seatBack.DarkwoodSeatBack.name=Спинка стула из тёмного дерева
 item.seatBack.EucalyptusSeatBack.name=Спинка стула из эвкалипта
@@ -45,9 +74,7 @@ item.seatBack.SilverbellSeatBack.name=Спинка стула из галези�
 item.seatBack.SakuraSeatBack.name=Спинка стула из сакуры
 item.seatBack.TigerSeatBack.name=Спинка стула из тигрового дерева
 item.seatBack.WillowSeatBack.name=Спинка стула из ивы
-// end of 1.5 additions
 
-//natura woods
 BloodwoodBookcase.name=Книжный шкаф из кровавого дерева
 DarkwoodBookcase.name=Книжный шкаф из тёмного дерева
 EucalyptusBookcase.name=Книжный шкаф из эвкалипта
