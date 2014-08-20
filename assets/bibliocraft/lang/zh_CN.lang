@@ -4,7 +4,7 @@ language.code=zh_CN
 
 // Tab Names
 itemGroup.BiblioCraft=展示架
-itemGroup.BiblioCraftLights=展示架灯具
+itemGroup.BiblioCraftLights=展示架|灯具
 
 // All BiblioCraft 1.7 additions and changes///
 gui.recipe.areyousure=你确定吗?
@@ -143,13 +143,13 @@ OldOakTable.name=深色橡木桌子
 AcaciaMapFrame.name=金合欢地图框架
 OldOakMapFrame.name=深色橡木地图框架
 AcaciaSeat.name=金合欢椅子
-OldOakSeat.name=深色橡木椅子
-OakCase.name=橡木盒子
-SpruceCase.name=云杉盒子
-BirchCase.name=桦木盒子
-JungleCase.name=丛林木盒子
-AcaciaCase.name=金合欢盒子
-OldOakCase.name=深色橡木盒子
+OldOakSeat.name=深色橡木椅
+OakCase.name=橡木展示盒
+SpruceCase.name=云杉展示盒
+BirchCase.name=桦木展示盒
+JungleCase.name=丛林木展示盒
+AcaciaCase.name=金合欢展示盒
+OldOakCase.name=深色橡木展示盒
 item.seatBack.AcaciaSeatBack.name=金合欢椅子背
 item.seatBack.OldOakSeatBack.name=深色橡木椅子背
 lighting.metalIron=铁质
@@ -172,11 +172,11 @@ gui.typesetting.enableDiscard=放弃
 gui.armorstand=衣架
 gui.bookcase=书架
 gui.cookiejar=曲奇罐
-gui.shelf=Wooden架子
-gui.label=Wooden标签
+gui.shelf=架子
+gui.label=标签
 gui.potionshelf=药水架
-gui.table=Wooden桌子
-gui.case=Display盒子
+gui.table=桌子
+gui.case=展示盒
 gui.toolrack=工具架
 gui.desk=Wooden台桌
 gui.mapWaypoint.accept=确认
@@ -214,6 +214,7 @@ lock.creativeonly=仅限创造模式
 lock.notowner=你并非该方块的主人
 lock.locked=该方块已经被上锁
 lock.unlocked=该方块已经解锁
+
 // Blocks
 CookieJar.name=曲奇罐
 MarkerPole.name=标杆
@@ -334,7 +335,7 @@ item.tape.name=卷尺卷筒
 item.BiblioChase.name=拓印槽
 item.PrintPlate.name=拓印片
 item.EnchantedPlate.name=附魔片
-item.BiblioRedBook.name=红石之书:卷I
+item.BiblioRedBook.name=红石之书:第一卷
 item.BiblioGlasses.readingglasses.name=老花镜
 item.BiblioGlasses.tintedglasses.name=太阳镜
 item.BiblioGlasses.monocle.name=单片眼镜
@@ -347,4 +348,3 @@ item.seatBack.BirchSeatBack.name=桦木椅子背
 item.seatBack.JungleSeatBack.name=丛林木椅子背
 item.BiblioWayPointCompass.name=路标盘
 item.BiblioMapTool.name=制图盘
-
