@@ -6,6 +6,63 @@ language.code=en_US
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Lighting
 
+
+// All BiblioCraft 1.8 additions and changes //
+
+item.PaintingCanvas.name=Painting Canvas
+tile.BiblioPaintPress.name=Painting Press
+
+gui.paintpress.transfer=Transfer
+gui.paintpress.vanilla=Vanilla
+gui.paintpress.custom=Custom
+
+gui.painting.scale=Scale
+gui.painting.resolution=Resolution
+gui.painting.aspectRatio=Aspect Ratio
+gui.painting.size=Painting Size
+gui.painting.rotation=Rotation
+gui.painting.corner=Master Corner
+
+OakPaintingFrame.name=Oak Painting Frame
+SprucePaintingFrame.name=Spruce Painting Frame
+BirchPaintingFrame.name=Birch Painting Frame
+JunglePaintingFrame.name=Jungle Painting Frame
+AcaciaPaintingFrame.name=Acacia Painting Frame
+OldOakPaintingFrame.name=Dark Oak Painting Frame
+
+paintingFrame.0tier=Borderless
+paintingFrame.1tier=Single Tier
+paintingFrame.2tier=Double Tier
+paintingFrame.3tier=Triple Tier
+paintingFrame.4tier=Quadruple Tier
+
+OakClock.name=Oak Clock
+SpruceClock.name=Spruce Clock
+BirchClock.name=Birch Clock
+JungleClock.name=Jungle Clock
+AcaciaClock.name=Acacia Clock
+OldOakClock.name=Dark Oak Clock
+
+WhiteTypewriter.name=White Typewriter
+LightGrayTypewriter.name=Light Gray Typewriter
+GrayTypewriter.name=Gray Typewriter
+BlackTypewriter.name=Black Typewriter
+RedTypewriter.name=Red Typewriter
+OrangeTypewriter.name=Orange Typewriter
+YellowTypewriter.name=Yellow Typewriter
+LimeTypewriter.name=Lime Typewriter
+GreenTypewriter.name=Green Typewriter
+CyanTypewriter.name=Cyan Typewriter
+LightBlueTypewriter.name=Light Blue Typewriter
+BlueTypewriter.name=Blue Typewriter
+PurpleTypewriter.name=Purple Typewriter
+MagentaTypewriter.name=Magenta Typewriter
+PinkTypewriter.name=Pink Typewriter
+BrownTypewriter.name=Brown Typewriter
+
+// End of 1.8 additions and changes // 
+
+
 // All BiblioCraft 1.7 additions and changes///
 gui.recipe.areyousure=Are you sure?
 gui.recipe.finalize=Clicking yes will permanently lock this book from being edited.
