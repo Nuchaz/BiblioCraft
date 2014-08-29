@@ -6,6 +6,62 @@ language.code=es_AR
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=Luces de Bibliocraft
 
+// All BiblioCraft 1.8 additions and changes //
+
+item.PaintingCanvas.name=Bastidor
+tile.BiblioPaintPress.name=Prensa para estampar
+
+gui.paintpress.transfer=Transferir
+gui.paintpress.vanilla=Vanilla
+gui.paintpress.custom=Personalizado
+
+gui.painting.scale=Escala
+gui.painting.resolution=Resolución
+gui.painting.aspectRatio=Proporción
+gui.painting.size=Tamaño de la pintura
+gui.painting.rotation=Rotación
+gui.painting.corner=Esquina principal
+
+OakPaintingFrame.name=Marco de Pintura de Roble
+SprucePaintingFrame.name=Marco de Pintura de Abeto
+BirchPaintingFrame.name=Marco de Pintura de Abedul
+JunglePaintingFrame.name=Marco de Pintura de Selva
+AcaciaPaintingFrame.name=Marco de Pintura de Acacia
+OldOakPaintingFrame.name=Marco de Pintura de Roble Oscuro
+
+paintingFrame.0tier=Sin borde
+paintingFrame.1tier=Borde simple
+paintingFrame.2tier=Borde doble
+paintingFrame.3tier=Borde triple
+paintingFrame.4tier=Borde cuádruple 
+
+OakClock.name=Reloj de Roble
+SpruceClock.name=Reloj de Abeto
+BirchClock.name=Reloj de  Abedul
+JungleClock.name=Reloj de Selva
+AcaciaClock.name=Reloj de Acacia
+OldOakClock.name=Reloj de Roble Oscuro
+
+WhiteTypewriter.name=Máquina de Escribir Blanca
+LightGrayTypewriter.name=Máquina de Escribir Gris Claro
+GrayTypewriter.name=Máquina de Escribir Gris
+BlackTypewriter.name=Máquina de Escribir Negra
+RedTypewriter.name=Máquina de Escribir Roja
+OrangeTypewriter.name=Máquina de Escribir Naranja
+YellowTypewriter.name=Máquina de Escribir Amarilla
+LimeTypewriter.name=Máquina de Escribir Lima
+GreenTypewriter.name=Máquina de Escribir Verde
+CyanTypewriter.name=Máquina de Escribir Cian
+LightBlueTypewriter.name=Máquina de Escribir Azul Claro
+BlueTypewriter.name=Máquina de Escribir Azul
+PurpleTypewriter.name=Máquina de Escribir Púrpura
+MagentaTypewriter.name=Máquina de Escribir Magenta
+PinkTypewriter.name=Máquina de Escribir Rosa
+BrownTypewriter.name=Máquina de Escribir Marrón
+
+// End of 1.8 additions and changes // 
+
+
 // All BiblioCraft 1.7 additions and changes///
 gui.recipe.areyousure=¿Estás seguro?
 gui.recipe.finalize=Hacer click en "sí" impedirá que este libro sea editado. 
