@@ -6,6 +6,63 @@ language.code=it_IT
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft luci
 
+
+// All BiblioCraft 1.8 additions and changes //
+
+item.PaintingCanvas.name=Tela
+tile.BiblioPaintPress.name=Pressa per quadri
+
+gui.paintpress.transfer=Trasferisci
+gui.paintpress.vanilla=Vanilla
+gui.paintpress.custom=Personaliz.
+
+gui.painting.scale=Scala
+gui.painting.resolution=Risoluzione
+gui.painting.aspectRatio=Rapporto d'aspetto
+gui.painting.size=Grandezza quadro
+gui.painting.rotation=Rotazione
+gui.painting.corner=Angoli
+
+OakPaintingFrame.name=Cornice per quadro di quercia
+SprucePaintingFrame.name=Cornice per quadro d'abete
+BirchPaintingFrame.name=Cornice per quadro di betulla
+JunglePaintingFrame.name=Cornice per quadro di mogano
+AcaciaPaintingFrame.name=Cornice per quadro d'acacia
+OldOakPaintingFrame.name=Cornice per quadro di quercia scura
+
+paintingFrame.0tier=Borderless
+paintingFrame.1tier=Livello singolo
+paintingFrame.2tier=Livello doppio
+paintingFrame.3tier=Livello triplo
+paintingFrame.4tier=Livello quadruplo
+
+OakClock.name=Orologio di quercia
+SpruceClock.name=Orologio d'abete
+BirchClock.name=Orologio di betulla
+JungleClock.name=Orologio di mogano
+AcaciaClock.name=Orologio d'acacia
+OldOakClock.name=Orologio di quercia scura
+
+WhiteTypewriter.name=Macchina per scrivere bianca
+LightGrayTypewriter.name=Macchina per scrivere grigio chiaro
+GrayTypewriter.name=Macchina per scrivere grigia
+BlackTypewriter.name=Macchina per scrivere nera
+RedTypewriter.name=Macchina per scrivere rossa
+OrangeTypewriter.name=Macchina per scrivere arancione
+YellowTypewriter.name=Macchina per scrivere gialla
+LimeTypewriter.name=Macchina per scrivere lime
+GreenTypewriter.name=Macchina per scrivere verde
+CyanTypewriter.name=Macchina per scrivere ciano
+LightBlueTypewriter.name=Macchina per scrivere azzurro
+BlueTypewriter.name=Macchina per scrivere blu
+PurpleTypewriter.name=Macchina per scrivere viola
+MagentaTypewriter.name=Macchina per scrivere magenta
+PinkTypewriter.name=Macchina per scrivere rosa
+BrownTypewriter.name=Macchina per scrivere marrone
+
+// End of 1.8 additions and changes // 
+
+
 // All BiblioCraft 1.7 additions and changes///
 gui.recipe.areyousure=Sei sicuro?
 gui.recipe.finalize=Cliccando si questo libro non potrà più essere modificato.
