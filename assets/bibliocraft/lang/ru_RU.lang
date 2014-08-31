@@ -6,6 +6,74 @@ language.code=ru_RU
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Освещение
 
+
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=Звук звонка
+gui.clock.ticksound=Тикающий звук
+gui.clock.redstone=Красный камень
+gui.clock.chime=Chime
+gui.clock.presets=Установки
+
+screwgun.selected.painting1=Первая картина выбрана
+screwgun.selected.painting2=Вторая картина выбрана
+screwgun.selected.clock1=Первые часы выбраны
+screwgun.selected.clock2=Вторые часы выбраны
+drill.failed=Соединение не удалось
+
+item.PaintingCanvas.name=Холост для рисования
+tile.BiblioPaintPress.name=Картинный станок
+
+gui.paintpress.transfer=Transfer
+gui.paintpress.vanilla=Vanilla
+gui.paintpress.custom=Custom
+
+gui.painting.scale=Размер
+gui.painting.resolution=Разрешение
+gui.painting.aspectRatio=Соотношение сторон
+gui.painting.size=Размер картины
+gui.painting.rotation=Поворот
+gui.painting.corner=Главный угол
+
+OakPaintingFrame.name=Дубовая картинная рамка
+SprucePaintingFrame.name=Еловая картинная рамка
+BirchPaintingFrame.name=Берёзовая картинная рамка
+JunglePaintingFrame.name=Картинная рамка из тропического дерева
+AcaciaPaintingFrame.name=Картинная рамка из акации
+OldOakPaintingFrame.name=Картинная рамка из тёмного дуба
+
+paintingFrame.0tier=Borderless
+paintingFrame.1tier=Single Tier
+paintingFrame.2tier=Double Tier
+paintingFrame.3tier=Triple Tier
+paintingFrame.4tier=Quadruple Tier
+
+OakClock.name=Дубовые часы
+SpruceClock.name=Еловые часы
+BirchClock.name=Берёзовые часы
+JungleClock.name=Часы из тропического дерева
+AcaciaClock.name=Часы из акации
+OldOakClock.name=Часы из тёмного дуба
+
+WhiteTypewriter.name=Белая печатная машинка
+LightGrayTypewriter.name=Светло-серая печатная машинка
+GrayTypewriter.name=Серая печатная машинка
+BlackTypewriter.name=Чёрная печатная машинка
+RedTypewriter.name=Красная печатная машинка
+OrangeTypewriter.name=Оранжевая печатная машинка
+YellowTypewriter.name=Жёлтая печатная машинка
+LimeTypewriter.name=Лаймовая печатная машинка
+GreenTypewriter.name=Зелёная печатная машинка
+CyanTypewriter.name=бирюзовая печатная машинка
+LightBlueTypewriter.name=Светло-синяя печатная машинка
+BlueTypewriter.name=Синяя печатная машинка
+PurpleTypewriter.name=Фиолетовая печатная машинка
+MagentaTypewriter.name=Сиреневая печатная машинка
+PinkTypewriter.name=Розовая печатная машинка
+BrownTypewriter.name=Коричневая печатная машинка
+
+// End of 1.8 additions and changes // 
+
+
 // All BiblioCraft 1.7 additions and changes///
 gui.recipe.areyousure=Вы уверены?
 gui.recipe.finalize=Нажатие "да", навсегда заблокирует эту книгу от редактирования.
