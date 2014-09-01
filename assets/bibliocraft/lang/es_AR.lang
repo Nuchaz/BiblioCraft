@@ -8,6 +8,18 @@ itemGroup.BiblioCraftLights=Luces de Bibliocraft
 
 // All BiblioCraft 1.8 additions and changes //
 
+gui.clock.chimesound=Sonido de la Campana
+gui.clock.ticksound=Sonido del Segundero
+gui.clock.redstone=Redstone
+gui.clock.chime=Campana
+gui.clock.presets=Predeterminado
+
+screwgun.selected.painting1=Primera Pintura Seleccionada
+screwgun.selected.painting2=Segunda Pintura Seleccionada
+screwgun.selected.clock1=Primer Reloj Seleccionado
+screwgun.selected.clock2=Segundo Reloj Seleccionado
+drill.failed=Falló la Conexión
+
 item.PaintingCanvas.name=Bastidor
 tile.BiblioPaintPress.name=Prensa para estampar
 
