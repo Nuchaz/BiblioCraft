@@ -270,11 +270,11 @@ screwgun.firstSeat=Erster Sitz ausgewählt.
 screwgun.secondSeat=Versuche, Sitze anzubringen/abzutrennen.
 
 //Tape Measure Texts
-tape.measurenorthsouth=Messung Nord/Süd =
-tape.measureeastwest=Messung Ost/West =
-tape.measureheight=Messung Höhe =
+tape.measurenorthsouth=Messung Nord/Süd = 
+tape.measureeastwest=Messung Ost/West = 
+tape.measureheight=Messung Höhe = 
 tape.nomeasure=Nichts gemessen.
-tape.measure=Gemessen =
+tape.measure=Gemessen = 
 tape.startmeasure=Starte Messung.
 tape.mode0=Ändere Modus zu Nord/Süd, Ost/West und Höhe.
 tape.mode1=Ändere Modus zu absoluter Messung.
