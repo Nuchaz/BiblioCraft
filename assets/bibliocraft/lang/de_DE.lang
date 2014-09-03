@@ -6,6 +6,74 @@ language.code=de_DE
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Beleuchtung
 
+
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=Läut-Geräusch
+gui.clock.ticksound=Tick-Geräusch
+gui.clock.redstone=Redstone
+gui.clock.chime=Läuten
+gui.clock.presets=Einstellungen
+
+screwgun.selected.painting1=Erstes Gemälde ausgewählt
+screwgun.selected.painting2=Zweites Gemälde ausgewählt
+screwgun.selected.clock1=Erste Uhr ausgewählt
+screwgun.selected.clock2=Zweite Uhr ausgewählt
+drill.failed=Verbindung fehlgeschlagen
+
+item.PaintingCanvas.name=Gemäldeleinwand
+tile.BiblioPaintPress.name=Gemäldepresse
+
+gui.paintpress.transfer=Transfer
+gui.paintpress.vanilla=Vanilla
+gui.paintpress.custom=Spezifisch
+
+gui.painting.scale=Größe
+gui.painting.resolution=Auflösung
+gui.painting.aspectRatio=Seitenverhältnis
+gui.painting.size=Gemäldegröße
+gui.painting.rotation=Drehung
+gui.painting.corner=Stützecke
+
+OakPaintingFrame.name=Eichenholz-Gemälderahmen
+SprucePaintingFrame.name=Fichtenholz-Gemälderahmen
+BirchPaintingFrame.name=Birkenholz-Gemälderahmen
+JunglePaintingFrame.name=Tropenholz-Gemälderahmen
+AcaciaPaintingFrame.name=Akazienholz-Gemälderahmen
+OldOakPaintingFrame.name=Schwarzeichenholz-Gemälderahmen
+
+paintingFrame.0tier=Randlos
+paintingFrame.1tier=Einzelstufe
+paintingFrame.2tier=Doppelstufe
+paintingFrame.3tier=Dreifachstufe
+paintingFrame.4tier=Vierfachstufe
+
+OakClock.name=Eichenholzuhr
+SpruceClock.name=Fichtenholzuhr
+BirchClock.name=Birkenholzuhr
+JungleClock.name=Tropenholzuhr
+AcaciaClock.name=Akazienholzuhr
+OldOakClock.name=Schwarzeichenholzuhr
+
+WhiteTypewriter.name=Weiße Schreibmaschine
+LightGrayTypewriter.name=Hellgraue Schreibmaschine
+GrayTypewriter.name=Graue Schreibmaschine
+BlackTypewriter.name=Schwarze Schreibmaschine
+RedTypewriter.name=Rote Schreibmaschine
+OrangeTypewriter.name=Orange Schreibmaschine
+YellowTypewriter.name=Gelbe Schreibmaschine
+LimeTypewriter.name=Hellgrüne Schreibmaschine
+GreenTypewriter.name=Grüne Schreibmaschine
+CyanTypewriter.name=Türkise
+LightBlueTypewriter.name=Hellblaue Schreibmaschine
+BlueTypewriter.name=Blaue Schreibmaschine
+PurpleTypewriter.name=Violette Schreibmaschine
+MagentaTypewriter.name=Magentafarbene Schreibmaschine
+PinkTypewriter.name=Pinke Schreibmaschine
+BrownTypewriter.name=Braune Schreibmaschine
+
+// End of 1.8 additions and changes //
+
+
 // All BiblioCraft 1.7 additions and changes///
 gui.recipe.areyousure=Bist du sicher?
 gui.recipe.finalize='Ja' zu klicken, wird das Buch nicht unveränderbar machen.
@@ -122,8 +190,9 @@ gui.sign.linenum=Zeilen#
 
 // All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Buchtitel:
-gui.redbook.description.p1=Das Redstone-Buch wird in Kombination mit einem Bücherschrank verwendet, um ein Redstone-Signal auszusenden. Wenn in einem Bücherschrank platziert, wird ein Redstone-Signal zu allen Seiten außer der Vorderseite entsendet. Die Stärke des Signals hängt von dem Slot des Bücherschrankes ab, in dem das Buch sich befindet. 
+gui.redbook.description.p1=Das Redstone-Buch wird in Kombination mit einem Bücherschrank verwendet, um ein Redstone-Signal auszusenden. Wenn in einem Bücherschrank platziert, wird ein Redstone-Signal zu allen Seiten außer der Vorderseite entsendet. Die Stärke des Signals hängt von dem Slot des Bücherschrankes ab, in dem das Buch sich befindet.
 gui.redbook.description.p2=Ein Bücherschrank hat 16 Slots, Slot 1 ist oben links und Slot 16 unten rechts. Wenn das Redstone-Buch in Slot 1 platziert wird, wird der Bücherschrank kein Redstone-Signal aussenden. Wenn das Buch in Slot 2 platziert wird, wird ein Signal der Stärke 1 ausgesendet. Jeder Slot danach erhöht die Stärke um 1, bis Slot 16, der das volle Redstone-Signal der Stärke 15 aussenden lässt.
+
 
 AcaciaDesk.name=Akazienholz-Schreibtisch
 OldOakDesk.name=Schwarzeichenholz-Schreibtisch
