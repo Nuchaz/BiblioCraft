@@ -1,9 +1,9 @@
-Czech
+Čeština
 cs_CZ
 language.region=CZ
 
 // Tab Names
-itemGroup.BiblioCraftBiblioCraft
+itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=Osvětlení BiblioCraftu
 
 // All BiblioCraft 1.7 additions and changes///
