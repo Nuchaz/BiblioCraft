@@ -5,6 +5,38 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioWoodsBoP=BiblioWoods: Biomes O'Plenty Edition
 
+// 1.8.0 additions
+SacredOakClock.name=Sacred Oak Clock
+CherryClock.name=Cherry Clock
+DarkClock.name=Dark Clock
+FirClock.name=Fir Clock
+HellBarkClock.name=HellBark Clock
+HolyClock.name=Ethereal Clock
+JacarandaClock.name=Jacaranda Clock
+MagicClock.name=Magic Clock
+MangroveClock.name=Mangrove Clock
+PalmClock.name=Palm Clock
+PineClock.name=Pine Clock
+RedwoodClock.name=Redwood Clock
+WillowClock.name=Willow Clock
+MahoganyClock.name=Mahogany Clock
+
+SacredOakPaintingFrame.name=Sacred Oak Painting Frame
+CherryPaintingFrame.name=Cherry Painting Frame
+DarkPaintingFrame.name=Dark Painting Frame
+FirPaintingFrame.name=Fir Painting Frame
+HellBarkPaintingFrame.name=HellBark Painting Frame
+HolyPaintingFrame.name=Ethereal Painting Frame
+JacarandaPaintingFrame.name=Jacaranda Painting Frame
+MagicPaintingFrame.name=Magic Painting Frame
+MangrovePaintingFrame.name=Mangrove Painting Frame
+PalmPaintingFrame.name=Palm Painting Frame
+PinePaintingFrame.name=Pine Painting Frame
+RedwoodPaintingFrame.name=Redwood Painting Frame
+WillowPaintingFrame.name=Willow Painting Frame
+MahoganyPaintingFrame.name=Mahogany Painting Frame
+//
+
 SacredOakFancySign.name=Sacred Oak Fancy Sign
 CherryFancySign.name=Cherry Fancy Sign
 DarkFancySign.name=Dark Fancy Sign
