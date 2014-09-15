@@ -1,9 +1,41 @@
-﻿language.name=German
+language.name=German
 language.region=DE
 language.code=de_DE
 
 // Tab Names
 itemGroup.BiblioWoodsBoP=BiblioWoods: Biomes O'Plenty-Edition
+
+// 1.8.0 additions
+SacredOakClock.name=Himmeleichenholzuhr
+CherryClock.name=Kirschholzuhr
+DarkClock.name=Dunkle Holzuhr
+FirClock.name=Tannenholzuhr
+HellBarkClock.name=Höllrindenholzuhr
+HolyClock.name=Loftwood-Holzuhr
+JacarandaClock.name=Jacarandaholzuhr
+MagicClock.name=Magische Holzuhr
+MangroveClock.name=Mangrovenholzuhr
+PalmClock.name=Palmholzuhr
+PineClock.name=Kiefernholzuhr
+RedwoodClock.name=Mammutbaumholzuhr
+WillowClock.name=Weidenholzuhr
+MahoganyClock.name=Mahagoniholzuhr
+
+SacredOakPaintingFrame.name=Himmeleichenholz-Gemälderahmen
+CherryPaintingFrame.name=Kirschholz-Gemälderahmen
+DarkPaintingFrame.name=Dunkler Gemälderahmen
+FirPaintingFrame.name=Tannenholz-Gemälderahmen
+HellBarkPaintingFrame.name=Höllrindenholz-Gemälderahmen
+HolyPaintingFrame.name=Loftwood-Gemälderahmen
+JacarandaPaintingFrame.name=Jacarandaholz-Gemälderahmen
+MagicPaintingFrame.name=Magischer Gemälderahmen
+MangrovePaintingFrame.name=Mangrovenholz-Gemälderahmen
+PalmPaintingFrame.name=Palmholz-Gemälderahmen
+PinePaintingFrame.name=Kiefernholz-Gemälderahmen
+RedwoodPaintingFrame.name=Mammutbaumholz-Gemälderahmen
+WillowPaintingFrame.name=Weidenholz-Gemälderahmen
+MahoganyPaintingFrame.name=Mahagoniholz-Gemälderahmen
+//
 
 SacredOakFancySign.name=Schickes Himmeleichenholzschild
 CherryFancySign.name=Schickes Kirschholzschild
