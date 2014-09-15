@@ -8,31 +8,31 @@ itemGroup.BiblioCraftLights=Luces de Bibliocraft
 
 // All BiblioCraft 1.8 additions and changes //
 
-gui.clock.chimesound=Sonido de la Campana
-gui.clock.ticksound=Sonido del Segundero
+gui.clock.chimesound=Campana
+gui.clock.ticksound=Tic Tac
 gui.clock.redstone=Redstone
 gui.clock.chime=Campana
-gui.clock.presets=Predeterminado
+gui.clock.presets=Predet.
 
-screwgun.selected.painting1=Primera Pintura Seleccionada
-screwgun.selected.painting2=Segunda Pintura Seleccionada
+screwgun.selected.painting1=Primer Marco Seleccionado
+screwgun.selected.painting2=Segundo Marco Seleccionado
 screwgun.selected.clock1=Primer Reloj Seleccionado
 screwgun.selected.clock2=Segundo Reloj Seleccionado
 drill.failed=Falló la Conexión
 
 item.PaintingCanvas.name=Bastidor
-tile.BiblioPaintPress.name=Prensa para estampar
+tile.BiblioPaintPress.name=Prensa para Estampar
 
-gui.paintpress.transfer=Transferir
+gui.paintpress.transfer=Estampar 
 gui.paintpress.vanilla=Vanilla
 gui.paintpress.custom=Personalizado
 
 gui.painting.scale=Escala
 gui.painting.resolution=Resolución
 gui.painting.aspectRatio=Proporción
-gui.painting.size=Tamaño de la pintura
+gui.painting.size=Tamaño
 gui.painting.rotation=Rotación
-gui.painting.corner=Esquina principal
+gui.painting.corner=Esquina
 
 OakPaintingFrame.name=Marco de Pintura de Roble
 SprucePaintingFrame.name=Marco de Pintura de Abeto
@@ -121,19 +121,19 @@ item.HandDrill.name=Taladro manual
 book.bold=N
 book.italic=K
 book.underline=S
-book.strike=Tachado
-book.obfuscated=Ofuscado
-book.reset=Restablecer
+book.strike=Tachar
+book.obfuscated=Of
+book.reset=Restablece
 book.save=Guardar
 book.sign=Firmar
 book.entertitle=Ingresar el título del libro
 book.by=por
-"book.signnotice=Importante: cuando firmés el libro, ya no podrás editar el texto, 
-el formato, los capítulos o páginas adicionales. "
-book.textscale=Escala del texto
+book.signnotice=Importante: cuando firmés el libro, ya no podrás editar el texto, 
+el formato, los capítulos o páginas adicionales.
+book.textscale=Escala
 book.lineselected=Línea seleccionada
 book.cancel=Cancelar
-book.linenum=Línea # = 
+book.linenum=Línea#= 
 book.title=Título
 book.description=Descripción
 book.ingredients=Ingredientes necesarios:
@@ -148,9 +148,9 @@ book.areyousure2=Hacer click en "sí" va a impedir que este libro sea editado.
 book.setrecipename=Receta: 
 gui.fancyworkbench=Mesa de Trabajo Elegante
 
-gui.sign.left=Izquierda
-gui.sign.center=Centrado
-gui.sign.right=Derecha
+gui.sign.left=Izq
+gui.sign.center=Centro
+gui.sign.right=Der
 
 gui.sign.black=Negro
 gui.sign.darkblue=Azul oscuro
@@ -184,7 +184,7 @@ gui.sign.strikethrough=Tachado
 gui.sign.underline=Subrayado
 gui.sign.italic=Cursiva
 
-gui.sign.scale=Escala del texto
+gui.sign.scale=Escala
 gui.sign.format=Formato
 gui.sign.linenum=Línea#
 
@@ -192,22 +192,12 @@ gui.sign.linenum=Línea#
 
 // All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Título del libro: 
-"gui.redbook.description.p1=El libro de redstone es utilizado en combinación con la librería
-para emitir una señal de redstone. Cuando se coloca en una
-librería, una señal de  redstone será emitida hacia todas las 
-direcciones excepto el frente. La fuerza de la señal depende 
-del lugar que ocupa el libro en la librería. "
-"gui.redbook.description.p2=La librería tiene 16 espacios. El espacio 1 es el de arriba a la 
-izquierda y el espacio 16 es el de abajo a la derecha. Si el 
-libro de redstone es colocado en el espacio 1, la librería 
-emitirá una señal de redstone con una fuerza de 1. Cada 
-espacio aumenta la fuerza de la señal por 1, hasta el epacio 16
-que emite una señal de fuerza 16. "
-
+gui.redbook.description.p1=El libro de redstone es utilizado en la librería para emitir una señal de redstone. Cuando se coloca en la librería, una señal de redstone será emitida en todas las direcciones excepto el frente. La fuerza de la señal depende del lugar que ocupa el libro en la librería.
+gui.redbook.description.p2=La librería tiene 16 espacios. El espacio 1 es el de arriba a la  izquierda y el espacio 16 es el de abajo a la derecha. Si el libro de redstone es colocado en el espacio 1, la librería emitirá una señal de redstone con una fuerza de 1. Cada espacio aumenta la fuerza de la señal por 1, hasta el espacio 16 que emite una señal de fuerza 16.
 
 
 AcaciaDesk.name=Escritorio de Acacia
-OldOakDesk.name=Escritorio de Roble oscuro
+OldOakDesk.name=Escritorio de Roble Oscuro
 AcaciaBookcase.name=Librería de Acacia
 OldOakBookcase.name=Librería de Roble Oscuro
 AcaciaPotionShelf.name=Estantería de Pociones de Acacia
@@ -239,11 +229,11 @@ gui.typesetting.pageOfpages=de
 gui.typesetting.public=Público
 gui.typesetting.private=Privado
 gui.typesetting.delete=Suprimir
-gui.typesetting.select=Seleccionar
-gui.typesetting.nextPage=Próxima Página
-gui.typesetting.prevPage=Página Anterior
+gui.typesetting.select=Elegir
+gui.typesetting.nextPage=Siguiente
+gui.typesetting.prevPage=Atrás
 gui.typesetting.exit=Salir
-gui.typesetting.enableDiscard=Descartar
+gui.typesetting.enableDiscard=Quitar
 // End of 1.6 additions ////////////////////////////
 
 
@@ -258,7 +248,7 @@ gui.potionshelf=Estantería de Pociones
 gui.table=Mesa de Madera
 gui.case=Vitrina
 gui.toolrack=Perchero para Herramientas
-gui.desk=Escritorio de Madera
+gui.desk=Escritorio
 gui.mapWaypoint.accept=Aceptar
 gui.mapWaypoint.remove=Borrar
 gui.mapWaypoint.cancel=Cancelar
