@@ -42,7 +42,7 @@ JunglePaintingFrame.name=Cornice per quadro di mogano
 AcaciaPaintingFrame.name=Cornice per quadro d'acacia
 OldOakPaintingFrame.name=Cornice per quadro di quercia scura
 
-paintingFrame.0tier=Borderless
+paintingFrame.0tier=Senza bordi
 paintingFrame.1tier=Livello singolo
 paintingFrame.2tier=Livello doppio
 paintingFrame.3tier=Livello triplo
