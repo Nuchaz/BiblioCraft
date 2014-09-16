@@ -5,6 +5,36 @@ language.code=it_IT
 // Tab Names
 itemGroup.BiblioWoodsNatura=BiblioWoods: edizione Natura
 
+// BiblioCraft v1.8.x additions
+BloodwoodClock.name=Orologio di legno insanguinato
+DarkwoodClock.name=Orologio di legno oscuro
+EucalyptusClock.name=Orologio d'eucalipto
+FusewoodClock.name=Orologio di legno esplosivo
+GhostwoodClock.name=Orologio di legno fantasma
+HopseedClock.name=Orologio di hopseed
+MapleClock.name=Orologio d'acero
+PurpleheartClock.name=Orologio d'amaranto
+RedwoodClock.name=Orologio di redwood
+SilverbellClock.name=Orologio di halesia
+SakuraClock.name=Orologio di ciliegio
+TigerClock.name=Orologio di legno tigrato
+WillowClock.name=Orologio di salice
+
+BloodwoodPaintingFrame.name=Cornice per quadro di legno insanguinato
+DarkwoodPaintingFrame.name=Cornice per quadro di legno oscuro
+EucalyptusPaintingFrame.name=Cornice per quadro d'eucalipto
+FusewoodPaintingFrame.name=Cornice per quadro di legno esplosivo
+GhostwoodPaintingFrame.name=Cornice per quadro di legno fantasma
+HopseedPaintingFrame.name=Cornice per quadro di hopseed
+MaplePaintingFrame.name=Cornice per quadro d'acero
+PurpleheartPaintingFrame.name=Cornice per quadro d'amaranto
+RedwoodPaintingFrame.name=Cornice per quadro di redwood
+SilverbellPaintingFrame.name=Cornice per quadro di halesia
+SakuraPaintingFrame.name=Cornice per quadro di ciliegio
+TigerPaintingFrame.name=Cornice per quadro di legno tigrato
+WillowPaintingFrame.name=Cornice per quadro di salice
+////
+
 BloodwoodFancyWorkbench.name=Banco da lavoro chic di legno insanguinato
 DarkwoodFancyWorkbench.name=Banco da lavoro chic di legno oscuro
 EucalyptusFancyWorkbench.name=Banco da lavoro chic d'eucalipto
