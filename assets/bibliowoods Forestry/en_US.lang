@@ -5,6 +5,58 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioWoodsForestry=BiblioWoods: Forestry Edition
 
+// BiblioCraft v1.8.x changes
+AcaciaClock.name=Acacia Clock
+BalsaClock.name=Balsa Clock
+BaobabClock.name=Baobab Clock
+CherryClock.name=Cherry Clock
+ChestnutClock.name=Chestnut Clock
+CitrusClock.name=Citrus Clock
+EbonyClock.name=Ebony Clock
+GreenheartClock.name=Greenheart Clock
+KapokClock.name=Kapok Clock
+LarchClock.name=Larch Clock
+LimeClock.name=Lime Clock
+MahoeClock.name=Mahoe Clock
+MahoganyClock.name=Mahogany Clock
+MapleClock.name=Maple Clock
+PalmClock.name=Palm Clock
+PapayaClock.name=Papaya Clock
+PineClock.name=Pine Clock
+PlumClock.name=Plum Clock
+PopularClock.name=Poplar Clock
+SequoiaClock.name=Sequoia Clock
+TeakClock.name=Teak Clock
+WalnutClock.name=Walnut Clock
+WengeClock.name=Wenge Clock
+WillowClock.name=Willow Clock
+
+AcaciaPaintingFrame.name=Acacia Painting Frame
+BalsaPaintingFrame.name=Balsa Painting Frame
+BaobabPaintingFrame.name=Baobab Painting Frame
+CherryPaintingFrame.name=Cherry Painting Frame
+ChestnutPaintingFrame.name=Chestnut Painting Frame
+CitrusPaintingFrame.name=Citrus Painting Frame
+EbonyPaintingFrame.name=Ebony Painting Frame
+GreenheartPaintingFrame.name=Greenheart Painting Frame
+KapokPaintingFrame.name=Kapok Painting Frame
+LarchPaintingFrame.name=Larch Painting Frame
+LimePaintingFrame.name=Lime Painting Frame
+MahoePaintingFrame.name=Mahoe Painting Frame
+MahoganyPaintingFrame.name=Mahogany Painting Frame
+MaplePaintingFrame.name=Maple Painting Frame
+PalmPaintingFrame.name=Palm Painting Frame
+PapayaPaintingFrame.name=Papaya Painting Frame
+PinePaintingFrame.name=Pine Painting Frame
+PlumPaintingFrame.name=Plum Painting Frame
+PopularPaintingFrame.name=Poplar Painting Frame
+SequoiaPaintingFrame.name=Sequoia Painting Frame
+TeakPaintingFrame.name=Teak Painting Frame
+WalnutPaintingFrame.name=Walnut Painting Frame
+WengePaintingFrame.name=Wenge Painting Frame
+WillowPaintingFrame.name=Willow Painting Frame
+//
+
 AcaciaFancyWorkbench.name=Acacia Fancy Workbench
 BalsaFancyWorkbench.name=Balsa Fancy Workbench
 BaobabFancyWorkbench.name=Baobab Fancy Workbench
