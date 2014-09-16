@@ -9,6 +9,18 @@ itemGroup.BiblioCraftLights=BiblioCraft luci
 
 // All BiblioCraft 1.8 additions and changes //
 
+gui.clock.chimesound=Campane
+gui.clock.ticksound=Ticchettio
+gui.clock.redstone=Pietrarossa
+gui.clock.chime=Campane
+gui.clock.presets=opzioni
+
+screwgun.selected.painting1=Primo quadro selezionato
+screwgun.selected.painting2=Secondo quadro selezionato
+screwgun.selected.clock1=Primo orologio selezionato
+screwgun.selected.clock2Secondo orologio selezionato
+drill.failed=Connesione fallita
+
 item.PaintingCanvas.name=Tela
 tile.BiblioPaintPress.name=Pressa per quadri
 
@@ -30,7 +42,7 @@ JunglePaintingFrame.name=Cornice per quadro di mogano
 AcaciaPaintingFrame.name=Cornice per quadro d'acacia
 OldOakPaintingFrame.name=Cornice per quadro di quercia scura
 
-paintingFrame.0tier=Borderless
+paintingFrame.0tier=Senza bordi
 paintingFrame.1tier=Livello singolo
 paintingFrame.2tier=Livello doppio
 paintingFrame.3tier=Livello triplo
