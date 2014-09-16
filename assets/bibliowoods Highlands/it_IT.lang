@@ -5,6 +5,18 @@ language.code=it_IT
 // Tab Names
 itemGroup.BiblioWoodsHighlands=BiblioWoods: edizione Highlands
 
+// BiblioCraft v1.8.x additions
+GreyWoodClock.name=Orologio di legno grigio
+hlRedWoodClock.name=Orologio di legno rosso
+WhiteWoodClock.name=Orologio legno bianco
+YellowWoodClock.name=Orologio
+
+GreyWoodPaintingFrame.name=Cornice per quadro di legno grigio
+hlRedWoodPaintingFrame.name=Cornice per quadro di legno rosso
+WhiteWoodPaintingFrame.name=Cornice per quadro legno bianco
+YellowWoodPaintingFrame.name=Cornice per quadro di legno giallo
+//
+
 GreyWoodFancyWorkbench.name=Banco da lavoro di legno grigio
 hlRedWoodFancyWorkbench.name=Banco da lavoro di legno rosso
 WhiteWoodFancyWorkbench.name=Banco da lavoro di legno bianco
