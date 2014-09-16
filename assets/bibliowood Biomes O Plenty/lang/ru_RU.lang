@@ -5,6 +5,38 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioWoodsBoP=BiblioWoods: Вариант Biomes O'Plenty
 
+// 1.8.0 additions
+SacredOakClock.name=Часы из священного дуба
+CherryClock.name=Часы из вишнёвого дерева
+DarkClock.name=Часы из тёмного дерева
+FirClock.name=Часы из пихты
+HellBarkClock.name=Часы из адского дерева
+HolyClock.name=Часы из эфирного дерева
+JacarandaClock.name=Часы из жакаранды
+MagicClock.name=Часы из магического дерева
+MangroveClock.name=Часы из мангрового дерева
+PalmClock.name=Часы из пальмы
+PineClock.name=часы из сосны
+RedwoodClock.name=Часы из красного дерева
+WillowClock.name=Часы из ивы
+MahoganyClock.name=Часы из махагониевого дерева
+
+SacredOakPaintingFrame.name=Рамка из священного дуба
+CherryPaintingFrame.name=Рамка из вишнёвого дерева
+DarkPaintingFrame.name=Рамка из тёмного дерева
+FirPaintingFrame.name=Рамка из пихты
+HellBarkPaintingFrame.name=Рамка из адского дерева
+HolyPaintingFrame.name=Рамка из эфирного дерева
+JacarandaPaintingFrame.name=Рамка из жакаранды
+MagicPaintingFrame.name=Рамка из магического дерева
+MangrovePaintingFrame.name=Рамка мангрового дерева
+PalmPaintingFrame.name=Рамка из пальмы
+PinePaintingFrame.name=Рамка из сосны
+RedwoodPaintingFrame.name=Рамка из красного дерева
+WillowPaintingFrame.name=Рамка из ивы
+MahoganyPaintingFrame.name=Рамка из махагониевого дерева
+//
+
 SacredOakFancySign.name=Красивая табличка из священного дуба
 CherryFancySign.name=Красивая табличка из вишнёвого дерева
 DarkFancySign.name=Красивая табличка из тёмного дерева
