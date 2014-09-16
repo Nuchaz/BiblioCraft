@@ -5,6 +5,49 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioWoodsEBXL=BiblioWoods: Вариант ExtrabiomesXL
 
+// BiblioCraft additions
+AcaciaClock.name=Часы из акации
+AutumnClock.name=Часы из осеннего дерева
+BaldCypressClock.name=Часы из болотного кипариса
+CypressClock.name=Часы из кипариса
+FirClock.name=Часы из пихты
+JapaneseMapleClock.name=Часы из японского клёна
+RainbowEucalyptusClock.name=Часы из радужного эвкалипта
+ebxlRedwoodClock.name=Часы из красного дерева
+SakuraClock.name=Часы из сакуры
+
+AcaciaPaintingFrame.name=Рамка из акации
+AutumnPaintingFrame.name=Рамка из осеннего дерева
+BaldCypressPaintingFrame.name=Рамка из болотного кипариса
+CypressPaintingFrame.name=Рамка из кипариса
+FirPaintingFrame.name=Рамка из пихты
+JapaneseMaplePaintingFrame.name=Рамка из японского клёна
+RainbowEucalyptusPaintingFrame.name=Рамка из радужного эвкалипта
+ebxlRedwoodPaintingFrame.name=Рамка из красного дерева
+SakuraPaintingFrame.name=Рамка из сакуры
+
+AcaciaFancyWorkbench.name=Красивый верстак из акации
+AutumnFancyWorkbench.name=Красивый верстак из осеннего дерева
+BaldCypressFancyWorkbench.name=Красивый верстак из болотного кипариса
+CypressFancyWorkbench.name=Красивый верстак из кипариса
+FirFancyWorkbench.name=Красивый верстак из пихты
+JapaneseMapleFancyWorkbench.name=Красивый верстак из японского клёна
+RainbowEucalyptusFancyWorkbench.name=Красивый верстак из радужного эвкалипта
+ebxlRedwoodFancyWorkbench.name=Красивый верстак из красного дерева
+SakuraFancyWorkbench.name=Красивый верстак из сакуры
+
+AcaciaFancySign.name=Красивая табличка из акации
+AutumnFancySign.name=Красивая табличка из осеннего дерева
+BaldCypressFancySign.name=Красивая табличка из болотного кипариса
+CypressFancySign.name=Красивая табличка из кипариса
+FirFancySign.name=Красивая табличка из пихты
+JapaneseMapleFancySign.name=Красивая табличка из японского клёна
+RainbowEucalyptusFancySign.name=Красивая табличка из радужного эвкалипта
+ebxlRedwoodFancySign.name=Красивая табличка из красного дерева
+SakuraFancySign.name=Красивая табличка из сакуры
+//
+
+
 // 1.5 additions
 AcaciaMapFrame.name=Рамка для карты из акации
 AutumnMapFrame.name=Рамка для карты из осеннего дерева
