@@ -5,6 +5,18 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioWoodsHighlands=BiblioWoods: Highlands Edition
 
+// BiblioCraft v1.8.x additions
+GreyWoodClock.name=Grey Wood Clock
+hlRedWoodClock.name=Red Wood Clock
+WhiteWoodClock.name=White Wood Clock
+YellowWoodClock.name=Yellow Wood Clock
+
+GreyWoodPaintingFrame.name=Grey Wood Painting Frame
+hlRedWoodPaintingFrame.name=Red Wood Painting Frame
+WhiteWoodPaintingFrame.name=White Wood Painting Frame
+YellowWoodPaintingFrame.name=Yellow Wood Painting Frame
+//
+
 GreyWoodFancyWorkbench.name=Grey Wood Fancy Workbench
 hlRedWoodFancyWorkbench.name=Red Wood Fancy Workbench
 WhiteWoodFancyWorkbench.name=White Wood Fancy Workbench
