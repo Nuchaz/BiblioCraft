@@ -5,6 +5,36 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioWoodsNatura=BiblioWoods: Вариант Natura
 
+// BiblioCraft v1.8.x additions
+BloodwoodClock.name=Часы из кровавого дерева
+DarkwoodClock.name=Часы из тёмного дерева
+EucalyptusClock.name=Часы из эвкалипта
+FusewoodClock.name=Часы из плавкого дерева
+GhostwoodClock.name=Часы из призрачного дерева
+HopseedClock.name=Часы из хмельного дерева
+MapleClock.name=Часы из клёна
+PurpleheartClock.name=Часы из щирицы
+RedwoodClock.name=Часы из красного дерева
+SilverbellClock.name=Часы из галезии
+SakuraClock.name=Часы из сакуры
+TigerClock.name=Часы из тигрового дерева
+WillowClock.name=Часы из ивы
+
+BloodwoodPaintingFrame.name=Рамка из кровавого дерева
+DarkwoodPaintingFrame.name=Рамка из тёмного дерева
+EucalyptusPaintingFrame.name=Рамка из эвкалипта
+FusewoodPaintingFrame.name=Рамка из плавкого дерева
+GhostwoodPaintingFrame.name=Рамка из призрачного дерева
+HopseedPaintingFrame.name=Рамка из хмельного дерева
+MaplePaintingFrame.name=Рамка из клёна
+PurpleheartPaintingFrame.name=Рамка из щирицы
+RedwoodPaintingFrame.name=Рамка из красного дерева
+SilverbellPaintingFrame.name=Рамка из галезии
+SakuraPaintingFrame.name=Рамка из сакуры
+TigerPaintingFrame.name=Рамка из тигрового дерева
+WillowPaintingFrame.name=Рамка из ивы
+////
+
 BloodwoodFancyWorkbench.name=Красивый верстак из кровавого дерева
 DarkwoodFancyWorkbench.name=Красивый верстак из тёмного дерева
 EucalyptusFancyWorkbench.name=Красивый верстак из эвкалипта
