@@ -5,6 +5,58 @@ language.code=it_IT
 // Tab Names
 itemGroup.BiblioWoodsForestry=BiblioWoods: edizione Forestry
 
+// BiblioCraft v1.8.x changes
+AcaciaMapClock.name=Orologio d'acacia
+BalsaMapClock.name=Orologio di balsa
+BaobabMapClock.name=Orologio di baobab
+CherryMapClock.name=Orologio di ciliegio
+ChestnutMapClock.name=Orologio di castagno
+CitrusMapClock.name=Orologio di limone
+EbonyMapClock.name=Orologio d'ebano
+GreenheartMapClock.name=Orologio di sipiri
+KapokMapClock.name=Orologio di kapok
+LarchMapClock.name=Orologio di larice
+LimeMapClock.name=Orologio di tiglio
+MahoeMapClock.name=Orologio di mahoe
+MahoganyMapClock.name=Orologio di mogano rosso
+MapleMapClock.name=Orologio d'acero
+PalmMapClock.name=Orologio di palma
+PapayaMapClock.name=Orologio di papaia
+PineMapClock.name=Orologio di pino
+PlumMapClock.name=Orologio di prugno
+PopularMapClock.name=Orologio di pioppo
+SequoiaMapClock.name=Orologio di sequoia
+TeakMapClock.name=Orologio di teak
+WalnutMapClock.name=Orologio di noce
+WengeMapClock.name=Orologio di wengé
+WillowMapClock.name=Orologio di salice
+
+AcaciaMapPaintingFrame.name=Cornice per quadro d'acacia
+BalsaMapPaintingFrame.name=Cornice per quadro di balsa
+BaobabMapPaintingFrame.name=Cornice per quadro di baobab
+CherryMapPaintingFrame.name=Cornice per quadro di ciliegio
+ChestnutMapPaintingFrame.name=Cornice per quadro di castagno
+CitrusMapPaintingFrame.name=Cornice per quadro di limone
+EbonyMapPaintingFrame.name=Cornice per quadro d'ebano
+GreenheartMapPaintingFrame.name=Cornice per quadro di sipiri
+KapokMapPaintingFrame.name=Cornice per quadro di kapok
+LarchMapPaintingFrame.name=Cornice per quadro di larice
+LimeMapPaintingFrame.name=Cornice per quadro di tiglio
+MahoeMapPaintingFrame.name=Cornice per quadro di mahoe
+MahoganyMapPaintingFrame.name=Cornice per quadro di mogano rosso
+MapleMapPaintingFrame.name=Cornice per quadro d'acero
+PalmMapPaintingFrame.name=Cornice per quadro di palma
+PapayaMapPaintingFrame.name=Cornice per quadro di papaia
+PineMapPaintingFrame.name=Cornice per quadro di pino
+PlumMapPaintingFrame.name=Cornice per quadro di prugno
+PopularMapPaintingFrame.name=Cornice per quadro di pioppo
+SequoiaMapPaintingFrame.name=Cornice per quadro di sequoia
+TeakMapPaintingFrame.name=Cornice per quadro di teak
+WalnutMapPaintingFrame.name=Cornice per quadro di noce
+WengeMapPaintingFrame.name=Cornice per quadro di wengé
+WillowMapPaintingFrame.name=Cornice per quadro di salice
+//
+
 AcaciaFancyWorkbench.name=Banco da lavoro chic d'acacia
 BalsaFancyWorkbench.name=Banco da lavoro chic di balsa
 BaobabFancyWorkbench.name=Banco da lavoro chic di baobab
@@ -26,7 +78,7 @@ PlumFancyWorkbench.name=Banco da lavoro chic di prugno
 PopularFancyWorkbench.name=Banco da lavoro chic di pioppo
 SequoiaFancyWorkbench.name=Banco da lavoro chic di sequoia
 TeakFancyWorkbench.name=Banco da lavoro chic di teak
-WalnutFancyWorkbench.name=Banco da lavoro chic di moce
+WalnutFancyWorkbench.name=Banco da lavoro chic di noce
 WengeFancyWorkbench.name=Banco da lavoro chic di wengè
 WillowFancyWorkbench.name=Banco da lavoro chic di salice
 
@@ -51,7 +103,7 @@ PlumFancySign.name=Cartello chic di prugno
 PopularFancySign.name=Cartello chic di pioppo
 SequoiaFancySign.name=Cartello chic di sequoia
 TeakFancySign.name=Cartello chic di teak
-WalnutFancySign.name=Cartello chic di moce
+WalnutFancySign.name=Cartello chic di noce
 WengeFancySign.name=Cartello chic di wengè
 WillowFancySign.name=Cartello chic di salice
 
