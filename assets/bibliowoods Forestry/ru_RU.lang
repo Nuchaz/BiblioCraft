@@ -5,6 +5,58 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioWoodsForestry=BiblioWoods: Вариант Forestry
 
+// BiblioCraft v1.8.x changes
+AcaciaClock.name=Часы из акации
+BalsaClock.name=Часы из бальзы
+BaobabClock.name=Часы из баобаба
+CherryClock.name=Часы из вишнёвого дерева
+ChestnutClock.name=Часы из каштанового дерева
+CitrusClock.name=Часы из цитрусового дерева
+EbonyClock.name=Часы из миртового дерева
+GreenheartClock.name=Часы из гринхарта
+KapokClock.name=Часы из хлопкового дерева
+LarchClock.name=Часы из лиственницы
+LimeClock.name=Часы из липы
+MahoeClock.name=Часы из гибискуса
+MahoganyClock.name=Часы из красного дерева
+MapleClock.name=Часы из клёна
+PalmClock.name=Часы из пальмы
+PapayaClock.name=Часы из дынного дерева
+PineClock.name=Часы из сосны
+PlumClock.name=Часы из сливового дерева
+PopularClock.name=Часы из тополя
+SequoiaClock.name=Часы из секвойи
+TeakClock.name=Часы из тикового дерева
+WalnutClock.name=Часы из орехового дерева
+WengeClock.name=Часы из дерева венге
+WillowClock.name=Часы из ивы
+
+AcaciaPaintingFrame.name=Рамка из акации
+BalsaPaintingFrame.name=Рамка из бальзы
+BaobabPaintingFrame.name=Рамка из баобаба
+CherryPaintingFrame.name=Рамка из вишнёвого дерева
+ChestnutPaintingFrame.name=Рамка из каштанового дерева
+CitrusPaintingFrame.name=Рамка из цитрусового дерева
+EbonyPaintingFrame.name=Рамка из миртового дерева
+GreenheartPaintingFrame.name=Рамка из гринхарта
+KapokPaintingFrame.name=Рамка из хлопкового дерева
+LarchPaintingFrame.name=Рамка из лиственницы
+LimePaintingFrame.name=Рамка из липы
+MahoePaintingFrame.name=Рамка из гибискуса
+MahoganyPaintingFrame.name=Рамка из красного дерева
+MaplePaintingFrame.name=Рамка из клёна
+PalmPaintingFrame.name=Рамка из пальмы
+PapayaPaintingFrame.name=Рамка из дынного дерева
+PinePaintingFrame.name=Рамка из сосны
+PlumPaintingFrame.name=Рамка из сливового дерева
+PopularPaintingFrame.name=Рамка из тополя
+SequoiaPaintingFrame.name=Рамка из секвойи
+TeakPaintingFrame.name=Рамка из тикового дерева
+WalnutPaintingFrame.name=Рамка из орехового дерева
+WengePaintingFrame.name=Рамка из дерева венге
+WillowPaintingFrame.name=Рамка из ивы
+//
+
 AcaciaFancyWorkbench.name=Красивый верстак из акации
 BalsaFancyWorkbench.name=Красивый верстак из бальзы
 BaobabFancyWorkbench.name=Красивый верстак из баобаба
