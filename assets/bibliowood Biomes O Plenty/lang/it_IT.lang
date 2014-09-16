@@ -2,6 +2,38 @@ language.name=Italiano
 language.region=IT
 language.code=it_IT
 
+// 1.8.0 additions
+SacredOakClock.name=Orologio di quercia consacrata
+CherryClock.name=Orologio di ciliegio
+DarkClock.name=Orologio di legno oscuro
+FirClock.name=Orologio d'abete chiaro
+HellBarkClock.name=Orologio di corteccia infernale
+HolyClock.name=Orologio di legno celeste
+JacarandaClock.name=Orologio di jacaranda
+MagicClock.name=Orologio di legno magico
+MangroveClock.name=Orologio di mangrovia
+PalmClock.name=Orologio di palma
+PineClock.name=Orologio di pino
+RedwoodClock.name=Orologio di redwood
+WillowClock.name=Orologio di salice
+MahoganyClock.name=Orologio di mogano rosso
+
+SacredOakPaintingFrame.name=Cornice per quadro di quercia consacrata
+CherryPaintingFrame.name=Cornice per quadro di ciliegio
+DarkPaintingFrame.name=Cornice per quadro di legno oscuro
+FirPaintingFrame.name=Cornice per quadro d'abete chiaro
+HellBarkPaintingFrame.name=Cornice per quadro di corteccia infernale
+HolyPaintingFrame.name=Cornice per quadro di legno celeste
+JacarandaPaintingFrame.name=Cornice per quadro di jacaranda
+MagicPaintingFrame.name=Cornice per quadro di legno magico
+MangrovePaintingFrame.name=Cornice per quadro di mangrovia
+PalmPaintingFrame.name=Cornice per quadro di palma
+PinePaintingFrame.name=Cornice per quadro di pino
+RedwoodPaintingFrame.name=Cornice per quadro di redwood
+WillowPaintingFrame.name=Cornice per quadro di salice
+MahoganyPaintingFrame.name=Cornice per quadro di mogano rosso
+//
+
 // Tab Names
 itemGroup.BiblioWoodsBoP=BiblioWoods: edizione Biomes O'Plenty
 
