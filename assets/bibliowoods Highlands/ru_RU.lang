@@ -5,6 +5,18 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioWoodsHighlands=BiblioWoods: Вариант Highlands
 
+// BiblioCraft v1.8.x additions
+GreyWoodClock.name=Часы из серой древесины
+hlRedWoodClock.name=Часы из красной древесины
+WhiteWoodClock.name=Часы из белой древесины
+YellowWoodClock.name=Часы из жёлтой древесины
+
+GreyWoodPaintingFrame.name=Рамка из серой древесины
+hlRedWoodPaintingFrame.name=Рамка из красной древесины
+WhiteWoodPaintingFrame.name=Рамка из белой древесины
+YellowWoodPaintingFrame.name=Рамка из жёлтой древесины
+//
+
 GreyWoodFancyWorkbench.name=Красивый верстак из серой древесины
 hlRedWoodFancyWorkbench.name=Красивый верстак из красной древесины
 WhiteWoodFancyWorkbench.name=Красивый верстак из белой древесины
