@@ -9,6 +9,18 @@ itemGroup.BiblioCraftLights=BiblioCraft luci
 
 // All BiblioCraft 1.8 additions and changes //
 
+gui.clock.chimesound=Campane
+gui.clock.ticksound=Ticchettio
+gui.clock.redstone=Pietrarossa
+gui.clock.chime=Campane
+gui.clock.presets=opzioni
+
+screwgun.selected.painting1=Primo quadro selezionato
+screwgun.selected.painting2=Secondo quadro selezionato
+screwgun.selected.clock1=Primo orologio selezionato
+screwgun.selected.clock2Secondo orologio selezionato
+drill.failed=Connesione fallita
+
 item.PaintingCanvas.name=Tela
 tile.BiblioPaintPress.name=Pressa per quadri
 
