@@ -5,6 +5,36 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioWoodsNatura=BiblioWoods: Natura Edition
 
+// BiblioCraft v1.8.x additions
+BloodwoodClock.name=Bloodwood Clock
+DarkwoodClock.name=Darkwood Clock
+EucalyptusClock.name=Eucalyptus Clock
+FusewoodClock.name=Fusewood Clock
+GhostwoodClock.name=Ghostwood Clock
+HopseedClock.name=Hopseed Clock
+MapleClock.name=Maple Clock
+PurpleheartClock.name=Purpleheart Clock
+RedwoodClock.name=Redwood Clock
+SilverbellClock.name=Silverbell Clock
+SakuraClock.name=Sakura Clock
+TigerClock.name=Tiger Clock
+WillowClock.name=Willow Clock
+
+BloodwoodPaintingFrame.name=Bloodwood Painting Frame
+DarkwoodPaintingFrame.name=Darkwood Painting Frame
+EucalyptusPaintingFrame.name=Eucalyptus Painting Frame
+FusewoodPaintingFrame.name=Fusewood Painting Frame
+GhostwoodPaintingFrame.name=Ghostwood Painting Frame
+HopseedPaintingFrame.name=Hopseed Painting Frame
+MaplePaintingFrame.name=Maple Painting Frame
+PurpleheartPaintingFrame.name=Purpleheart Painting Frame
+RedwoodPaintingFrame.name=Redwood Painting Frame
+SilverbellPaintingFrame.name=Silverbell Painting Frame
+SakuraPaintingFrame.name=Sakura Painting Frame
+TigerPaintingFrame.name=Tiger Painting Frame
+WillowPaintingFrame.name=Willow Painting Frame
+////
+
 BloodwoodFancyWorkbench.name=Bloodwood Fancy Workbench
 DarkwoodFancyWorkbench.name=Darkwood Fancy Workbench
 EucalyptusFancyWorkbench.name=Eucalyptus Fancy Workbench
