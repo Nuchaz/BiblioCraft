@@ -5,6 +5,49 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioWoodsEBXL=BiblioWoods: ExtrabiomesXL Edition
 
+// BiblioCraft additions
+AcaciaClock.name=Acacia Clock
+AutumnClock.name=Autumn Clock
+BaldCypressClock.name=Bald Cypress Clock
+CypressClock.name=Cypress Clock
+FirClock.name=Fir Clock
+JapaneseMapleClock.name=Japanese Maple Clock
+RainbowEucalyptusClock.name=Rainbow Eucalyptus Clock
+ebxlRedwoodClock.name=Redwood Clock
+SakuraClock.name=Sakura Clock
+
+AcaciaPaintingFrame.name=Acacia Painting Frame
+AutumnPaintingFrame.name=Autumn Painting Frame
+BaldCypressPaintingFrame.name=Bald Cypress Painting Frame
+CypressPaintingFrame.name=Cypress Painting Frame
+FirPaintingFrame.name=Fir Painting Frame
+JapaneseMaplePaintingFrame.name=Japanese Maple Painting Frame
+RainbowEucalyptusPaintingFrame.name=Rainbow Eucalyptus Painting Frame
+ebxlRedwoodPaintingFrame.name=Redwood Painting Frame
+SakuraPaintingFrame.name=Sakura Painting Frame
+
+AcaciaFancyWorkbench.name=Acacia Fancy Workbench
+AutumnFancyWorkbench.name=Autumn Fancy Workbench
+BaldCypressFancyWorkbench.name=Bald Cypress Fancy Workbench
+CypressFancyWorkbench.name=Cypress Fancy Workbench
+FirFancyWorkbench.name=Fir Fancy Workbench
+JapaneseMapleFancyWorkbench.name=Japanese Maple Fancy Workbench
+RainbowEucalyptusFancyWorkbench.name=Rainbow Eucalyptus Fancy Workbench
+ebxlRedwoodFancyWorkbench.name=Redwood Fancy Workbench
+SakuraFancyWorkbench.name=Sakura Fancy Workbench
+
+AcaciaFancySign.name=Acacia Fancy Sign
+AutumnFancySign.name=Autumn Fancy Sign
+BaldCypressFancySign.name=Bald Cypress Fancy Sign
+CypressFancySign.name=Cypress Fancy Sign
+FirFancySign.name=Fir Fancy Sign
+JapaneseMapleFancySign.name=Japanese Maple Fancy Sign
+RainbowEucalyptusFancySign.name=Rainbow Eucalyptus Fancy Sign
+ebxlRedwoodFancySign.name=Redwood Fancy Sign
+SakuraFancySign.name=Sakura Fancy Sign
+//
+
+
 // 1.5 additions
 AcaciaMapFrame.name=Acacia Map Frame
 AutumnMapFrame.name=Autumn Map Frame
