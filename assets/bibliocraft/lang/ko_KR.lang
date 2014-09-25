@@ -6,6 +6,72 @@ language.code=ko_KR
 itemGroup.BiblioCraft=비블리오 크래프트
 itemGroup.BiblioCraftLights=비블리오 크래프트 조명
 
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=Chime Sound
+gui.clock.ticksound=틱 소리
+gui.clock.redstone=레드스톤
+gui.clock.chime=Chime
+gui.clock.presets=Presets
+
+screwgun.selected.painting1=첫 번째 그림이 선택됨
+screwgun.selected.painting2=두 번째 그림이 선택됨
+screwgun.selected.clock1=첫 번째 시계가 선택됨
+screwgun.selected.clock2=두 번째 시계가 선택됨
+drill.failed=연결 실패
+
+item.PaintingCanvas.name=캔버스
+tile.BiblioPaintPress.name=페인팅 프린터
+
+gui.paintpress.transfer=보내기
+gui.paintpress.vanilla=바닐라
+gui.paintpress.custom=사용자 지정
+
+gui.painting.scale=크기
+gui.painting.resolution=Resolution
+gui.painting.aspectRatio=Aspect Ratio
+gui.painting.size=그림의 크기
+gui.painting.rotation=각도
+gui.painting.corner=코너
+
+OakPaintingFrame.name=참나무 액자
+SprucePaintingFrame.name=가문비 나무 액자
+BirchPaintingFrame.name=자작나무 액자
+JunglePaintingFrame.name=정글나무 액자
+AcaciaPaintingFrame.name=아카시아 나무 액자
+OldOakPaintingFrame.name=짙은 참나무 액자
+
+paintingFrame.0tier=Borderless
+paintingFrame.1tier=1티어
+paintingFrame.2tier=2티어
+paintingFrame.3tier=3티어
+paintingFrame.4tier=4티어
+
+OakClock.name=참나무 시계
+SpruceClock.name=가문비 나무 시계
+BirchClock.name=자작나무 시계
+JungleClock.name=정글나무 시계
+AcaciaClock.name=아카시아 나무 시계
+OldOakClock.name=짙은 참나무 시계
+
+WhiteTypewriter.name=하얀색 타자기
+LightGrayTypewriter.name=밝은 회색 타자기
+GrayTypewriter.name=회색 타자기
+BlackTypewriter.name=검정색 타자기
+RedTypewriter.name=빨간색 타자기
+OrangeTypewriter.name=주황색 타자기
+YellowTypewriter.name=노랑색 타자기
+LimeTypewriter.name=연두색 타자기
+GreenTypewriter.name=초록색 타자기
+CyanTypewriter.name=남색 타자기
+LightBlueTypewriter.name=옅은 하늘색 타자기
+BlueTypewriter.name=파랑색 타자기
+PurpleTypewriter.name=보라색 타자기
+MagentaTypewriter.name=마젠타 색 타자기
+PinkTypewriter.name=핑크색 타자기
+BrownTypewriter.name=갈색 타자기
+
+// End of 1.8 additions and changes // 
+
 // All BiblioCraft 1.7 additions and changes///
 gui.recipe.areyousure=진행하시겠습니까?
 gui.recipe.finalize='예'를 누르면 더 이상 편집할 수 없습니다.
