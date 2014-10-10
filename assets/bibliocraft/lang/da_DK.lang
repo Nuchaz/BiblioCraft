@@ -11,7 +11,7 @@ gui.recipe.areyousure=Er du sikker?
 gui.recipe.finalize=Hvis du trykker ja vil denne bog ikke længere kunne ændres.
 gui.recipe.description=Tilføj en beskrivelse.
 
-swordpedestal.name=Sværd-sokkel
+swordpedestal.name=Sværdsokkel
 swordpedestal.white=Hvid Udsmykning
 swordpedestal.orange=Orange Udsmykning
 swordpedestal.magenta=Magenta Udsmykning
@@ -60,7 +60,7 @@ book.save=Gem
 book.sign=Signér
 book.entertitle=Indtast Titel:
 book.by=af
-book.signnotice=Vigtigt Note! Når du signerer bogen kan du ikke længere ændre den. Dette inkluderer ændring af tekst, formatering sam tilføgelse af nye sider og kapitler.
+book.signnotice=Vigtig Note! Når du signerer bogen kan du ikke længere ændre den. Dette inkluderer ændring af tekst, formatering samt tilføgelse af nye sider og kapitler.
 book.textscale=Tekststørrelse
 book.lineselected=Valgte Linje
 book.cancel=Anuller
@@ -100,9 +100,9 @@ gui.sign.lightpurple=Lyslilla
 gui.sign.yellow=Gul
 gui.sign.white=Hvid
 
-gui.sign.tooltip1=Klik på en boks eller tryk Tab for at vælge et ændringspanel. Tab vil rotere gennem panelerne.
+gui.sign.tooltip1=Klik på en boks eller tryk Tab(↹) for at vælge et ændringspanel. Tab vil rotere gennem panelerne.
 gui.sign.tooltip2=Klik på boksen ovenover for at vælge plads 1's ændringspanel. Du kan ændre størrelse, placering og rotation.
-gui.sign.tooltip3=Klik på boksen ovenover for at vælge tekstændringsmulighederne. Du kan ændre størrelse og tilføje Vanilla-agtig formatering.
+gui.sign.tooltip3=Klik på boksen ovenover for at vælge tekstændringsmulighederne. Du kan ændre størrelse og tilføje "Vanilla"-agtig formatering.
 gui.sign.tooltip4=Klik på boksen ovenover for at vælge plads 2's ændringspanel. Du kan ændre størrelse, placering og rotation.
 gui.sign.tooltip5=Juster blokstørrelsen.
 gui.sign.tooltip6=Juster blokkens rotation. Blokke kan vende mod vende mod venstre, højre eller midten. Ting kan kun vende mod højre eller venstre.
@@ -124,7 +124,7 @@ gui.sign.linenum=Linje#
 // All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Bogtitel:
 gui.redbook.description.p1=Rødstensbogen anvendes i forbindelse med bogreolen til at udsende et rødstens-signal. Når den placeres i en bogreol vil et rødstenssignal blive udsendt fra alle sider undtagen forsiden. Signalets styrke afhænger af hvor i bogreolen bogen er placeret.
-gui.redbook.description.p2=Bogreolen har 16 pladser. Plads 1 er øverst til venstre og plads 16 er nederst til højre. Hvis rødstensbogen placeres på plads 1 udsender reolen inten rødstens signal. Hvis bogen placeres på plads 2 vil reolen udsende et signal med styrken 1. Derefter bliver styrken forøget med en for hver plads, hele vejen op til plads 16 der udsender et signal med den fulde styrke på 15.
+gui.redbook.description.p2=Bogreolen har 16 pladser. Plads 1 er øverst til venstre og plads 16 er nederst til højre. Hvis rødstensbogen placeres på plads 1 udsender reolen intet rødstens-signal. Hvis bogen placeres på plads 2 vil reolen udsende et signal med styrken 1. Derefter bliver styrken forøget med en for hver plads, hele vejen op til plads 16 der udsender et signal med den fulde styrke på 15.
 
 
 

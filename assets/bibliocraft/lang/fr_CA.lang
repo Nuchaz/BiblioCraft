@@ -1,13 +1,78 @@
 language.name=French
-language.region=CA
+language.region=Ca
 language.code=fr_CA
 
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Éclairage
 
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=Carillon
+gui.clock.ticksound=Bruit de tick
+gui.clock.redstone=Redstone
+gui.clock.chime=Carillon
+gui.clock.presets=Paramètre préféfinis
+
+screwgun.selected.painting1=Première peinture sélectionnée 
+screwgun.selected.painting2=Seconde peinture sélectionnée
+screwgun.selected.clock1=Première horloge sélectionnée
+screwgun.selected.clock2=Seconde horloge sélectionnée
+drill.failed=Connection échouée
+
+item.PaintingCanvas.name=Toile
+tile.BiblioPaintPress.name=Presse à peinture
+
+gui.paintpress.transfer=Transfert
+gui.paintpress.vanilla=Vanilla
+gui.paintpress.custom=Personalisé
+
+gui.painting.scale=Échelle
+gui.painting.resolution=Résolution
+gui.painting.aspectRatio=Proportions
+gui.painting.size=Taille de la peinture
+gui.painting.rotation=Rotation
+gui.painting.corner=Coin principal
+
+OakPaintingFrame.name=Cadre en chêne
+SprucePaintingFrame.name=Cadre en pin
+BirchPaintingFrame.name=Cadre en bouleau
+JunglePaintingFrame.name=Cadre en acajou
+AcaciaPaintingFrame.name=Cadre en acacia
+OldOakPaintingFrame.name=Cadre en chêne foncé
+
+paintingFrame.0tier=Sans bord
+paintingFrame.1tier=Single Tier
+paintingFrame.2tier=Double Tier
+paintingFrame.3tier=Triple Tier
+paintingFrame.4tier=Quadruple Tier
+
+OakClock.name=Horloge en chêne
+SpruceClock.name=Horloge en pin
+BirchClock.name=Horloge en bouleau
+JungleClock.name=Horloge en acajou
+AcaciaClock.name=Horloge en acacia
+OldOakClock.name=Horloge en chêne foncé
+
+WhiteTypewriter.name=Machine à écrire blanche
+LightGrayTypewriter.name=Machine à écrire gris clair
+GrayTypewriter.name=Machine à écrire grise
+BlackTypewriter.name=Machine à écrire noire
+RedTypewriter.name=Machine à écrire rouge
+OrangeTypewriter.name=Machine à écrire orange
+YellowTypewriter.name=Machine à écrire jaune
+LimeTypewriter.name=Machine à écrire vert clair
+GreenTypewriter.name=Machine à écrire verte
+CyanTypewriter.name=Machine à écrire cyan
+LightBlueTypewriter.name=Machine à écrire bleu clair
+BlueTypewriter.name=Machine à écrire bleue
+PurpleTypewriter.name=Machine à écrire violette
+MagentaTypewriter.name=Machine à écrire magenta
+PinkTypewriter.name=Machine à écrire rose
+BrownTypewriter.name=Machine à écrire marron
+// End of 1.8 additions and changes // 
+
 // All BiblioCraft 1.7 additions and changes///
-gui.recipe.areyousure=Êtes vpis certain ?
+gui.recipe.areyousure=Êtes vous certain ?
 gui.recipe.finalize=Cliquer sur oui empêchera toute édition du livre.
 gui.recipe.description=Ajouter une descrition.
 
@@ -166,7 +231,7 @@ gui.typesetting.nextPage=Page suivante
 gui.typesetting.prevPage=Page précédente
 gui.typesetting.exit=Sortir
 gui.typesetting.enableDiscard=Annuler
-// End of 1.6 additions ////////////////////////////
+
 
 
 
