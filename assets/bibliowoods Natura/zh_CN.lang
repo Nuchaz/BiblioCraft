@@ -5,6 +5,36 @@ language.code=zh_CN
 // Tab Names
 itemGroup.BiblioWoodsNatura=收藏馆:Natura版
 
+// BiblioCraft v1.8.x additions
+BloodwoodClock.name=血树时钟
+DarkwoodClock.name=黑暗树时钟
+EucalyptusClock.name=桉树时钟
+FusewoodClock.name=熔融树时钟
+GhostwoodClock.name=幽魂树时钟
+HopseedClock.name=车桑子树时钟
+MapleClock.name=枫树时钟
+PurpleheartClock.name=紫檀树时钟
+RedwoodClock.name=红木时钟
+SilverbellClock.name=银铃树时钟
+SakuraClock.name=樱花树时钟
+TigerClock.name=核桃树时钟
+WillowClock.name=柳树时钟
+
+BloodwoodPaintingFrame.name=血树画框
+DarkwoodPaintingFrame.name=黑暗树画框
+EucalyptusPaintingFrame.name=桉树画框
+FusewoodPaintingFrame.name=熔融树画框
+GhostwoodPaintingFrame.name=幽魂树画框
+HopseedPaintingFrame.name=车桑子树画框
+MaplePaintingFrame.name=枫树画框
+PurpleheartPaintingFrame.name=紫檀树画框
+RedwoodPaintingFrame.name=红木画框
+SilverbellPaintingFrame.name=银铃树画框
+SakuraPaintingFrame.name=樱花树画框
+TigerPaintingFrame.name=核桃树画框
+WillowPaintingFrame.name=柳树画框
+////
+
 BloodwoodFancyWorkbench.name=血树精致工作台
 DarkwoodFancyWorkbench.name=黑暗树精致工作台
 EucalyptusFancyWorkbench.name=桉树精致工作台
