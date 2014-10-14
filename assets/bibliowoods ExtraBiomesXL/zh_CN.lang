@@ -5,6 +5,28 @@ language.code=zh_CN
 // Tab Names
 itemGroup.BiblioWoodsEBXL=展示架|更多生物群系
 
+// 1.8 additions
+AcaciaClock.name=金合欢木时钟
+AutumnClock.name=秋树时钟
+BaldCypressClock.name=柏树时钟
+CypressClock.name=落羽松时钟
+FirClock.name=冷杉时钟
+JapaneseMapleClock.name=日本枫树时钟
+RainbowEucalyptusClock.name=彩虹桉树时钟
+ebxlRedwoodClock.name=红木时钟
+SakuraClock.name=樱花树时钟
+
+AcaciaPaintingFrame.name=金合欢木画框
+AutumnPaintingFrame.name=秋树画框
+BaldCypressPaintingFrame.name=柏树画框
+CypressPaintingFrame.name=落羽松画框
+FirPaintingFrame.name=冷杉画框
+JapaneseMaplePaintingFrame.name=日本枫树画框
+RainbowEucalyptusPaintingFrame.name=彩虹桉树画框
+ebxlRedwoodPaintingFrame.name=红木画框
+SakuraPaintingFrame.name=樱花树画框
+// end of 1.8 additions
+
 // 1.5 additions
 AcaciaMapFrame.name=金合欢木地图框架
 AutumnMapFrame.name=秋树地图框架
