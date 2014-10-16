@@ -3,69 +3,82 @@ language.region=KR
 language.code=ko_KR
 
 // Tab Names
-itemGroup.BiblioWoodsHighlands=비블리오우드 : 하이랜드 에디션
+itemGroup.BiblioWoodsHighlands=비블리오우드[BiblioWoods: Highlands Edition]
 
-GreyWoodFancyWorkbench.name=회색나무 작업대
-hlRedWoodFancyWorkbench.name=붉은색나무 작업대
-WhiteWoodFancyWorkbench.name=하얀색 나무 작업대
-YellowWoodFancyWorkbench.name=노란색나무 작업대
+// BiblioCraft v1.8.x additions
+GreyWoodClock.name=회색나무 시계
+hlRedWoodClock.name=붉은나무 시계
+WhiteWoodClock.name=하얀나무 시계
+YellowWoodClock.name=노란나무 시계
+
+GreyWoodPaintingFrame.name=회색나무 액자
+hlRedWoodPaintingFrame.name=붉은나무 액자
+WhiteWoodPaintingFrame.name=하얀나무 액자
+YellowWoodPaintingFrame.name=노란나무 액자
+//
+
+
+GreyWoodFancyWorkbench.name=회색나무 화려한 작업대
+hlRedWoodFancyWorkbench.name=붉은나무 화려한 작업대
+WhiteWoodFancyWorkbench.name=하얀나무 화려한 작업대
+YellowWoodFancyWorkbench.name=노란나무 화려한 작업대
 
 GreyWoodFancySign.name=회색나무 화려한 표지판
-hlRedWoodFancySign.name=붉은색나무 화려한 표지판
-WhiteWoodFancySign.name=하얀색 나무 화려한 표지판
-YellowWoodFancySign.name=노란색나무 화려한 표지판
+hlRedWoodFancySign.name=붉은나무 화려한 표지판
+WhiteWoodFancySign.name=하얀나무 화려한 표지판
+YellowWoodFancySign.name=노란나무 화려한 표지판
 
-GreyWoodMapFrame.name=회색나무 지도 걸개
-hlRedWoodMapFrame.name=붉은색나무 지도 걸개
-WhiteWoodMapFrame.name=하얀색 나무 지도 걸개
-YellowWoodMapFrame.name=노란색나무 지도 걸개
+GreyWoodMapFrame.name=회색나무 지도걸개
+hlRedWoodMapFrame.name=붉은나무 지도걸개
+WhiteWoodMapFrame.name=하얀나무 지도걸개
+YellowWoodMapFrame.name=노란나무 지도걸개
 
 GreyWoodSeat.name=회색나무 의자
-hlRedWoodSeat.name=붉은색나무 의자
-WhiteWoodSeat.name=하얀색 나무 의자
-YellowWoodSeat.name=노란색나무 의자
+hlRedWoodSeat.name=붉은나무 의자
+WhiteWoodSeat.name=하얀나무 의자
+YellowWoodSeat.name=노란나무 의자
 
 item.seatBack.GreyWoodSeatBack.name=회색나무 의자 등받이
-item.seatBack.hlRedWoodSeatBack.name=붉은색나무 의자 등받이
-item.seatBack.WhiteWoodSeatBack.name=하얀색 나무 의자 등받이
-item.seatBack.YellowWoodSeatBack.name=노란색나무 의자 등받이
+item.seatBack.hlRedWoodSeatBack.name=붉은나무 의자 등받이
+item.seatBack.WhiteWoodSeatBack.name=하얀나무 의자 등받이
+item.seatBack.YellowWoodSeatBack.name=노란나무 의자 등받이
 
 GreyWoodBookcase.name=회색나무 책장
-hlRedWoodBookcase.name=붉은색나무 책장
-WhiteWoodBookcase.name=하얀색 나무 책장
-YellowWoodBookcase.name=노란색나무 책장
+hlRedWoodBookcase.name=붉은나무 책장
+WhiteWoodBookcase.name=하얀나무 책장
+YellowWoodBookcase.name=노란나무 책장
 
 GreyWoodCase.name=회색나무 갑
-hlRedWoodCase.name=붉은색나무 갑
-WhiteWoodCase.name=하얀색 나무 갑
-YellowWoodCase.name=노란색나무 갑
+hlRedWoodCase.name=붉은나무 갑
+WhiteWoodCase.name=하얀나무 갑
+YellowWoodCase.name=노란나무 갑
 
 GreyWoodDesk.name=회색나무 책상
-hlRedWoodDesk.name=붉은색나무 책상
-WhiteWoodDesk.name=하얀색 나무 책상
-YellowWoodDesk.name=노란색나무 책상
+hlRedWoodDesk.name=붉은나무 책상
+WhiteWoodDesk.name=하얀나무 책상
+YellowWoodDesk.name=노란나무 책상
 
 GreyWoodLabel.name=회색나무 라벨
-hlRedWoodLabel.name=붉은색나무 라벨
-WhiteWoodLabel.name=하얀색 나무 라벨
-YellowWoodLabel.name=노란색나무 라벨
+hlRedWoodLabel.name=붉은나무 라벨
+WhiteWoodLabel.name=하얀나무 라벨
+YellowWoodLabel.name=노란나무 라벨
 
-GreyWoodPotionShelf.name=회색나무 포션 선반
-hlRedWoodPotionShelf.name=붉은색나무 포션 선반
-WhiteWoodPotionShelf.name=하얀색 나무 포션 선반
-YellowWoodPotionShelf.name=노란색나무 포션 선반
+GreyWoodPotionShelf.name=회색나무 포션선반
+hlRedWoodPotionShelf.name=붉은나무 포션선반
+WhiteWoodPotionShelf.name=하얀나무 포션선반
+YellowWoodPotionShelf.name=노란나무 포션선반
 
 GreyWoodShelf.name=회색나무 선반
-hlRedWoodShelf.name=붉은색나무 선반
-WhiteWoodShelf.name=하얀색 나무 선반
-YellowWoodShelf.name=노란색나무 선반
+hlRedWoodShelf.name=붉은나무 선반
+WhiteWoodShelf.name=하얀나무 선반
+YellowWoodShelf.name=노란나무 선반
 
 GreyWoodTable.name=회색나무 탁자
-hlRedWoodTable.name=붉은색나무 탁자
-WhiteWoodTable.name=하얀색 나무 탁자
-YellowWoodTable.name=노란색나무 탁자
+hlRedWoodTable.name=붉은나무 탁자
+WhiteWoodTable.name=하얀나무 탁자
+YellowWoodTable.name=노란나무 탁자
 
 GreyWoodToolRack.name=회색나무 도구 거치대
-hlRedWoodToolRack.name=붉은색나무 도구 거치대
-WhiteWoodToolRack.name=하얀색 나무 도구 거치대
-YellowWoodToolRack.name=노란색나무 도구 거치대
+hlRedWoodToolRack.name=붉은나무 도구 거치대
+WhiteWoodToolRack.name=하얀나무 도구 거치대
+YellowWoodToolRack.name=노란나무 도구 거치대

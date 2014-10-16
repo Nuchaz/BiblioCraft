@@ -3,18 +3,60 @@ language.region=KR
 language.code=ko_KR
 
 // Tab Names
-itemGroup.BiblioWoodsEBXL=비블리오우드: 엑스트라바이옴XL 에디션
+itemGroup.BiblioWoodsEBXL=비블리오우드[BiblioWoods: ExtrabiomesXL Edition]
+
+// BiblioCraft additions
+AcaciaClock.name=아카시아 시계
+AutumnClock.name=단풍나무 시계
+BaldCypressClock.name=낙엽송 사이프러스 시계
+CypressClock.name=사이프러스 시계
+FirClock.name=Fir 시계
+JapaneseMapleClock.name=일본단풍 시계
+RainbowEucalyptusClock.name=무지개 유칼립투스 시계
+ebxlRedwoodClock.name=삼나무 시계
+SakuraClock.name=벛꽃나무 시계
+
+AcaciaPaintingFrame.name=아카시아 액자
+AutumnPaintingFrame.name=단풍나무 액자
+BaldCypressPaintingFrame.name=낙엽송 사이프러스 액자
+CypressPaintingFrame.name=사이프러스 액자
+FirPaintingFrame.name=Fir 액자
+JapaneseMaplePaintingFrame.name=일본단풍 액자
+RainbowEucalyptusPaintingFrame.name=무지개 유칼립투스 액자
+ebxlRedwoodPaintingFrame.name=삼나무 액자
+SakuraPaintingFrame.name=벛꽃나무 액자
+
+AcaciaFancyWorkbench.name=아카시아 화려한 조합대
+AutumnFancyWorkbench.name=단풍나무 화려한 조합대
+BaldCypressFancyWorkbench.name=낙엽송 사이프러스 화려한 조합대
+CypressFancyWorkbench.name=사이프러스 화려한 조합대
+FirFancyWorkbench.name=Fir 화려한 조합대
+JapaneseMapleFancyWorkbench.name=일본단풍 화려한 조합대
+RainbowEucalyptusFancyWorkbench.name=무지개 유칼립투스 화려한 조합대
+ebxlRedwoodFancyWorkbench.name=삼나무 화려한 조합대
+SakuraFancyWorkbench.name=벛꽃나무 화려한 조합대
+
+AcaciaFancySign.name=아카시아 화려한 표지판
+AutumnFancySign.name=단풍나무 화려한 표지판
+BaldCypressFancySign.name=낙엽송 화려한 표지판
+CypressFancySign.name=사이프러스 화려한 표지판
+FirFancySign.name=Fir 화려한 표지판
+JapaneseMapleFancySign.name=일본단풍 화려한 표지판
+RainbowEucalyptusFancySign.name=무지개 유칼립투스 화려한 표지판
+ebxlRedwoodFancySign.name=삼나무 화려한 표지판
+SakuraFancySign.name=벛꽃나무 화려한 표지판
+//
 
 // 1.5 additions
-AcaciaMapFrame.name=아카시아 지도 걸개
-AutumnMapFrame.name=단풍나무 지도 걸개
-BaldCypressMapFrame.name=낙엽송 지도 걸개
-CypressMapFrame.name=사이프러스 지도 걸개
-FirMapFrame.name=전나무 지도 걸개
-JapaneseMapleMapFrame.name=일본단풍 지도 걸개
-RainbowEucalyptusMapFrame.name=무지개 유칼립투스 지도 걸개
-ebxlRedwoodMapFrame.name=삼나무 지도 걸개
-SakuraMapFrame.name=벛꽃나무 지도 걸개
+AcaciaMapFrame.name=아카시아 지도걸개
+AutumnMapFrame.name=단풍나무 지도걸개
+BaldCypressMapFrame.name=낙엽송 지도걸개
+CypressMapFrame.name=사이프러스 지도걸개
+FirMapFrame.name=전나무 지도걸개
+JapaneseMapleMapFrame.name=일본단풍 지도걸개
+RainbowEucalyptusMapFrame.name=무지개 유칼립투스 지도걸개
+ebxlRedwoodMapFrame.name=삼나무 지도걸개
+SakuraMapFrame.name=벛꽃나무 지도걸개
 AcaciaSeat.name=아카시아 의자
 AutumnSeat.name=단풍나무 의자
 BaldCypressSeat.name=낙엽송 의자
@@ -63,15 +105,15 @@ JapaneseMapleLabel.name=일본단풍 라벨
 RainbowEucalyptusLabel.name=무지개 유칼립투스 라벨
 ebxlRedwoodLabel.name=삼나무 라벨
 SakuraLabel.name=벛꽃나무 라벨
-AcaciaPotionShelf.name=아카시아 포션 선반
-AutumnPotionShelf.name=단풍나무 포션 선반
-BaldCypressPotionShelf.name=낙엽송 포션 선반
-CypressPotionShelf.name=사이프러스 포션 선반
-FirPotionShelf.name=전나무 포션 선반
-JapaneseMaplePotionShelf.name=일본단풍 포션 선반
-RainbowEucalyptusPotionShelf.name=무지개 유칼립투스 포션 선반
-ebxlRedwoodPotionShelf.name=삼나무 포션 선반
-SakuraPotionShelf.name=벛꽃나무 포션 선반
+AcaciaPotionShelf.name=아카시아 포션선반
+AutumnPotionShelf.name=단풍나무 포션선반
+BaldCypressPotionShelf.name=낙엽송 포션선반
+CypressPotionShelf.name=사이프러스 포션선반
+FirPotionShelf.name=전나무 포션선반
+JapaneseMaplePotionShelf.name=일본단풍 포션선반
+RainbowEucalyptusPotionShelf.name=무지개 유칼립투스 포션선반
+ebxlRedwoodPotionShelf.name=삼나무 포션선반
+SakuraPotionShelf.name=벛꽃나무 포션선반
 AcaciaShelf.name=아카시아 선반
 AutumnShelf.name=단풍나무 선반
 BaldCypressShelf.name=낙엽송 선반
