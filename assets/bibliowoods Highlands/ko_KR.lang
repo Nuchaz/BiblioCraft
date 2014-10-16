@@ -63,10 +63,10 @@ hlRedWoodLabel.name=붉은나무 라벨
 WhiteWoodLabel.name=하얀나무 라벨
 YellowWoodLabel.name=노란나무 라벨
 
-GreyWoodPotionShelf.name=회색나무 포션 선반
-hlRedWoodPotionShelf.name=붉은나무 포션 선반
-WhiteWoodPotionShelf.name=하얀나무 포션 선반
-YellowWoodPotionShelf.name=노란나무 포션 선반
+GreyWoodPotionShelf.name=회색나무 포션선반
+hlRedWoodPotionShelf.name=붉은나무 포션선반
+WhiteWoodPotionShelf.name=하얀나무 포션선반
+YellowWoodPotionShelf.name=노란나무 포션선반
 
 GreyWoodShelf.name=회색나무 선반
 hlRedWoodShelf.name=붉은나무 선반
