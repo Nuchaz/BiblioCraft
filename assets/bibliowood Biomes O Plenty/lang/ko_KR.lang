@@ -3,10 +3,42 @@ language.region=KR
 language.code=ko_KR
 
 // Tab Names
-itemGroup.BiblioWoodsBoP=비블리오 우드: 바이옴즈 오 플랜티 에디션
+itemGroup.BiblioWoodsBoP=비블리오 우드[BiblioWoods: Biomes O'Plenty Edition]
+
+// 1.8.0 additions
+SacredOakClock.name=성스러운 참나무 시계
+CherryClock.name=벛꽃나무 시계
+DarkClock.name=검은색 시계
+FirClock.name=전나무 시계
+HellBarkClock.name=헬바크 시계
+HolyClock.name=홀리 시계
+JacarandaClock.name=자카란다 시계
+MagicClock.name=마법의나무 시계
+MangroveClock.name=맹그로브 시계
+PalmClock.name=야자나무 시계
+PineClock.name=소나무 시계
+RedwoodClock.name=삼나무 시계
+WillowClock.name=버드나무 시계
+MahoganyClock.name=마호가니 시계
+
+SacredOakPaintingFrame.name=성스러운 참나무 액자
+CherryPaintingFrame.name=벛꽃나무 액자
+DarkPaintingFrame.name=검은색 액자
+FirPaintingFrame.name=전나무 액자
+HellBarkPaintingFrame.name=헬바크 액자
+HolyPaintingFrame.name=홀리 액자
+JacarandaPaintingFrame.name=자카란다 액자
+MagicPaintingFrame.name=마법의나무 액자
+MangrovePaintingFrame.name=맹그로브 액자
+PalmPaintingFrame.name=야자나무 액자
+PinePaintingFrame.name=소나무 액자
+RedwoodPaintingFrame.name=삼나무 액자
+WillowPaintingFrame.name=버드나무 액자
+MahoganyPaintingFrame.name=마호가니 액자
+//
 
 SacredOakFancySign.name=성스러운 참나무 화려한 간판
-CherryFancySign.name=벛꽃 화려한 간판
+CherryFancySign.name=벛꽃나무 화려한 간판
 DarkFancySign.name=검은색 화려한 간판
 FirFancySign.name=전나무 화려한 간판
 HellBarkFancySign.name=헬바크 화려한 간판
@@ -14,14 +46,14 @@ HolyFancySign.name=홀리 화려한 간판
 JacarandaFancySign.name=자카란다 화려한 간판
 MagicFancySign.name=마법의나무 화려한 간판
 MangroveFancySign.name=맹그로브 화려한 간판
-PalmFancySign.name=야자 화려한 간판
+PalmFancySign.name=야자나무 화려한 간판
 PineFancySign.name=소나무 화려한 간판
 RedwoodFancySign.name=삼나무 화려한 간판
 WillowFancySign.name=버드나무 화려한 간판
 MahoganyFancySign.name=마호가니 화려한 간판
 
 SacredOakFancyWorkbench.name=성스러운 참나무 작업대
-CherryFancyWorkbench.name=벛꽃 작업대
+CherryFancyWorkbench.name=벛꽃나무 작업대
 DarkFancyWorkbench.name=검은색 작업대
 FirFancyWorkbench.name=전나무 작업대
 HellBarkFancyWorkbench.name=헬바크 작업대
@@ -29,7 +61,7 @@ HolyFancyWorkbench.name=홀리 작업대
 JacarandaFancyWorkbench.name=자카란다 작업대
 MagicFancyWorkbench.name=마법의나무 작업대
 MangroveFancyWorkbench.name=맹그로브 작업대
-PalmFancyWorkbench.name=야자 작업대
+PalmFancyWorkbench.name=야자나무 작업대
 PineFancyWorkbench.name=소나무 작업대
 RedwoodFancyWorkbench.name=삼나무 작업대
 WillowFancyWorkbench.name=버드나무 작업대
