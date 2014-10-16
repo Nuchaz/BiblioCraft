@@ -6,9 +6,77 @@ language.region=CZ
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=Osvětlení BiblioCraftu
 
+
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=Zvuk zvonění
+gui.clock.ticksound=Zvuk tikotu
+gui.clock.redstone=Ruditové
+gui.clock.chime=Zvonící
+gui.clock.presets=předvolby
+
+screwgun.selected.painting1=Vybrán první obraz
+screwgun.selected.painting2=Vybrán druhý obraz
+screwgun.selected.clock1=Vybrány první hodiny
+screwgun.selected.clock2=Vybrány druhé hodiny
+drill.failed=Připojení selhalo
+
+item.PaintingCanvas.name=Obrazové plátno
+tile.BiblioPaintPress.name=Tiskárna obrazů
+
+gui.paintpress.transfer=Přenos
+gui.paintpress.vanilla=Vanilla
+gui.paintpress.custom=Volitelné
+
+gui.painting.scale=Velikost
+gui.painting.resolution=Rozlišení
+gui.painting.aspectRatio=Poměr stran
+gui.painting.size=Velikost obrazu
+gui.painting.rotation=Rotace
+gui.painting.corner=Mistrovský roh
+
+OakPaintingFrame.name=Dubový obrazový rám
+SprucePaintingFrame.name=Smrkový obrazový rám
+BirchPaintingFrame.name=Břízový obrazový rám
+JunglePaintingFrame.name=Sekvojový obrazový rám
+AcaciaPaintingFrame.name=Akáciový obrazový rám
+OldOakPaintingFrame.name=Tmavodubový obrazový rám
+
+paintingFrame.0tier=Neohraničené
+paintingFrame.1tier=Jednotný stupeň
+paintingFrame.2tier=Dvojitý stupeň
+paintingFrame.3tier=Trojitý stupeň
+paintingFrame.4tier=Čtveřitý stupeň
+
+OakClock.name=Dubové hodiny
+SpruceClock.name=Smrkové hodiny
+BirchClock.name=Břízové hodiny
+JungleClock.name=Sekvojové hodiny
+AcaciaClock.name=Akáciové hodiny
+OldOakClock.name=Tmavodubové hodiny
+
+WhiteTypewriter.name=Bílý psací stroj
+LightGrayTypewriter.name=Světlešedý psací stroj
+GrayTypewriter.name=Šedý psací stroj
+BlackTypewriter.name=Černý psací stroj
+RedTypewriter.name=Červený psací stroj
+OrangeTypewriter.name=Oranžový psací stroj
+YellowTypewriter.name=Žlutý psací stroj
+LimeTypewriter.name=Světlezelený psací stroj
+GreenTypewriter.name=Zelený psací stroj
+CyanTypewriter.name=Azurový psací stroj
+LightBlueTypewriter.name=Světlemodrý psací stroj
+BlueTypewriter.name=Modrý psací stroj
+PurpleTypewriter.name=Fialový psací stroj
+MagentaTypewriter.name=Purpurový psací stroj
+PinkTypewriter.name=Růžový psací stroj
+BrownTypewriter.name=Hnědý psací stroj
+
+// End of 1.8 additions and changes // 
+
+
 // All BiblioCraft 1.7 additions and changes///
 gui.recipe.areyousure=Jsi si jistý?
-gui.recipe.finalize=Kliknutím Ano se kniha permanentně uzamkne pro editaci
+gui.recipe.finalize=Kliknutím na Ano se kniha permanentně uzamkne pro editaci
 gui.recipe.description=Přidat popis
 
 swordpedestal.name=Podstavec na meče
@@ -58,7 +126,7 @@ book.obfuscated=O
 book.reset=Reset
 book.save=Uložit
 book.sign=Podepsat
-book.entertitle=Zadejte název knihy:
+book.entertitle=Zadej název knihy:
 book.by=od
 book.signnotice=Důležitá poznámka! Když podepíšeš knihu, už nebude možné ji dále upravovat. A to včetně textů formátů, kapitol a stránek.
 book.textscale=Velikost textu
@@ -75,7 +143,7 @@ book.saverecipe2=Prázdná kniha
 book.loadrecipe=Načíst součásti
 book.loadrecipe2=z inventáře.
 book.areyousure=Jsi si jistý?
-book.areyousure2=Kliknutím Ano se kniha permanentně uzamkne pro editaci
+book.areyousure2=Kliknutím na Ano se kniha permanentně uzamkne pro editaci
 book.setrecipename=Recept:
 gui.fancyworkbench=Užitkový pracovní stůl
 
@@ -100,15 +168,15 @@ gui.sign.lightpurple=Světle fialová
 gui.sign.yellow=Žlutá
 gui.sign.white=Bílá
 
-gui.sign.tooltip1=Klikni na pole, nebo stiskni TAB k vybrání editovaného panelu. Tab panely cykluje.
-gui.sign.tooltip2=Klikni pole výše k nastavení 1. panelu. Nastav velikost, pozici a rotaci.
-gui.sign.tooltip3=Klikni pole výše k nastavení textu. Nastav velikost a přidej základní formát.
-gui.sign.tooltip4=Klikni pole výše k nastavení 2. panelu. Nastav velikost, pozici a rotaci.
+gui.sign.tooltip1=Klikni na pole, nebo stiskni TAB k vybrání editovaného panelu. Tabulátor panely cykluje.
+gui.sign.tooltip2=Klikni na pole výše k nastavení 1. panelu. Nastav velikost, pozici a rotaci.
+gui.sign.tooltip3=Klikni na pole výše k nastavení textu. Nastav velikost a přidej základní formát.
+gui.sign.tooltip4=Klikni na pole výše k nastavení 2. panelu. Nastav velikost, pozici a rotaci.
 gui.sign.tooltip5=Uprav velikost bloku
-gui.sign.tooltip6=Uprav rotaci bloku. Blok může být nastaven doleva, středu nebo doprava. Předměty pouze doprava nebo doleva.
+gui.sign.tooltip6=Uprav rotaci bloku. Blok může být nastaven doleva, střed nebo doprava. Předměty pouze doprava nebo doleva.
 gui.sign.tooltip7=Uprav pozici bloku. Pozice může být také upravena použitím šipek klávesnice (WASD).
 gui.sign.tooltip8=Zadej jedno z následujících čísel/znaků po formátování symbolu:
-gui.sign.tooltip9=Klikni tlačítko nebo stiskni kláveesu 'alt' k přidání symolu formátu na vybraný řádek.
+gui.sign.tooltip9=Klikni na tlačítko nebo stiskni kláveesu 'alt' k přidání symbolu formátu na vybraný řádek.
 
 gui.sign.bold=Tučný
 gui.sign.strikethrough=Přeškrtlý
@@ -123,8 +191,8 @@ gui.sign.linenum=Řádek#
 
 // All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Název knihy:
-gui.redbook.description.p1=Ruditová kniha je používána v kombinaci s knihovnou k emitování signálu. Když je položena do knihovny emituje signál ze všech stran kromě přední. Síla signálu je určena podle slotu, do kterého je kniha vložena
-gui.redbook.description.p2=Knihovna má 16 slotů, slot 1 začíná nahoře vlevo,  a slot 16 vpravo dole. Pokud je ruditová kniha ve slotu 1, knihovna neemituje signál. Pokud je vložena do slotu 2, knihovna emituje signál o síle 1. Každý další slot zvyšuje sílu o 1, slot 16 emituje signál o síle 15.
+gui.redbook.description.p1=Ruditová kniha je používána v kombinaci s knihovnou k vysílání signálu. Když je položena do knihovny vysílá signál ze všech stran kromě přední. Síla signálu je určena podle slotu, do kterého je kniha vložena
+gui.redbook.description.p2=Knihovna má 16 slotů, slot 1 začíná vlevo nahoře a slot 16 vpravo dole. Pokud je ruditová kniha ve slotu 1, knihovna nevysílá signál. Pokud je vložena do slotu 2, knihovna vysílá signál o síle 1. Každý další slot zvyšuje sílu o 1, slot 16 vysílá signál o síle 15.
 
 
 
@@ -137,7 +205,7 @@ OldOakPotionShelf.name=Tmavodubová police na lektvary
 AcaciaShelf.name=Akáciová police
 OldOakShelf.name=Tmavodubová police
 AcaciaWeaponRack.name=Akáciový držák nástrojů
-OldOakWeaponRack.name=Tmavodubový drřák nástrojů
+OldOakWeaponRack.name=Tmavodubový držák nástrojů
 AcaciaLabel.name=Akáciový štítek
 OldOakLabel.name=Tmavodubový štítek
 AcaciaTable.name=Akáciový stůl
@@ -171,7 +239,7 @@ gui.typesetting.enableDiscard=Zrušit
 
 
 // Gui stuff
-gui.armorstand=Stroja na zbroj
+gui.armorstand=Stojan na zbroj
 gui.bookcase=Knihovna
 gui.cookiejar=Sklenice sušenek
 gui.shelf=Dřevěná police
@@ -183,7 +251,7 @@ gui.toolrack=Držák nástrojů
 gui.desk=Stolek
 gui.mapWaypoint.accept=Přijmout
 gui.mapWaypoint.remove=Smazat
-gui.mapWaypoint.cancel=Zruš
+gui.mapWaypoint.cancel=Zrušit
 gui.mapWaypoint.waypoint=Cestovní bod
 gui.compass.x=X:
 gui.compass.z=Z:
@@ -195,7 +263,7 @@ enchant.reading=Čtení
 redbook.by=od
 plate.notValid=Neplatný
 typesetting.requires=Vyžaduje
-typesetting.levels=Levely
+typesetting.levels=Úrovně
 typesetting.chase=Postup
 typesetting.bookSelect=Vyber knihu
 print.ink=Inkoust
@@ -214,7 +282,7 @@ tape.mode0=Přepínám do režimu Sever/Jih, Východ/Západ, a Výška
 tape.mode1=Přepínám do režimu úplného měření.
 lock.creativeonly=Pouze kreativní mód
 lock.notowner=Nejsi majitel tohoto bloku
-lock.locked=Blok byl zamčen
+lock.locked=Blok byl uzamčen
 lock.unlocked=Blok byl odemčen
 
 // Blocks
@@ -251,7 +319,7 @@ OakTable.name=Dřevěný stůl
 SpruceTable.name=Smrkový stůl
 BirchTable.name=Břízový stůl
 JungleTable.name=Sekvojový stůl
-DiscRack.name=Řadič disků
+DiscRack.name=Držák disků
 DinnerPlate.name=Talíř
 OakMapFrame.name=Dubový rám na mapu
 SpruceMapFrame.name=Smrkový rám na mapu
