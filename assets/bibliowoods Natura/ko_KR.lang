@@ -3,21 +3,51 @@ language.region=KR
 language.code=ko_KR
 
 // Tab Names
-itemGroup.BiblioWoodsNatura=비블리오우드 : 나추라에디션
+itemGroup.BiblioWoodsNatura=비블리오우드[BiblioWoods: Natura Edition]
 
-BloodwoodFancyWorkbench.name=피 유칼립투스 작업대
-DarkwoodFancyWorkbench.name=암흑나무 작업대
-EucalyptusFancyWorkbench.name=유칼립투스 작업대
-FusewoodFancyWorkbench.name=퓨즈나무 작업대
-GhostwoodFancyWorkbench.name=유령나무 작업대
-HopseedFancyWorkbench.name=호프씨 작업대
-MapleFancyWorkbench.name=단풍나무 작업대
-PurpleheartFancyWorkbench.name=퍼플하트 작업대
-RedwoodFancyWorkbench.name=삼나무 작업대
-SilverbellFancyWorkbench.name=때죽나무 작업대
-SakuraFancyWorkbench.name=벛꽃나무 작업대
-TigerFancyWorkbench.name=호랑나무 작업대
-WillowFancyWorkbench.name=버드나무 작업대
+// BiblioCraft v1.8.x additions
+BloodwoodClock.name=피 유칼립투스 시계
+DarkwoodClock.name=암흑나무 시계
+EucalyptusClock.name=유칼립투스 시계
+FusewoodClock.name=퓨즈나무 시계
+GhostwoodClock.name=유령나무 시계
+HopseedClock.name=호프씨 시계
+MapleClock.name=단풍나무 시계
+PurpleheartClock.name=퍼플하트 시계
+RedwoodClock.name=삼나무 시계
+SilverbellClock.name=때죽나무 시계
+SakuraClock.name=벛꽃나무 시계
+TigerClock.name=호랑나무 시계
+WillowClock.name=버드나무 시계
+
+BloodwoodPaintingFrame.name=피 유칼립투스 액자
+DarkwoodPaintingFrame.name=암흑나무 액자
+EucalyptusPaintingFrame.name=유칼립투스 액자
+FusewoodPaintingFrame.name=퓨즈나무 액자
+GhostwoodPaintingFrame.name=유령나무 액자
+HopseedPaintingFrame.name=호프씨 액자
+MaplePaintingFrame.name=단풍나무 액자
+PurpleheartPaintingFrame.name=퍼플하트 액자
+RedwoodPaintingFrame.name=삼나무 액자
+SilverbellPaintingFrame.name=때죽나무 액자
+SakuraPaintingFrame.name=벛꽃나무 액자
+TigerPaintingFrame.name=호랑나무 액자
+WillowPaintingFrame.name=버드나무 액자
+////
+
+BloodwoodFancyWorkbench.name=피 유칼립투스 화려한 작업대
+DarkwoodFancyWorkbench.name=암흑나무 화려한 작업대
+EucalyptusFancyWorkbench.name=유칼립투스 화려한 작업대
+FusewoodFancyWorkbench.name=퓨즈나무 화려한 작업대
+GhostwoodFancyWorkbench.name=유령나무 화려한 작업대
+HopseedFancyWorkbench.name=호프씨 화려한 작업대
+MapleFancyWorkbench.name=단풍나무 화려한 작업대
+PurpleheartFancyWorkbench.name=퍼플하트 화려한 작업대
+RedwoodFancyWorkbench.name=삼나무 화려한 작업대
+SilverbellFancyWorkbench.name=때죽나무 화려한 작업대
+SakuraFancyWorkbench.name=벛꽃나무 화려한 작업대
+TigerFancyWorkbench.name=호랑나무 화려한 작업대
+WillowFancyWorkbench.name=버드나무 화려한 작업대
 
 BloodwoodFancySign.name=피 유칼립투스 화려한 표지판
 DarkwoodFancySign.name=암흑나무 화려한 표지판
@@ -33,19 +63,19 @@ SakuraFancySign.name=벛꽃나무 화려한 표지판
 TigerFancySign.name=호랑나무 화려한 표지판
 WillowFancySign.name=버드나무 화려한 표지판
 
-BloodwoodMapFrame.name=피 유칼립투스 지도 걸개
-DarkwoodMapFrame.name=암흑나무 지도 걸개
-EucalyptusMapFrame.name=유칼립투스 지도 걸개
-FusewoodMapFrame.name=퓨즈나무 지도 걸개
-GhostwoodMapFrame.name=유령나무 지도 걸개
-HopseedMapFrame.name=호프씨 지도 걸개
-MapleMapFrame.name=단풍나무 지도 걸개
-PurpleheartMapFrame.name=퍼플하트 지도 걸개
-RedwoodMapFrame.name=삼나무 지도 걸개
-SilverbellMapFrame.name=때죽나무 지도 걸개
-SakuraMapFrame.name=벛꽃나무 지도 걸개
-TigerMapFrame.name=호랑나무 지도 걸개
-WillowMapFrame.name=버드나무 지도 걸개
+BloodwoodMapFrame.name=피 유칼립투스 지도걸개
+DarkwoodMapFrame.name=암흑나무 지도걸개
+EucalyptusMapFrame.name=유칼립투스 지도걸개
+FusewoodMapFrame.name=퓨즈나무 지도걸개
+GhostwoodMapFrame.name=유령나무 지도걸개
+HopseedMapFrame.name=호프씨 지도걸개
+MapleMapFrame.name=단풍나무 지도걸개
+PurpleheartMapFrame.name=퍼플하트 지도걸개
+RedwoodMapFrame.name=삼나무 지도걸개
+SilverbellMapFrame.name=때죽나무 지도걸개
+SakuraMapFrame.name=벛꽃나무 지도걸개
+TigerMapFrame.name=호랑나무 지도걸개
+WillowMapFrame.name=버드나무 지도걸개
 
 BloodwoodSeat.name=피 유칼립투스 의자
 DarkwoodSeat.name=암흑나무 의자
