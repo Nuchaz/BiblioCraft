@@ -1,0 +1,83 @@
+language.name=Čeština
+language.region=CZ
+language.code=cs_CZ
+
+// Tab Names
+itemGroup.BiblioWoodsHighlands=BiblioWoods: Highlands Edice
+
+// BiblioCraft v1.8.x additions
+GreyWoodClock.name=Hodiny z šedého dřeva
+hlRedWoodClock.name=Hodiny z červeného dřeva
+WhiteWoodClock.name=Hodiny z bílého dřeva
+YellowWoodClock.name=Hodiny ze žlutého dřeva
+
+GreyWoodPaintingFrame.name=Obrazový rám z šedého dřeva
+hlRedWoodPaintingFrame.name=Obrazový rám z červeného dřeva
+WhiteWoodPaintingFrame.name=Obrazový rám z bílého dřeva
+YellowWoodPaintingFrame.name=Obrazový rám ze žlutého dřeva
+//
+
+GreyWoodFancyWorkbench.name=Moderní pracovní stůl z šedého dřeva
+hlRedWoodFancyWorkbench.name=Moderní pracovní stůl z červeného dřeva
+WhiteWoodFancyWorkbench.name=Moderní pracovní stůl z bílého dřeva
+YellowWoodFancyWorkbench.name=Moderní pracovní stůl ze žlutého dřeva
+
+GreyWoodFancySign.name=Moderní cedule z šedého dřeva
+hlRedWoodFancySign.name=Moderní cedule z červeného dřeva
+WhiteWoodFancySign.name=Moderní cedule z bílého dřeva
+YellowWoodFancySign.name=Moderní cedule ze žlutého dřeva
+
+GreyWoodMapFrame.name=Rám na mapu z šedého dřeva
+hlRedWoodMapFrame.name=Rám na mapu z červeného dřeva
+WhiteWoodMapFrame.name=Rám na mapu z bílého dřeva
+YellowWoodMapFrame.name=Rám na mapu ze žlutého dřeva
+
+GreyWoodSeat.name=Sedadlo z šedého dřeva
+hlRedWoodSeat.name=Sedadlo z červeného dřeva
+WhiteWoodSeat.name=Sedadlo z bílého dřeva
+YellowWoodSeat.name=Sedadlo ze žlutého dřeva
+
+item.seatBack.GreyWoodSeatBack.name=Zadní opěradlo z šedého dřeva
+item.seatBack.hlRedWoodSeatBack.name=Zadní opěradlo z červeného dřeva
+item.seatBack.WhiteWoodSeatBack.name=Zadní opěradlo z bílého dřeva
+item.seatBack.YellowWoodSeatBack.name=Zadní opěradlo ze žlutého dřeva
+
+GreyWoodBookcase.name=Knihovna z šedého dřeva
+hlRedWoodBookcase.name=Knihovna z červeného dřeva
+WhiteWoodBookcase.name=Knihovna z bílého dřeva
+YellowWoodBookcase.name=Knihovna ze žlutého dřeva
+
+GreyWoodCase.name=Skříň z šedého dřeva
+hlRedWoodCase.name=Skříň z červeného dřeva
+WhiteWoodCase.name=Skříň z bílého dřeva
+YellowWoodCase.name=Skříň ze žlutého dřeva
+
+GreyWoodDesk.name=Stolek z šedého dřeva
+hlRedWoodDesk.name=Stolek z červeného dřeva
+WhiteWoodDesk.name=Stolek z bílého dřeva
+YellowWoodDesk.name=Stolek ze žlutého dřeva
+
+GreyWoodLabel.name=Štítek z šedého dřeva
+hlRedWoodLabel.name=Štítek z červeného dřeva
+WhiteWoodLabel.name=Štítek z bílého dřeva
+YellowWoodLabel.name=Štítek ze žlutého dřeva
+
+GreyWoodPotionShelf.name=Police na lektvary z šedého dřeva
+hlRedWoodPotionShelf.name=Police na lektvary z červeného dřeva
+WhiteWoodPotionShelf.name=Police na lektvary z bílého dřeva
+YellowWoodPotionShelf.name=Police na lektvary ze žlutého dřeva
+
+GreyWoodShelf.name=Police z šedého dřeva
+hlRedWoodShelf.name=Police z červeného dřeva
+WhiteWoodShelf.name=Police z bílého dřeva
+YellowWoodShelf.name=Police ze žlutého dřeva
+
+GreyWoodTable.name=Stůl z šedého dřeva
+hlRedWoodTable.name=Stůl z červeného dřeva
+WhiteWoodTable.name=Stůl z bílého dřeva
+YellowWoodTable.name=Stůl ze žlutého dřeva
+
+GreyWoodToolRack.name=Držák nástrojů z šedého dřeva
+hlRedWoodToolRack.name=Držák nástrojů z červeného dřeva
+WhiteWoodToolRack.name=Držák nástrojů z bílého dřeva
+YellowWoodToolRack.name=Držák nástrojů ze žlutého dřeva
