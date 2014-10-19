@@ -1,0 +1,153 @@
+language.name=Čeština
+language.region=CZ
+language.code=cs_CZ
+
+// Tab Names
+itemGroup.BiblioWoodsEBXL=BiblioWoods: ExtrabiomesXL Edice
+
+// BiblioCraft additions
+AcaciaClock.name=Akátové hodiny
+AutumnClock.name=Podzimní hodiny
+BaldCypressClock.name=Holocypřiškové hodiny
+CypressClock.name=Cypřiškové hodiny
+FirClock.name=Jedlové hodiny
+JapaneseMapleClock.name=Japonskojavorové hodiny
+RainbowEucalyptusClock.name=Duhovoeukalyptové hodiny
+ebxlRedwoodClock.name=Obrosekvojové hodiny
+SakuraClock.name=Sakurové hodiny
+
+AcaciaPaintingFrame.name=Akátový obrazový rám
+AutumnPaintingFrame.name=Podzimní obrazový rám
+BaldCypressPaintingFrame.name=Holocypřiškový obrazový rám
+CypressPaintingFrame.name=Cypřiškový obrazový rám
+FirPaintingFrame.name=Jedlový obrazový rám
+JapaneseMaplePaintingFrame.name=Japonskojavorový obrazový rám
+RainbowEucalyptusPaintingFrame.name=Duhovoeukalyptový obrazový rám
+ebxlRedwoodPaintingFrame.name=Obrosekvojový obrazový rám
+SakuraPaintingFrame.name=Sakurový obrazový rám
+
+AcaciaFancyWorkbench.name=Akátový moderní pracovní stůl
+AutumnFancyWorkbench.name=Podzimní moderní pracovní stůl
+BaldCypressFancyWorkbench.name=Holocypřiškový moderní pracovní stůl
+CypressFancyWorkbench.name=Cypřiškový moderní pracovní stůl
+FirFancyWorkbench.name=Jedlový moderní pracovní stůl
+JapaneseMapleFancyWorkbench.name=Japonskojavorový moderní pracovní stůl
+RainbowEucalyptusFancyWorkbench.name=Duhovoeukalyptový moderní pracovní stůl
+ebxlRedwoodFancyWorkbench.name=Obrosekvojový moderní pracovní stůl
+SakuraFancyWorkbench.name=Sakurový moderní pracovní stůl
+
+AcaciaFancySign.name=Akátová moderní cedule
+AutumnFancySign.name=Podzimní moderní cedule
+BaldCypressFancySign.name=Holocypřišková moderní cedule
+CypressFancySign.name=Cypřišková moderní cedule
+FirFancySign.name=Jedlová moderní cedule
+JapaneseMapleFancySign.name=Japonskojavorová moderní cedule
+RainbowEucalyptusFancySign.name=Duhovoeukalyptová moderní cedule
+ebxlRedwoodFancySign.name=Obrosekvojová moderní cedule
+SakuraFancySign.name=Sakurová moderní cedule
+//
+
+
+// 1.5 additions
+AcaciaMapFrame.name=Akátový rám na mapu
+AutumnMapFrame.name=Podzimní rám na mapu
+BaldCypressMapFrame.name=Holocypřiškový rám na mapu
+CypressMapFrame.name=Cypřiškový rám na mapu
+FirMapFrame.name=Jedlový rám na mapu
+JapaneseMapleMapFrame.name=Japonskojavorový rám na mapu
+RainbowEucalyptusMapFrame.name=Duhovoeukalyptový rám na mapu
+ebxlRedwoodMapFrame.name=Obrosekvojový rám na mapu
+SakuraMapFrame.name=Sakurový rám na mapu
+AcaciaSeat.name=Akátové sedadlo
+AutumnSeat.name=Podzimní sedadlo
+BaldCypressSeat.name=Holocypřiškové sedadlo
+CypressSeat.name=Cypřiškové sedadlo
+FirSeat.name=Jedlové sedadlo
+JapaneseMapleSeat.name=Japonskojavorové sedadlo
+RainbowEucalyptusSeat.name=Duhovoeukalyptové sedadlo
+ebxlRedwoodSeat.name=Obrosekvojové sedadlo
+SakuraSeat.name=Sakurové sedadlo
+item.seatBack.AcaciaSeatBack.name=Akátové zadní opěradlo
+item.seatBack.AutumnSeatBack.name=Podzimní zadní opěradlo
+item.seatBack.BaldCypressSeatBack.name=Holocypřiškové zadní opěradlo
+item.seatBack.CypressSeatBack.name=Cypřiškové zadní opěradlo
+item.seatBack.FirSeatBack.name=Jedlové zadní opěradlo
+item.seatBack.JapaneseMapleSeatBack.name=Japonskojavorové zadní opěradlo
+item.seatBack.RainbowEucalyptusSeatBack.name=Duhovoeukalyptové zadní opěradlo
+item.seatBack.ebxlRedwoodSeatBack.name=Obrosekvojové zadní opěradlo
+item.seatBack.SakuraSeatBack.name=Sakurové zadní opěradlo
+// end of 1.5 additions
+
+// EBXL woods addon
+AcaciaBookcase.name=Akátová knihovna
+AutumnBookcase.name=Podzimní knihovna
+BaldCypressBookcase.name=Holocypřišková knihovna
+CypressBookcase.name=Cypřišková knihovna
+FirBookcase.name=Jedlová knihovna
+JapaneseMapleBookcase.name=Japonskojavorová knihovna
+RainbowEucalyptusBookcase.name=Duhovoeukalyptová knihovna
+ebxlRedwoodBookcase.name=Obrosekvojová knihovna
+SakuraBookcase.name=Sakurová knihovna
+AcaciaCase.name=Akátová skříň
+AutumnCase.name=Podzimní skříň
+BaldCypressCase.name=Holocypřišková skříň
+CypressCase.name=Cypřišková skříň
+FirCase.name=Jedlová skříň
+JapaneseebxlRedwoodCase.name=Japonskojavorová skříň
+RainbowEucalyptusCase.name=Duhovoeukalyptová skříň
+ebxlRedwoodCase.name=Obrosekvojová skříň
+SakuraCase.name=Sakurová skříň
+AcaciaLabel.name=Akátový štítek
+AutumnLabel.name=Podzimní štítek
+BaldCypressLabel.name=Holocypřiškový štítek
+CypressLabel.name=Cypřiškový štítek
+FirLabel.name=Jedlový štítek
+JapaneseMapleLabel.name=Japonskojavorový štítek
+RainbowEucalyptusLabel.name=Duhovoeukalyptový štítek
+ebxlRedwoodLabel.name=Obrosekvojový štítek
+SakuraLabel.name=Sakurový štítek
+AcaciaPotionShelf.name=Akátová police na lektvary
+AutumnPotionShelf.name=Podzimní police na lektvary
+BaldCypressPotionShelf.name=Holocypřišková police na lektvary
+CypressPotionShelf.name=Cypřišková police na lektvary
+FirPotionShelf.name=Jedlová police na lektvary
+JapaneseMaplePotionShelf.name=Japonskojavorová police na lektvary
+RainbowEucalyptusPotionShelf.name=Duhovoeukalyptová police na lektvary
+ebxlRedwoodPotionShelf.name=Obrosekvojová police na lektvary
+SakuraPotionShelf.name=Sakurová police na lektvary
+AcaciaShelf.name=Akátová police
+AutumnShelf.name=Podzimní police
+BaldCypressShelf.name=Holocypřišková police
+CypressShelf.name=Cypřišková police
+FirShelf.name=Jedlová police
+JapaneseMapleShelf.name=Japonskojavorová police
+RainbowEucalyptusShelf.name=Duhovoeukalyptová police
+ebxlRedwoodShelf.name=Obrosekvojová police
+SakuraShelf.name=Sakurová police
+AcaciaTable.name=Akátový stůl
+AutumnTable.name=Podzimní stůl
+BaldCypressTable.name=Holocypřiškový stůl
+CypressTable.name=Cypřiškový stůl
+FirTable.name=Jedlový stůl
+JapaneseMapleTable.name=Japonskojavorový stůl
+RainbowEucalyptusTable.name=Duhovoeukalyptový stůl
+ebxlRedwoodTable.name=Obrosekvojový stůl
+SakuraTable.name=Sakurový stůl
+AcaciaToolRack.name=Akátový držák nástrojů
+AutumnToolRack.name=Podzimní držák nástrojů
+BaldCypressToolRack.name=Holocypřiškový držák nástrojů
+CypressToolRack.name=Cypřiškový držák nástrojů
+FirToolRack.name=Jedlový držák nástrojů
+JapaneseMapleToolRack.name=Japonskojavorový držák nástrojů
+RainbowEucalyptusToolRack.name=Duhovoeukalyptový držák nástrojů
+ebxlRedwoodToolRack.name=Obrosekvojový držák nástrojů
+SakuraToolRack.name=Sakurový držák nástrojů
+AcaciaDesk.name=Akátový stolek
+AutumnDesk.name=Podzimní stolek
+BaldCypressDesk.name=Holocypřiškový stolek
+CypressDesk.name=Cypřiškový stolek
+FirDesk.name=Jedlový stolek
+JapaneseMapleDesk.name=Japonskojavorový stolek
+RainbowEucalyptusDesk.name=Duhovoeukalyptový stolek
+ebxlRedwoodDesk.name=Obrosekvojový stolek
+SakuraDesk.name=Sakurový stolek
