@@ -6,6 +6,81 @@ language.code=en_US
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Lighting
 
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=Atlas
+item.AtlasPlate.name=Atlas Plate
+item.DeathCompass.name=Eternal Compass
+enchant.deathcompass=Eternal Compass
+gui.atlas.zoom=Zoom level
+gui.atlas.center=Auto Center
+gui.atlas.create=Auto Create
+gui.atlas.mapXcenter=Map X Center:
+gui.atlas.mapZcenter=Map Z Center:
+gui.atlas.mapZoom=Map zoom level:
+gui.atlas.yes=Yes
+gui.atlas.no=No
+gui.atlas.atlas=The Atlas
+
+gui.atlas.select.tt1=Waypoint Select Mode
+gui.atlas.select.tt2=Hover over a waypoint
+gui.atlas.select.tt3=and left click to select
+gui.atlas.select.tt4=that waypoint.
+gui.atlas.select.tt5=Hold Ctrl and hover over map
+gui.atlas.select.tt6=to see real world coordinates.
+gui.atlas.select.tt7=Left click while holding Ctrl
+gui.atlas.select.tt8=to select any point on the map.
+
+gui.atlas.edit.tt1=Waypoint Pin Edit Mode
+gui.atlas.edit.tt2=Click a waypoint to edit
+gui.atlas.edit.tt3=the pin name and color
+gui.atlas.edit.tt4=or delete the selected pin.
+gui.atlas.edit.tt5=To quickly delete a waypoint,
+gui.atlas.edit.tt6=hold shift and click a waypoint.
+
+gui.atlas.add.tt1=Add Waypoint Pin Mode
+gui.atlas.add.tt2=Click anywhere on the map
+gui.atlas.add.tt3=to add a new waypoint.
+gui.atlas.add.tt4=A dialog will pop up and ask
+gui.atlas.add.tt5=for the name and color.
+gui.atlas.add.tt6=Hold shift and click the map
+gui.atlas.add.tt7=to place a new pin with a
+gui.atlas.add.tt8=random color and name.
+
+gui.atlas.switchtoinv=Switch to Inventory view.
+gui.atlas.switchtoatlas=Switch to Map view.
+
+gui.atlas.autocenter.tt1=If enabled, the atlas will
+gui.atlas.autocenter.tt2=search the inventory for a
+gui.atlas.autocenter.tt3=valid map that shows where
+gui.atlas.autocenter.tt4=you are at the currently
+gui.atlas.autocenter.tt5=selected zoom level.
+
+gui.atlas.autocreate.tt1=If enabled, creates new
+gui.atlas.autocreate.tt2=maps from blank maps in the
+gui.atlas.autocreate.tt3=inventory. When auto center 
+gui.atlas.autocreate.tt4=fails to find a matching map, 
+gui.atlas.autocreate.tt5=a new map is created based off
+gui.atlas.autocreate.tt6=from the last map loaded at
+gui.atlas.autocreate.tt7=the selected zoom level.
+
+gui.atlas.autocreate.tt8=Auto Center must be
+gui.atlas.autocreate.tt9=enabled for this to work.
+
+gui.atlas.transfer=Waypoint Transfer
+gui.atlas.transfer.cancel=Cancel
+gui.atlas.transfer.from=From Atlas to Map Frame
+gui.atlas.transfer.to=From Map Frame to Atlas
+
+gui.compass.currentlocation=Current Loc
+
+gui.paintpress.page=Page
+gui.paintpress.of=of
+
+item.TesterItem.name=ItemStack Name Tester
+gui.testeritem.name=ItemStack Name Tester
+gui.testeritem.display=Display name:
+gui.testeritem.unlocal=Unlocalized name:
+// end of 1.9 additions
 
 // All BiblioCraft 1.8 additions and changes //
 gui.clock.chimesound=Chime Sound
