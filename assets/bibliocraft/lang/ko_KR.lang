@@ -1,17 +1,94 @@
+#author jinwoo829, edit TeamMMKP(@puyo061,alvin137)
 language.name=Korean
 language.region=KR
 language.code=ko_KR
 
 // Tab Names
-itemGroup.BiblioCraft=비블리오 크래프트
-itemGroup.BiblioCraftLights=비블리오 크래프트 조명
+itemGroup.BiblioCraft=비블리오 크래프트[Bibliocraft]
+itemGroup.BiblioCraftLights=비블리오 크래프트 조명[Bibliocraft]
+
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=지도
+item.AtlasPlate.name=지도 걸개
+item.DeathCompass.name=영원의 나침반
+enchant.deathcompass=영원의 나침반
+gui.atlas.zoom=확대 레벨
+gui.atlas.center=자동 중앙
+gui.atlas.create=자동 생성
+gui.atlas.mapXcenter=지도 X축 한가운데:
+gui.atlas.mapZcenter=지도 Z축 한가운데:
+gui.atlas.mapZoom=지도 확대 레벨:
+gui.atlas.yes=예
+gui.atlas.no=아니오
+gui.atlas.atlas=지도
+
+gui.atlas.select.tt1=경유지 설정 모드
+gui.atlas.select.tt2=경유지 위
+gui.atlas.select.tt3=에서 왼클릭으로 선택
+gui.atlas.select.tt4=그곳은 경유지.
+gui.atlas.select.tt5=웅크리기 + Ctrl 그리고 맵위에서 경유지와 겹칠때
+gui.atlas.select.tt6=세계의 좌표를 보실수 있습니다.
+gui.atlas.select.tt7=왼쪽클릭 + Ctrl
+gui.atlas.select.tt8=시 모든 미니맵의 점을 선택하실 수 있습니다..
+
+gui.atlas.edit.tt1=경유지 핀 편집 모드
+gui.atlas.edit.tt2=클릭해서 경유지를 수정
+gui.atlas.edit.tt3=선택된 핀의 이름과 색상
+gui.atlas.edit.tt4=혹은 선택된 핀 삭제
+gui.atlas.edit.tt5=빠르게 핀을 삭제하고 싶을때는,
+gui.atlas.edit.tt6=경유지를 웅크리기후 클릭.
+
+gui.atlas.add.tt1=경유지 핀 추가모드
+gui.atlas.add.tt2=지도 어디에서나 클릭,
+gui.atlas.add.tt3=그곳에 새로운 경유지 생성.
+gui.atlas.add.tt4=대화상자가 나타나서 
+gui.atlas.add.tt5=경유지의 이름과 색상을 고를수 있음
+gui.atlas.add.tt6=맵을 웅크리기 + 클릭
+gui.atlas.add.tt7=새로운 핀을 설치
+gui.atlas.add.tt8=랜덤으로 이름과 색상이 부여됨.
+
+gui.atlas.switchtoinv=인벤토리 확인 스위치
+gui.atlas.switchtoatlas=지도 확인 스위치
+
+gui.atlas.autocenter.tt1=만약 활성화시, 이 지도는
+gui.atlas.autocenter.tt2=인벤토리의 유효한 지도를
+gui.atlas.autocenter.tt3=검색해서 표시해 줍니다.
+gui.atlas.autocenter.tt4=당신은 지금 현재
+gui.atlas.autocenter.tt5=확대레벨을 선택중 입니다.
+
+gui.atlas.autocreate.tt1=만약 활성화시, 새로운걸 만듭니다
+gui.atlas.autocreate.tt2=인벤토리에 비어있는 지도를
+gui.atlas.autocreate.tt3=그때 가운데 정렬합니다.
+gui.atlas.autocreate.tt4=일치하는 지도를 찾지 못할경우, 
+gui.atlas.autocreate.tt5=새로운 지도를 만들어서 기본으로 합니다
+gui.atlas.autocreate.tt6=마지막 지도를 로드해서
+gui.atlas.autocreate.tt7=확대레벨을 선택중 입니다
+
+gui.atlas.autocreate.tt8=자동 정렬
+gui.atlas.autocreate.tt9=활성화, 작동합니다.
+
+gui.atlas.transfer=경유지 전송
+gui.atlas.transfer.cancel=취소
+gui.atlas.transfer.from=지도 틀의 지도
+gui.atlas.transfer.to=지도틀의 지도
+
+gui.compass.currentlocation=Current Loc
+
+gui.paintpress.page=페이지
+gui.paintpress.of=중
+
+item.TesterItem.name=아이템 스택 이름 테스트
+gui.testeritem.name=아이템 스택 이름 테스트
+gui.testeritem.display=보여지는 이름:
+gui.testeritem.unlocal=미현지화 이름:
+// end of 1.9 additions
 
 // All BiblioCraft 1.8 additions and changes //
-gui.clock.chimesound=Chime Sound
+gui.clock.chimesound=시계소리
 gui.clock.ticksound=틱 소리
 gui.clock.redstone=레드스톤
-gui.clock.chime=Chime
-gui.clock.presets=Presets
+gui.clock.chime=알람
+gui.clock.presets=결정
 
 screwgun.selected.painting1=첫 번째 그림이 선택됨
 screwgun.selected.painting2=두 번째 그림이 선택됨
