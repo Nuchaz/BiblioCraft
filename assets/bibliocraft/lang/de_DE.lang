@@ -6,6 +6,81 @@ language.code=de_DE
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Beleuchtung
 
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=Atlas
+item.AtlasPlate.name=Atlasplatte
+item.DeathCompass.name=Ewiger Kompass
+enchant.deathcompass=Ewiger Kompass
+gui.atlas.zoom=Zoom-Level
+gui.atlas.center=Auto-Zentrieren
+gui.atlas.create=Auto-Kreieren
+gui.atlas.mapXcenter=Karten-X-Zentrum:
+gui.atlas.mapZcenter=Karten-Z-Zentrum:
+gui.atlas.mapZoom=Karten-Zoom-Level:
+gui.atlas.yes=Ja
+gui.atlas.no=Nein
+gui.atlas.atlas=Der Atlas
+
+gui.atlas.select.tt1=Wegpunkt-Auswahlmodus
+gui.atlas.select.tt2=Ziehe die Maus auf einen Wegpunkt
+gui.atlas.select.tt3=und linksklicke, um diesen
+gui.atlas.select.tt4=auszuwählen.
+gui.atlas.select.tt5=Halte Strg und ziehe die Maus über die Karte,
+gui.atlas.select.tt6=um die tatsächlichen Koordinaten einzusehen.
+gui.atlas.select.tt7=Linksklicke, während du Strg hältst, um
+gui.atlas.select.tt8=einen beliebigen Punkt auf der Karte auszuwählen.
+
+gui.atlas.edit.tt1=Wegpunkt-Pin-Bearbeitungsmodus
+gui.atlas.edit.tt2=Klicke auf einen Wegpunkt, um Namen
+gui.atlas.edit.tt3=und Farbe des Pins zu ändern
+gui.atlas.edit.tt4=oder um diesen zu löschen.
+gui.atlas.edit.tt5=Um einen Wegpunkt schnell zu löschen,
+gui.atlas.edit.tt6=halte Shift und klicke auf einen Wegpunkt.
+
+gui.atlas.add.tt1=Wegpunkt-Pin-Hinzufügemodus
+gui.atlas.add.tt2=Klicke irgendwo auf die Karte,
+gui.atlas.add.tt3=um einen neuen Wegpunkt hinzuzufügen.
+gui.atlas.add.tt4=Ein Feld wird auftauchen und
+gui.atlas.add.tt5=nach Namen und Farbe fragen.
+gui.atlas.add.tt6=Halte Shift und klicke auf die Karte,
+gui.atlas.add.tt7=um einen neuen Pin mit zufälliger
+gui.atlas.add.tt8=Farbe und Namen zu platzieren.
+
+gui.atlas.switchtoinv=Zu Inventarsicht wechseln.
+gui.atlas.switchtoatlas=Zu Kartenansicht wechseln.
+
+gui.atlas.autocenter.tt1=Wenn aktiviert, wird der Atlas
+gui.atlas.autocenter.tt2=das Inventar nach einer gültigen
+gui.atlas.autocenter.tt3=Karte durchsuchen, die zeigt,
+gui.atlas.autocenter.tt4=wo du dich momentan bei dem aktuell
+gui.atlas.autocenter.tt5=gewählten Zoom-Level befindest
+
+gui.atlas.autocreate.tt1=Wenn aktiviert, werden neue Karten
+gui.atlas.autocreate.tt2=aus leeren Karten im Inventar
+gui.atlas.autocreate.tt3=gemacht. Wenn Auto-Zentrieren keine
+gui.atlas.autocreate.tt4=passende Karte finden kann,
+gui.atlas.autocreate.tt5=wird eine neue Karte basierend auf
+gui.atlas.autocreate.tt6=der letzten bei dem gewählen
+gui.atlas.autocreate.tt7=Zoom-Level geladenen Karte kreiert.
+
+gui.atlas.autocreate.tt8=Auto-Zentrieren muss aktiviert sein,
+gui.atlas.autocreate.tt9=damit dies funktioniert.
+
+gui.atlas.transfer=Wegpunkttransfer
+gui.atlas.transfer.cancel=Abbrechen
+gui.atlas.transfer.from=Von Atlas zu Kartenrahmen
+gui.atlas.transfer.to=Von Kartenrahmen zu Atlas
+
+gui.compass.currentlocation=Momentane Pos
+
+gui.paintpress.page=Seite
+gui.paintpress.of=von
+
+item.TesterItem.name=ItemStack-Namenstester
+gui.testeritem.name=ItemStack-Namenstester
+gui.testeritem.display=Dargestellter Name:
+gui.testeritem.unlocal=Nicht übersetzter Name:
+// end of 1.9 additions
 
 // All BiblioCraft 1.8 additions and changes //
 gui.clock.chimesound=Läut-Geräusch
