@@ -6,12 +6,87 @@ language.code=ru_RU
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Освещение
 
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=Атлас
+item.AtlasPlate.name=Страница атласа
+item.DeathCompass.name=Вечный компас
+enchant.deathcompass=Вечный компас
+gui.atlas.zoom=Масштаб
+gui.atlas.center=Автоцентровка
+gui.atlas.create=Автопометки
+gui.atlas.mapXcenter=Центр карты по X:
+gui.atlas.mapZcenter=Центр карты по Z:
+gui.atlas.mapZoom=Масштаб карты:
+gui.atlas.yes=Да
+gui.atlas.no=Нет
+gui.atlas.atlas=Атлас
+
+gui.atlas.select.tt1=Режим выбора меток
+gui.atlas.select.tt2=Наведите на метку
+gui.atlas.select.tt3=затем нажмите ЛКМ
+gui.atlas.select.tt4=для выбора метки.
+gui.atlas.select.tt5=Зажмите Ctrl и наведите на карту
+gui.atlas.select.tt6=чтобы увидеть коорд-ты реального мира.
+gui.atlas.select.tt7=Нажмите Ctrl + ЛКМ
+gui.atlas.select.tt8=для выбора точки на карте.
+
+gui.atlas.edit.tt1=Режим правки меток
+gui.atlas.edit.tt2=Нажмите на метку, чтобы изменить
+gui.atlas.edit.tt3=ее название и цвет
+gui.atlas.edit.tt4=или удалить её с карты.
+gui.atlas.edit.tt5=Чтобы быстро удалить метку,
+gui.atlas.edit.tt6=нажмите Shift + ЛКМ на метке.
+
+gui.atlas.add.tt1=Режим установки меток
+gui.atlas.add.tt2=Нажмите на карту, чтобы
+gui.atlas.add.tt3=добавить новую метку.
+gui.atlas.add.tt4=Появится меню, где Вы сможете
+gui.atlas.add.tt5=выбрать название и цвет.
+gui.atlas.add.tt6=Нажмите Shift + ЛКМ ,чтобы
+gui.atlas.add.tt7=добавить на карту метку
+gui.atlas.add.tt8=случайного цвета и названия.
+
+gui.atlas.switchtoinv=Переключить на окно инвентаря.
+gui.atlas.switchtoatlas=Переключить на окно карты.
+
+gui.atlas.autocenter.tt1=Если включено, атлас будет
+gui.atlas.autocenter.tt2=искать в инвентаре подходящую
+gui.atlas.autocenter.tt3=карту, на которой указано
+gui.atlas.autocenter.tt4=Ваше местоположение на
+gui.atlas.autocenter.tt5=выбранном масштабе.
+
+gui.atlas.autocreate.tt1=Если включено, создает карты
+gui.atlas.autocreate.tt2=из чистых, забирая их из Вашего
+gui.atlas.autocreate.tt3=инвентаря. Если автоцентровка 
+gui.atlas.autocreate.tt4=не может найти подходящую карту, 
+gui.atlas.autocreate.tt5=то создастся новая карта
+gui.atlas.autocreate.tt6=такого же масштаба, как и
+gui.atlas.autocreate.tt7=последняя, выбранная Вами.
+
+gui.atlas.autocreate.tt8=Для рабоыт этого режима должна
+gui.atlas.autocreate.tt9=быть включена автоцентровка.
+
+gui.atlas.transfer=Перенос меток
+gui.atlas.transfer.cancel=Отмена
+gui.atlas.transfer.from=С атласа на рамку для карт
+gui.atlas.transfer.to=С рамки для карт на атлас
+
+gui.compass.currentlocation=Местоположение
+
+gui.paintpress.page=Стр.
+gui.paintpress.of=из
+
+item.TesterItem.name=Тестер имен
+gui.testeritem.name=ItemStack Name Tester    //<-- Можно не переводить
+gui.testeritem.display=Display name:
+gui.testeritem.unlocal=Unlocalized name:
+// end of 1.9 additions
 
 // All BiblioCraft 1.8 additions and changes //
 gui.clock.chimesound=Звук звонка
 gui.clock.ticksound=Тикающий звук
 gui.clock.redstone=Красный камень
-gui.clock.chime=Chime
+gui.clock.chime=Звонок
 gui.clock.presets=Установки
 
 screwgun.selected.painting1=Первая картина выбрана
@@ -23,9 +98,9 @@ drill.failed=Соединение не удалось
 item.PaintingCanvas.name=Холост для рисования
 tile.BiblioPaintPress.name=Картинный станок
 
-gui.paintpress.transfer=Transfer
-gui.paintpress.vanilla=Vanilla
-gui.paintpress.custom=Custom
+gui.paintpress.transfer=Напечатать
+gui.paintpress.vanilla=Внутриигровые
+gui.paintpress.custom=Другие
 
 gui.painting.scale=Размер
 gui.painting.resolution=Разрешение
@@ -41,11 +116,11 @@ JunglePaintingFrame.name=Картинная рамка из тропическо
 AcaciaPaintingFrame.name=Картинная рамка из акации
 OldOakPaintingFrame.name=Картинная рамка из тёмного дуба
 
-paintingFrame.0tier=Borderless
-paintingFrame.1tier=Single Tier
-paintingFrame.2tier=Double Tier
-paintingFrame.3tier=Triple Tier
-paintingFrame.4tier=Quadruple Tier
+paintingFrame.0tier=Без рамки
+paintingFrame.1tier=Рамка
+paintingFrame.2tier=Двойная рамка
+paintingFrame.3tier=Тройная рамка
+paintingFrame.4tier=Комплексная рамка
 
 OakClock.name=Дубовые часы
 SpruceClock.name=Еловые часы
