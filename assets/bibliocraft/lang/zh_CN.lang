@@ -6,6 +6,81 @@ language.code=zh_CN
 itemGroup.BiblioCraft=展示架
 itemGroup.BiblioCraftLights=展示架|灯具
 
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=地图册
+item.AtlasPlate.name=地图板
+item.DeathCompass.name=永恒罗盘
+enchant.deathcompass=永恒罗盘
+gui.atlas.zoom=缩放级别
+gui.atlas.center=自动定位
+gui.atlas.create=自动创建
+gui.atlas.mapXcenter=地图X轴中心:
+gui.atlas.mapZcenter=地图Z轴中心:
+gui.atlas.mapZoom=地图缩放级别:
+gui.atlas.yes=是
+gui.atlas.no=否
+gui.atlas.atlas=地图册
+
+gui.atlas.select.tt1=路标选择模式
+gui.atlas.select.tt2=鼠标移动至路标
+gui.atlas.select.tt3=之上然后左击以
+gui.atlas.select.tt4=选中路标.
+gui.atlas.select.tt5=按住Ctrl时会显示鼠标
+gui.atlas.select.tt6=悬停位置的真实坐标.
+gui.atlas.select.tt7=按住Ctrl时左击会选中
+gui.atlas.select.tt8=鼠标悬停位置.
+
+gui.atlas.edit.tt1=图钉编辑模式
+gui.atlas.edit.tt2=点击路标以编辑图
+gui.atlas.edit.tt3=钉名称及颜色或者
+gui.atlas.edit.tt4=删除选中的图钉.
+gui.atlas.edit.tt5=按住shift点击可
+gui.atlas.edit.tt6=以快捷地删除图标.
+
+gui.atlas.add.tt1=添加图钉模式
+gui.atlas.add.tt2=点中地图的任意位置以
+gui.atlas.add.tt3=添加新的路标.
+gui.atlas.add.tt4=对话框将会弹出以方便
+gui.atlas.add.tt5=键入名称以及颜色.
+gui.atlas.add.tt6=按住shift点击地图将
+gui.atlas.add.tt7=放置出随机色彩和名
+gui.atlas.add.tt8=称的新图钉.
+
+gui.atlas.switchtoinv=切换至物品栏浏览.
+gui.atlas.switchtoatlas=切换至地图浏览.
+
+gui.atlas.autocenter.tt1=激活后, 地图册将
+gui.atlas.autocenter.tt2=会搜索物品栏内有
+gui.atlas.autocenter.tt3=效的地图在当前的
+gui.atlas.autocenter.tt4=缩放级别下显示出
+gui.atlas.autocenter.tt5=你的位置.
+
+gui.atlas.autocreate.tt1=激活后会使用物品栏内
+gui.atlas.autocreate.tt2=的空白地图自动创建新
+gui.atlas.autocreate.tt3=地图. 当自动定位无法
+gui.atlas.autocreate.tt4=找到匹配地图时, 新地
+gui.atlas.autocreate.tt5=图将会基于在所选定的
+gui.atlas.autocreate.tt6=缩放级别下上一次加载
+gui.atlas.autocreate.tt7=的地图来生成.
+
+gui.atlas.autocreate.tt8=使用该功能需要先
+gui.atlas.autocreate.tt9=激活自动定位功能.
+
+gui.atlas.transfer=路标转移器
+gui.atlas.transfer.cancel=取消
+gui.atlas.transfer.from=从地图册到地图框
+gui.atlas.transfer.to=从地图框到地图册
+
+gui.compass.currentlocation=当前位置
+
+gui.paintpress.page=
+gui.paintpress.of=/
+
+item.TesterItem.name=物品名检测器
+gui.testeritem.name=物品名检测器
+gui.testeritem.display=表名称(显示名):
+gui.testeritem.unlocal=里名称(命令索引名):
+// end of 1.9 additions
 
 // All BiblioCraft 1.8 additions and changes //
 gui.clock.chimesound=铃声
@@ -128,7 +203,7 @@ book.save=保存
 book.sign=签名
 book.entertitle=输入书名:
 book.by=作者:
-book.signnotice=重要提示!签名后的书将再也无法被编辑.包括编辑文字,格式,章节,以及增加页数.
+book.signnotice=重要提示! 签名后的书将再也无法被编辑. 包括编辑文字, 格式, 章节, 以及增加页数.
 book.textscale=文字大小
 book.lineselected=选中行
 book.cancel=取消
@@ -168,14 +243,14 @@ gui.sign.lightpurple=浅紫色
 gui.sign.yellow=黄色
 gui.sign.white=白色
 
-gui.sign.tooltip1=点中勾选框或按下Tab均可选中一个编辑面板.Tab键可用来切换不同编辑面板.
-gui.sign.tooltip2=点中上方勾选框可对第一格中物品进行编辑.可修改其在牌子上显示的大小,位置以及朝向.
-gui.sign.tooltip3=点中上方勾选框可选中文字编辑面板.这里能够修改牌面文字的大小,以及选择使用原版提供的文字样式.
-gui.sign.tooltip4=点中上方勾选框可对第二格中物品进行编辑.可修改其在牌子上显示的大小,位置以及朝向.
+gui.sign.tooltip1=点中勾选框或按下Tab均可选中一个编辑面板. Tab键可用来切换不同编辑面板.
+gui.sign.tooltip2=点中上方勾选框可对第一格中物品进行编辑. 可修改其在牌子上显示的大小,位置以及朝向.
+gui.sign.tooltip3=点中上方勾选框可选中文字编辑面板. 这里能够修改牌面文字的大小, 以及选择使用原版提供的文字样式.
+gui.sign.tooltip4=点中上方勾选框可对第二格中物品进行编辑. 可修改其在牌子上显示的大小, 位置以及朝向.
 gui.sign.tooltip5=调整物品/方块大小.
-gui.sign.tooltip6=调整物品/方块朝向.方块可显示左面,右面或正前方.但物品只能显示左右.
+gui.sign.tooltip6=调整物品/方块朝向. 方块可显示左面, 右面或正前方. 但物品只能显示左右.
 gui.sign.tooltip7=调整物品/方块显示位置. 可使用方向键或WASD键进行调整.
-gui.sign.tooltip8=添加格式符后,请输入下表中任一数字/字母来添加文字样式:
+gui.sign.tooltip8=添加格式符后, 请输入下表中任一数字/字母来添加文字样式:
 gui.sign.tooltip9=点击右侧按钮或按下'alt'键可将格式符号添加到选中行.
 
 gui.sign.bold=粗体
@@ -190,8 +265,8 @@ gui.sign.linenum=行#
 
 //1.6.2 additions
 gui.redbook.title=书名:
-gui.redbook.description.p1=放入红石书的书架会像除正前方外的所有方向发出红石信号.红石信号强度取决于红石书在书架中的位置. 
-gui.redbook.description.p2=书架有16个空格,第一个格子为左上第一格,第16格为右下最后一格.如果红石书被放到第一个格子里,书架不会发出任何红石信号.如果红石书被放到第二格,书架会发出强度为1的红石信号.每往后放一格,发出的红石信号强度都会增加1点,当红石书被放到第16格时,会发出强度为15的红石信号.
+gui.redbook.description.p1=放入红石书的书架会像除正前方外的所有方向发出红石信号. 红石信号强度取决于红石书在书架中的位置. 
+gui.redbook.description.p2=书架有16个空格, 第一个格子为左上第一格, 第16格为右下最后一格. 如果红石书被放到第一个格子里, 书架不会发出任何红石信号. 如果红石书被放到第二格, 书架会发出强度为1的红石信号. 每往后放一格, 发出的红石信号强度都会增加1点, 当红石书被放到第16格时, 会发出强度为15的红石信号.
 
 // All BiblioCraft 1.6 additions and changes/////////////////////
 AcaciaDesk.name=金合欢台桌
