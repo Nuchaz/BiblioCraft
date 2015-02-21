@@ -1,0 +1,83 @@
+language.name=Français canadien
+language.region=Canada
+language.code=fr_CA
+
+// Tab Names
+itemGroup.BiblioWoodsHighlands=BiblioWoods : Édition Highlands
+
+// BiblioCraft v1.8.x additions
+GreyWoodClock.name=Pendule en bois gris
+hlRedWoodClock.name=Pendule en bois rouge
+WhiteWoodClock.name=Pendule en bois blanc
+YellowWoodClock.name=Pendule en bois jaune
+
+GreyWoodPaintingFrame.name=Cadre de peinture en bois gris
+hlRedWoodPaintingFrame.name=Cadre de peinture en bois rouge
+WhiteWoodPaintingFrame.name=Cadre de peinture en bois blanc
+YellowWoodPaintingFrame.name=Cadre de peinture en bois jaune
+//
+
+GreyWoodFancyWorkbench.name=Établi chic en bois gris
+hlRedWoodFancyWorkbench.name=Établi chic en bois rouge
+WhiteWoodFancyWorkbench.name=Établi chic en bois blanc
+YellowWoodFancyWorkbench.name=Établi chic en bois jaune
+
+GreyWoodFancySign.name=Pancarte chic en bois gris
+hlRedWoodFancySign.name=Pancarte chic en bois rouge
+WhiteWoodFancySign.name=Pancarte chic en bois blanc
+YellowWoodFancySign.name=Pancarte chic en bois jaune
+
+GreyWoodMapFrame.name=Cadre de carte en bois gris
+hlRedWoodMapFrame.name=Cadre de carte en bois rouge
+WhiteWoodMapFrame.name=Cadre de carte en bois blanc
+YellowWoodMapFrame.name=Cadre de carte en bois jaune
+
+GreyWoodSeat.name=Siège en bois gris
+hlRedWoodSeat.name=Siège en bois rouge
+WhiteWoodSeat.name=Siège en bois blanc
+YellowWoodSeat.name=Siège en bois jaune
+
+item.seatBack.GreyWoodSeatBack.name=Dossier de siège en bois gris
+item.seatBack.hlRedWoodSeatBack.name=Dossier de siège en bois rouge
+item.seatBack.WhiteWoodSeatBack.name=Dossier de siège en bois blanc
+item.seatBack.YellowWoodSeatBack.name=Dossier de siège en bois jaune
+
+GreyWoodBookcase.name=Bibliothèque en bois gris
+hlRedWoodBookcase.name=Bibliothèque en bois rouge
+WhiteWoodBookcase.name=Bibliothèque en bois blanc
+YellowWoodBookcase.name=Bibliothèque en bois jaune
+
+GreyWoodCase.name=Vitrine en bois gris
+hlRedWoodCase.name=Vitrine en bois rouge
+WhiteWoodCase.name=Vitrine en bois blanc
+YellowWoodCase.name=Vitrine en bois jaune
+
+GreyWoodDesk.name=Bureau en bois gris
+hlRedWoodDesk.name=Bureau en bois rouge
+WhiteWoodDesk.name=Bureau en bois blanc
+YellowWoodDesk.name=Bureau en bois jaune
+
+GreyWoodLabel.name=Écriteau en bois gris
+hlRedWoodLabel.name=Écriteau en bois rouge
+WhiteWoodLabel.name=Écriteau en bois blanc
+YellowWoodLabel.name=Écriteau en bois jaune
+
+GreyWoodPotionShelf.name=Étagère à potions en bois gris
+hlRedWoodPotionShelf.name=Étagère à potions en bois rouge
+WhiteWoodPotionShelf.name=Étagère à potions en bois blanc
+YellowWoodPotionShelf.name=Étagère à potions en bois jaune
+
+GreyWoodShelf.name=Étagère en bois gris
+hlRedWoodShelf.name=Étagère en bois rouge
+WhiteWoodShelf.name=Étagère en bois blanc
+YellowWoodShelf.name=Étagère en bois jaune
+
+GreyWoodTable.name=Table en bois gris
+hlRedWoodTable.name=Table en bois rouge
+WhiteWoodTable.name=Table en bois blanc
+YellowWoodTable.name=Table en bois jaune
+
+GreyWoodToolRack.name=Rack à outils en bois gris
+hlRedWoodToolRack.name=Rack à outils en bois rouge
+WhiteWoodToolRack.name=Rack à outils en bois blanc
+YellowWoodToolRack.name=Rack à outils en bois jaune
