@@ -1,0 +1,161 @@
+language.name=Français canadien
+language.region=Canada
+language.code=fr_CA
+
+// Tab Names
+itemGroup.BiblioWoodsEBXL=BiblioWoods : Édition ExtraBiomesXL
+
+// BiblioCraft additions
+AcaciaClock.name=Pendule en bois d'acacia
+AutumnClock.name=Pendule en bois d'automne
+BaldCypressClock.name=Pendule en bois de cyprès chauve
+CypressClock.name=Pendule en bois de cyprès
+FirClock.name=Pendule en bois de sapin
+JapaneseMapleClock.name=Pendule en bois d'érable japonais
+RainbowEucalyptusClock.name=Pendule en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodClock.name=Pendule en bois de séquoia
+SakuraClock.name=Pendule en bois de sakura
+
+AcaciaPaintingFrame.name=Cadre de peinture en bois d'acacia
+AutumnPaintingFrame.name=Cadre de peinture en bois d'automne
+BaldCypressPaintingFrame.name=Cadre de peinture en bois de cyprès chauve
+CypressPaintingFrame.name=Cadre de peinture en bois de cyprès
+FirPaintingFrame.name=Cadre de peinture en bois de sapin
+JapaneseMaplePaintingFrame.name=Cadre de peinture en bois d'érable japonais
+RainbowEucalyptusPaintingFrame.name=Cadre de peinture en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodPaintingFrame.name=Cadre de peinture en bois de séquoia
+SakuraPaintingFrame.name=Cadre de peinture en bois de sakura
+
+AcaciaFancyWorkbench.name=Établi de luxe en bois d'acacia
+AutumnFancyWorkbench.name=Établi de luxe en bois d'automne
+BaldCypressFancyWorkbench.name=Établi de luxe en bois de cyprès chauve
+CypressFancyWorkbench.name=Établi de luxe en bois de cyprès
+FirFancyWorkbench.name=Établi de luxe en bois de sapin
+JapaneseMapleFancyWorkbench.name=Établi de luxe en bois d'érable japonais
+RainbowEucalyptusFancyWorkbench.name=Établi de luxe en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodFancyWorkbench.name=Établi de luxe en bois de séquoia
+SakuraFancyWorkbench.name=Établi de luxe en bois de sakura
+
+AcaciaFancySign.name=Pancarte de luxe en bois d'acacia
+AutumnFancySign.name=Pancarte de luxe en bois d'automne
+BaldCypressFancySign.name=Pancarte de luxe en bois de cyprès chauve
+CypressFancySign.name=Pancarte de luxe en bois de cyprès
+FirFancySign.name=Pancarte de luxe en bois de sapin
+JapaneseMapleFancySign.name=Pancarte de luxe en bois d'érable japonais
+RainbowEucalyptusFancySign.name=Pancarte de luxe en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodFancySign.name=Pancarte de luxe en bois de séquoia
+SakuraFancySign.name=Pancarte de luxe en bois de sakura
+//
+
+// 1.5 additions
+AcaciaMapFrame.name=Cadre de carte en bois d'acacia
+AutumnMapFrame.name=Cadre de carte en bois d'automne
+BaldCypressMapFrame.name=Cadre de carte en bois de cyprès chauve
+CypressMapFrame.name=Cadre de carte en bois de cyprès
+FirMapFrame.name=Cadre de carte en bois de sapin
+JapaneseMapleMapFrame.name=Cadre de carte en bois d'érable japonais
+RainbowEucalyptusMapFrame.name=Cadre de carte en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodMapFrame.name=Cadre de carte en bois de séquoia
+SakuraMapFrame.name=Cadre de carte en bois de sakura
+
+AcaciaSeat.name=Siège en bois d'acacia
+AutumnSeat.name=Siège en bois d'automne
+BaldCypressSeat.name=Siège en bois de cyprès chauve
+CypressSeat.name=Siège en bois de cyprès
+FirSeat.name=Siège en bois de sapin
+JapaneseMapleSeat.name=Siège en bois d'érable japonais
+RainbowEucalyptusSeat.name=Siège en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodSeat.name=Siège en bois de séquoia
+SakuraSeat.name=Siège en bois de sakura
+
+item.seatBack.AcaciaSeatBack.name=Dossier de siège en bois d'acacia
+item.seatBack.AutumnSeatBack.name=Dossier de siège en bois d'automne
+item.seatBack.BaldCypressSeatBack.name=Dossier de siège en bois de cyprès chauve
+item.seatBack.CypressSeatBack.name=Dossier de siège en bois de cyprès
+item.seatBack.FirSeatBack.name=Dossier de siège en bois de sapin
+item.seatBack.JapaneseMapleSeatBack.name=Dossier de siège en bois d'érable japonais
+item.seatBack.RainbowEucalyptusSeatBack.name=Dossier de siège en bois d'eucalyptus arc-en-ciel
+item.seatBack.ebxlRedwoodSeatBack.name=Dossier de siège en bois de séquoia
+item.seatBack.SakuraSeatBack.name=Dossier de siège en bois de sakura
+// end of 1.5 additions
+
+// EBXL woods addon
+AcaciaBookcase.name=Bibliothèque en bois d'acacia
+AutumnBookcase.name=Bibliothèque en bois d'automne
+BaldCypressBookcase.name=Bibliothèque en bois de cyprès chauve
+CypressBookcase.name=Bibliothèque en bois de cyprès
+FirBookcase.name=Bibliothèque en bois de sapin
+JapaneseMapleBookcase.name=Bibliothèque en bois d'érable japonais
+RainbowEucalyptusBookcase.name=Bibliothèque en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodBookcase.name=Bibliothèque en bois de séquoia
+SakuraBookcase.name=Bibliothèque en bois de sakura
+
+AcaciaCase.name=Vitrine en bois d'acacia
+AutumnCase.name=Vitrine en bois d'automne
+BaldCypressCase.name=Vitrine en bois de cyprès chauve
+CypressCase.name=Vitrine en bois de cyprès
+FirCase.name=Vitrine en bois de sapin
+JapaneseebxlRedwoodCase.name=Vitrine en bois d'érable japonais
+RainbowEucalyptusCase.name=Vitrine en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodCase.name=Vitrine en bois de séquoia
+SakuraCase.name=Vitrine en bois de sakura
+
+AcaciaLabel.name=Écriteau en bois d'acacia
+AutumnLabel.name=Écriteau en bois d'automne
+BaldCypressLabel.name=Écriteau en bois de cyprès chauve
+CypressLabel.name=Écriteau en bois de cyprès
+FirLabel.name=Écriteau en bois de sapin
+JapaneseMapleLabel.name=Écriteau en bois d'érable japonais
+RainbowEucalyptusLabel.name=Écriteau en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodLabel.name=Écriteau en bois de séquoia
+SakuraLabel.name=Écriteau en bois de sakura
+
+AcaciaPotionShelf.name=Étagère à potions en bois d'acacia
+AutumnPotionShelf.name=Étagère à potions en bois d'automne
+BaldCypressPotionShelf.name=Étagère à potions en bois de cyprès chauve
+CypressPotionShelf.name=Étagère à potions en bois de cyprès
+FirPotionShelf.name=Étagère à potions en bois de sapin
+JapaneseMaplePotionShelf.name=Étagère à potions en bois d'érable japonais
+RainbowEucalyptusPotionShelf.name=Étagère à potions en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodPotionShelf.name=Étagère à potions en bois de séquoia
+SakuraPotionShelf.name=Étagère à potions en bois de sakura
+
+AcaciaShelf.name=Étagère en bois d'acacia
+AutumnShelf.name=Étagère en bois d'automne
+BaldCypressShelf.name=Étagère en bois de cyprès chauve
+CypressShelf.name=Étagère en bois de cyprès
+FirShelf.name=Étagère en bois de sapin
+JapaneseMapleShelf.name=Étagère en bois d'érable japonais
+RainbowEucalyptusShelf.name=Étagère en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodShelf.name=Étagère en bois de séquoia
+SakuraShelf.name=Étagère en bois de sakura
+
+AcaciaTable.name=Table en bois d'acacia
+AutumnTable.name=Table en bois d'automne
+BaldCypressTable.name=Table en bois de cyprès chauve
+CypressTable.name=Table en bois de cyprès
+FirTable.name=Table en bois de sapin
+JapaneseMapleTable.name=Table en bois d'érable japonais
+RainbowEucalyptusTable.name=Table en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodTable.name=Table en bois de séquoia
+SakuraTable.name=Table en bois de sakura
+
+AcaciaToolRack.name=Rack à outils en bois d'acacia
+AutumnToolRack.name=Rack à outils en bois d'automne
+BaldCypressToolRack.name=Rack à outils en bois de cyprès chauve
+CypressToolRack.name=Rack à outils en bois de cyprès
+FirToolRack.name=Rack à outils en bois de sapin
+JapaneseMapleToolRack.name=Rack à outils en bois d'érable japonais
+RainbowEucalyptusToolRack.name=Rack à outils en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodToolRack.name=Rack à outils en bois de séquoia
+SakuraToolRack.name=Rack à outils en bois de sakura
+
+AcaciaDesk.name=Bureau en bois d'acacia
+AutumnDesk.name=Bureau en bois d'automne
+BaldCypressDesk.name=Bureau en bois de cyprès chauve
+CypressDesk.name=Bureau en bois de cyprès
+FirDesk.name=Bureau en bois de sapin
+JapaneseMapleDesk.name=Bureau en bois d'érable japonais
+RainbowEucalyptusDesk.name=Bureau en bois d'eucalyptus arc-en-ciel
+ebxlRedwoodDesk.name=Bureau en bois de séquoia
+SakuraDesk.name=Bureau en bois de sakura
