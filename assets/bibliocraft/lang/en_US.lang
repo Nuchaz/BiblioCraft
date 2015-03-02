@@ -6,6 +6,43 @@ language.code=en_US
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Lighting
 
+// BiblioCraft 1.10 additions
+item.plumbline.depth=Depth
+item.PlumbLine.name=Plumb line
+item.FramingSaw.name=Framing Saw
+item.FramingBoard.name=Framing Board
+item.FramingSheet.name=Framing Sheet
+
+OakPaneler.name=Oak Furniture Paneler
+SprucePaneler.name=Spruce Furniture Paneler
+BirchPaneler.name=Birch Furniture Paneler
+JunglePaneler.name=Jungle Furniture Paneler
+AcaciaPaneler.name=Acacia Furniture Paneler
+OldOakPaneler.name=Dark Oak Furniture Paneler
+FramedPaneler.name=Framed Furniture Paneler
+
+FramedClock.name=Framed Clock
+FrameBookcase.name=Framed Bookcase
+FramedWorkbench.name=Framed Fancy Workbench
+FramedSign.name=Framed Fancy Sign
+FramedShelf.name=Framed Shelf
+FramedPotionShelf.name=Framed Potion Shelf
+FramedLabel.name=Framed Label
+FramedMapFrame.name=Framed Map Frame
+FramedPaintingFrame.name=Framed Painting Frame
+FramedDesk.name=Framed Desk
+FramedWeaponRack.name=Framed Tool Rack
+FramedCase.name=Framed Case
+FramedTable.name=Framed Table
+FramedSeat.name=Framed Seat
+item.seatBack.FramedSeatBack.name=Framed Seat Back
+
+gui.painting.showFrame=Show Frame
+gui.painting.hideFrame=Hide Frame
+
+screwgun.selected.desk1=First desk selected.
+screwgun.selected.desk2=Attempting to attach/detach desks.
+
 // BiblioCraft 1.9 additions
 item.AtlasBook.name=Atlas
 item.AtlasPlate.name=Atlas Plate
