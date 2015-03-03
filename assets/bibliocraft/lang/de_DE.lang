@@ -6,6 +6,43 @@ language.code=de_DE
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Beleuchtung
 
+// BiblioCraft 1.10 additions
+item.plumbline.depth=Tiefe
+item.PlumbLine.name=Lot
+item.FramingSaw.name=Einrahmsäge
+item.FramingBoard.name=Rahmenbrett
+item.FramingSheet.name=Rahmenplatte
+
+OakPaneler.name=Eichenholz-Möbeleinrahmer
+SprucePaneler.name=Fichtenholz-Möbeleinrahmer
+BirchPaneler.name=Birkenholz-Möbeleinrahmer
+JunglePaneler.name=Tropenholz-Möbeleinrahmer
+AcaciaPaneler.name=Akazienholz-Möbeleinrahmer
+OldOakPaneler.name=Schwarzeichenholz-Möbeleinrahmer
+FramedPaneler.name=Eingerahmter Möbeleinrahmer
+
+FramedClock.name=Eingerahmte Uhr
+FrameBookcase.name=Eingerahmter Bücherschrank
+FramedWorkbench.name=Eingerahmte Schicke Werkbank
+FramedSign.name=Eingerahmtes Schickes Schild
+FramedShelf.name=Eingerahmtes Regal
+FramedPotionShelf.name=Eingerahmtes Trankregal
+FramedLabel.name=Eingerahmtes Schildchen
+FramedMapFrame.name=Eingerahmter Kartenrahmen
+FramedPaintingFrame.name=Eingerahmter Gemälderahmen
+FramedDesk.name=Eingerahmter Schreibtisch
+FramedWeaponRack.name=Eingerahmtes Werkzeugregal
+FramedCase.name=Eingerahmter Schaukasten
+FramedTable.name=Eingerahmter Tisch
+FramedSeat.name=Eingerahmter Sitz
+item.seatBack.FramedSeatBack.name=Eingerahmte Sitzlehne
+
+gui.painting.showFrame=Rahmen zeigen
+gui.painting.hideFrame=Rahmen verstecken
+
+screwgun.selected.desk1=Ersten Schreibtisch gewählt.
+screwgun.selected.desk2=Versuche, Schreibtische an-/abzubauen.
+
 // BiblioCraft 1.9 additions
 item.AtlasBook.name=Atlas
 item.AtlasPlate.name=Atlasplatte
