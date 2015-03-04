@@ -13,13 +13,13 @@ item.FramingSaw.name=Рамочная пила
 item.FramingBoard.name=Рамочная доска
 item.FramingSheet.name=Рамочный лист
 
-OakPaneler.name=Дубовая мебельная панель
-SprucePaneler.name=Еловая мебельная панель
-BirchPaneler.name=Берёзовая мебельная панель
-JunglePaneler.name=Мебельная панель из тропического дерева
-AcaciaPaneler.name=Мебельная панель из акации
-OldOakPaneler.name=Мебельная панель из тёмного дуба
-FramedPaneler.name=Мебельная панель в рамке
+OakPaneler.name=Дубовый мебельный панельщик
+SprucePaneler.name=Еловый мебельный панельщик
+BirchPaneler.name=Берёзовый мебельный панельщик
+JunglePaneler.name=Мебельный панельщик из тропического дерева
+AcaciaPaneler.name=Мебельный панельщик из акации
+OldOakPaneler.name=Мебельный панельщик из тёмного дуба
+FramedPaneler.name=Мебельный панельщик в рамке
 
 FramedClock.name=Часы в рамке
 FrameBookcase.name=Книжный шкаф в рамке
