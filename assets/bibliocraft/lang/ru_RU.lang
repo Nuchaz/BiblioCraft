@@ -6,6 +6,43 @@ language.code=ru_RU
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Освещение
 
+// BiblioCraft 1.10 additions
+item.plumbline.depth=Глубина
+item.PlumbLine.name=Отвес
+item.FramingSaw.name=Рамочная пила
+item.FramingBoard.name=Рамочная доска
+item.FramingSheet.name=Рамочный лист
+
+OakPaneler.name=Дубовая мебельная панель
+SprucePaneler.name=Еловая мебельная панель
+BirchPaneler.name=Берёзовая мебельная панель
+JunglePaneler.name=Мебельная панель из тропического дерева
+AcaciaPaneler.name=Мебельная панель из акации
+OldOakPaneler.name=Мебельная панель из тёмного дуба
+FramedPaneler.name=Мебельная панель в рамке
+
+FramedClock.name=Часы в рамке
+FrameBookcase.name=Книжный шкаф в рамке
+FramedWorkbench.name=Красивый верстак в рамке
+FramedSign.name=Красивая табличка в рамке
+FramedShelf.name=Полка в рамке
+FramedPotionShelf.name=Полка для зелий в рамке
+FramedLabel.name=Бирка в рамке
+FramedMapFrame.name=Рамка для карты в рамке
+FramedPaintingFrame.name=Картинная рамка в рамке
+FramedDesk.name=Письменный стол в рамке
+FramedWeaponRack.name=Стеллаж для инструментов в рамке
+FramedCase.name=Витрина в рамке
+FramedTable.name=Стол в рамке
+FramedSeat.name=Стул в рамке
+item.seatBack.FramedSeatBack.name=Спинка стула в рамке
+
+gui.painting.showFrame=Показать рамку
+gui.painting.hideFrame=Спрятать рамку
+
+screwgun.selected.desk1=Первый стол выбран.
+screwgun.selected.desk2=Попытка присоединения/отсоединения столов.
+
 // BiblioCraft 1.9 additions
 item.AtlasBook.name=Атлас
 item.AtlasPlate.name=Страница атласа
@@ -25,14 +62,14 @@ gui.atlas.select.tt1=Режим выбора меток
 gui.atlas.select.tt2=Наведите на метку
 gui.atlas.select.tt3=затем нажмите ЛКМ
 gui.atlas.select.tt4=для выбора метки.
-gui.atlas.select.tt5=Зажмите Ctrl и наведите на карту
+gui.atlas.select.tt5=Зажмите Ctrl и наведите на карту,
 gui.atlas.select.tt6=чтобы увидеть коорд-ты реального мира.
 gui.atlas.select.tt7=Нажмите Ctrl + ЛКМ
 gui.atlas.select.tt8=для выбора точки на карте.
 
 gui.atlas.edit.tt1=Режим правки меток
 gui.atlas.edit.tt2=Нажмите на метку, чтобы изменить
-gui.atlas.edit.tt3=ее название и цвет
+gui.atlas.edit.tt3=её название и цвет
 gui.atlas.edit.tt4=или удалить её с карты.
 gui.atlas.edit.tt5=Чтобы быстро удалить метку,
 gui.atlas.edit.tt6=нажмите Shift + ЛКМ на метке.
@@ -42,7 +79,7 @@ gui.atlas.add.tt2=Нажмите на карту, чтобы
 gui.atlas.add.tt3=добавить новую метку.
 gui.atlas.add.tt4=Появится меню, где Вы сможете
 gui.atlas.add.tt5=выбрать название и цвет.
-gui.atlas.add.tt6=Нажмите Shift + ЛКМ ,чтобы
+gui.atlas.add.tt6=Нажмите Shift + ЛКМ, чтобы
 gui.atlas.add.tt7=добавить на карту метку
 gui.atlas.add.tt8=случайного цвета и названия.
 
@@ -55,15 +92,15 @@ gui.atlas.autocenter.tt3=карту, на которой указано
 gui.atlas.autocenter.tt4=Ваше местоположение на
 gui.atlas.autocenter.tt5=выбранном масштабе.
 
-gui.atlas.autocreate.tt1=Если включено, создает карты
+gui.atlas.autocreate.tt1=Если включено, создаёт карты
 gui.atlas.autocreate.tt2=из чистых, забирая их из Вашего
 gui.atlas.autocreate.tt3=инвентаря. Если автоцентровка 
 gui.atlas.autocreate.tt4=не может найти подходящую карту, 
-gui.atlas.autocreate.tt5=то создастся новая карта
+gui.atlas.autocreate.tt5=то создаётся новая карта
 gui.atlas.autocreate.tt6=такого же масштаба, как и
 gui.atlas.autocreate.tt7=последняя, выбранная Вами.
 
-gui.atlas.autocreate.tt8=Для рабоыт этого режима должна
+gui.atlas.autocreate.tt8=Для работы этого режима должна
 gui.atlas.autocreate.tt9=быть включена автоцентровка.
 
 gui.atlas.transfer=Перенос меток
@@ -76,10 +113,10 @@ gui.compass.currentlocation=Местоположение
 gui.paintpress.page=Стр.
 gui.paintpress.of=из
 
-item.TesterItem.name=Тестер имен
+item.TesterItem.name=Тестер имён
 gui.testeritem.name=ItemStack Name Tester    //<-- Можно не переводить
-gui.testeritem.display=Display name:
-gui.testeritem.unlocal=Unlocalized name:
+gui.testeritem.display=Отображаемое имя:
+gui.testeritem.unlocal=Нелокализованное имя:
 // end of 1.9 additions
 
 // All BiblioCraft 1.8 additions and changes //
@@ -138,7 +175,7 @@ OrangeTypewriter.name=Оранжевая печатная машинка
 YellowTypewriter.name=Жёлтая печатная машинка
 LimeTypewriter.name=Лаймовая печатная машинка
 GreenTypewriter.name=Зелёная печатная машинка
-CyanTypewriter.name=бирюзовая печатная машинка
+CyanTypewriter.name=Бирюзовая печатная машинка
 LightBlueTypewriter.name=Светло-синяя печатная машинка
 BlueTypewriter.name=Синяя печатная машинка
 PurpleTypewriter.name=Фиолетовая печатная машинка
