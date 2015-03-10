@@ -6,6 +6,118 @@ language.code=it_IT
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft luci
 
+// BiblioCraft 1.10 additions
+item.plumbline.depth=Profondità
+item.PlumbLine.name=Filo a piombo
+item.FramingSaw.name=Sega per telaio
+item.FramingBoard.name=Asse per telaio
+item.FramingSheet.name=Foglio per telaio
+
+OakPaneler.name=Pannellatore per mobili di quercia
+SprucePaneler.name=Pannellatore per mobili d'abete
+BirchPaneler.name=Pannellatore per mobili di betulla
+JunglePaneler.name=Pannellatore per mobili di mogano
+AcaciaPaneler.name=Pannellatore per mobili d'acacia
+OldOakPaneler.name=Pannellatore per mobili di quercia scura
+FramedPaneler.name=Telaio di pannellatore per mobili
+
+FramedClock.name=Telaio di orologio
+FrameBookcase.name=Telaio di libreria
+FramedWorkbench.name=Telaio di banco da lavoro chic
+FramedSign.name=Telaio di cartello chic
+FramedShelf.name=Telaio di scaffale
+FramedPotionShelf.name=Telaio di scaffale per le pozioni
+FramedLabel.name=Telaio di etichetta
+FramedMapFrame.name=Telaio di cornice per mappa
+FramedPaintingFrame.name=Telaio di cornice per quadro
+FramedDesk.name=Telaio di scrivania
+FramedWeaponRack.name=Telaio di scaffale per attrezzi
+FramedCase.name=Telaio di vetrina
+FramedTable.name=Telaio di tavolo
+FramedSeat.name=Telaio di sgabello
+item.seatBack.FramedSeatBack.name=Telaio di schienale
+
+gui.painting.showFrame=Mostra telaio
+gui.painting.hideFrame=Nascondi telaio
+
+screwgun.selected.desk1=Prima scrivania selezionata.
+screwgun.selected.desk2=Provato a attaccare/dividere scrivania.
+
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=Atlante
+item.AtlasPlate.name=Piastra per atlante
+item.DeathCompass.name=Bussola eterna
+enchant.deathcompass=Bussola eterna
+gui.atlas.zoom=Lvl zoom
+gui.atlas.center=Auto-centra
+gui.atlas.create=Auto-crea
+gui.atlas.mapXcenter=Centro X:
+gui.atlas.mapZcenter=Centro Z:
+gui.atlas.mapZoom=Lvl zoom mappa:
+gui.atlas.yes=Si
+gui.atlas.no=No
+gui.atlas.atlas=L'atlante
+
+gui.atlas.select.tt1=Modalità selezione punto
+gui.atlas.select.tt2=Passa il cursore su un punto
+gui.atlas.select.tt3=e fai clic sinistro per
+gui.atlas.select.tt4=selezionarlo.
+gui.atlas.select.tt5=Tieni Ctrl e passa il cursore sulla
+gui.atlas.select.tt6=mappa per vedere le coordinate.
+gui.atlas.select.tt7=Clic sinistro mentre tieni Ctrl per
+gui.atlas.select.tt8=selezionare un punto sulla mappa.
+
+gui.atlas.edit.tt1=Modalità modifica puntino
+gui.atlas.edit.tt2=Clicca un punto per modificare
+gui.atlas.edit.tt3=il colore e il nome del puntino
+gui.atlas.edit.tt4=o cancellare il puntino selezionato.
+gui.atlas.edit.tt5=Per eliminare velocemente un punto,
+gui.atlas.edit.tt6=tieni premuto Shift e clicca il punto.
+
+gui.atlas.add.tt1=Modalità aggiungi puntino
+gui.atlas.add.tt2=Clicca dovunque sulla mappa per
+gui.atlas.add.tt3=aggiungere un nuovo punto.
+gui.atlas.add.tt4=Un dialogo comparirà per chiedere
+gui.atlas.add.tt5=il nome e il colore.
+gui.atlas.add.tt6=Premi shift e clicca la mappa
+gui.atlas.add.tt7=per piazzare un nuovo puntino
+gui.atlas.add.tt8=con un nome e colore a caso.
+
+gui.atlas.switchtoinv=Cambia a vista Inventario.
+gui.atlas.switchtoatlas=Cambia a vista Mappa.
+
+gui.atlas.autocenter.tt1=Se attivato, l'atlante
+gui.atlas.autocenter.tt2=cercherà nell'inventario
+gui.atlas.autocenter.tt3=una mappa valida che mostra
+gui.atlas.autocenter.tt4=dove sei al livello
+gui.atlas.autocenter.tt5=di zoom selezionato.
+
+gui.atlas.autocreate.tt1=Se attivato, creerà nuove mappe
+gui.atlas.autocreate.tt2=da mappe vuote nell'inventario.
+gui.atlas.autocreate.tt3=Quando l'auto-centra fallisce
+gui.atlas.autocreate.tt4=a trovare una mappa valida,
+gui.atlas.autocreate.tt5=ne creerà una nuova sulla base
+gui.atlas.autocreate.tt6=dell'ultima mappa caricata al
+gui.atlas.autocreate.tt7=livello di zoom selezionato.
+
+gui.atlas.autocreate.tt8=Auto-centra deve essere attivato
+gui.atlas.autocreate.tt9=affincè questo funzioni.
+
+gui.atlas.transfer=Trasferimento punti
+gui.atlas.transfer.cancel=Cancella
+gui.atlas.transfer.from=Dall'atlante alla cornice
+gui.atlas.transfer.to=Dalla cornice all'atlante
+
+gui.compass.currentlocation=Pos attuale
+
+gui.paintpress.page=Pagina
+gui.paintpress.of=di
+
+item.TesterItem.name=Testatore di nome ItemStack
+gui.testeritem.name=Testatore di nome ItemStack
+gui.testeritem.display=Nome mostrato:
+gui.testeritem.unlocal=Nome non localizato:
+// end of 1.9 additions
 
 // All BiblioCraft 1.8 additions and changes //
 
