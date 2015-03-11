@@ -11,7 +11,7 @@ item.plumbline.depth=Profondità
 item.PlumbLine.name=Filo a piombo
 item.FramingSaw.name=Sega per telaio
 item.FramingBoard.name=Asse per telaio
-item.FramingSheet.name=Foglio per telaio
+item.FramingSheet.name=Pannello per telaio
 
 OakPaneler.name=Pannellatore per mobili di quercia
 SprucePaneler.name=Pannellatore per mobili d'abete
@@ -37,8 +37,8 @@ FramedTable.name=Telaio di tavolo
 FramedSeat.name=Telaio di sgabello
 item.seatBack.FramedSeatBack.name=Telaio di schienale
 
-gui.painting.showFrame=Mostra telaio
-gui.painting.hideFrame=Nascondi telaio
+gui.painting.showFrame=Mostra cornice
+gui.painting.hideFrame=Nascondi cornice
 
 screwgun.selected.desk1=Prima scrivania selezionata.
 screwgun.selected.desk2=Provato a attaccare/dividere scrivania.
@@ -142,8 +142,8 @@ gui.paintpress.custom=Personaliz.
 
 gui.painting.scale=Scala
 gui.painting.resolution=Risoluzione
-gui.painting.aspectRatio=Rapporto d'aspetto
-gui.painting.size=Grandezza quadro
+gui.painting.aspectRatio=Rapp. d'aspetto
+gui.painting.size=Grand. quadro
 gui.painting.rotation=Rotazione
 gui.painting.corner=Angoli
 
