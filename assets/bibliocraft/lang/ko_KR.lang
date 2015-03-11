@@ -7,6 +7,43 @@ language.code=ko_KR
 itemGroup.BiblioCraft=비블리오 크래프트[Bibliocraft]
 itemGroup.BiblioCraftLights=비블리오 크래프트 조명[Bibliocraft]
 
+// BiblioCraft 1.10 additions
+item.plumbline.depth=깊이
+item.PlumbLine.name=다림 줄
+item.FramingSaw.name=프레임 톱
+item.FramingBoard.name=프레임 판자
+item.FramingSheet.name=프레임 시트
+
+OakPaneler.name=참나무 가구 작업대
+SprucePaneler.name=가문비나무 가구 작업대
+BirchPaneler.name=전나무 가구 작업대
+JunglePaneler.name=정글나무 가구 작업대
+AcaciaPaneler.name=아카시아 가구 작업대
+OldOakPaneler.name=검은 참나무 가구 작업대
+FramedPaneler.name=프레임 가구 작업대
+
+FramedClock.name=프레임 시계
+FrameBookcase.name=프레임 책장
+FramedWorkbench.name=프레임 작업대
+FramedSign.name=프레임 화려한 간판
+FramedShelf.name=프레임 선반
+FramedPotionShelf.name=프레임 포션선반
+FramedLabel.name=프레임 라벨
+FramedMapFrame.name=프레임 지도 걸개
+FramedPaintingFrame.name=프레임 액자
+FramedDesk.name=프레임 책상
+FramedWeaponRack.name=프레임 도구걸개
+FramedCase.name=프레임 나무 갑
+FramedTable.name=프레임 테이블
+FramedSeat.name=프레임 의자
+item.seatBack.FramedSeatBack.name=프레임 나무 등받이
+
+gui.painting.showFrame=프레임 보이기
+gui.painting.hideFrame=프레임 숨기기
+
+screwgun.selected.desk1=첫번째 데스크 선택
+screwgun.selected.desk2=Attempting to attach/detach desks.
+
 // BiblioCraft 1.9 additions
 item.AtlasBook.name=지도
 item.AtlasPlate.name=지도 걸개
