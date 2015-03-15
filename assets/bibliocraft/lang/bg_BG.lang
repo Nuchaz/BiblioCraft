@@ -6,6 +6,37 @@ language.code=bg_BG
 itemGroup.BiblioCraft=Библио Крафт
 itemGroup.BiblioCraftLights=Библио Крафт Oсветление
 
+// All BiblioCraft 1.8 additions and changes //
+
+screwgun.selected.painting1=Първа картина избрана
+screwgun.selected.painting2=Втора картина избрана
+screwgun.selected.clock1=Първи часовник избран
+screwgun.selected.clock2=Втори часовник избран
+
+item.PaintingCanvas.name=Платно за Картини
+tile.BiblioPaintPress.name=Преса за Картини
+
+gui.painting.scale=Скала
+gui.painting.resolution=Резолюция
+gui.painting.aspectRatio=Съотношение на Страните
+gui.painting.size=Размер на Картината
+gui.painting.rotation=Ротация
+gui.painting.corner=Главен Ъгъл
+
+OakPaintingFrame.name=Дъбова Художествена Рамка
+SprucePaintingFrame.name=Смърчова Художествена Рамка
+BirchPaintingFrame.name=Брезова Художествена Рамка
+JunglePaintingFrame.name=Джунглова Художествена Рамка
+AcaciaPaintingFrame.name=Акациева Художествена Рамка
+OldOakPaintingFrame.name=Тъмно Дъбова Художествена Рамка
+
+OakClock.name=Дъбов Часовник
+SpruceClock.name=Смърчов Часовник
+BirchClock.name=Брезов Часовник
+JungleClock.name=Джунглов Часовник
+AcaciaClock.name=Акациев Часовник
+OldOakClock.name=Тъмно Дъбов Часовник
+
 // End of 1.8 additions and changes // 
 
 // All BiblioCraft 1.7 additions and changes///
