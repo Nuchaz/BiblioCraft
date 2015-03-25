@@ -3,7 +3,7 @@ language.region=CN
 language.code=zh_CN
 
 // Tab Names
-itemGroup.BiblioWoodsHighlands=收藏馆:高地版
+itemGroup.BiblioWoodsHighlands=BiblioCraft|高地
 
 GreyWoodFancyWorkbench.name=灰木精致工作台
 hlRedWoodFancyWorkbench.name=红木精致工作台
