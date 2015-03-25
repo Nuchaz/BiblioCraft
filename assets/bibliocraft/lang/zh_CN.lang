@@ -3,8 +3,45 @@ language.region=CN
 language.code=zh_CN
 
 // Tab Names
-itemGroup.BiblioCraft=展示架
-itemGroup.BiblioCraftLights=展示架|灯具
+itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=BiblioCraft|灯具
+
+// BiblioCraft 1.10 additions
+item.plumbline.depth=深度
+item.PlumbLine.name=铅垂线
+item.FramingSaw.name=镶框锯
+item.FramingBoard.name=镶框板
+item.FramingSheet.name=镶框片
+
+OakPaneler.name=橡木家具板材机
+SprucePaneler.name=云杉家具板材机
+BirchPaneler.name=桦木家具板材机
+JunglePaneler.name=丛林木家具板材机
+AcaciaPaneler.name=金合欢家具板材机
+OldOakPaneler.name=深色橡木家具板材机
+FramedPaneler.name=镶框家具板材机
+
+FramedClock.name=镶框钟
+FrameBookcase.name=镶框书架
+FramedWorkbench.name=镶框精致工作台
+FramedSign.name=镶框精致木牌
+FramedShelf.name=镶框架子
+FramedPotionShelf.name=镶框药水架
+FramedLabel.name=镶框标签
+FramedMapFrame.name=镶框地图框架
+FramedPaintingFrame.name=镶框画框
+FramedDesk.name=镶框桌子
+FramedWeaponRack.name=镶框工具架
+FramedCase.name=镶框展示盒
+FramedTable.name=镶框台桌
+FramedSeat.name=镶框椅子
+item.seatBack.FramedSeatBack.name=镶框椅背
+
+gui.painting.showFrame=显示画框
+gui.painting.hideFrame=隐藏画框
+
+screwgun.selected.desk1=已选择第一张桌子.
+screwgun.selected.desk2=试图连接或分离桌子.
 
 // BiblioCraft 1.9 additions
 item.AtlasBook.name=地图册
