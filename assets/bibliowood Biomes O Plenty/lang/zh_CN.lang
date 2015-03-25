@@ -3,7 +3,7 @@ language.region=CN
 language.code=zh_CN
 
 // Tab Names
-itemGroup.BiblioWoodsBoP=展示架(BoP组件)
+itemGroup.BiblioWoodsBoP=Bibliocraft|超大生态群落
 
 // 1.8.0 additions
 SacredOakClock.name=天域树橡树时钟
