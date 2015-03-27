@@ -6,6 +6,39 @@ language.code=fr_CA
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=Éclairage de BiblioCraft
 
+// BiblioCraft 1.10 additions
+item.plumbline.depth=Profondeur 
+item.PlumbLine.name=Fil à plomb
+item.FramingSaw.name=Scie de cadrage
+item.FramingBoard.name=Planche de cadrage
+item.FramingSheet.name=Feuille de cadrage
+OakPaneler.name=Panneleur de meuble en bois de chêne
+SprucePaneler.name=Panneleur de meuble en bois d'épinette
+BirchPaneler.name=Panneleur de meuble en bois de bouleau
+JunglePaneler.name=Panneleur de meuble en bois d'acajou
+AcaciaPaneler.name=Panneleur de meuble en bois d'acacia
+OldOakPaneler.name=Panneleur de meuble en bois de chêne noir
+FramedPaneler.name=Panneleur de meuble encadré
+FramedClock.name=Pendule encadré
+FrameBookcase.name=Bibliothèque encadrée
+FramedWorkbench.name=Établi chic encadré
+FramedSign.name=Panneau chic encadré
+FramedShelf.name=Étagère encadrée
+FramedPotionShelf.name=Étagère à potions encadrée
+FramedLabel.name=Écriteau encadré
+FramedMapFrame.name=Cadre de carte encadré
+FramedPaintingFrame.name=Cadre de peinture encadré
+FramedDesk.name=Bureau encadré
+FramedWeaponRack.name=Rack à outils encadré
+FramedCase.name=Vitrine encadrée
+FramedTable.name=Table encadrée
+FramedSeat.name=Siège encadré
+item.seatBack.FramedSeatBack.name=Dossier de siège encadré
+gui.painting.showFrame=Avec cadre
+gui.painting.hideFrame=Sans cadre
+screwgun.selected.desk1=Premier bureau sélectionné.
+screwgun.selected.desk2=Tentative d'attacher/de détacher les bureaux.
+
 // BiblioCraft 1.9 additions
 item.AtlasBook.name=Atlas
 item.AtlasPlate.name=Plaque d'imprimerie d'atlas
