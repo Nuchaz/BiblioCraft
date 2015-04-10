@@ -1,6 +1,19 @@
 ///// BiblioWoods TFC /////////
 itemGroup.BiblioWoodsTFC=BiblioWoods: TFC Edition
 
+gui.plans.handdrill=Hand Drill
+gui.plans.compassbody=Waypoint Compass Body
+gui.plans.compassneedle=Waypoint Compass Needle
+gui.plans.plumbline=Plumb Line
+gui.plans.deskbell=Desk Bell
+gui.plans.chase=Chase
+gui.plans.spectacleframes=Spectacle Frames
+gui.plans.monocleframe=Monocle Frame
+gui.plans.typefacing=Typefacing
+gui.plans.rollers=Rollers
+gui.plans.maptool=Map Tool
+gui.plans.lamp=Lamp Base
+gui.plans.lantern=Lantern Base
 
 AshBookcase.name=Ash Bookcase
 AspenBookcase.name=Aspen Bookcase
