@@ -30,7 +30,7 @@ Language	    -           Lang Code	        -       Author(s)
  
  Polish	           -       pl_PL	       -             Miter010
  
- Swedish	           -     sv_SE	       -             Allmyr
+ Swedish	           -     sv_SE	       -             Allmyr, edvind
  
  Italian	           -     it_IT	     -               TheVikingWarrior
  
