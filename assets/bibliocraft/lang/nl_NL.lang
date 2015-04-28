@@ -6,7 +6,7 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=Bibliocraft Licht
 // All BiblioCraft 1.7 additions and changes///
 gui.recipe.areyousure=Weet je het zeker?
-gui.recipe.finalize=Als je op ja te hebben geklikt kan dit boek niet meer bewerkt worden.
+gui.recipe.finalize=Nadat je op ja te hebben geklikt kan dit boek niet meer bewerkt worden.
 gui.recipe.description=Voeg een beschrijving toe
 swordpedestal.name=Zwaardhouder
 swordpedestal.white=Witte rand
