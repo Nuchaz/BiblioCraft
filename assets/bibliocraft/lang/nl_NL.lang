@@ -59,7 +59,7 @@ book.cancel=Annuleren
 book.linenum=Regel#
 book.title=Titel
 book.description=Beschrijving
-book.ingredients=Ingrediënten vereist:
+book.ingredients=IngrediÃ«nten vereist:
 book.overwriterecipe=Overschrijf huidig
 book.overwriterecipe2=receptenboek.
 book.saverecipe=Sla recept op naar
@@ -100,7 +100,7 @@ gui.sign.tooltip8=Voeg een van de volgende nummers/letters in na het ontwerpsymb
 gui.sign.tooltip9=Klik op de knop of press de alt toets om een ontwerpsymbool in te voegen op de geselecteerde regel.
 gui.sign.bold=Dik gedrukt
 gui.sign.strikethrough=Doorstreept
-gui.sign.underline=Onderlijnt
+gui.sign.underline=Onderstreept
 gui.sign.italic=Schuingedrukt
 gui.sign.scale=Lettergrootte
 gui.sign.format=Ontwerp
@@ -185,11 +185,11 @@ tape.measureeastwest=Afmeting Oost/West =
 tape.measureheight=Afmeting Hoogte =
 tape.nomeasure=Geen Afmeting.
 tape.measure=Afmeting =
-tape.startmeasure=Starten meten.
+tape.startmeasure=Start meten.
 tape.mode0=Omschakelen naar Noord/Zuid, Oost/West, en Hoogte.
 tape.mode1=Omschakelen naar absolute Afmeting.
 lock.creativeonly=Alleen in Creative Mode
-lock.notowner=Jij beheert dit blok niet.
+lock.notowner=Jij bent niet de eigenaar van dit blok.
 lock.locked=Dit blok is nu vergrendeld.
 lock.unlocked=Dit blok is nu ontgrendeld.
 // Blocks
