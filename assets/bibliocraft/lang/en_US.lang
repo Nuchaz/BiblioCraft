@@ -6,6 +6,9 @@ language.code=en_US
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Lighting
 
+gui.clock.pulse=Pulse
+gui.clock.solid=Solid
+
 // BiblioCraft 1.10 additions
 item.plumbline.depth=Depth
 item.PlumbLine.name=Plumb line
