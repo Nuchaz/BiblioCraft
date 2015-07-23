@@ -5,6 +5,7 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Lighting
+item.paneler.panels=Panels:
 
 gui.clock.pulse=Pulse
 gui.clock.solid=Solid
