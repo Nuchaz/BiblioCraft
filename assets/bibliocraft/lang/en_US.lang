@@ -10,6 +10,31 @@ item.paneler.panels=Panels:
 gui.clock.pulse=Pulse
 gui.clock.solid=Solid
 
+jds.tileentityarmorstand=Armor Stand
+jds.tileentitybookcase=Bookcase
+jds.teclipboard=Clipboard
+jds.tileentitycookiejar=Cookie Jar
+jds.tileentitywoodlabel=Label
+jds.tileentitygenericshelf=Shelf
+jds.tileentitymapframe=Map Frame
+jds.tefurnituretile=Furniture Paneler
+jds.tileentityfancyworkbench=Fancy Workbench
+jds.tileentityfancysign=Fancy Sign
+jds.tileentitydiscrack=Disc Rack
+jds.tileentitydinnerplate=Dinner Plate
+jds.tileentitypotionshelf=Potion Shelf
+jds.tileentitywritingdesk=Desk
+jds.tileentityweaponcase=Case
+jds.tileentitytoolrack=Tool Rack
+jds.tileentitytypewriter=Typewriter
+jds.tileentitytypemachine=Typesetting Table
+jds.tileentitytable=Table
+jds.tileentityswordpedestal=Sword Pedestal
+jds.tileentityseat=Seat
+jds.tileentityprintpress=Printing Press
+jds.tileentitypaintpress=Painting Press
+jds.tileentitypainting=Painting
+
 // BiblioCraft 1.10 additions
 item.plumbline.depth=Depth
 item.PlumbLine.name=Plumb line
