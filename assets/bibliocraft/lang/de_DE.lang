@@ -5,6 +5,35 @@ language.code=de_DE
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Beleuchtung
+item.paneler.panels=Rahmen:
+
+gui.clock.pulse=Pulse
+gui.clock.solid=Statisch
+
+jds.tileentityarmorstand=Rüstungsstand
+jds.tileentitybookcase=Bücherschrank
+jds.teclipboard=Klemmbrett
+jds.tileentitycookiejar=Keksglas
+jds.tileentitywoodlabel=Schildchen
+jds.tileentitygenericshelf=Regal
+jds.tileentitymapframe=Kartenrahmen
+jds.tefurnituretile=Möbeleinrahmer
+jds.tileentityfancyworkbench=Schicke Werkbank
+jds.tileentityfancysign=Schickes Schild
+jds.tileentitydiscrack=Plattenregal
+jds.tileentitydinnerplate=Teller
+jds.tileentitypotionshelf=Trankregal
+jds.tileentitywritingdesk=Schreibtisch
+jds.tileentityweaponcase=Schaukasten
+jds.tileentitytoolrack=Werkzeugregal
+jds.tileentitytypewriter=Schreibmaschine
+jds.tileentitytypemachine=Drucksetzer
+jds.tileentitytable=Tisch
+jds.tileentityswordpedestal=Schwertsockel
+jds.tileentityseat=Sitz
+jds.tileentityprintpress=Druckpresse
+jds.tileentitypaintpress=Gemäldepresse
+jds.tileentitypainting=Gemälde
 
 // BiblioCraft 1.10 additions
 item.plumbline.depth=Tiefe
@@ -183,7 +212,7 @@ MagentaTypewriter.name=Magentafarbene Schreibmaschine
 PinkTypewriter.name=Pinke Schreibmaschine
 BrownTypewriter.name=Braune Schreibmaschine
 
-// End of 1.8 additions and changes //
+// End of 1.8 additions and changes // 
 
 
 // All BiblioCraft 1.7 additions and changes///
@@ -219,7 +248,7 @@ OldOakSign.name=Schickes Schwarzeichenholzschild
 OakWorkbench.name=Schicke Eichenholzwerkbank
 SpruceWorkbench.name=Schicke Fichtenholzwerkbank
 BirchWorkbench.name=Schicke Birkenholzwerkbank
-JungleWorkbench.nameSchicke Tropenholzwerkbank
+JungleWorkbench.name=Schicke Tropenholzwerkbank
 AcaciaWorkbench.name=Schicke Akazienholzwerkbank
 OldOakWorkbench.name=Schicke Schwarzeichenholzwerkbank
 
