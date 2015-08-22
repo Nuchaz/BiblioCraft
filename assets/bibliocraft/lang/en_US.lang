@@ -7,6 +7,20 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Lighting
 item.paneler.panels=Panels:
 
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=Stockroom Catalog
+jds.tileentitychest=Framed Chest
+FramedChest.name=Framed Chest
+gui.catalog.close=Close
+gui.catalog.count=Count
+gui.catalog.names=Item / Block Name
+screwgun.selected.chest1=First Chest selected.
+screwgun.selected.chest2=Attempting to attach/detach Chests.
+gui.left=Left
+gui.right=Right
+gui.craft=Craft
+
+
 gui.clock.pulse=Pulse
 gui.clock.solid=Solid
 
