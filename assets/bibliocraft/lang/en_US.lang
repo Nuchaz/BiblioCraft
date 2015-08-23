@@ -19,6 +19,11 @@ screwgun.selected.chest2=Attempting to attach/detach Chests.
 gui.left=Left
 gui.right=Right
 gui.craft=Craft
+gui.recipe.crafted=has been crafted
+gui.recipe.failed=Failed to remove ingredients
+gui.recipe.invalid=Invalid Recipe
+gui.recipe.missing=Missing Ingredients
+gui.recipe.wrong=Something went wrong. No Recipe Book with valid recipe data found or something.
 
 
 gui.clock.pulse=Pulse
