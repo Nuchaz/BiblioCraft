@@ -8,6 +8,24 @@ itemGroup.BiblioCraft=비블리오 크래프트[Bibliocraft]
 itemGroup.BiblioCraftLights=비블리오 크래프트 조명[Bibliocraft]
 item.paneler.panels=패널:
 
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=물품보관소 카탈로그
+jds.tileentitychest=프레임 체스트
+FramedChest.name=프레인 체스트
+gui.catalog.close=닫기
+gui.catalog.count=갯구
+gui.catalog.names=아이템 /블럭 이름
+screwgun.selected.chest1=첫번째 상자 선택.
+screwgun.selected.chest2=Attempting to attach/detach Chests.
+gui.left=왼쪽
+gui.right=오른쪽
+gui.craft=제작
+gui.recipe.crafted=제작완료
+gui.recipe.failed=제작실패
+gui.recipe.invalid=존재하지않는 조합법
+gui.recipe.missing=재료부족
+gui.recipe.wrong=제작에 실패했습니다. 존재하지않는 조합법이거나 재료가 부족합니다.
+
 gui.clock.pulse=신호
 gui.clock.solid=Solid
 
