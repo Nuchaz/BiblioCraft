@@ -5,13 +5,61 @@ language.code=ru_RU
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Освещение
+item.paneler.panels=Покрытие:
+
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=Stockroom Catalog
+jds.tileentitychest=Каркасный сундук
+FramedChest.name=Каркасный сундук
+gui.catalog.close=Закрыть
+gui.catalog.count=Количество
+gui.catalog.names=Название Предмета / Блока
+screwgun.selected.chest1=Первый сундук выбран.
+screwgun.selected.chest2=Попытка соедин./разъедин. сундуки.
+gui.left=Лево
+gui.right=Право
+gui.craft=Сбор
+gui.recipe.crafted=Успешно собрано
+gui.recipe.failed=Удаление ингредиентов не удалось
+gui.recipe.invalid=Неверный план
+gui.recipe.missing=Отсутствуют ингредиенты
+gui.recipe.wrong=Что-то не так. Не найдена книга-план.
+
+
+gui.clock.pulse=Импульс
+gui.clock.solid=Постоянн.
+
+jds.tileentityarmorstand=Стойка для брони
+jds.tileentitybookcase=Книжный шкаф
+jds.teclipboard=Планшет
+jds.tileentitycookiejar=Банка для печенья
+jds.tileentitywoodlabel=Бирка
+jds.tileentitygenericshelf=Полка
+jds.tileentitymapframe=Рамка для карты
+jds.tefurnituretile=Мебельный панельщик
+jds.tileentityfancyworkbench=Красивый верстак
+jds.tileentityfancysign=Красивая табличка
+jds.tileentitydiscrack=Стойка для пластинок
+jds.tileentitydinnerplate=Обеденная тарелка
+jds.tileentitypotionshelf=Полка для зелий
+jds.tileentitywritingdesk=Стол
+jds.tileentityweaponcase=Витрина
+jds.tileentitytoolrack=Стеллаж для инструментов
+jds.tileentitytypewriter=Печатная машинка
+jds.tileentitytypemachine=Типографский стол
+jds.tileentitytable=Стол
+jds.tileentityswordpedestal=Пьедестал для меча
+jds.tileentityseat=Сиденье
+jds.tileentityprintpress=Печатный станок
+jds.tileentitypaintpress=Картинный станок
+jds.tileentitypainting=Картина
 
 // BiblioCraft 1.10 additions
 item.plumbline.depth=Глубина
 item.PlumbLine.name=Отвес
-item.FramingSaw.name=Рамочная пила
-item.FramingBoard.name=Рамочная доска
-item.FramingSheet.name=Рамочный лист
+item.FramingSaw.name=Пила
+item.FramingBoard.name=Каркасная доска
+item.FramingSheet.name=Каркасный лист
 
 OakPaneler.name=Дубовый мебельный панельщик
 SprucePaneler.name=Еловый мебельный панельщик
@@ -19,23 +67,23 @@ BirchPaneler.name=Берёзовый мебельный панельщик
 JunglePaneler.name=Мебельный панельщик из тропического дерева
 AcaciaPaneler.name=Мебельный панельщик из акации
 OldOakPaneler.name=Мебельный панельщик из тёмного дуба
-FramedPaneler.name=Мебельный панельщик в рамке
+FramedPaneler.name=Каркасный мебельный панельщик
 
-FramedClock.name=Часы в рамке
-FrameBookcase.name=Книжный шкаф в рамке
-FramedWorkbench.name=Красивый верстак в рамке
-FramedSign.name=Красивая табличка в рамке
-FramedShelf.name=Полка в рамке
-FramedPotionShelf.name=Полка для зелий в рамке
-FramedLabel.name=Бирка в рамке
-FramedMapFrame.name=Рамка для карты в рамке
-FramedPaintingFrame.name=Картинная рамка в рамке
-FramedDesk.name=Письменный стол в рамке
-FramedWeaponRack.name=Стеллаж для инструментов в рамке
-FramedCase.name=Витрина в рамке
-FramedTable.name=Стол в рамке
-FramedSeat.name=Стул в рамке
-item.seatBack.FramedSeatBack.name=Спинка стула в рамке
+FramedClock.name=Каркасные часы
+FrameBookcase.name=Каркасный книжный шкаф
+FramedWorkbench.name=Каркасный красивый верстак
+FramedSign.name=Каркасная красивая табличка
+FramedShelf.name=Каркасная полка
+FramedPotionShelf.name=Каркасная полка для зелий
+FramedLabel.name=Каркасная бирка
+FramedMapFrame.name=Каркасная рамка для карты
+FramedPaintingFrame.name=Каркасная картинная рамка
+FramedDesk.name=Каркасный письменный стол
+FramedWeaponRack.name=Каркасный стеллаж для инструментов
+FramedCase.name=Каркасная витрина
+FramedTable.name=Каркасный стол
+FramedSeat.name=Каркасный стул
+item.seatBack.FramedSeatBack.name=Каркасная спинка стула
 
 gui.painting.showFrame=Показать рамку
 gui.painting.hideFrame=Спрятать рамку
@@ -132,7 +180,7 @@ screwgun.selected.clock1=Первые часы выбраны
 screwgun.selected.clock2=Вторые часы выбраны
 drill.failed=Соединение не удалось
 
-item.PaintingCanvas.name=Холост для рисования
+item.PaintingCanvas.name=Холст для рисования
 tile.BiblioPaintPress.name=Картинный станок
 
 gui.paintpress.transfer=Напечатать
@@ -225,7 +273,7 @@ OldOakWorkbench.name=Красивый верстак из тёмного дуб�
 
 tile.BiblioBell.name=Настольный звонок
 
-item.RecipeBook.name=Пустая книга рецептов
+item.RecipeBook.name=Пустая книга-план
 item.SlottedBook.name=Вырезанная книга
 item.BigBook.name=Большая письменная книга
 item.HandDrill.name=Коловорот
@@ -249,7 +297,7 @@ book.title=Название
 book.description=Описание
 book.ingredients=Необходимые ингредиенты:
 book.overwriterecipe=Переписать текущую
-book.overwriterecipe2=книгу рецептов.
+book.overwriterecipe2=книгу-план.
 book.saverecipe=Сохранить рецепт на
 book.saverecipe2=пустую книгу.
 book.loadrecipe=Загрузить компоненты
