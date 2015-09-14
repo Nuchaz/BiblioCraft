@@ -5,6 +5,54 @@ language.code=zh_CN
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft|灯具
+item.paneler.panels=板材:
+
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=仓库目录
+jds.tileentitychest=镶框箱子
+FramedChest.name=镶框箱子
+gui.catalog.close=关闭
+gui.catalog.count=计数
+gui.catalog.names=物品 / 方块名称
+screwgun.selected.chest1=已选中第一个箱子
+screwgun.selected.chest2=尝试连接/分离箱子
+gui.left=左
+gui.right=右
+gui.craft=合成
+gui.recipe.crafted=成功合成
+gui.recipe.failed=删除物品失败
+gui.recipe.invalid=错误的合成表
+gui.recipe.missing=缺少物品
+gui.recipe.wrong=未知错误
+
+
+gui.clock.pulse=短脉冲
+gui.clock.solid=长脉冲
+
+jds.tileentityarmorstand=衣架
+jds.tileentitybookcase=书架
+jds.teclipboard=写字板
+jds.tileentitycookiejar=曲奇罐
+jds.tileentitywoodlabel=标签
+jds.tileentitygenericshelf=架子
+jds.tileentitymapframe=地图框架
+jds.tefurnituretile=板材家具
+jds.tileentityfancyworkbench=精致工作台
+jds.tileentityfancysign=精致木牌
+jds.tileentitydiscrack=唱片架
+jds.tileentitydinnerplate=餐盘
+jds.tileentitypotionshelf=药水架
+jds.tileentitywritingdesk=台桌
+jds.tileentityweaponcase=武器盒
+jds.tileentitytoolrack=工具架
+jds.tileentitytypewriter=打字机
+jds.tileentitytypemachine=排版台
+jds.tileentitytable=桌
+jds.tileentityswordpedestal=剑座
+jds.tileentityseat=椅子
+jds.tileentityprintpress=印刷机
+jds.tileentitypaintpress=压印机
+jds.tileentitypainting=画框
 
 // BiblioCraft 1.10 additions
 item.plumbline.depth=深度
