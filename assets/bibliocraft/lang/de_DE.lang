@@ -7,6 +7,25 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Beleuchtung
 item.paneler.panels=Rahmen:
 
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=Lagerkatalog
+jds.tileentitychest=Eingerahmte Truhe
+FramedChest.name=Eingerahmte Truhe
+gui.catalog.close=Schließen
+gui.catalog.count=Anzahl
+gui.catalog.names=Item- / Block-Name
+screwgun.selected.chest1=Erste Truhe ausgewählt.
+screwgun.selected.chest2=Beginne Truhenanschluss/-trennung.
+gui.left=Links
+gui.right=Rechts
+gui.craft=Fertigen
+gui.recipe.crafted=Erfolgreich gefertigt
+gui.recipe.failed=Zutaten konnten nicht entfernt werden
+gui.recipe.invalid=Ungültiges Rezept
+gui.recipe.missing=Fehlende Zutaten
+gui.recipe.wrong=Irgendetwas lief schief. Anscheinend wurde kein Rezeptbuch mit gültigem Rezept gefunden oder so.
+
+
 gui.clock.pulse=Pulse
 gui.clock.solid=Statisch
 
