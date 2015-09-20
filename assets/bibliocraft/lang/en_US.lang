@@ -7,6 +7,10 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Lighting
 item.paneler.panels=Panels:
 
+//BiblioCraft v1.11.2 additions
+gui.recipe.disabled=Crafting with recipe books is disabled.
+stockcatalog.inventory.notfound=Missing Inventory Name
+
 // BiblioCraft v1.11.0 additions
 item.StockroomCatalog.name=Stockroom Catalog
 jds.tileentitychest=Framed Chest
