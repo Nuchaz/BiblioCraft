@@ -7,8 +7,12 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Освещение
 item.paneler.panels=Покрытие:
 
+//BiblioCraft v1.11.2 additions
+gui.recipe.disabled=Сборка с помощью книги-плана отключена.
+stockcatalog.inventory.notfound=Контейнер не назван
+
 // BiblioCraft v1.11.0 additions
-item.StockroomCatalog.name=Stockroom Catalog
+item.StockroomCatalog.name=Складской каталог
 jds.tileentitychest=Каркасный сундук
 FramedChest.name=Каркасный сундук
 gui.catalog.close=Закрыть
