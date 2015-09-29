@@ -7,6 +7,10 @@ itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft: Beleuchtung
 item.paneler.panels=Rahmen:
 
+//BiblioCraft v1.11.2 additions
+gui.recipe.disabled=Fertigung mit Büchern ist deaktiviert.
+stockcatalog.inventory.notfound=Inventarname fehlt
+
 // BiblioCraft v1.11.0 additions
 item.StockroomCatalog.name=Lagerkatalog
 jds.tileentitychest=Eingerahmte Truhe
