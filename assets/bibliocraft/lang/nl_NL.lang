@@ -139,14 +139,14 @@ lighting.metalIron=Gemaakt van ijzer
 lighting.metalGold=Gemaakt van goud
 gui.typesetting.guiTitle=Zettafel: Boekbeheer
 gui.typesetting.pageOfpages=van
-gui.typesetting.public=publieke
-gui.typesetting.private=persoonlijke
+gui.typesetting.public=Publiek
+gui.typesetting.private=Persoonlijk
 gui.typesetting.delete=Verwijder
 gui.typesetting.select=Selecteer
 gui.typesetting.nextPage=Volgende pagina
 gui.typesetting.prevPage=Vorige pagina
 gui.typesetting.exit=Sluiten
-gui.typesetting.enableDiscard=Weggooien
+gui.typesetting.enableDiscard=Annuleer
 // End of 1.6 additions ////////////////////////////
 // Gui stuff
 gui.armorstand=Harnashouder
@@ -191,7 +191,7 @@ tape.mode1=Omschakelen naar absolute Afmeting.
 lock.creativeonly=Alleen in Creative Mode
 lock.notowner=Jij bent niet de eigenaar van dit blok.
 lock.locked=Dit blok is nu vergrendeld.
-lock.unlocked=Dit blok is nu ontgrendeld.
+lock.unlocked=Dit blok is niet langer meer vergrendeld.
 // Blocks
 CookieJar.name=Koektrommel
 MarkerPole.name=Markering
