@@ -22,7 +22,7 @@ Language	    -           Lang Code	        -       Author(s)
  
  Lithuanian	  - lt_LT	       -        auris331
  
- Dutch	           -       nl_NL	           -         Barry_the_Peanut16 and eippoj
+ Dutch	           -       nl_NL	           -         Barry_the_Peanut16 ,eippoj and jordyvl
  
  Greek	          -        gr_EL	          -          SeekerOfDeath
  
