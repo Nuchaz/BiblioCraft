@@ -5,6 +5,58 @@ language.code=en_US
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Lighting
+item.paneler.panels=Panels:
+
+//BiblioCraft v1.11.2 additions
+gui.recipe.disabled=Crafting with recipe books is disabled.
+stockcatalog.inventory.notfound=Missing Inventory Name
+
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=Stockroom Catalog
+jds.tileentitychest=Framed Chest
+FramedChest.name=Framed Chest
+gui.catalog.close=Close
+gui.catalog.count=Count
+gui.catalog.names=Item / Block Name
+screwgun.selected.chest1=First Chest selected.
+screwgun.selected.chest2=Attempting to attach/detach Chests.
+gui.left=Left
+gui.right=Right
+gui.craft=Craft
+gui.recipe.crafted=Crafted Successfully
+gui.recipe.failed=Failed to remove ingredients
+gui.recipe.invalid=Invalid Recipe
+gui.recipe.missing=Missing Ingredients
+gui.recipe.wrong=Something went wrong. No Recipe Book with valid recipe data found or something.
+
+
+gui.clock.pulse=Pulse
+gui.clock.solid=Solid
+
+jds.tileentityarmorstand=Armor Stand
+jds.tileentitybookcase=Bookcase
+jds.teclipboard=Clipboard
+jds.tileentitycookiejar=Cookie Jar
+jds.tileentitywoodlabel=Label
+jds.tileentitygenericshelf=Shelf
+jds.tileentitymapframe=Map Frame
+jds.tefurnituretile=Furniture Paneler
+jds.tileentityfancyworkbench=Fancy Workbench
+jds.tileentityfancysign=Fancy Sign
+jds.tileentitydiscrack=Disc Rack
+jds.tileentitydinnerplate=Dinner Plate
+jds.tileentitypotionshelf=Potion Shelf
+jds.tileentitywritingdesk=Desk
+jds.tileentityweaponcase=Case
+jds.tileentitytoolrack=Tool Rack
+jds.tileentitytypewriter=Typewriter
+jds.tileentitytypemachine=Typesetting Table
+jds.tileentitytable=Table
+jds.tileentityswordpedestal=Sword Pedestal
+jds.tileentityseat=Seat
+jds.tileentityprintpress=Printing Press
+jds.tileentitypaintpress=Painting Press
+jds.tileentitypainting=Painting
 
 // BiblioCraft 1.10 additions
 item.plumbline.depth=Depth

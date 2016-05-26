@@ -5,6 +5,58 @@ language.code=zh_CN
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft|灯具
+item.paneler.panels=板材:
+
+//BiblioCraft v1.11.2 additions
+gui.recipe.disabled=使用合成手册进行合成的功能已被禁用.
+stockcatalog.inventory.notfound=未发现指定容器名称
+
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=仓库目录
+jds.tileentitychest=镶框箱子
+FramedChest.name=镶框箱子
+gui.catalog.close=关闭
+gui.catalog.count=数量
+gui.catalog.names=物品 / 方块名称
+screwgun.selected.chest1=已选中第一个箱子
+screwgun.selected.chest2=尝试连接/分离箱子
+gui.left=左
+gui.right=右
+gui.craft=合成
+gui.recipe.crafted=成功合成
+gui.recipe.failed=删除物品失败
+gui.recipe.invalid=错误的合成表
+gui.recipe.missing=缺少物品
+gui.recipe.wrong=未知错误
+
+
+gui.clock.pulse=脉冲
+gui.clock.solid=持续信号
+
+jds.tileentityarmorstand=衣架
+jds.tileentitybookcase=书架
+jds.teclipboard=写字板
+jds.tileentitycookiejar=曲奇罐
+jds.tileentitywoodlabel=标签
+jds.tileentitygenericshelf=架子
+jds.tileentitymapframe=地图框架
+jds.tefurnituretile=板材家具
+jds.tileentityfancyworkbench=精致工作台
+jds.tileentityfancysign=精致木牌
+jds.tileentitydiscrack=唱片架
+jds.tileentitydinnerplate=餐盘
+jds.tileentitypotionshelf=药水架
+jds.tileentitywritingdesk=台桌
+jds.tileentityweaponcase=武器盒
+jds.tileentitytoolrack=工具架
+jds.tileentitytypewriter=打字机
+jds.tileentitytypemachine=排版台
+jds.tileentitytable=桌
+jds.tileentityswordpedestal=剑座
+jds.tileentityseat=椅子
+jds.tileentityprintpress=印刷机
+jds.tileentitypaintpress=压印机
+jds.tileentitypainting=画框
 
 // BiblioCraft 1.10 additions
 item.plumbline.depth=深度
@@ -183,7 +235,7 @@ MagentaTypewriter.name=品红色打字机
 PinkTypewriter.name=粉色打字机
 BrownTypewriter.name=棕色打字机
 
-// End of 1.8 additions and changes //
+// End of 1.8 additions and changes // 
 
 
 // All BiblioCraft 1.7 additions and changes///
@@ -300,12 +352,12 @@ gui.sign.format=格式
 gui.sign.linenum=行#
 
 
-//1.6.2 additions
+// All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=书名:
 gui.redbook.description.p1=放入红石书的书架会像除正前方外的所有方向发出红石信号. 红石信号强度取决于红石书在书架中的位置. 
 gui.redbook.description.p2=书架有16个空格, 第一个格子为左上第一格, 第16格为右下最后一格. 如果红石书被放到第一个格子里, 书架不会发出任何红石信号. 如果红石书被放到第二格, 书架会发出强度为1的红石信号. 每往后放一格, 发出的红石信号强度都会增加1点, 当红石书被放到第16格时, 会发出强度为15的红石信号.
 
-// All BiblioCraft 1.6 additions and changes/////////////////////
+
 AcaciaDesk.name=金合欢台桌
 OldOakDesk.name=深色橡木台桌
 AcaciaBookcase.name=金合欢书架
@@ -441,22 +493,22 @@ BirchSeat.name=桦木椅子
 JungleSeat.name=丛林木椅子
 
 //lights
-whiteLantern.name=黄金灯笼
-lightGrayLantern.name=黄金灯笼
-grayLantern.name=黄金灯笼
-blackLantern.name=黄金灯笼
-redLantern.name=黄金灯笼
-orangeLantern.name=黄金灯笼
-yellowLantern.name=黄金灯笼
-limeLantern.name=黄金灯笼
-greenLantern.name=黄金灯笼
-cyanLantern.name=黄金灯笼
-lightBlueLantern.name=黄金灯笼
-blueLantern.name=黄金灯笼
-purpleLantern.name=黄金灯笼
-magentaLantern.name=黄金灯笼
-pinkLantern.name=黄金灯笼
-brownLantern.name=黄金灯笼
+whiteLantern.name=精致灯笼
+lightGrayLantern.name=精致灯笼
+grayLantern.name=精致灯笼
+blackLantern.name=精致灯笼
+redLantern.name=精致灯笼
+orangeLantern.name=精致灯笼
+yellowLantern.name=精致灯笼
+limeLantern.name=精致灯笼
+greenLantern.name=精致灯笼
+cyanLantern.name=精致灯笼
+lightBlueLantern.name=精致灯笼
+blueLantern.name=精致灯笼
+purpleLantern.name=精致灯笼
+magentaLantern.name=精致灯笼
+pinkLantern.name=精致灯笼
+brownLantern.name=精致灯笼
 
 whiteLamp.name=精致灯具
 lightGrayLamp.name=精致灯具

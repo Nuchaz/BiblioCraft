@@ -5,14 +5,178 @@ language.region=CZ
 // Tab Names
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=Osvětlení BiblioCraftu
+item.paneler.panels=Panely:
 
+//BiblioCraft v1.11.2 additions
+gui.recipe.disabled=Výroba s knihou receptů je vypnuta.
+stockcatalog.inventory.notfound=Chybí název inventáře
+
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=Katalog skladu
+jds.tileentitychest=Rámovaná truhla
+FramedChest.name=Rámovaná truhla
+gui.catalog.close=Zavřít
+gui.catalog.count=Počítadlo
+gui.catalog.names=Název předmětu / bloku
+screwgun.selected.chest1=První truhla vybrána.
+screwgun.selected.chest2=Pokus o připojení / odpojení truhel.
+gui.left=Levá
+gui.right=Pravá
+gui.craft=Vyrobit
+gui.recipe.crafted=Úspěšně vyrobeno
+gui.recipe.failed=Odebrání ingredience selhalo
+gui.recipe.invalid=Chybný recept
+gui.recipe.missing=Chybějící ingredience
+gui.recipe.wrong=Něco je špatně. Žádná kniha receptů s platným receptem nebyla nalezena, nebo tak něco.
+
+
+gui.clock.pulse=Tiky
+gui.clock.solid=Nepřetržitě
+
+jds.tileentityarmorstand=Stojan na zbroj
+jds.tileentitybookcase=Knihovna
+jds.teclipboard=Schránka
+jds.tileentitycookiejar=Sklenice sušenek
+jds.tileentitywoodlabel=Etiketa
+jds.tileentitygenericshelf=Police
+jds.tileentitymapframe=Rám mapy
+jds.tefurnituretile=Rámovač nábytku
+jds.tileentityfancyworkbench=Ozdobný pracovní stůl
+jds.tileentityfancysign=Ozdobná cedule
+jds.tileentitydiscrack=Stojan na disky
+jds.tileentitydinnerplate=Talíř
+jds.tileentitypotionshelf=Police na lektvary
+jds.tileentitywritingdesk=Pracovní stůl
+jds.tileentityweaponcase=Pouzdro
+jds.tileentitytoolrack=Stojan na nástroje
+jds.tileentitytypewriter=Psací stroj
+jds.tileentitytypemachine=Sazební stůl
+jds.tileentitytable=Stůl
+jds.tileentityswordpedestal=Podstavec na meč
+jds.tileentityseat=Sedadlo
+jds.tileentityprintpress=Tiskařský lis
+jds.tileentitypaintpress=Malířský lis
+jds.tileentitypainting=Malba
+
+// BiblioCraft 1.10 additions
+item.plumbline.depth=Hloubka
+item.PlumbLine.name=Olovnice
+item.FramingSaw.name=Rámovací pila
+item.FramingBoard.name=Rámovací deska
+item.FramingSheet.name=Rámovací plát
+
+OakPaneler.name=Dubový rámovač nábytku
+SprucePaneler.name=Smrkový rámovač nábytku
+BirchPaneler.name=Břízový rámovač nábytku
+JunglePaneler.name=Sekvojový rámovač nábytku
+AcaciaPaneler.name=Akáciový rámovač nábytku
+OldOakPaneler.name=Tmavodubový rámovač nábytku
+FramedPaneler.name=Rámovaný rámovač nábytku
+
+FramedClock.name=Rámované hodiny
+FrameBookcase.name=Rámovaná knihovna
+FramedWorkbench.name=Rámovaný ozdobný pracovní stůl
+FramedSign.name=Rámovaná ozdobná cedule
+FramedShelf.name=Rámovaná police
+FramedPotionShelf.name=Rámovaná police na lektvary
+FramedLabel.name=Rámovaná etiketa
+FramedMapFrame.name=Rámovaný rám mapy
+FramedPaintingFrame.name=Rámovaný rám malby
+FramedDesk.name=Rámovaný pracovní stůl
+FramedWeaponRack.name=Rámovaný stojan na nástroje
+FramedCase.name=Rámované pouzdro
+FramedTable.name=Rámovaný stůl
+FramedSeat.name=Rámované sedadlo
+item.seatBack.FramedSeatBack.name=Rámované zadní opěradlo
+
+gui.painting.showFrame=Zobraz rám
+gui.painting.hideFrame=Skryj rám
+
+screwgun.selected.desk1=První pracovní stůl vybrán.
+screwgun.selected.desk2=Pokus o připojení / odpojení pracovných stolů.
+
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=Atlas
+item.AtlasPlate.name=Deska atlasu
+item.DeathCompass.name=Kompas smrti
+enchant.deathcompass=Kompas věčnosti
+gui.atlas.zoom=Úroveň přiblížení
+gui.atlas.center=Auto vystředit
+gui.atlas.create=Auto vytvořit
+gui.atlas.mapXcenter=Střed mapy X:
+gui.atlas.mapZcenter=Střed mapy Z:
+gui.atlas.mapZoom=Úroveň přiblížení mapy:
+gui.atlas.yes=Ano
+gui.atlas.no=Ne
+gui.atlas.atlas=Atlas
+
+gui.atlas.select.tt1=Mód vyběru cestovního bodu
+gui.atlas.select.tt2=Vznášet se nad cestovním bodem
+gui.atlas.select.tt3=a levým kliknutím vyber
+gui.atlas.select.tt4=tento cestovní bod.
+gui.atlas.select.tt5=Podrž Ctrl a pohybuj mapou
+gui.atlas.select.tt6=pro zobrazení skutečných koordinátů mapy.
+gui.atlas.select.tt7=Klikni levým při držení Ctrl
+gui.atlas.select.tt8=pro vybrání kteréhokoli bodu na mapě.
+
+gui.atlas.edit.tt1=Mód úpravy cestovního bodu
+gui.atlas.edit.tt2=Klikni na cestovní bod k jeho úpravě
+gui.atlas.edit.tt3=název bodu a barva
+gui.atlas.edit.tt4=nebo smaž vybraný bod.
+gui.atlas.edit.tt5=Pro rychlé vymazání cestovního bodu,
+gui.atlas.edit.tt6=podrž Shift a klikni na cestovní bod.
+
+gui.atlas.add.tt1=Mód přidání cestovního bodu
+gui.atlas.add.tt2=Klikni kdekoli na mapě
+gui.atlas.add.tt3=k přídání cestovního bodu.
+gui.atlas.add.tt4=Dotazovací okno vyskočí
+gui.atlas.add.tt5=pro název a barvu.
+gui.atlas.add.tt6=Podrž Shift a klikni na mapu
+gui.atlas.add.tt7=k vytvoření nového bodu s
+gui.atlas.add.tt8=náhodnou barvou a názvem.
+
+gui.atlas.switchtoinv=Přepnout do zobrazení inventáře.
+gui.atlas.switchtoatlas=Přepnout do zobrazení mapy.
+
+gui.atlas.autocenter.tt1=Pokud povoleno, atlas bude
+gui.atlas.autocenter.tt2=hledat v inventáři
+gui.atlas.autocenter.tt3=platná mapa, která ukazuje kde
+gui.atlas.autocenter.tt4=aktuálně jste na
+gui.atlas.autocenter.tt5=vyber úroveň přiblížení.
+
+gui.atlas.autocreate.tt1=Pokud povoleno, vytvoří novou
+gui.atlas.autocreate.tt2=mapy z prázdných map v
+gui.atlas.autocreate.tt3=inventář. když Auto střed 
+gui.atlas.autocreate.tt4=nezdařilo se najít odpovídající mapu, 
+gui.atlas.autocreate.tt5=nová mapa vytvořena jako vypnutá
+gui.atlas.autocreate.tt6=z poslední mapy načteno na
+gui.atlas.autocreate.tt7=vybraná úroveň přiblížení.
+
+gui.atlas.autocreate.tt8=Musí být Auto střed
+gui.atlas.autocreate.tt9=povoleno pro tuto práci.
+
+gui.atlas.transfer=Přesun cestovních bodů
+gui.atlas.transfer.cancel=Zrušit
+gui.atlas.transfer.from=Z atlasu do rámu mapy
+gui.atlas.transfer.to=Z rámu mapy do atlasu
+
+gui.compass.currentlocation=Současná poz.
+
+gui.paintpress.page=Strana
+gui.paintpress.of=z
+
+item.TesterItem.name=Tester názvu (itemstack)
+gui.testeritem.name=Tester názvu (itemstack)
+gui.testeritem.display=Zobrazený název:
+gui.testeritem.unlocal=Nelokalizovaný název:
+// end of 1.9 additions
 
 // All BiblioCraft 1.8 additions and changes //
 gui.clock.chimesound=Zvuk zvonění
 gui.clock.ticksound=Zvuk tikotu
 gui.clock.redstone=Ruditové
 gui.clock.chime=Zvonící
-gui.clock.presets=předvolby
+gui.clock.presets=Předvolby
 
 screwgun.selected.painting1=Vybrán první obraz
 screwgun.selected.painting2=Vybrán druhý obraz
@@ -188,12 +352,10 @@ gui.sign.format=Formát
 gui.sign.linenum=Řádek#
 
 
-
 // All BiblioCraft 1.6 additions and changes/////////////////////
 gui.redbook.title=Název knihy:
 gui.redbook.description.p1=Ruditová kniha je používána v kombinaci s knihovnou k vysílání signálu. Když je položena do knihovny vysílá signál ze všech stran kromě přední. Síla signálu je určena podle slotu, do kterého je kniha vložena
 gui.redbook.description.p2=Knihovna má 16 slotů, slot 1 začíná vlevo nahoře a slot 16 vpravo dole. Pokud je ruditová kniha ve slotu 1, knihovna nevysílá signál. Pokud je vložena do slotu 2, knihovna vysílá signál o síle 1. Každý další slot zvyšuje sílu o 1, slot 16 vysílá signál o síle 15.
-
 
 
 AcaciaDesk.name=Akáciový stolek
@@ -234,7 +396,7 @@ gui.typesetting.nextPage=Další strana
 gui.typesetting.prevPage=Předchozí strana
 gui.typesetting.exit=Odejít
 gui.typesetting.enableDiscard=Zrušit
-
+// End of 1.6 additions ////////////////////////////
 
 
 
