@@ -1,0 +1,153 @@
+language.name=Dutch
+language.region=NL
+language.code=nl_NL
+
+// Tab Names
+itemGroup.BiblioWoodsEBXL=BiblioWoods: ExtrabiomesXL Editie
+
+// BiblioCraft additions
+AcaciaClock.name=Acacia Klok
+AutumnClock.name=Houten Klok
+BaldCypressClock.name=Moeras Houten Klok
+CypressClock.name=Cipres Houten Klok
+FirClock.name=Sparren Houten Klok
+JapaneseMapleClock.name=Japanse Klok
+RainbowEucalyptusClock.name=Regenboog Eucalyptus Klok
+ebxlRedwoodClock.name=Mahonie Houten Klok
+SakuraClock.name=Sakura Houten Klok
+
+AcaciaPaintingFrame.name=Acacia Houten Schilderij Lijst
+AutumnPaintingFrame.name=Houten Schilderij Lijst
+BaldCypressPaintingFrame.name=Moeras Houten Schilderij Lijst
+CypressPaintingFrame.name=Cipres Houten Schilderij Lijst
+FirPaintingFrame.name=Sparren Houten Schilderij Lijst
+JapaneseMaplePaintingFrame.name=Japanese Esdoorn Schilderij Lijst
+RainbowEucalyptusPaintingFrame.name=Regenboog Eucalyptus Schilderij Lijst
+ebxlRedwoodPaintingFrame.name=Mahonie Houten Schilderij Lijst
+SakuraPaintingFrame.name=Sakura Houten Schilderij Lijst
+
+AcaciaFancyWorkbench.name=Acacia Houten Werkbank
+AutumnFancyWorkbench.name=Houten Werkbank
+BaldCypressFancyWorkbench.name=Moeras Houten Werkbank
+CypressFancyWorkbench.name=Cipress Houten Werkbank
+FirFancyWorkbench.name=Sparren Houten Werkbank
+JapaneseMapleFancyWorkbench.name=Esdoorn Houten Werkbank
+RainbowEucalyptusFancyWorkbench.name=Regenboog Eucalyptus Werkbank
+ebxlRedwoodFancyWorkbench.name=Mahonie Houten Werkbank
+SakuraFancyWorkbench.name=Sakura Werkbank
+
+AcaciaFancySign.name=Acacia Bord
+AutumnFancySign.name=Houten Bord
+BaldCypressFancySign.name=Moeras Houten Bord
+CypressFancySign.name=Cipres Houten Bord
+FirFancySign.name=Sparren Houten Bord
+JapaneseMapleFancySign.name=Esdoorn Houten Bord
+RainbowEucalyptusFancySign.name=Regenboog Eucalyptus Houten Bord
+ebxlRedwoodFancySign.name=Mahonie Houten Bord
+SakuraFancySign.name=Sakura Houten Bord
+//
+
+
+// 1.5 additions
+AcaciaMapFrame.name=Acacia Houten Kaart Houder
+AutumnMapFrame.name=Houten Kaart Houder
+BaldCypressMapFrame.name=Moeras Houten Kaart Houder
+CypressMapFrame.name=Cipress Houten Kaart Houder
+FirMapFrame.name=Sparren Houten Kaart Houder
+JapaneseMapleMapFrame.name=Esdoorn Houten Kaart Houder
+RainbowEucalyptusMapFrame.name=Regenboog Eucalyptus Kaart Houder
+ebxlRedwoodMapFrame.name=Mahonie Houten Kaart Houder
+SakuraMapFrame.name=Sakura Houten Kaart Houder
+AcaciaSeat.name=Acacia Houten Stoel
+AutumnSeat.name=Houten Stoel
+BaldCypressSeat.name=Moeras Houten Stoel
+CypressSeat.name=Cipress Houten Stoel
+FirSeat.name=Sparren Houten Stoel
+JapaneseMapleSeat.name=Esdoorn Houten Stoel
+RainbowEucalyptusSeat.name=Regenboog Eucalyptus Stoel
+ebxlRedwoodSeat.name=Mahonie Houten Stoel
+SakuraSeat.name=Sakura Houten Stoel
+item.seatBack.AcaciaSeatBack.name=Acacia Houten Stoelrugleuning
+item.seatBack.AutumnSeatBack.name=Houten Stoelrugleuning
+item.seatBack.BaldCypressSeatBack.name=Moeras Houten Stoelrugleuning
+item.seatBack.CypressSeatBack.name=Cipress Houten Stoelrugleuning
+item.seatBack.FirSeatBack.name=Sparren Houten Stoelrugleuning
+item.seatBack.JapaneseMapleSeatBack.name=Esdoorn Houten Stoelrugleuning
+item.seatBack.RainbowEucalyptusSeatBack.name=Regenboog Eucalyptus Stoelrugleuning
+item.seatBack.ebxlRedwoodSeatBack.name=Mahonie Houten Stoelrugleuning
+item.seatBack.SakuraSeatBack.name=Sakura Houten Stoelrugleuning
+// end of 1.5 additions
+
+// EBXL woods addon
+AcaciaBookcase.name=Acacia Boekenkast
+AutumnBookcase.name=Boekenkast
+BaldCypressBookcase.name=Esdoorn Boekenkast
+CypressBookcase.name=Cipres Boekenkast
+FirBookcase.name=Sparren Boekenkast
+JapaneseMapleBookcase.name=Esdoorn Boekenkast
+RainbowEucalyptusBookcase.name=Regenboog Eucalyptus Boekenkast
+ebxlRedwoodBookcase.name=Mahonie Boekenkast
+SakuraBookcase.name=Sakura Boekenkast
+AcaciaCase.name=Acacia Case
+AutumnCase.name=Autumn Case
+BaldCypressCase.name=Bald Cypress Case
+CypressCase.name=Cypress Case
+FirCase.name=Fir Case
+JapaneseebxlRedwoodCase.name=Japanese Maple Case
+RainbowEucalyptusCase.name=Rainbow Eucalyptus Case
+ebxlRedwoodCase.name=Redwood Case
+SakuraCase.name=Sakura Case
+AcaciaLabel.name=Acacia Label
+AutumnLabel.name=Autumn Label
+BaldCypressLabel.name=Bald Cypress Label
+CypressLabel.name=Cypress Label
+FirLabel.name=Fir Label
+JapaneseMapleLabel.name=Japanese Maple Label
+RainbowEucalyptusLabel.name=Regenboog Eucalyptus Label
+ebxlRedwoodLabel.name=Redwood Label
+SakuraLabel.name=Sakura Label
+AcaciaPotionShelf.name=Acacia Potion Schap
+AutumnPotionShelf.name=Autumn Potion Schap
+BaldCypressPotionShelf.name=Bald Cypress Potion Schap
+CypressPotionShelf.name=Cypress Potion Schap
+FirPotionShelf.name=Fir Potion Schap
+JapaneseMaplePotionShelf.name=Japanese Maple Potion Schap
+RainbowEucalyptusPotionShelf.name=Rainbow Eucalyptus Potion Schap
+ebxlRedwoodPotionShelf.name=Redwood Potion Schap
+SakuraPotionShelf.name=Sakura Potion Schap
+AcaciaShelf.name=Acacia Schap
+AutumnShelf.name=Autumn Schap
+BaldCypressShelf.name=Bald Cypress Schap
+CypressShelf.name=Cypress Schap
+FirShelf.name=Sparren Houten Schap
+JapaneseMapleShelf.name=Japanese Maple Schap
+RainbowEucalyptusShelf.name=Rainbow Eucalyptus Schap
+ebxlRedwoodShelf.name=Mahonie Houten Schap
+SakuraShelf.name=Sakura Schap
+AcaciaTable.name=Acacia Tafel
+AutumnTable.name=Autumn Tafel
+BaldCypressTable.name=Bald Cypress Tafel
+CypressTable.name=Cypress Tafel
+FirTable.name=Sparren Houten Tafel
+JapaneseMapleTable.name=Japanese Maple Tafel
+RainbowEucalyptusTable.name=Rainbow Eucalyptus Tafel
+ebxlRedwoodTable.name=Mahonie Houten Tafel
+SakuraTable.name=Sakura Tafel
+AcaciaToolRack.name=Acacia Gereedschap Rek
+AutumnToolRack.name=Autumn Gereedschap Rek
+BaldCypressToolRack.name=BaldCypress Gereedschap Rek
+CypressToolRack.name=Cypress Gereedschap Rek
+FirToolRack.name=Fir Gereedschap Rek
+JapaneseMapleToolRack.name=Japanese Maple Gereedschap Rek
+RainbowEucalyptusToolRack.name=Rainbow Eucalyptus Gereedschap Rek
+ebxlRedwoodToolRack.name=Redwood Gereedschap Rek
+SakuraToolRack.name=Sakura Gereedschap Rek
+AcaciaDesk.name=Acacia Houten Bureau
+AutumnDesk.name=Houten Bureau
+BaldCypressDesk.name=Moerashouten Bureau
+CypressDesk.name=Cipress Houten Bureau
+FirDesk.name=Sparren Houten Bureau
+JapaneseMapleDesk.name=Esdoorn Houten Bureau
+RainbowEucalyptusDesk.name=Rainbow Eucalyptus Bureau
+ebxlRedwoodDesk.name=Mahonie Houten Bureau
+SakuraDesk.name=Sakura Bureau
