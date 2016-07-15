@@ -16,7 +16,7 @@ item.StockroomCatalog.name=Catálogo de Almoxarifado
 jds.tileentitychest=Baú Encaixilhado
 FramedChest.name=Baú Encaixilhado
 gui.catalog.close=Fechar
-gui.catalog.count=Contar
+gui.catalog.count=Quant.
 gui.catalog.names=Item / Nome de Bloco 
 screwgun.selected.chest1=Primeiro Baú selecionado.
 screwgun.selected.chest2=Tentando juntar/separar Baús.
@@ -53,98 +53,98 @@ jds.tileentitytypewriter=Máquina de Escrever
 jds.tileentitytypemachine=Mesa Tipográfica
 jds.tileentitytable=Mesa
 jds.tileentityswordpedestal=Pedestal de Espada
-jds.tileentityseat=Seat
-jds.tileentityprintpress=Printing Press
-jds.tileentitypaintpress=Painting Press
-jds.tileentitypainting=Painting
+jds.tileentityseat=Assento
+jds.tileentityprintpress=Prensa de Impressão
+jds.tileentitypaintpress=Prensa de Pintura
+jds.tileentitypainting=Pintura
 
 // BiblioCraft 1.10 additions
-item.plumbline.depth=Depth
+item.plumbline.depth=Altura/Prof.
 item.PlumbLine.name=Prumo
-item.FramingSaw.name=Framing Saw
-item.FramingBoard.name=Framing Board
-item.FramingSheet.name=Framing Sheet
+item.FramingSaw.name=Serra de Encaixilhamento
+item.FramingBoard.name=Prancha de Encaixilhamento
+item.FramingSheet.name=Folha de Encaixilhamento
 
-OakPaneler.name=Oak Furniture Paneler
-SprucePaneler.name=Spruce Furniture Paneler
-BirchPaneler.name=Birch Furniture Paneler
-JunglePaneler.name=Jungle Furniture Paneler
-AcaciaPaneler.name=Acacia Furniture Paneler
-OldOakPaneler.name=Dark Oak Furniture Paneler
-FramedPaneler.name=Framed Furniture Paneler
+OakPaneler.name=Paineladora de Mobília de Carvalho
+SprucePaneler.name=Paineladora de Mobília de Pinheiro
+BirchPaneler.name=Paineladora de Mobília de Eucalipto
+JunglePaneler.name=Paineladora de Mobília de Madeira da Selva
+AcaciaPaneler.name=Paineladora de Mobília de Acácia
+OldOakPaneler.name=Paineladora de Mobília de Carvalho Escuro
+FramedPaneler.name=Paineladora de Mobília de Encaixilhado
 
-FramedClock.name=Framed Clock
-FrameBookcase.name=Framed Bookcase
-FramedWorkbench.name=Framed Fancy Workbench
-FramedSign.name=Framed Fancy Sign
-FramedShelf.name=Framed Shelf
-FramedPotionShelf.name=Framed Potion Shelf
-FramedLabel.name=Framed Label
-FramedMapFrame.name=Framed Map Frame
-FramedPaintingFrame.name=Framed Painting Frame
-FramedDesk.name=Framed Desk
-FramedWeaponRack.name=Framed Tool Rack
-FramedCase.name=Framed Case
-FramedTable.name=Framed Table
-FramedSeat.name=Framed Seat
-item.seatBack.FramedSeatBack.name=Framed Seat Back
+FramedClock.name=Relógio Encaixilhado
+FrameBookcase.name=Estante de Livros Encaixilhada
+FramedWorkbench.name=Bancada de Trabalho Sofisticada Encaixilhada
+FramedSign.name=Placa Sofisticada Encaixilhada
+FramedShelf.name=Prateleira Encaixilhada
+FramedPotionShelf.name=Estante de Poções Encaixilhado
+FramedLabel.name=Rótulo Encaixilhado
+FramedMapFrame.name=Moldura de Mapa Encaixilhada
+FramedPaintingFrame.name=Moldura de Pintura Encaixilhada
+FramedDesk.name=Escrivaninha Encaixilhada
+FramedWeaponRack.name=Porta-Ferramentas Encaixilhada
+FramedCase.name=Estojo Encaixilhada
+FramedTable.name=Mesa Encaixilhada
+FramedSeat.name=Assento Encaixilhado
+item.seatBack.FramedSeatBack.name=Encosto de Assento Encaixilhado
 
-gui.painting.showFrame=Show Frame
-gui.painting.hideFrame=Hide Frame
+gui.painting.showFrame=Mostrar Borda
+gui.painting.hideFrame=Esconder Borda
 
-screwgun.selected.desk1=First desk selected.
-screwgun.selected.desk2=Attempting to attach/detach desks.
+screwgun.selected.desk1=Primeira escrivaninha selecionada.
+screwgun.selected.desk2=Tentando juntar/separar escrivaninhas.
 
 // BiblioCraft 1.9 additions
 item.AtlasBook.name=Atlas
-item.AtlasPlate.name=Atlas Plate
-item.DeathCompass.name=Eternal Compass
-enchant.deathcompass=Eternal Compass
-gui.atlas.zoom=Zoom level
-gui.atlas.center=Auto Center
-gui.atlas.create=Auto Create
-gui.atlas.mapXcenter=Map X Center:
-gui.atlas.mapZcenter=Map Z Center:
-gui.atlas.mapZoom=Map zoom level:
+item.AtlasPlate.name=Chapa de Atlas
+item.DeathCompass.name=Búsola Eterna
+enchant.deathcompass=Búsola Eterna
+gui.atlas.zoom=Zoom
+gui.atlas.center=Autocentrar
+gui.atlas.create=Autocriar
+gui.atlas.mapXcenter=Centro em X:
+gui.atlas.mapZcenter=Centro em Z:
+gui.atlas.mapZoom=Zoom do Mapa:
 gui.atlas.yes=Sim
 gui.atlas.no=Não
-gui.atlas.atlas=O Atlas 
+gui.atlas.atlas=O Atlas
 
-gui.atlas.select.tt1=Waypoint Select Mode
-gui.atlas.select.tt2=Hover over a waypoint
-gui.atlas.select.tt3=and left click to select
-gui.atlas.select.tt4=that waypoint.
-gui.atlas.select.tt5=Hold Ctrl and hover over map
-gui.atlas.select.tt6=to see real world coordinates.
-gui.atlas.select.tt7=Left click while holding Ctrl
-gui.atlas.select.tt8=to select any point on the map.
+gui.atlas.select.tt1=Modo Selecinar Pontos
+gui.atlas.select.tt2=Passe o mouse sobre um ponto e clique
+gui.atlas.select.tt3=com botão esquerdo para selecionar
+gui.atlas.select.tt4=o ponto.
+gui.atlas.select.tt5=Segure a tecla Ctrl e passe o mouse sobre o mapa
+gui.atlas.select.tt6=para ver as coordenadas do mundo.
+gui.atlas.select.tt7=Clique com botão esquerdo enquanto segura Ctrl
+gui.atlas.select.tt8=para selecionar qualquer ponto no mapa.
 
-gui.atlas.edit.tt1=Waypoint Pin Edit Mode
-gui.atlas.edit.tt2=Click a waypoint to edit
-gui.atlas.edit.tt3=the pin name and color
-gui.atlas.edit.tt4=or delete the selected pin.
-gui.atlas.edit.tt5=To quickly delete a waypoint,
-gui.atlas.edit.tt6=hold shift and click a waypoint.
+gui.atlas.edit.tt1=Modo Editar Pontos
+gui.atlas.edit.tt2=Clique em um ponto para editar
+gui.atlas.edit.tt3=o nome e a cor do marcador
+gui.atlas.edit.tt4=ou deletar o marcador selecionado.
+gui.atlas.edit.tt5=Para deletar um ponto rapidamente,
+gui.atlas.edit.tt6=Segure a tecla shift e clique um ponto.
 
-gui.atlas.add.tt1=Add Waypoint Pin Mode
-gui.atlas.add.tt2=Click anywhere on the map
-gui.atlas.add.tt3=to add a new waypoint.
-gui.atlas.add.tt4=A dialog will pop up and ask
-gui.atlas.add.tt5=for the name and color.
-gui.atlas.add.tt6=Hold shift and click the map
-gui.atlas.add.tt7=to place a new pin with a
-gui.atlas.add.tt8=random color and name.
+gui.atlas.add.tt1=Modo Adicionar Pontos
+gui.atlas.add.tt2=Clique em qualquer lugar no mapa
+gui.atlas.add.tt3=para adicionar um novo ponto.
+gui.atlas.add.tt4=Uma caixa de diálogo irá aparecer e pedir
+gui.atlas.add.tt5=o nome e a cor.
+gui.atlas.add.tt6=Segure a tecla shift e clique no mapa
+gui.atlas.add.tt7=para colocar um novo marcador com uma
+gui.atlas.add.tt8=cor e nome aleatórios.
 
-gui.atlas.switchtoinv=Switch to Inventory view.
-gui.atlas.switchtoatlas=Switch to Map view.
+gui.atlas.switchtoinv=Mudar para visualizar Inventário
+gui.atlas.switchtoatlas=Mudar para visualizar Mapa
 
-gui.atlas.autocenter.tt1=If enabled, the atlas will
+gui.atlas.autocenter.tt1=Se habilitado, o atlas irá
 gui.atlas.autocenter.tt2=search the inventory for a
 gui.atlas.autocenter.tt3=valid map that shows where
 gui.atlas.autocenter.tt4=you are at the currently
 gui.atlas.autocenter.tt5=selected zoom level.
 
-gui.atlas.autocreate.tt1=If enabled, creates new
+gui.atlas.autocreate.tt1=Se habilitado, creates new
 gui.atlas.autocreate.tt2=maps from blank maps in the
 gui.atlas.autocreate.tt3=inventory. When auto center 
 gui.atlas.autocreate.tt4=fails to find a matching map, 
@@ -152,88 +152,88 @@ gui.atlas.autocreate.tt5=a new map is created based off
 gui.atlas.autocreate.tt6=from the last map loaded at
 gui.atlas.autocreate.tt7=the selected zoom level.
 
-gui.atlas.autocreate.tt8=Auto Center must be
-gui.atlas.autocreate.tt9=enabled for this to work.
+gui.atlas.autocreate.tt8=Autocentrar deve ser
+gui.atlas.autocreate.tt9=habilitado para funcionar.
 
-gui.atlas.transfer=Waypoint Transfer
-gui.atlas.transfer.cancel=Cancel
-gui.atlas.transfer.from=From Atlas to Map Frame
-gui.atlas.transfer.to=From Map Frame to Atlas
+gui.atlas.transfer=Transferir Marcador
+gui.atlas.transfer.cancel=Cancelar
+gui.atlas.transfer.from=Do Atlas para Moldura de Mapa
+gui.atlas.transfer.to=Da Moldura de Mapa para o Atlas
 
-gui.compass.currentlocation=Current Loc
+gui.compass.currentlocation=Local. Atual
 
 gui.paintpress.page=Página
 gui.paintpress.of=de
 
-item.TesterItem.name=ItemStack Name Tester
-gui.testeritem.name=ItemStack Name Tester
-gui.testeritem.display=Display name:
-gui.testeritem.unlocal=Unlocalized name:
+item.TesterItem.name=Testador de Nome de ItemStack
+gui.testeritem.name=Testador de Nome de ItemStack
+gui.testeritem.display=Nome no Jogo:
+gui.testeritem.unlocal=Nome sem tradução:
 // end of 1.9 additions
 
 // All BiblioCraft 1.8 additions and changes //
 gui.clock.chimesound=Som de Badalar 
 gui.clock.ticksound=Som de tic-tac 
 gui.clock.redstone=Redstone
-gui.clock.chime=Badalar
+gui.clock.chime=Badalo
 gui.clock.presets=Predefinições
 
-screwgun.selected.painting1=First Painting selected
-screwgun.selected.painting2=Second Painting selected
-screwgun.selected.clock1=First clock selected
-screwgun.selected.clock2=Second clock selected
-drill.failed=Connection Failed
+screwgun.selected.painting1=Primeira Pintura selecionada
+screwgun.selected.painting2=Segunda Pintura selecionada
+screwgun.selected.clock1=Primeiro relógio selecionado
+screwgun.selected.clock2=Segundo relógio selecionado
+drill.failed=Conexão falhou
 
-item.PaintingCanvas.name=Painting Canvas
-tile.BiblioPaintPress.name=Painting Press
+item.PaintingCanvas.name=Tela de Pintura
+tile.BiblioPaintPress.name=Prensa de Pintura
 
-gui.paintpress.transfer=Transfer
+gui.paintpress.transfer=Transferir
 gui.paintpress.vanilla=Vanilla
-gui.paintpress.custom=Custom
+gui.paintpress.custom=Personalizado
 
-gui.painting.scale=Scale
-gui.painting.resolution=Resolution
-gui.painting.aspectRatio=Aspect Ratio
-gui.painting.size=Painting Size
-gui.painting.rotation=Rotation
-gui.painting.corner=Master Corner
+gui.painting.scale=Escala
+gui.painting.resolution=Resolução
+gui.painting.aspectRatio=Proporção
+gui.painting.size=Tamanho da Tela
+gui.painting.rotation=Giro
+gui.painting.corner=Ancoragem
 
-OakPaintingFrame.name=Oak Painting Frame
-SprucePaintingFrame.name=Spruce Painting Frame
-BirchPaintingFrame.name=Birch Painting Frame
-JunglePaintingFrame.name=Jungle Painting Frame
-AcaciaPaintingFrame.name=Acacia Painting Frame
-OldOakPaintingFrame.name=Dark Oak Painting Frame
+OakPaintingFrame.name=Moldura de Pintura de Carvalho
+SprucePaintingFrame.name=Moldura de Pintura de Pinheiro
+BirchPaintingFrame.name=Moldura de Pintura de Eucalipto
+JunglePaintingFrame.name=Moldura de Pintura de Madeira da Selva
+AcaciaPaintingFrame.name=Moldura de Pintura de Acácia
+OldOakPaintingFrame.name=Moldura de Pintura de Caravalho Escuro
 
-paintingFrame.0tier=Borderless
-paintingFrame.1tier=Single Tier
-paintingFrame.2tier=Double Tier
-paintingFrame.3tier=Triple Tier
-paintingFrame.4tier=Quadruple Tier
+paintingFrame.0tier=Sem moldura
+paintingFrame.1tier=Nível simples
+paintingFrame.2tier=Nível dobrado
+paintingFrame.3tier=Nível triplo
+paintingFrame.4tier=Nível quádruplo
 
-OakClock.name=Oak Clock
-SpruceClock.name=Spruce Clock
-BirchClock.name=Birch Clock
-JungleClock.name=Jungle Clock
-AcaciaClock.name=Acacia Clock
-OldOakClock.name=Dark Oak Clock
+OakClock.name=Relógio de Carvalho
+SpruceClock.name=Relógio de Pinheiro
+BirchClock.name=Relógio de Eucalipto
+JungleClock.name=Relógio de Madeira da Selva
+AcaciaClock.name=Relógio de Acácia
+OldOakClock.name=Relógio de Caravalho Escuro
 
-WhiteTypewriter.name=White Typewriter
-LightGrayTypewriter.name=Light Gray Typewriter
-GrayTypewriter.name=Gray Typewriter
-BlackTypewriter.name=Black Typewriter
-RedTypewriter.name=Red Typewriter
-OrangeTypewriter.name=Orange Typewriter
-YellowTypewriter.name=Yellow Typewriter
-LimeTypewriter.name=Lime Typewriter
-GreenTypewriter.name=Green Typewriter
-CyanTypewriter.name=Cyan Typewriter
-LightBlueTypewriter.name=Light Blue Typewriter
-BlueTypewriter.name=Blue Typewriter
-PurpleTypewriter.name=Purple Typewriter
-MagentaTypewriter.name=Magenta Typewriter
-PinkTypewriter.name=Pink Typewriter
-BrownTypewriter.name=Brown Typewriter
+WhiteTypewriter.name=Máquina de Escrever Branca
+LightGrayTypewriter.name=Máquina de Escrever Cinza Clara
+GrayTypewriter.name=Máquina de Escrever Cinza
+BlackTypewriter.name=Máquina de Escrever Preta
+RedTypewriter.name=Máquina de Escrever Vermelha
+OrangeTypewriter.name=Máquina de Escrever Laranja
+YellowTypewriter.name=Máquina de Escrever Amarelo
+LimeTypewriter.name=Máquina de Escrever Verde Limão
+GreenTypewriter.name=Máquina de Escrever Verde
+CyanTypewriter.name=Máquina de Escrever Ciano
+LightBlueTypewriter.name=Máquina de Escrever Azul Clara
+BlueTypewriter.name=Máquina de Escrever Azul
+PurpleTypewriter.name=Máquina de Escrever Lilás
+MagentaTypewriter.name=Máquina de Escrever Magenta
+PinkTypewriter.name=Máquina de Escrever Rosa
+BrownTypewriter.name=Máquina de Escrever Marrom
 
 // End of 1.8 additions and changes // 
 
@@ -278,7 +278,7 @@ OldOakWorkbench.name=Bancada de Trabalho Sofisticada de Caravalho Escuro
 tile.BiblioBell.name=Sino de Recepção
 
 item.RecipeBook.name=Livro de Receitas Vazio
-item.SlottedBook.name=Livro com Divisões
+item.SlottedBook.name=Livro com Esconderijo
 item.BigBook.name=Livro Grande
 item.HandDrill.name=Furadeira Manual
 
@@ -403,7 +403,7 @@ gui.typesetting.enableDiscard=Descartar
 // Gui stuff
 gui.armorstand=Suporte de Armadura
 gui.bookcase=Estante de Livros
-gui.cookiejar=Pote de Biscoito
+gui.cookiejar=Pote de Biscoitos
 gui.shelf=Prateleira de Madeira
 gui.label=Rótulo de Madeira
 gui.potionshelf=Estante de Poções
