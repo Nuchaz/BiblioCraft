@@ -8,6 +8,9 @@ itemGroup.BiblioCraftLights=BiblioCraft Lighting
 item.paneler.panels=Panels:
 
 //Updated localizations for BiblioCraft v2.0
+item.creativebookcase.randombooks=Randomly filled with books.
+item.creativebookcase.mode=Creative Mode Only.
+
 DarkOakBookcase.name=Dark Oak Bookcase
 FramedBookcase.name=Framed Bookcase
 OakBookcaseCreative.name=Oak Creative Bookcase
