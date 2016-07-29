@@ -71,7 +71,7 @@ BirchPaneler.name=Paineladora de Mobília de Eucalipto
 JunglePaneler.name=Paineladora de Mobília de Madeira da Selva
 AcaciaPaneler.name=Paineladora de Mobília de Acácia
 OldOakPaneler.name=Paineladora de Mobília de Carvalho Escuro
-FramedPaneler.name=Paineladora de Mobília de Encaixilhado
+FramedPaneler.name=Paineladora de Mobília de Encaixilhada
 
 FramedClock.name=Relógio Encaixilhado
 FrameBookcase.name=Estante de Livros Encaixilhada
@@ -84,7 +84,7 @@ FramedMapFrame.name=Moldura de Mapa Encaixilhada
 FramedPaintingFrame.name=Moldura de Pintura Encaixilhada
 FramedDesk.name=Escrivaninha Encaixilhada
 FramedWeaponRack.name=Porta-Ferramentas Encaixilhada
-FramedCase.name=Estojo Encaixilhada
+FramedCase.name=Estojo Encaixilhado
 FramedTable.name=Mesa Encaixilhada
 FramedSeat.name=Assento Encaixilhado
 item.seatBack.FramedSeatBack.name=Encosto de Assento Encaixilhado
@@ -139,18 +139,18 @@ gui.atlas.switchtoinv=Mudar para visualizar Inventário
 gui.atlas.switchtoatlas=Mudar para visualizar Mapa
 
 gui.atlas.autocenter.tt1=Se habilitado, o atlas irá
-gui.atlas.autocenter.tt2=search the inventory for a
-gui.atlas.autocenter.tt3=valid map that shows where
-gui.atlas.autocenter.tt4=you are at the currently
-gui.atlas.autocenter.tt5=selected zoom level.
+gui.atlas.autocenter.tt2=procurar no inventário por um
+gui.atlas.autocenter.tt3=mapa válido que mostre onde
+gui.atlas.autocenter.tt4=você está com o mesmo
+gui.atlas.autocenter.tt5=nível de zoom selecionado.
 
-gui.atlas.autocreate.tt1=Se habilitado, creates new
-gui.atlas.autocreate.tt2=maps from blank maps in the
-gui.atlas.autocreate.tt3=inventory. When auto center 
-gui.atlas.autocreate.tt4=fails to find a matching map, 
-gui.atlas.autocreate.tt5=a new map is created based off
-gui.atlas.autocreate.tt6=from the last map loaded at
-gui.atlas.autocreate.tt7=the selected zoom level.
+gui.atlas.autocreate.tt1=Se habilitado, cria novos
+gui.atlas.autocreate.tt2=mapas a partir de mapas em branco no
+gui.atlas.autocreate.tt3=seu inventário. Quando o autocentrar
+gui.atlas.autocreate.tt4=falhar na procura de um mapa contíguo,
+gui.atlas.autocreate.tt5=um mapa novo é criado baseado-se no
+gui.atlas.autocreate.tt6=último mapa carregado com o seu
+gui.atlas.autocreate.tt7=nível de zoom selecionado.
 
 gui.atlas.autocreate.tt8=Autocentrar deve ser
 gui.atlas.autocreate.tt9=habilitado para funcionar.
