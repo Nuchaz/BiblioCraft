@@ -1,3 +1,7 @@
+language.name=Spanish
+language.region=ES
+language.code=es_ES
+
 itemGroup.BiblioCraft=BiblioCraft
 itemGroup.BiblioCraftLights=BiblioCraft Iluminación
 item.paneler.panels=Paneles:
