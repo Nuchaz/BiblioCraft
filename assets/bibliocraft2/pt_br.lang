@@ -1,0 +1,582 @@
+language.name=Português(BR)
+language.region=BR
+language.code=pt_BR
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=BiblioCraft: Iluminação
+item.paneler.panels=Painéis:
+
+//BiblioCraft v1.11.2 additions
+gui.recipe.disabled=Confecção com livros de receitas está desativado.
+stockcatalog.inventory.notfound=Nome de Inventário Faltando 
+
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=Catálogo de Almoxarifado
+jds.tileentitychest=Baú Encaixilhado
+FramedChest.name=Baú Encaixilhado
+gui.catalog.close=Fechar
+gui.catalog.count=Quant.
+gui.catalog.names=Item / Nome de Bloco 
+screwgun.selected.chest1=Primeiro Baú selecionado.
+screwgun.selected.chest2=Tentando juntar/separar Baús.
+gui.left=Esquerda
+gui.right=Direita
+gui.craft=Criar
+gui.recipe.crafted=Criado com sucesso
+gui.recipe.failed=Falhou em remover ingredientes
+gui.recipe.invalid=Receita Inválida
+gui.recipe.missing=Ingredientes Faltando
+gui.recipe.wrong=Algo deu errado. Nenhum Livro de Receitas com dados de receita válidos encontrado ou algo assim.
+
+
+gui.clock.pulse=Pulso
+gui.clock.solid=Sólido
+
+jds.tileentityarmorstand=Suporte de Armadura
+jds.tileentitybookcase=Estante de Livros
+jds.teclipboard=Prancheta
+jds.tileentitycookiejar=Pote de Biscoitos 
+jds.tileentitywoodlabel=Rótulo
+jds.tileentitygenericshelf=Prateleira
+jds.tileentitymapframe=Moldura de Mapa
+jds.tefurnituretile=Paineladora de Mobília
+jds.tileentityfancyworkbench=Bancada de Trabalho Sofisticada
+jds.tileentityfancysign=Placa Sofisticada
+jds.tileentitydiscrack=Porta-Discos
+jds.tileentitydinnerplate=Prato
+jds.tileentitypotionshelf=Estante de Poções
+jds.tileentitywritingdesk=Escrivaninha
+jds.tileentityweaponcase=Estojo
+jds.tileentitytoolrack=Porta-Ferramentas
+jds.tileentitytypewriter=Máquina de Escrever
+jds.tileentitytypemachine=Mesa Tipográfica
+jds.tileentitytable=Mesa
+jds.tileentityswordpedestal=Pedestal de Espada
+jds.tileentityseat=Assento
+jds.tileentityprintpress=Prensa de Impressão
+jds.tileentitypaintpress=Prensa de Pintura
+jds.tileentitypainting=Pintura
+
+// BiblioCraft 1.10 additions
+item.plumbline.depth=Altura/Prof.
+item.PlumbLine.name=Prumo
+item.FramingSaw.name=Serra de Encaixilhamento
+item.FramingBoard.name=Prancha de Encaixilhamento
+item.FramingSheet.name=Folha de Encaixilhamento
+
+OakPaneler.name=Paineladora de Mobília de Carvalho
+SprucePaneler.name=Paineladora de Mobília de Pinheiro
+BirchPaneler.name=Paineladora de Mobília de Eucalipto
+JunglePaneler.name=Paineladora de Mobília de Madeira da Selva
+AcaciaPaneler.name=Paineladora de Mobília de Acácia
+OldOakPaneler.name=Paineladora de Mobília de Carvalho Escuro
+FramedPaneler.name=Paineladora de Mobília de Encaixilhado
+
+FramedClock.name=Relógio Encaixilhado
+FrameBookcase.name=Estante de Livros Encaixilhada
+FramedWorkbench.name=Bancada de Trabalho Sofisticada Encaixilhada
+FramedSign.name=Placa Sofisticada Encaixilhada
+FramedShelf.name=Prateleira Encaixilhada
+FramedPotionShelf.name=Estante de Poções Encaixilhado
+FramedLabel.name=Rótulo Encaixilhado
+FramedMapFrame.name=Moldura de Mapa Encaixilhada
+FramedPaintingFrame.name=Moldura de Pintura Encaixilhada
+FramedDesk.name=Escrivaninha Encaixilhada
+FramedWeaponRack.name=Porta-Ferramentas Encaixilhada
+FramedCase.name=Estojo Encaixilhada
+FramedTable.name=Mesa Encaixilhada
+FramedSeat.name=Assento Encaixilhado
+item.seatBack.FramedSeatBack.name=Encosto de Assento Encaixilhado
+
+gui.painting.showFrame=Mostrar Borda
+gui.painting.hideFrame=Esconder Borda
+
+screwgun.selected.desk1=Primeira escrivaninha selecionada.
+screwgun.selected.desk2=Tentando juntar/separar escrivaninhas.
+
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=Atlas
+item.AtlasPlate.name=Chapa de Atlas
+item.DeathCompass.name=Búsola Eterna
+enchant.deathcompass=Búsola Eterna
+gui.atlas.zoom=Zoom
+gui.atlas.center=Autocentrar
+gui.atlas.create=Autocriar
+gui.atlas.mapXcenter=Centro em X:
+gui.atlas.mapZcenter=Centro em Z:
+gui.atlas.mapZoom=Zoom do Mapa:
+gui.atlas.yes=Sim
+gui.atlas.no=Não
+gui.atlas.atlas=O Atlas
+
+gui.atlas.select.tt1=Modo Selecinar Pontos
+gui.atlas.select.tt2=Passe o mouse sobre um ponto e clique
+gui.atlas.select.tt3=com botão esquerdo para selecionar
+gui.atlas.select.tt4=o ponto.
+gui.atlas.select.tt5=Segure a tecla Ctrl e passe o mouse sobre o mapa
+gui.atlas.select.tt6=para ver as coordenadas do mundo.
+gui.atlas.select.tt7=Clique com botão esquerdo enquanto segura Ctrl
+gui.atlas.select.tt8=para selecionar qualquer ponto no mapa.
+
+gui.atlas.edit.tt1=Modo Editar Pontos
+gui.atlas.edit.tt2=Clique em um ponto para editar
+gui.atlas.edit.tt3=o nome e a cor do marcador
+gui.atlas.edit.tt4=ou deletar o marcador selecionado.
+gui.atlas.edit.tt5=Para deletar um ponto rapidamente,
+gui.atlas.edit.tt6=Segure a tecla shift e clique um ponto.
+
+gui.atlas.add.tt1=Modo Adicionar Pontos
+gui.atlas.add.tt2=Clique em qualquer lugar no mapa
+gui.atlas.add.tt3=para adicionar um novo ponto.
+gui.atlas.add.tt4=Uma caixa de diálogo irá aparecer e pedir
+gui.atlas.add.tt5=o nome e a cor.
+gui.atlas.add.tt6=Segure a tecla shift e clique no mapa
+gui.atlas.add.tt7=para colocar um novo marcador com uma
+gui.atlas.add.tt8=cor e nome aleatórios.
+
+gui.atlas.switchtoinv=Mudar para visualizar Inventário
+gui.atlas.switchtoatlas=Mudar para visualizar Mapa
+
+gui.atlas.autocenter.tt1=Se habilitado, o atlas irá
+gui.atlas.autocenter.tt2=search the inventory for a
+gui.atlas.autocenter.tt3=valid map that shows where
+gui.atlas.autocenter.tt4=you are at the currently
+gui.atlas.autocenter.tt5=selected zoom level.
+
+gui.atlas.autocreate.tt1=Se habilitado, creates new
+gui.atlas.autocreate.tt2=maps from blank maps in the
+gui.atlas.autocreate.tt3=inventory. When auto center 
+gui.atlas.autocreate.tt4=fails to find a matching map, 
+gui.atlas.autocreate.tt5=a new map is created based off
+gui.atlas.autocreate.tt6=from the last map loaded at
+gui.atlas.autocreate.tt7=the selected zoom level.
+
+gui.atlas.autocreate.tt8=Autocentrar deve ser
+gui.atlas.autocreate.tt9=habilitado para funcionar.
+
+gui.atlas.transfer=Transferir Marcador
+gui.atlas.transfer.cancel=Cancelar
+gui.atlas.transfer.from=Do Atlas para Moldura de Mapa
+gui.atlas.transfer.to=Da Moldura de Mapa para o Atlas
+
+gui.compass.currentlocation=Local. Atual
+
+gui.paintpress.page=Página
+gui.paintpress.of=de
+
+item.TesterItem.name=Testador de Nome de ItemStack
+gui.testeritem.name=Testador de Nome de ItemStack
+gui.testeritem.display=Nome no Jogo:
+gui.testeritem.unlocal=Nome sem tradução:
+// end of 1.9 additions
+
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=Som de Badalar 
+gui.clock.ticksound=Som de tic-tac 
+gui.clock.redstone=Redstone
+gui.clock.chime=Badalo
+gui.clock.presets=Predefinições
+
+screwgun.selected.painting1=Primeira Pintura selecionada
+screwgun.selected.painting2=Segunda Pintura selecionada
+screwgun.selected.clock1=Primeiro relógio selecionado
+screwgun.selected.clock2=Segundo relógio selecionado
+drill.failed=Conexão falhou
+
+item.PaintingCanvas.name=Tela de Pintura
+tile.BiblioPaintPress.name=Prensa de Pintura
+
+gui.paintpress.transfer=Transferir
+gui.paintpress.vanilla=Vanilla
+gui.paintpress.custom=Personalizado
+
+gui.painting.scale=Escala
+gui.painting.resolution=Resolução
+gui.painting.aspectRatio=Proporção
+gui.painting.size=Tamanho da Tela
+gui.painting.rotation=Giro
+gui.painting.corner=Ancoragem
+
+OakPaintingFrame.name=Moldura de Pintura de Carvalho
+SprucePaintingFrame.name=Moldura de Pintura de Pinheiro
+BirchPaintingFrame.name=Moldura de Pintura de Eucalipto
+JunglePaintingFrame.name=Moldura de Pintura de Madeira da Selva
+AcaciaPaintingFrame.name=Moldura de Pintura de Acácia
+OldOakPaintingFrame.name=Moldura de Pintura de Caravalho Escuro
+
+paintingFrame.0tier=Sem moldura
+paintingFrame.1tier=Nível simples
+paintingFrame.2tier=Nível dobrado
+paintingFrame.3tier=Nível triplo
+paintingFrame.4tier=Nível quádruplo
+
+OakClock.name=Relógio de Carvalho
+SpruceClock.name=Relógio de Pinheiro
+BirchClock.name=Relógio de Eucalipto
+JungleClock.name=Relógio de Madeira da Selva
+AcaciaClock.name=Relógio de Acácia
+OldOakClock.name=Relógio de Caravalho Escuro
+
+WhiteTypewriter.name=Máquina de Escrever Branca
+LightGrayTypewriter.name=Máquina de Escrever Cinza Clara
+GrayTypewriter.name=Máquina de Escrever Cinza
+BlackTypewriter.name=Máquina de Escrever Preta
+RedTypewriter.name=Máquina de Escrever Vermelha
+OrangeTypewriter.name=Máquina de Escrever Laranja
+YellowTypewriter.name=Máquina de Escrever Amarelo
+LimeTypewriter.name=Máquina de Escrever Verde Limão
+GreenTypewriter.name=Máquina de Escrever Verde
+CyanTypewriter.name=Máquina de Escrever Ciano
+LightBlueTypewriter.name=Máquina de Escrever Azul Clara
+BlueTypewriter.name=Máquina de Escrever Azul
+PurpleTypewriter.name=Máquina de Escrever Lilás
+MagentaTypewriter.name=Máquina de Escrever Magenta
+PinkTypewriter.name=Máquina de Escrever Rosa
+BrownTypewriter.name=Máquina de Escrever Marrom
+
+// End of 1.8 additions and changes // 
+
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=Você tem certeza?
+gui.recipe.finalize=Clicar Sim impedirá o livro de ser editado pemanentemente.
+gui.recipe.description=Adicione uma descrição.
+
+swordpedestal.name=Pedestal de Espada
+swordpedestal.white=Detalhe Branco
+swordpedestal.orange=Detalhe Laranja
+swordpedestal.magenta=Detalhe Magenta
+swordpedestal.lightblue=Detalhe Azul Claro
+swordpedestal.yellow=Detalhe Amarelo
+swordpedestal.lime=Detalhe Lima
+swordpedestal.pink=Detalhe Rosa
+swordpedestal.gray=Detalhe Cinza
+swordpedestal.lightgray=Detalhe Cinza Claro
+swordpedestal.cyan=Detalhe Ciano
+swordpedestal.purple=Detalhe Roxo
+swordpedestal.blue=Detalhe Azul
+swordpedestal.brown=Detalhe Marrom
+swordpedestal.green=Detalhe Verde
+swordpedestal.red=Detalhe Vermelho
+swordpedestal.black=Detahe Preto
+
+OakSign.name=Placa Sofisticada de Carvalho
+SpruceSign.name=Placa Sofisticada de Pinheiro
+BirchSign.name=Placa Sofisticada de Eucalipto
+JungleSign.name=Placa Sofisticada de Madeira da Selva
+AcaciaSign.name=Placa Sofisticada de Acácia
+OldOakSign.name=Placa Sofisticada de Carvalho Escuro
+
+OakWorkbench.name=Bancada de Trabalho Sofisticada de Carvalho
+SpruceWorkbench.name=Bancada de Trabalho Sofisticada de Pinheiro
+BirchWorkbench.name=Bancada de Trabalho Sofisticada de Eucalipto
+JungleWorkbench.name=Bancada de Trabalho Sofisticada de Madeira da Selva
+AcaciaWorkbench.name=Bancada de Trabalho Sofisticada de Acácia
+OldOakWorkbench.name=Bancada de Trabalho Sofisticada de Caravalho Escuro
+
+tile.BiblioBell.name=Sino de Recepção
+
+item.RecipeBook.name=Livro de Receitas Vazio
+item.SlottedBook.name=Livro com Esconderijo
+item.BigBook.name=Livro Grande
+item.HandDrill.name=Furadeira Manual
+
+book.bold=N
+book.italic=I
+book.underline=S
+book.strike=Tachado
+book.obfuscated=O
+book.reset=Restaurar
+book.save=Salvar
+book.sign=Assinar
+book.entertitle=Insira o Titulo do Livro:
+book.by=por
+book.signnotice=Nota Importante! Depois de assinado, não será possível alterar o livro. Isso inclui texto, formatação, capítulos e páginas adicionais.
+book.textscale=Tamanho do Texto
+book.lineselected=Linha Selecionada
+book.cancel=Cancelar
+book.linenum=Linha número =
+book.title=Título
+book.description=Descrição
+book.ingredients=Ingredientes Necessários:
+book.overwriterecipe=Substituir atual
+book.overwriterecipe2=livro de receitas.
+book.saverecipe=Salvar receita para
+book.saverecipe2=livro em branco.
+book.loadrecipe=Usar itens
+book.loadrecipe2=do inventário.
+book.areyousure=Voce tem certeza?
+book.areyousure2=Clicar Sim impedirá o livro de ser editado pemanentemente.
+book.setrecipename=Receita:
+gui.fancyworkbench=Bancada de Trabalho Sofisticada
+
+gui.sign.left=Esquerda
+gui.sign.center=Centro
+gui.sign.right=Direita
+
+gui.sign.black=Preto
+gui.sign.darkblue=Azul Escuro
+gui.sign.darkgreen=Verde Escuro
+gui.sign.darkaqua=Aqua Escuro
+gui.sign.darkred=Vermelho Escuro
+gui.sign.darkpurple=Roxo Escuro
+gui.sign.gold=Dourado
+gui.sign.gray=Cinza
+gui.sign.darkgray=Cinza Escuro
+gui.sign.blue=Azul
+gui.sign.green=Verde
+gui.sign.aqua=Aqua
+gui.sign.red=Vermelho
+gui.sign.lightpurple=Roxo Claro
+gui.sign.yellow=Amarelo
+gui.sign.white=Branco
+
+gui.sign.tooltip1=Clique numa caixa ou pressione Tab para selecionar um painel de edição. Tab alternará entre paineis.
+gui.sign.tooltip2=Clique na caixa acima para selecionar o painel de edição de opções do espaço 1. Muda o tamanho, a posição e a rotação.
+gui.sign.tooltip3=Clique na caixa acima para selecionar as opções de edição de texto. Muda a escala e adiciona o estilo de formatação padrão.
+gui.sign.tooltip4=Clique na caixa acima para selecionar o painel de edição de opções do espaço 2. Muda o tamanho, a posição e a rotação.
+gui.sign.tooltip5=Ajustar o tamanho do bloco.
+gui.sign.tooltip6=Ajustar rotação do bloco. Blocos podem apontar para a esquerda, para o centro ou para a direita. Itens somente podem apontar para a direita ou esquerda.
+gui.sign.tooltip7=Ajustar posição do bloco. Também pode ser ajustado usando as setas ou as teclas WASD.
+gui.sign.tooltip8=Inserir um desses números/letras após o símbolo de formatação:
+gui.sign.tooltip9=Clique no botão ou pressione Alt para adicionar um símbolo de formatação na linha selecionada.
+
+gui.sign.bold=Negrito
+gui.sign.strikethrough=Tachado
+gui.sign.underline=Sublinhado
+gui.sign.italic=Itálico
+
+gui.sign.scale=Tamanho do Texto
+gui.sign.format=Formato
+gui.sign.linenum=Linha número
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=Título do Livro:
+gui.redbook.description.p1=O livro de Redstone é usado em combinação com uma estante de livros para emitir um sinal. Quando colocado dentro da estante, um sinal de Redstone será emitido por todos os lados exceto pela frente. A força do sinal é baseada na posição do livro dentro da estante. 
+gui.redbook.description.p2=A estande de livros tem 16 espaços, sendo o primeiro o da esquerda na fileira de cima e o 16º o da direita na fileira de baixo. Se o livro de Redstone for colocado no espaço 1, nenhum sinal será emitido. Se o livro de Redstone for colocado no espaço 2, a estante emitirá um sinal de força 1. Cada espaço seguinte aumenta a força do sinal em 1 até o espaço 16, que emite um sinal com força máxima de 15.
+
+
+AcaciaDesk.name=Escrivaninha de Acácia
+OldOakDesk.name=Escrivaninha de Carvalho Escuro
+AcaciaBookcase.name=Estante de Livros de Acácia
+OldOakBookcase.name=Estante de Livros de Carvalho Escuro
+AcaciaPotionShelf.name=Estante de Poções de Acácia
+OldOakPotionShelf.name=Estante de Poções de Carvalho Escuro
+AcaciaShelf.name=Prateleira de Acácia
+OldOakShelf.name=Prateleira de Carvalho Escuro
+AcaciaWeaponRack.name=Porta-Ferramentas de Acácia
+OldOakWeaponRack.name=Porta-Ferramentas de Carvalho Escuro
+AcaciaLabel.name=Rótulo de Acácia
+OldOakLabel.name=Rótulo de Carvalho Escuro
+AcaciaTable.name=Mesa de Acácia
+OldOakTable.name=Mesa de Carvalho Escuro
+AcaciaMapFrame.name=Moldura de Mapa de Acácia
+OldOakMapFrame.name=Moldura de Mapa de Carvalho Escuro
+AcaciaSeat.name=Assento de Acácia
+OldOakSeat.name=Assento de Carvalho Escuro
+OakCase.name=Estojo de Carvalho
+SpruceCase.name=Estojo de Pinheiro
+BirchCase.name=Estojo de Eucalipto
+JungleCase.name=Estojo de Madeira da Selva
+AcaciaCase.name=Estojo de Acácia
+OldOakCase.name=Estojo de Carvalho Escuro
+item.seatBack.AcaciaSeatBack.name=Encosto de Assento de Acácia
+item.seatBack.OldOakSeatBack.name=Encosto de Assento de Carvalho Escuro
+lighting.metalIron=Feito de Ferro
+lighting.metalGold=Feito de Ouro
+gui.typesetting.guiTitle=Mesa Tipográfica: Gestão de Livro
+gui.typesetting.pageOfpages=de
+gui.typesetting.public=Público
+gui.typesetting.private=Privado
+gui.typesetting.delete=Excluir
+gui.typesetting.select=Selecionar
+gui.typesetting.nextPage=Próxima Página
+gui.typesetting.prevPage=Página Anterior
+gui.typesetting.exit=Sair
+gui.typesetting.enableDiscard=Descartar
+// End of 1.6 additions ////////////////////////////
+
+
+
+// Gui stuff
+gui.armorstand=Suporte de Armadura
+gui.bookcase=Estante de Livros
+gui.cookiejar=Pote de Biscoitos
+gui.shelf=Prateleira de Madeira
+gui.label=Rótulo de Madeira
+gui.potionshelf=Estante de Poções
+gui.table=Mesa de Madeira
+gui.case=Estojo
+gui.toolrack=Porta-Ferramentas
+gui.desk=Escrivaninha de Madeira
+gui.mapWaypoint.accept=Aceitar
+gui.mapWaypoint.remove=Remover
+gui.mapWaypoint.cancel=Cancelar
+gui.mapWaypoint.waypoint=Marcador
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Prato
+gui.discRack=Porta-Discos
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=Leitura
+redbook.by=por
+plate.notValid=Inválido
+typesetting.requires=Requer
+typesetting.levels=Níveis
+typesetting.chase=Entalhes
+typesetting.bookSelect=Selecione um livro.
+print.ink=Tinta
+print.book=Livros
+screwgun.firstSeat=Primeiro assento selecionado.
+screwgun.secondSeat=Tentando prender/desprender assentos.
+
+//Tape Measure Texts
+tape.measurenorthsouth=Medição Norte/Sul =
+tape.measureeastwest=Medição Leste/Oeste =
+tape.measureheight=Medição Altura =
+tape.nomeasure=Nenhuma Medição.
+tape.measure=Medição =
+tape.startmeasure=Iniciando Medição.
+tape.mode0=Alternando modo para Norte/Sul, Leste/Oeste e altura.
+tape.mode1=Alternando modo para medição rigorosa.
+lock.creativeonly=Somente Modo Criativo
+lock.notowner=Você não é o proprietário desse bloco.
+lock.locked=Esse bloco foi bloqueado.
+lock.unlocked=Esse bloco foi desbloqueado.
+
+// Blocks
+CookieJar.name=Pote de Biscoito
+MarkerPole.name=Marcador
+tile.BiblioType.name=Mesa Tipográfica
+tile.BiblioPress.name=Prensa de Impressão
+tile.BiblioArmorStand.name=Suporte de Armadura
+OakBookcase.name=Estante de Livros de Carvalho
+SpruceBookcase.name=Estante de Livros de Pinheiro
+BirchBookcase.name=Estante de Livros de Eucalipto
+JungleBookcase.name=Estante de Livros de Madeira da Selva
+OakPotionShelf.name=Estante de Poções de Carvalho
+SprucePotionShelf.name=Estante de Poções de Pinheiro
+BirchPotionShelf.name=Estante de Poções de Eucalipto
+JunglePotionShelf.name=Estante de Poções de Madeira da Selva
+OakShelf.name=Estante de Carvalho
+SpruceShelf.name=Estante de Pinheiro
+BirchShelf.name=Estante de Eucalipto
+JungleShelf.name=Estante de Madeira da Selva
+OakWeaponRack.name=Porta-Ferramentas de Carvalho
+SpruceWeaponRack.name=Porta-Ferramentas de Pinheiro
+BirchWeaponRack.name=Porta-Ferramentas de Eucalipto
+JungleWeaponRack.name=Porta-Ferramentas de Madeira da Selva
+OakLabel.name=Indicação Madeira de Carvalho
+SpruceLabel.name=Indicação Madeira de Pinheiro
+BirchLabel.name=Indicação Madeira de Eucalipto
+JungleLabel.name=Indicação Madeira de Madeira da Selva
+OakWritingDesk.name=Escrivaninha de Madeira de Carvalho
+SpruceWritingDesk.name=Escrivaninha de Madeira de Pinheiro
+BirchWritingDesk.name=Escrivaninha de Madeira de Eucalipto
+JungleWritingDesk.name=Escrivaninha de Madeira da Selva
+OakTable.name=Mesa de Madeira de Carvalho
+SpruceTable.name=Mesa de Madeira de Pinheiro
+BirchTable.name=Mesa de Madeira de Eucalipto
+JungleTable.name=Mesa de Madeira de Madeira da Selva
+DiscRack.name=Porta-Discos
+DinnerPlate.name=Prato
+OakMapFrame.name=Moldura de Mapa de Carvalho
+SpruceMapFrame.name=Moldura de Mapa de Pinheiro
+BirchMapFrame.name=Moldura de Mapa de Eucalipto
+JungleMapFrame.name=Moldura de Mapa de Madeira da Selva
+OakSeat.name=Assento de Carvalho
+SpruceSeat.name=Assento de Pinheiro
+BirchSeat.name=Assento de Eucalipto
+JungleSeat.name=Assento de Madeira da Selva
+
+//lights
+whiteLantern.name=Lampião Sofisticado
+lightGrayLantern.name=Lampião Sofisticado
+grayLantern.name=Lampião Sofisticado
+blackLantern.name=Lampião Sofisticado
+redLantern.name=Lampião Sofisticado
+orangeLantern.name=Lampião Sofisticado
+yellowLantern.name=Lampião Sofisticado
+limeLantern.name=Lampião Sofisticado
+greenLantern.name=Lampião Sofisticado
+cyanLantern.name=Lampião Sofisticado
+lightBlueLantern.name=Lampião Sofisticado
+blueLantern.name=Lampião Sofisticado
+purpleLantern.name=Lampião Sofisticado
+magentaLantern.name=Lampião Sofisticado
+pinkLantern.name=Lampião Sofisticado
+brownLantern.name=Lampião Sofisticado
+
+whiteLamp.name=Lamparina Sofisticada
+lightGrayLamp.name=Lamparina Sofisticada
+grayLamp.name=Lamparina Sofisticada
+blackLamp.name=Lamparina Sofisticada
+redLamp.name=Lamparina Sofisticada
+orangeLamp.name=Lamparina Sofisticada
+yellowLamp.name=Lamparina Sofisticada
+limeLamp.name=Lamparina Sofisticada
+greenLamp.name=Lamparina Sofisticada
+cyanLamp.name=Lamparina Sofisticada
+lightBlueLamp.name=Lamparina Sofisticada
+blueLamp.name=Lamparina Sofisticada
+purpleLamp.name=Lamparina Sofisticada
+magentaLamp.name=Lamparina Sofisticada
+pinkLamp.name=Lamparina Sofisticada
+brownLamp.name=Lamparina Sofisticada
+
+lamp.hood0=Capa de Lâmpada Branca
+lamp.hood1=Capa de Lâmpada Cinza Claro
+lamp.hood2=Capa de Lâmpada Cinza
+lamp.hood3=Capa de Lâmpada Preta
+lamp.hood4=Capa de Lâmpada Vermelha
+lamp.hood5=Capa de Lâmpada Laranja
+lamp.hood6=Capa de Lâmpada Amarela
+lamp.hood7=Capa de Lâmpada Lima
+lamp.hood8=Capa de Lâmpada Verde
+lamp.hood9=Capa de Lâmpada Ciana
+lamp.hood10=Capa de Lâmpada Azul Clara
+lamp.hood11=Capa de Lâmpada Azul
+lamp.hood12=Capa de Lâmpada Lilás
+lamp.hood13=Capa de Lâmpada Magenta
+lamp.hood14=Capa de Lâmpada Rosa
+lamp.hood15=Capa de Lâmpada Marrom
+
+lantern.candle0=Vela Branca
+lantern.candle1=Vela Cinza Clara
+lantern.candle2=Vela Cinza
+lantern.candle3=Vela Preta
+lantern.candle4=Vela Vermelha
+lantern.candle5=Vela Laranja
+lantern.candle6=Vela Amarela
+lantern.candle7=Vela Lima
+lantern.candle8=Vela Verde
+lantern.candle9=Vela Ciana
+lantern.candle10=Vela Azul Clara
+lantern.candle11=Vela Azul
+lantern.candle12=Vela Lilás
+lantern.candle13=Vela Magenta
+lantern.candle14=Vela Rosa
+lantern.candle15=Vela Marrom
+
+// Items
+item.tapeMeasure.name=Fita Métrica
+item.tape.name=Rolo de Fita Métrica
+item.BiblioChase.name=Entalhe de Prensa de Impressão
+item.PrintPlate.name=Chapa de Prensa de Impressão
+item.EnchantedPlate.name=Chapa Encantada
+item.BiblioRedBook.name=Redstone: Volume I
+item.BiblioGlasses.readingglasses.name=Óculos de Leitura
+item.BiblioGlasses.tintedglasses.name=Óculos Escuros
+item.BiblioGlasses.monocle.name=Monóculo
+item.BiblioDrill.name=Parafusadeira
+item.BiblioCreativeLock.name=Cadeado e Chave
+item.BiblioClipboard.name=Prancheta
+item.seatBack.OakSeatBack.name=Encosto de Assento de Carvalho
+item.seatBack.SpruceSeatBack.name=Encosto de Assento de Pinheiro
+item.seatBack.BirchSeatBack.name=Encosto de Assento de Eucalipto
+item.seatBack.JungleSeatBack.name=Encosto de Assento de Madeira da Selva
+item.BiblioWayPointCompass.name=Bússola de Marcador
+item.BiblioMapTool.name=Compasso de Rascunho

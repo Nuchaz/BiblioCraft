@@ -1,0 +1,385 @@
+language.name=български
+language.region=BG
+language.code=bg_BG
+
+// Tab Names
+itemGroup.BiblioCraft=Библио Крафт
+itemGroup.BiblioCraftLights=Библио Крафт Oсветление
+
+// All BiblioCraft 1.8 additions and changes //
+
+screwgun.selected.painting1=Първа картина избрана
+screwgun.selected.painting2=Втора картина избрана
+screwgun.selected.clock1=Първи часовник избран
+screwgun.selected.clock2=Втори часовник избран
+
+item.PaintingCanvas.name=Платно за Картини
+tile.BiblioPaintPress.name=Преса за Картини
+
+gui.painting.scale=Скала
+gui.painting.resolution=Резолюция
+gui.painting.aspectRatio=Съотношение на Страните
+gui.painting.size=Размер на Картината
+gui.painting.rotation=Ротация
+gui.painting.corner=Главен Ъгъл
+
+OakPaintingFrame.name=Дъбова Художествена Рамка
+SprucePaintingFrame.name=Смърчова Художествена Рамка
+BirchPaintingFrame.name=Брезова Художествена Рамка
+JunglePaintingFrame.name=Джунглова Художествена Рамка
+AcaciaPaintingFrame.name=Акациева Художествена Рамка
+OldOakPaintingFrame.name=Тъмно Дъбова Художествена Рамка
+
+OakClock.name=Дъбов Часовник
+SpruceClock.name=Смърчов Часовник
+BirchClock.name=Брезов Часовник
+JungleClock.name=Джунглов Часовник
+AcaciaClock.name=Акациев Часовник
+OldOakClock.name=Тъмно Дъбов Часовник
+
+// End of 1.8 additions and changes // 
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=Сигурни ли сте?
+gui.recipe.finalize=Натискане на да ще заключи книгата от редактиране за винаги.
+gui.recipe.description=Добави Описание
+
+swordpedestal.name=Мечова Стойка
+swordpedestal.white=Бяла Декорация
+swordpedestal.orange=Оранжева Декорация
+swordpedestal.magenta=Пурпурена Декорация
+swordpedestal.lightblue=Светло Синя Декорация
+swordpedestal.yellow=Жълта Декорация
+swordpedestal.lime=Свелто Зелена Декорация
+swordpedestal.pink=Розова Декорация
+swordpedestal.gray=Сива Декорация
+swordpedestal.lightgray=Светло Сива Декорация
+swordpedestal.cyan=Цианова Декорация
+swordpedestal.purple=Лилава Декорация
+swordpedestal.blue=Синя Декорация
+swordpedestal.brown=Кафява Декорация
+swordpedestal.green=Зелена Декорация
+swordpedestal.red=Червена Декорация
+swordpedestal.black=Черна Декорация
+
+OakSign.name=Дъбова Табела
+SpruceSign.name=Смърчо Табела
+BirchSign.name=Брезова Табела
+JungleSign.name=Джунглова Табела
+AcaciaSign.name=Акациева Табела
+OldOakSign.name=Тъмна Дъбова Табела
+
+OakWorkbench.name=Дъбова Работна маса
+SpruceWorkbench.name=Смърчо Работна маса
+BirchWorkbench.name=Брезова Работна маса
+JungleWorkbench.name=Джунглова Работна маса
+AcaciaWorkbench.name=Акациева Работна маса
+OldOakWorkbench.name=Тъмна Дъбова Работна маса
+
+tile.BiblioBell.name=Збънец за Бюро
+
+item.RecipeBook.name=Празна Рецептна Книга
+item.SlottedBook.name=Пребрана Кнуга
+item.BigBook.name=Голяма Книга
+item.HandDrill.name=Ръчна Дрелка
+
+book.bold=B
+book.italic=I
+book.underline=U
+book.strike=Strike
+book.obfuscated=O
+book.reset=Изчисти
+book.save=Запази
+book.sign=Подпиши
+book.entertitle=Въведи Заглавие на Книгата:
+book.by=написана от
+book.signnotice=Важно! Когато подпишете книгата, няма да можете да я редактирате.
+book.textscale=Размер на текста
+book.lineselected=Избраният Ред
+book.cancel=Отказ
+book.linenum=Ред# =
+book.title=Заглавие
+book.description=Описание
+book.ingredients=Нужни Съставки:
+book.overwriterecipe=Презапишете актуалното
+book.overwriterecipe2=рецептна книга.
+book.saverecipe=Запази рецепта на
+book.saverecipe2=празна книга.
+book.loadrecipe=Зареди елементи
+book.loadrecipe2=от инвентара.
+book.areyousure=Сигурни ли сте?
+book.areyousure2=Натискане на да ще заключи книгата от редактиране за винаги.
+book.setrecipename=Рецепта:
+gui.fancyworkbench=Работна Маса
+
+gui.sign.left=Ляво
+gui.sign.center=Посредата
+gui.sign.right=Дясно
+
+gui.sign.black=Черно
+gui.sign.darkblue=Тъмно Синьо
+gui.sign.darkgreen=Тъмно Зелено
+gui.sign.darkaqua=Тъмна Аква
+gui.sign.darkred=Тъмно Червено
+gui.sign.darkpurple=Тъмно Лилаво
+gui.sign.gold=Златно
+gui.sign.gray=Сиво
+gui.sign.darkgray=Тъмно Сиво
+gui.sign.blue=Синьо
+gui.sign.green=Зелено
+gui.sign.aqua=Аква
+gui.sign.red=Червено
+gui.sign.lightpurple=Светло Лилаво
+gui.sign.yellow=Жълто
+gui.sign.white=Бяло
+
+gui.sign.tooltip1=Щракнете върху някоя кутия или натиснете таб, за да изберете редакция панел. Таб ще циклира панелите.
+gui.sign.tooltip2=Кликнете на горната кутия, за да отворите панел със опции за редактиране на слот 1. Редактирай мащаба, позицията и ротацията.
+gui.sign.tooltip3=Кликнете на горната кутия, за да отворите панел със опции за редактиране на текста. Редактирай мащаба и добави "Vanilla" стил форматирване.
+gui.sign.tooltip4=Кликнете на горната кутия, за да отворите панел със опции за редактиране на слот 2. Редактирай мащаба, позицията и ротацията.
+gui.sign.tooltip5=Настрой мащаба на блока.
+gui.sign.tooltip6=
+gui.sign.tooltip7=
+gui.sign.tooltip8=
+gui.sign.tooltip9=
+
+gui.sign.bold=Очертавка
+gui.sign.strikethrough=Зачерк
+gui.sign.underline=Подчертавка
+gui.sign.italic=Италийски
+
+gui.sign.scale=Размер на текста
+gui.sign.format=Формат
+gui.sign.linenum=Ред#
+
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=Заглавие на Книгата:
+gui.redbook.description.p1=
+gui.redbook.description.p2=
+
+
+
+AcaciaDesk.name=Акациево Бюро
+OldOakDesk.name=Тъмно Дъбово Бюро 
+AcaciaBookcase.name=Акациева Етажерка за Книги
+OldOakBookcase.name=Тъмна Дъбова Етажерка за Книги
+AcaciaPotionShelf.name=Акациева Етажерка за Отвари
+OldOakPotionShelf.name=Тъмна Дъбова Етажерка за Отвари
+AcaciaShelf.name=Акациев Рафт
+OldOakShelf.name=Тъмна Дъбова Рафт
+AcaciaWeaponRack.name=Акациева Стойка за Инструменти
+OldOakWeaponRack.name=Тъмна Дъбова Стойка за Инструменти
+AcaciaLabel.name=Акациев Надпис
+OldOakLabel.name=Тъмна Дъбова Надпис
+AcaciaTable.name=Акациева Маса
+OldOakTable.name=Тъмна Дъбова Маса
+AcaciaMapFrame.name=Акациева Рамка
+OldOakMapFrame.name=Тъмна Дъбова Рамка
+AcaciaSeat.name=Акациева Седалка
+OldOakSeat.name=Тъмна Дъбова Седалка
+OakCase.name=Дъбова Кутия
+SpruceCase.name=Смърчо Кутия
+BirchCase.name=Брезова Кутия
+JungleCase.name=Джунглова Кутия
+AcaciaCase.name=Акациева Кутия
+OldOakCase.name=Тъмна Дъбова Кутия
+item.seatBack.AcaciaSeatBack.name=Акациева Облегалка
+item.seatBack.OldOakSeatBack.name=Тъмна Дъбова Облегалка
+lighting.metalIron=Направено от Желязо
+lighting.metalGold=Направено от Злато
+gui.typesetting.guiTitle=Набопна Маса: Организирване на Книги
+gui.typesetting.pageOfpages=от
+gui.typesetting.public=Публично
+gui.typesetting.private=Частно
+gui.typesetting.delete=Изтрии
+gui.typesetting.select=Избери
+gui.typesetting.nextPage=Следващата Страница
+gui.typesetting.prevPage=Предишната Страница
+gui.typesetting.exit=Изход
+gui.typesetting.enableDiscard=Унищожи
+
+
+
+
+// Gui stuff
+gui.armorstand=Стойка за Броня
+gui.bookcase=Етажерка за Книги
+gui.cookiejar=Буркан за Бисквити
+gui.shelf=Дървен Рафт
+gui.label=Дървен Надпис
+gui.potionshelf=Етажерка за Отвари
+gui.table=Дървена Маса
+gui.case=Кутия за Изложба
+gui.toolrack=Стойка за Инструменти
+gui.desk=Дървено Бюро
+gui.mapWaypoint.accept=Приеми
+gui.mapWaypoint.remove=Откажи
+gui.mapWaypoint.cancel=Отказ
+gui.mapWaypoint.waypoint=Насочваща Точка
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Чиния
+gui.discRack=Стойка за Музикални Плочи
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=Четене
+redbook.by=написана от
+plate.notValid=Не е Валидно
+typesetting.requires=Нужни са
+typesetting.levels=Нива
+typesetting.chase=Рамки
+typesetting.bookSelect=Избери Книга
+print.ink=Мастило
+print.book=Книги
+screwgun.firstSeat=Първа седалка избрана.
+screwgun.secondSeat=Опитване да ce свържат/разделият седалките.
+
+//Tape Measure Texts
+tape.measurenorthsouth=Мерене Север / Юг =
+tape.measureeastwest=Мерене Изток / Запад =
+tape.measureheight=Мерене Висучина =
+tape.nomeasure=Няма Мерене.
+tape.measure=Мерене =
+tape.startmeasure=Започване на мерене.
+tape.mode0=Смяна на режим до Север / Юг, Изток / Запад, у Висучина.
+tape.mode1=Смяна на режим до точно мерене.
+lock.creativeonly=Само Творчески Режим
+lock.notowner=Ти не си собственик на този блок.
+lock.locked=Този блок сега е заключен.
+lock.unlocked=Този блок цега е отключен.
+
+// Blocks
+CookieJar.name=Буркан за Бисквити
+MarkerPole.name=Показвач
+tile.BiblioType.name=Набопна Маса
+tile.BiblioPress.name=Принтирваща Преса
+tile.BiblioArmorStand.name=Стойка за Броня
+OakBookcase.name=Дъбова Етажерка за Книги
+SpruceBookcase.name=Смърчова Етажерка за Книги
+BirchBookcase.name=Брезова Етажерка за Книги
+JungleBookcase.name=Джунглова Етажерка за Книги
+OakPotionShelf.name=Дъбова Етажерка за Отвари
+SprucePotionShelf.name=Смърчова Етажерка за Отвари
+BirchPotionShelf.name=Брезова Етажерка за Отвари
+JunglePotionShelf.name=Джунглова Етажерка за Отвари
+OakShelf.name=Дъбоб Рафт
+SpruceShelf.name=Смърчов Рафт
+BirchShelf.name=Брезов Рафт
+JungleShelf.name=Джунглов Рафт
+OakWeaponRack.name=Дъбова Стойка за Инструменти
+SpruceWeaponRack.name=Смърчова Стойка за Инструменти
+BirchWeaponRack.name=Брезова Стойка за Инструменти
+JungleWeaponRack.name=Джунглова Стойка за Инструменти
+OakLabel.name=Дъбов Надпис
+SpruceLabel.name=Смърчов Надпис
+BirchLabel.name=Брезов Надпис
+JungleLabel.name=Джунглов Надпис
+OakWritingDesk.name=Дъбовo Бюро
+SpruceWritingDesk.name=Смърчовo Бюро
+BirchWritingDesk.name=Брезовo Бюро
+JungleWritingDesk.name=Джунгловo Бюро
+OakTable.name=Дъбова Маса
+SpruceTable.name=Смърчова Маса
+BirchTable.name=Брезова Маса
+JungleTable.name=Джунглова Маса
+DiscRack.name=Стойка за Музикални Плочи
+DinnerPlate.name=Чиния
+OakMapFrame.name=Дъбова Рамка
+SpruceMapFrame.name=Смърчова Рамка
+BirchMapFrame.name=Брезова Рамка
+JungleMapFrame.name=Джунглова Рамка
+OakSeat.name=Дъбова Седалка
+SpruceSeat.name=Смърчова Седалка
+BirchSeat.name=Брезова Седалка
+JungleSeat.name=Джунглова Седалка
+
+//lights
+whiteLantern.name=Красив Фенер
+lightGrayLantern.name=Красив Фенер
+grayLantern.name=Красив Фенер
+blackLantern.name=Красив Фенер
+redLantern.name=Красив Фенер
+orangeLantern.name=Красив Фенер
+yellowLantern.name=Красив Фенер
+limeLantern.name=Красив Фенер
+greenLantern.name=Красив Фенер
+cyanLantern.name=Красив Фенер
+lightBlueLantern.name=Красив Фенер
+blueLantern.name=Красив Фенер
+purpleLantern.name=Красив Фенер
+magentaLantern.name=Красив Фенер
+pinkLantern.name=Красив Фенер
+brownLantern.name=Красив Фенер
+
+whiteLamp.name=Красива Лампа
+lightGrayLamp.name=Красива Лампа
+grayLamp.name=Красива Лампа
+blackLamp.name=Красива Лампа
+redLamp.name=Красива Лампа
+orangeLamp.name=Красива Лампа
+yellowLamp.name=Красива Лампа
+limeLamp.name=Красива Лампа
+greenLamp.name=Красива Лампа
+cyanLamp.name=Красива Лампа
+lightBlueLamp.name=Красива Лампа
+blueLamp.name=Красива Лампа
+purpleLamp.name=Красива Лампа
+magentaLamp.name=Красива Лампа
+pinkLamp.name=Красива Лампа
+brownLamp.name=Красива Лампа
+
+lamp.hood0=Бял Капак
+lamp.hood1=Светло Сив Капак
+lamp.hood2=Сив Капак
+lamp.hood3=Черен Капак
+lamp.hood4=Червена Капак
+lamp.hood5=Оранжев Капак
+lamp.hood6=Жълт Капак
+lamp.hood7=Свелто Зелен Капак
+lamp.hood8=Зелен Капак
+lamp.hood9=Цианов Капак
+lamp.hood10=Светло Син Капак
+lamp.hood11=Син Капак
+lamp.hood12=Лилав Капак
+lamp.hood13=Пурпурен Капак
+lamp.hood14=Розов Капак
+lamp.hood15=Кафяв Капак
+
+lantern.candle0=Бяла Свещ
+lantern.candle1=Светло Сива Свещ
+lantern.candle2=Сива Свещ
+lantern.candle3=Черна Свещ
+lantern.candle4=Червена Свещ
+lantern.candle5=Оранжева Свещ
+lantern.candle6=Жълта Свещ
+lantern.candle7=Свелто Зелена Свещ
+lantern.candle8=Зелена Свещ
+lantern.candle9=Цианова Свещ
+lantern.candle10=Светло Синя Свещ
+lantern.candle11=Синя Свещ
+lantern.candle12=Лилава Свещ
+lantern.candle13=Пурпурена Свещ
+lantern.candle14=Розова Свещ
+lantern.candle15=Кафява Свещ
+
+// Items
+item.tapeMeasure.name=Рулетка
+item.tape.name=Рулеткова Лента
+item.BiblioChase.name=Рамка за Принтирваща Преса
+item.PrintPlate.name=Табелка за Принтирваща Преса
+item.EnchantedPlate.name=Омагьосана Табелка
+item.BiblioRedBook.name=Червен камък: Том I
+item.BiblioGlasses.readingglasses.name=Очила за Четене
+item.BiblioGlasses.tintedglasses.name=Затъмнени Очила
+item.BiblioGlasses.monocle.name=Монокъл
+item.BiblioDrill.name=Дрелка
+item.BiblioCreativeLock.name=Катинар и Ключ
+item.BiblioClipboard.name=Бележкова Табелка
+item.seatBack.OakSeatBack.name=Дъбова Облегалка
+item.seatBack.SpruceSeatBack.name=Смърчова Облегалка
+item.seatBack.BirchSeatBack.name=Брезова Облегалка
+item.seatBack.JungleSeatBack.name=Джунглова Облегалка
+item.BiblioWayPointCompass.name=Маркеров Компас
+item.BiblioMapTool.name=Пергел

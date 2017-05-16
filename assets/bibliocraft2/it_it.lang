@@ -1,0 +1,529 @@
+language.name=Italiano
+language.region=IT
+language.code=it_IT
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=BiblioCraft luci
+
+// BiblioCraft 1.10 additions
+item.plumbline.depth=Profondità
+item.PlumbLine.name=Filo a piombo
+item.FramingSaw.name=Sega per telaio
+item.FramingBoard.name=Asse per telaio
+item.FramingSheet.name=Pannello per telaio
+
+OakPaneler.name=Pannellatore per mobili di quercia
+SprucePaneler.name=Pannellatore per mobili d'abete
+BirchPaneler.name=Pannellatore per mobili di betulla
+JunglePaneler.name=Pannellatore per mobili di mogano
+AcaciaPaneler.name=Pannellatore per mobili d'acacia
+OldOakPaneler.name=Pannellatore per mobili di quercia scura
+FramedPaneler.name=Telaio di pannellatore per mobili
+
+FramedClock.name=Telaio di orologio
+FrameBookcase.name=Telaio di libreria
+FramedWorkbench.name=Telaio di banco da lavoro chic
+FramedSign.name=Telaio di cartello chic
+FramedShelf.name=Telaio di scaffale
+FramedPotionShelf.name=Telaio di scaffale per le pozioni
+FramedLabel.name=Telaio di etichetta
+FramedMapFrame.name=Telaio di cornice per mappa
+FramedPaintingFrame.name=Telaio di cornice per quadro
+FramedDesk.name=Telaio di scrivania
+FramedWeaponRack.name=Telaio di scaffale per attrezzi
+FramedCase.name=Telaio di vetrina
+FramedTable.name=Telaio di tavolo
+FramedSeat.name=Telaio di sgabello
+item.seatBack.FramedSeatBack.name=Telaio di schienale
+
+gui.painting.showFrame=Mostra cornice
+gui.painting.hideFrame=Nascondi cornice
+
+screwgun.selected.desk1=Prima scrivania selezionata.
+screwgun.selected.desk2=Provato a attaccare/dividere scrivania.
+
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=Atlante
+item.AtlasPlate.name=Piastra per atlante
+item.DeathCompass.name=Bussola eterna
+enchant.deathcompass=Bussola eterna
+gui.atlas.zoom=Lvl zoom
+gui.atlas.center=Auto-centra
+gui.atlas.create=Auto-crea
+gui.atlas.mapXcenter=Centro X:
+gui.atlas.mapZcenter=Centro Z:
+gui.atlas.mapZoom=Lvl zoom mappa:
+gui.atlas.yes=Si
+gui.atlas.no=No
+gui.atlas.atlas=L'atlante
+
+gui.atlas.select.tt1=Modalità selezione punto
+gui.atlas.select.tt2=Passa il cursore su un punto
+gui.atlas.select.tt3=e fai clic sinistro per
+gui.atlas.select.tt4=selezionarlo.
+gui.atlas.select.tt5=Tieni Ctrl e passa il cursore sulla
+gui.atlas.select.tt6=mappa per vedere le coordinate.
+gui.atlas.select.tt7=Clic sinistro mentre tieni Ctrl per
+gui.atlas.select.tt8=selezionare un punto sulla mappa.
+
+gui.atlas.edit.tt1=Modalità modifica puntino
+gui.atlas.edit.tt2=Clicca un punto per modificare
+gui.atlas.edit.tt3=il colore e il nome del puntino
+gui.atlas.edit.tt4=o cancellare il puntino selezionato.
+gui.atlas.edit.tt5=Per eliminare velocemente un punto,
+gui.atlas.edit.tt6=tieni premuto Shift e clicca il punto.
+
+gui.atlas.add.tt1=Modalità aggiungi puntino
+gui.atlas.add.tt2=Clicca dovunque sulla mappa per
+gui.atlas.add.tt3=aggiungere un nuovo punto.
+gui.atlas.add.tt4=Un dialogo comparirà per chiedere
+gui.atlas.add.tt5=il nome e il colore.
+gui.atlas.add.tt6=Premi shift e clicca la mappa
+gui.atlas.add.tt7=per piazzare un nuovo puntino
+gui.atlas.add.tt8=con un nome e colore a caso.
+
+gui.atlas.switchtoinv=Cambia a vista Inventario.
+gui.atlas.switchtoatlas=Cambia a vista Mappa.
+
+gui.atlas.autocenter.tt1=Se attivato, l'atlante
+gui.atlas.autocenter.tt2=cercherà nell'inventario
+gui.atlas.autocenter.tt3=una mappa valida che mostra
+gui.atlas.autocenter.tt4=dove sei al livello
+gui.atlas.autocenter.tt5=di zoom selezionato.
+
+gui.atlas.autocreate.tt1=Se attivato, creerà nuove mappe
+gui.atlas.autocreate.tt2=da mappe vuote nell'inventario.
+gui.atlas.autocreate.tt3=Quando l'auto-centra fallisce
+gui.atlas.autocreate.tt4=a trovare una mappa valida,
+gui.atlas.autocreate.tt5=ne creerà una nuova sulla base
+gui.atlas.autocreate.tt6=dell'ultima mappa caricata al
+gui.atlas.autocreate.tt7=livello di zoom selezionato.
+
+gui.atlas.autocreate.tt8=Auto-centra deve essere attivato
+gui.atlas.autocreate.tt9=affincè questo funzioni.
+
+gui.atlas.transfer=Trasferimento punti
+gui.atlas.transfer.cancel=Cancella
+gui.atlas.transfer.from=Dall'atlante alla cornice
+gui.atlas.transfer.to=Dalla cornice all'atlante
+
+gui.compass.currentlocation=Pos attuale
+
+gui.paintpress.page=Pagina
+gui.paintpress.of=di
+
+item.TesterItem.name=Testatore di nome ItemStack
+gui.testeritem.name=Testatore di nome ItemStack
+gui.testeritem.display=Nome mostrato:
+gui.testeritem.unlocal=Nome non localizato:
+// end of 1.9 additions
+
+// All BiblioCraft 1.8 additions and changes //
+
+gui.clock.chimesound=Campane
+gui.clock.ticksound=Ticchettio
+gui.clock.redstone=Pietrarossa
+gui.clock.chime=Campane
+gui.clock.presets=opzioni
+
+screwgun.selected.painting1=Primo quadro selezionato
+screwgun.selected.painting2=Secondo quadro selezionato
+screwgun.selected.clock1=Primo orologio selezionato
+screwgun.selected.clock2Secondo orologio selezionato
+drill.failed=Connesione fallita
+
+item.PaintingCanvas.name=Tela
+tile.BiblioPaintPress.name=Pressa per quadri
+
+gui.paintpress.transfer=Trasferisci
+gui.paintpress.vanilla=Vanilla
+gui.paintpress.custom=Personaliz.
+
+gui.painting.scale=Scala
+gui.painting.resolution=Risoluzione
+gui.painting.aspectRatio=Rapp. d'aspetto
+gui.painting.size=Grand. quadro
+gui.painting.rotation=Rotazione
+gui.painting.corner=Angoli
+
+OakPaintingFrame.name=Cornice per quadro di quercia
+SprucePaintingFrame.name=Cornice per quadro d'abete
+BirchPaintingFrame.name=Cornice per quadro di betulla
+JunglePaintingFrame.name=Cornice per quadro di mogano
+AcaciaPaintingFrame.name=Cornice per quadro d'acacia
+OldOakPaintingFrame.name=Cornice per quadro di quercia scura
+
+paintingFrame.0tier=Senza bordi
+paintingFrame.1tier=Livello singolo
+paintingFrame.2tier=Livello doppio
+paintingFrame.3tier=Livello triplo
+paintingFrame.4tier=Livello quadruplo
+
+OakClock.name=Orologio di quercia
+SpruceClock.name=Orologio d'abete
+BirchClock.name=Orologio di betulla
+JungleClock.name=Orologio di mogano
+AcaciaClock.name=Orologio d'acacia
+OldOakClock.name=Orologio di quercia scura
+
+WhiteTypewriter.name=Macchina per scrivere bianca
+LightGrayTypewriter.name=Macchina per scrivere grigio chiaro
+GrayTypewriter.name=Macchina per scrivere grigia
+BlackTypewriter.name=Macchina per scrivere nera
+RedTypewriter.name=Macchina per scrivere rossa
+OrangeTypewriter.name=Macchina per scrivere arancione
+YellowTypewriter.name=Macchina per scrivere gialla
+LimeTypewriter.name=Macchina per scrivere lime
+GreenTypewriter.name=Macchina per scrivere verde
+CyanTypewriter.name=Macchina per scrivere ciano
+LightBlueTypewriter.name=Macchina per scrivere azzurro
+BlueTypewriter.name=Macchina per scrivere blu
+PurpleTypewriter.name=Macchina per scrivere viola
+MagentaTypewriter.name=Macchina per scrivere magenta
+PinkTypewriter.name=Macchina per scrivere rosa
+BrownTypewriter.name=Macchina per scrivere marrone
+
+// End of 1.8 additions and changes // 
+
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=Sei sicuro?
+gui.recipe.finalize=Cliccando si questo libro non potrà più essere modificato.
+gui.recipe.description=Aggiungi una descrizione.
+
+swordpedestal.name=Piedistallo per spade
+swordpedestal.white=Decorazioni bianche
+swordpedestal.orange=Decorazioni arancioni
+swordpedestal.magenta=Decorazioni magenta
+swordpedestal.lightblue=Decorazioni azzurre
+swordpedestal.yellow=Decorazioni gialle
+swordpedestal.lime=Decorazioni lime
+swordpedestal.pink=Decorazioni rose
+swordpedestal.gray=Decorazioni grigie
+swordpedestal.lightgray=Decorazioni grigio chiaro
+swordpedestal.cyan=Decorazioni ciano
+swordpedestal.purple=Decorazioni viole
+swordpedestal.blue=Decorazioni blu
+swordpedestal.brown=Decorazioni marroni
+swordpedestal.green=Decorazioni verdi
+swordpedestal.red=Decorazioni rosse
+swordpedestal.black=Decorazioni nere
+
+OakSign.name=Cartello chic di quercia
+SpruceSign.name=Cartello chic d'abete
+BirchSign.name=Cartello chic di betulla
+JungleSign.name=Cartello chic di mogano
+AcaciaSign.name=Cartello chic d'acacia
+OldOakSign.name=Cartello chic di quercia scura
+
+OakWorkbench.name=Banco da lavoro chic di quercia
+SpruceWorkbench.name=Banco da lavoro chic d'abete
+BirchWorkbench.name=Banco da lavoro chic di betulla
+JungleWorkbench.name=Banco da lavoro chic di mogano
+AcaciaWorkbench.name=Banco da lavoro chic d'acacia
+OldOakWorkbench.name=Banco da lavoro chic di quercia scura
+
+tile.BiblioBell.name=Campanello da scrivania
+
+item.RecipeBook.name=Libro delle ricette vuoto
+item.SlottedBook.name=Libro con scompartimento
+item.BigBook.name=Libro scritto grande
+item.HandDrill.name=Trapano a mano
+
+book.bold=G
+book.italic=C
+book.underline=S
+book.strike=Barra
+book.obfuscated=O
+book.reset=Risetta
+book.save=Salva
+book.sign=Firma
+book.entertitle=Inserisci il titolo del libro:
+book.by=di
+book.signnotice=Attenzione! Dopo aver firmato il libro non potrai più modificarlo. Include modificare testi, formattazione, capitoli, e altre pagine.
+book.textscale=Dimensione
+book.lineselected=Linea selezionata
+book.cancel=Cancella
+book.linenum=Linea#
+book.title=Titolo
+book.description=Descrizione
+book.ingredients=Ingredienti richiesti:
+book.overwriterecipe=Sovrascrivi il libro
+book.overwriterecipe2=delle ricette.
+book.saverecipe=Salva la ricetta
+book.saverecipe2=in un libro vuoto.
+book.loadrecipe=Prendi i materiali
+book.loadrecipe2=dall'inventario.
+book.areyousure=Sei sicuro?
+book.areyousure2=Premendo si il libro non potrà più essere modificarlo.
+book.setrecipename=Ricetta:
+gui.fancyworkbench=Banco da lavoro
+
+gui.sign.left= Sinistra
+gui.sign.center=Centro
+gui.sign.right=Destra
+
+gui.sign.black=Nero
+gui.sign.darkblue=Blu scuro
+gui.sign.darkgreen=Verde scuro
+gui.sign.darkaqua=Aqua scura
+gui.sign.darkred=Rosso scuro
+gui.sign.darkpurple=Viola scuro
+gui.sign.gold=Oro
+gui.sign.gray=Grigio
+gui.sign.darkgray=Grigio scuro
+gui.sign.blue=Blu
+gui.sign.green=Verde
+gui.sign.aqua=Aqua
+gui.sign.red=Rosso
+gui.sign.lightpurple=Viola chiaro
+gui.sign.yellow=Giallo
+gui.sign.white=Bianco
+
+gui.sign.tooltip1=Clicca un quadrato o premi tab e seleziona un pannello. Tab ciclerà tra i pannelli.
+gui.sign.tooltip2=Clicca il quadrato sopra per selezionare il pannello 1. Modifica la dimensione del testo, la posizione, e la rotazione.
+gui.sign.tooltip3=Clicca il quadrato sopra per selezionare il pannello per modificare il testo. Modifica la scala e aggiungi la formattazione di vanilla.
+gui.sign.tooltip4=Clicca il quadrato sopra per selezionare il pannello 2. Modifica la dimensione del testo, la posizione, e la rotazione.
+gui.sign.tooltip5=Aggiusta la dimensione del blocco.
+gui.sign.tooltip6=Aggiusta la rotazione del blocco. I blocchi possono guardare verso destra, centro o sinistra. Gli oggetti possono soltanto guardare a destra o sinistra.
+gui.sign.tooltip7=Aggiusta la posizione del blocco. La posizione può anche essere aggiustata con le freccette o con WASD.
+gui.sign.tooltip8=Premi uno dei numeri / lettere seguenti dopo aver premuto il simbolo per formattare:
+gui.sign.tooltip9=Clicca il pulsante o premi il tasto 'alt' per formattare la linea selezionata.
+
+gui.sign.bold=Grassetto
+gui.sign.strikethrough=Barrato
+gui.sign.underline=Sottolineato
+gui.sign.italic=Corsivo
+
+gui.sign.scale=Scala testo
+gui.sign.format=Formato
+gui.sign.linenum=Linea#
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=Titolo del libro:
+gui.redbook.description.p1=Il libro della pietrarossa è usato in combinazione con una libreria per emettere un segnale di pietrarossa. Quando viene messo nella libreria esso emette un segnale di pietrarossa da tutti i lati tranne dal fronte. La forza del segnale dipende dallo slot che occupa il libro nella libreria. 
+gui.redbook.description.p2=La libreria ha 16 slot, il slot 1 è quello alla tua sinistra in alto e il 16 alla tua destra in basso. Se il libro è posizionato nello slot 1, la libreria non emetterà nessun segnale. Se il libro è posizionato nello slot 2 la libreria emetterà un segnale di forza 1. Ogni slot dopo quello aumenterà la forza di 1, fino ad arrivare allo slot 16 che emette un segnale 15 che è il massimo.
+
+AcaciaDesk.name=Scrivania d'acacia
+OldOakDesk.name=Scrivania di quercia scura
+AcaciaBookcase.name=Libreria d'acacia
+OldOakBookcase.name=Libreria di quercia scura
+AcaciaPotionShelf.name=Scaffale per pozioni d'acacia
+OldOakPotionShelf.name=Scaffale per pozioni di quercia scura
+AcaciaShelf.name=Scaffale d'acacia
+OldOakShelf.name=Scaffale di quercia scura
+AcaciaWeaponRack.name=Scaffale per attrezzi d'acacia
+OldOakWeaponRack.name=Scaffale per attrezzi di quercia scura
+AcaciaLabel.name=Etichetta d'acacia
+OldOakLabel.name=Etichetta di quercia scura
+AcaciaTable.name=Tavolo d'acacia
+OldOakTable.name=Tavolo di quercia scura
+AcaciaMapFrame.name=Cornice per mappa d'acacia
+OldOakMapFrame.name=Cornice per mappa di quercia scura
+AcaciaSeat.name=Sgabello d'acacia
+OldOakSeat.name=Sgabello di quercia scura
+OakCase.name=Vetrina di quercia
+SpruceCase.name=Vetrina d'abete
+BirchCase.name=Vetrina di betulla
+JungleCase.name=Vetrina di mogano
+AcaciaCase.name=Vetrina d'acacia
+OldOakCase.name=Vetrina di quercia scura
+item.seatBack.AcaciaSeatBack.name=Schienale d'acacia
+item.seatBack.OldOakSeatBack.name=Schienale di quercia scura
+lighting.metalIron=Fatto di ferro
+lighting.metalGold=Fatto d'oro 
+gui.typesetting.guiTitle=Tavolo del tipografo: Gestione dei libri
+gui.typesetting.pageOfpages=di
+gui.typesetting.public=Publico
+gui.typesetting.private=Privato
+gui.typesetting.delete=Elimina
+gui.typesetting.select=Seleziona
+gui.typesetting.nextPage=Prossima pagina
+gui.typesetting.prevPage=Pagina precedente
+gui.typesetting.exit=Esci
+gui.typesetting.enableDiscard=Scarta
+// End of 1.6 additions ////////////////////////////
+
+// Gui stuff
+gui.armorstand=Manichino
+gui.bookcase=Libreria
+gui.cookiejar=Vaso per biscotti
+gui.shelf=Scaffale
+gui.label=Etichetta di legno
+gui.potionshelf=Scaffale per pozioni
+gui.table=Tavolo
+gui.case=Vetrina
+gui.toolrack=Scaffale per attrezzi
+gui.desk=Scrivania
+gui.mapWaypoint.accept=Accetta
+gui.mapWaypoint.remove=Rimuovi
+gui.mapWaypoint.cancel=Cancella
+gui.mapWaypoint.waypoint=Punto
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=Piatto
+gui.discRack=Scaffale per dischi
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=Lettura
+redbook.by=di
+plate.notValid=Non valido
+typesetting.requires=Richiede
+typesetting.levels=Livelli
+typesetting.chase=Blocchi
+typesetting.bookSelect=Seleziona un libro.
+print.ink=Inchiostro
+print.book=Libri
+screwgun.firstSeat=Selezionato primo sgabello.
+screwgun.secondSeat=Provato a attaccare/dividere sgabello.
+
+//Tape Measure Texts
+tape.measurenorthsouth=Misura nord/sud = 
+tape.measureeastwest=Misura est/ovest = 
+tape.measureheight=Misura altezza = 
+tape.nomeasure=Nessuna misurazione.
+tape.measure=Misura = 
+tape.startmeasure=Inizio a misurare.
+tape.mode0=Scambio la modalità in nord/sud, est/ovest e altezza.
+tape.mode1=Scambio la modalità in misurazione assoluta.
+lock.creativeonly=Solo in modalità Creativa
+lock.notowner=Non sei il propietario di questo blocco.
+lock.locked=Questo blocco è stato bloccato.
+lock.unlocked=Questo blocco è stato sbloccato.
+
+// Blocks
+CookieJar.name=Vaso di biscotti
+markerPole.name=Segnalatore
+tile.BiblioType.name=Tavolo del tipografo
+tile.BiblioPress.name=Stampa
+tile.BiblioArmorStand.name=Manichino
+OakBookcase.name=Libreria di quercia
+SpruceBookcase.name=Libreria d'abete
+BirchBookcase.name=Libreria di betulla
+JungleBookcase.name=Libreria di mogano
+OakPotionShelf.name=Scaffale per pozioni di quercia
+SprucePotionShelf.name=Scaffale per pozioni d'abete
+BirchPotionShelf.name=Scaffale per pozioni di betulla
+JunglePotionShelf.name=Scaffale per pozioni di mogano 
+OakShelf.name=Scaffale di quercia
+SpruceShelf.name=Scaffale d'abete
+BirchShelf.name=Scaffale di betulla
+JungleShelf.name=Scaffale di mogano
+OakWeaponRack.name=Scaffale per attrezzi di quercia
+SpruceWeaponRack.name=Scaffale per attrezzi d'abete
+BirchWeaponRack.name=Scaffale per attrezzi di betulla
+JungleWeaponRack.name=Scaffale per attrezzi di mogano
+OakLabel.name=Etichetta di quercia
+SpruceLabel.name=Etichetta d'abete
+BirchLabel.name=Etichetta di betulla
+JungleLabel.name=Etichetta di mogano
+OakWritingDesk.name=Scrivania di quercia
+SpruceWritingDesk.name=Scrivania d'abete
+BirchWritingDesk.name=Scrivania di betulla
+JungleWritingDesk.name=Scrivania di mogano
+OakTable.name=Tavolo di quercia
+SpruceTable.name=Tavolo d'abete
+BirchTable.name=Tavolo di betulla
+JungleTable.name=Tavolo di mogano
+DiscRack.name=Scaffale per dischi
+DinnerPlate.name=Piatto
+OakMapFrame.name=Cornice per mappa di quercia
+SpruceMapFrame.name=Cornice per mappa d'abete
+BirchMapFrame.name=Cornice per mappa di betulla
+JungleMapFrame.name=Cornice per mappa di mogano
+OakSeat.name=Sgabello di quercia
+SpruceSeat.name=Sgabello d'abete
+BirchSeat.name=Sgabello di betulla
+JungleSeat.name=Sgabello di mogano
+
+//lights
+whiteLantern.name=Lanterna chic
+lightGrayLantern.name=Lanterna chic
+grayLantern.name=Lanterna chic
+blackLantern.name=Lanterna chic
+redLantern.name=Lanterna chic
+orangeLantern.name=Lanterna chic
+yellowLantern.name=Lanterna chic
+limeLantern.name=Lanterna chic
+greenLantern.name=Lanterna chic
+cyanLantern.name=Lanterna chic
+lightblueLantern.name=Lanterna chic
+blueLantern.name=Lanterna chic
+purpleLantern.name=Lanterna chic
+magentaLantern.name=Lanterna chic
+pinkLantern.name=Lanterna chic
+brownLantern.name=Lanterna chic
+
+whiteLamp.name=Lampada
+lightGrayLamp.name=Lampada
+grayLamp.name=Lampada
+blackLamp.name=Lampada
+redLamp.name=Lampada
+orangeLamp.name=Lampada
+yellowLamp.name=Lampada
+limeLamp.name=Lampada
+greenLamp.name=Lampada
+cyanLamp.name=Lampada
+lightblueLamp.name=Lampada
+blueLamp.name=Lampada
+purpleLamp.name=Lampada
+magentaLamp.name=Lampada
+pinkLamp.name=Lampada
+brownLamp.name=Lampada
+
+lamp.hood0=Paralume bianco
+lamp.hood1=Paralume grigio chiaro
+lamp.hood2=Paralume grigio
+lamp.hood3=Paralume nero
+lamp.hood4=Paralume rosso
+lamp.hood5=Paralume arancione
+lamp.hood6=Paralume giallo
+lamp.hood7=Paralume lime
+lamp.hood8=Paralume verde
+lamp.hood9=Paralume ciano
+lamp.hood10=Paralume azzurro
+lamp.hood11=Paralume blu
+lamp.hood12=Paralume viola
+lamp.hood13=Paralume magenta
+lamp.hood14=Paralume rosa
+lamp.hood15=Paralume marrone
+
+lantern.candle0=Candela bianca
+lantern.candle1=Candela grigio chiaro
+lantern.candle2=Candela grigia
+lantern.candle3=Candela nera
+lantern.candle4=Candela rossa
+lantern.candle5=Candela arancione
+lantern.candle6=Candela gialla
+lantern.candle7=Candela lime
+lantern.candle8=Candela verde
+lantern.candle9=Candela ciano
+lantern.candle10=Candela azzurra
+lantern.candle11=Candela blu
+lantern.candle12=Candela viola
+lantern.candle13=Candela magenta
+lantern.candle14=Candela rosa
+lantern.candle15=Candela marrone
+
+// Items
+
+item.tapeMeasure.name=Metro
+item.tape.name=Metro a nastro
+item.BiblioChase.name=Blocco per stampa
+item.PrintPlate.name=Piastra per stampa
+item.EnchantedPlate.name=Piastra incantata
+item.BiblioRedBook.name=Pietrarossa: Volume I
+item.BiblioGlasses.readingglasses.name=Occhiali
+item.BiblioGlasses.tintedglasses.name=Occhiali scuri
+item.BiblioGlasses.monocle.name=Monocolo
+item.BiblioDrill.name=Trapano a pietrarossa
+item.BiblioCreativeLock.name=Chiave e lucchetto
+item.BiblioClipboard.name=Cartella
+item.seatBack.OakSeatBack.name=Schienale di quercia
+item.seatBack.SpruceSeatBack.name=Schienale d'abete
+item.seatBack.BirchSeatBack.name=Schienale di betulla
+item.seatBack.JungleSeatBack.name=Schienale di mogano
+item.BiblioWayPointCompass.name=Bussola
+item.BiblioMapTool.name=Compasso

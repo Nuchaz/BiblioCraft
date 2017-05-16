@@ -1,0 +1,175 @@
+language.name=Lietuviø
+language.region=LT
+language.code=lt_LT
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+
+// Gui stuff
+gui.armorstand=Ðarvø Stovas
+gui.bookcase=Knygø Lentyna
+gui.cookiejar=Sausainiø Indas
+gui.shelf=Medinë Lentyna
+gui.label=Medinis þymeklis
+gui.potionshelf=Eleksyrø Lentyna
+gui.typeset.selectbook=Pasirinkite Knygà
+gui.table=Medinis Stalas
+gui.case=Vitrina
+gui.toolrack=Árankiø Kabykla
+gui.desk=Medinis Stalas
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=Ðiaurës/Pietø Matavimas = 
+tape.measureeastwest=Rytø/Vakarø Matavimas = 
+tape.measureheight=Aukðèio Matavimas = 
+tape.nomeasure=Nëra Matavimo.
+tape.measure=Matavimas = 
+tape.startmeasure=Pradedama Matuoti.
+tape.mode0=Reþimas pakeistas á Ðiaurës/Pietø, Rytø/Vakarø ir Aukðèioed.
+tape.mode1=Reþimas pakeistas á Absoliutøjá matavimà.
+
+lock.creativeonly=Tik Creative Reþimui
+lock.notowner=Jûs nesate ðio bloko savininkas.
+lock.locked=Ðis blokas buvo uþrakintas.
+lock.unlocked=Ðis blokas buvo atrakintas.
+
+// Blocks
+CookieJar.name=Sausainiø Indas
+MarkerPole.name=Þymeklis
+tile.BiblioType.name=Knygø Kopijavimo Stalas
+tile.BiblioPress.name=Spausdinimo Presas
+tile.BiblioArmorStand.name=Ðarvø Stovas
+OakBookcase.name=Àþuolinë Knygø Lentyna
+SpruceBookcase.name=Puðinë Knygø Lentyna
+BirchBookcase.name=Berþinë Knygø Lentyna
+JungleBookcase.name=Dþiunglinë Knygø Lentyna
+OakPotionShelf.name=Àþuolinë Eliksyrø Lentyna
+SprucePotionShelf.name=Puðinë Eliksyrø Lentyna
+BirchPotionShelf.name=Berþinë Eliksyrø Lentyna
+JunglePotionShelf.name=Dþiunglinë Eliksyrø Lentyna
+OakShelf.name=Àþuolinë Lentyna
+SpruceShelf.name=Puðinë Lentyna
+BirchShelf.name=Berþinë Lentyna
+JungleShelf.name=Dþiunglinë Lentyna
+OakWeaponRack.name=Àþuolinë Árankiø Kabykla
+SpruceWeaponRack.name=Puðinë Árankiø Kabykla
+BirchWeaponRack.name=Berþinë Árankiø Kabykla
+JungleWeaponRack.name=Dþiunglinë Árankiø Kabykla
+OakLabel.name=Àþuolinis Þymeklis
+SpruceLabel.name=Puðinis Þymeklis
+BirchLabel.name=Berþinis Þymeklis
+JungleLabel.name=Dþiunglinis Þymeklis
+RedLinedOakCase.name=Àþuolinis Dëklas
+BlueLinedOakCase.name=Àþuolinis Dëklas
+GreenLinedOakCase.name=Àþuolinis Dëklas
+BlackLinedOakCase.name=Àþuolinis Dëklas
+RedLinedSpruceCase.name=Puðinis Dëklas
+BlueLinedSpruceCase.name=Puðinis Dëklas
+GreenLinedSpruceCase.name=Puðinis Dëklas
+BlackLinedSpruceCase.name=Puðinis Dëklas
+RedLinedBirchCase.name=Berþinis Dëklas
+BlueLinedBirchCase.name=Berþinis Dëklas
+GreenLinedBirchCase.name=Berþinis Dëklas
+BlackLinedBirchCase.name=Berþinis Dëklas
+RedLinedJungleCase.name=Dþiunglinis Dëklas
+BlueLinedJungleCase.name=Dþiunglinis Dëklas
+GreenLinedJungleCase.name=Dþiunglinis Dëklas
+BlackLinedJungleCase.name=Dþiunglinis Dëklas
+OakWritingDesk.name=Àþuolinis Raðomasis Stalas
+SpruceWritingDesk.name=Puðinis Raðomasis Stalas
+BirchWritingDesk.name=Berþinis Raðomasis Stalas
+JungleWritingDesk.name=Dþiunglinis Raðomasis Stalas
+OakTable.name=Àþuolinis Stalas
+SpruceTable.name=Puðinis Stalas
+BirchTable.name=Berþinis Stalas
+JungleTable.name=Dþiunglinis Stalas
+
+//lights
+whiteLantern.name=Auksinis Þibintas
+lightGrayLantern.name=Auksinis Þibintas
+grayLantern.name=Auksinis Þibintas
+blackLantern.name=Auksinis Þibintas
+redLantern.name=Auksinis Þibintas
+orangeLantern.name=Auksinis Þibintas
+yellowLantern.name=Auksinis Þibintas
+limeLantern.name=Auksinis Þibintas
+greenLantern.name=Auksinis Þibintas
+cyanLantern.name=Auksinis Þibintas
+lightBlueLantern.name=Auksinis Þibintas
+blueLantern.name=Auksinis Þibintas
+purpleLantern.name=Auksinis Þibintas
+magentaLantern.name=Auksinis Þibintas
+pinkLantern.name=Auksinis Þibintas
+brownLantern.name=Auksinis Þibintas
+
+whiteLamp.name=Puoðni Lempa
+lightGrayLamp.name=Puoðni Lempa
+grayLamp.name=Puoðni Lempa
+blackLamp.name=Puoðni Lempa
+redLamp.name=Puoðni Lempa
+orangeLamp.name=Puoðni Lempa
+yellowLamp.name=Puoðni Lempa
+limeLamp.name=Puoðni Lempa
+greenLamp.name=Puoðni Lempa
+cyanLamp.name=Puoðni Lempa
+lightBlueLamp.name=Puoðni Lempa
+blueLamp.name=Puoðni Lempa
+purpleLamp.name=Puoðni Lempa
+magentaLamp.name=Puoðni Lempa
+pinkLamp.name=Puoðni Lempa
+brownLamp.name=Puoðni Lempa
+
+tile.case.redline=Raudona Linija
+tile.case.blueline=Melyna Linija
+tile.case.greenline=Þalia Linija
+tile.case.blackline=Juoda Linija
+
+lamp.hood0=Baltas Lempos Gaubtas
+lamp.hood1=Ðviesiai Pilkas Lempos Gaubtas
+lamp.hood2=Pilkas Lempos Gaubtas
+lamp.hood3=Juodas Lempos Gaubtas
+lamp.hood4=Raudonas Lempos Gaubtas
+lamp.hood5=Oranþinis Lempos Gaubtas
+lamp.hood6=Geltonas Lempos Gaubtas
+lamp.hood7=Gelsvai Þalias Lempos Gaubtas
+lamp.hood8=Þalias Lempos Gaubtas
+lamp.hood9=Þydras Lempos Gaubtas
+lamp.hood10=Ðviesiai Mëlynas Lempos Gaubtas
+lamp.hood11=Mëlynas Lempos Gaubtas
+lamp.hood12=Purpurinis Lempos Gaubtas
+lamp.hood13=Ryðkiai Roþinis Lempos Gaubtas
+lamp.hood14=Roþinis Lempos Gaubtas
+lamp.hood15=Rudas Lempos Gaubtas
+
+lantern.candle0=Balta Þvakë
+lantern.candle1=Ðviesiai Pilka Þvakë
+lantern.candle2=Pilka Þvakë
+lantern.candle3=Juoda Þvakë
+lantern.candle4=Raudona Þvakë
+lantern.candle5=Oranþinë Þvakë
+lantern.candle6=Geltona Þvakë
+lantern.candle7=Gelsvai Þalia Þvakë
+lantern.candle8=Þalia Þvakë
+lantern.candle9=Þydra Þvakë
+lantern.candle10=Ðviesiai Mëlyna Þvakë
+lantern.candle11=Mëlyna Þvakë
+lantern.candle12=Purpurinë Þvakë
+lantern.candle13=Ryðkiai Roþinë Þvakë
+lantern.candle14=Roþinë Þvakë
+lantern.candle15=Ruda Þvakë
+
+// Items
+item.tapeMeasure.name=Matavimo Juosta
+item.tape.name=Matavimo Juostos Ritë
+item.BiblioChase.name=Spausdinimo Preso Aptaisas
+item.PrintPlate.name=Spausdinimo Preso Lentelë
+item.EnchantedPlate.name=Uþkerëta Plokðtelë
+item.BiblioRedBook.name=Raudonakmenis: Pirma Knyga
+item.BiblioGlasses.readingglasses.name=Skaitymo Akiniai
+item.BiblioGlasses.tintedglasses.name=Saulës Akiniai
+item.BiblioGlasses.monocle.name=Monoklis
+item.BiblioDrill.name=Graþtas
+item.BiblioCreativeLock.name=Spyna ir Raktai
+item.BiblioClipboard.name=Iðkarpinë
+
