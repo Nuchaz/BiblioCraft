@@ -1,0 +1,80 @@
+language.name=(uʍop ǝpᴉsd∩) ɥsᴉlƃuƎ
+language.region=uᴉɐʇᴉɹᗺ
+language.code=en_UD
+
+itemGroup.BiblioWoodsHighlands=uoᴉʇᴉpƎ spuɐꞁɥᵷᴉH :spooMoᴉꞁqᴉᗺ
+
+GreyWoodClock.name=ʞɔoꞁƆ pooM ʎǝɹ⅁
+hlRedWoodClock.name=ʞɔoꞁƆ pooM pǝᴚ
+WhiteWoodClock.name=ʞɔoꞁƆ pooM ǝʇᴉɥM
+YellowWoodClock.name=ʞɔoꞁƆ pooM ʍoꞁꞁǝ⅄
+
+GreyWoodPaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ pooM ʎǝɹ⅁
+hlRedWoodPaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ pooM pǝᴚ
+WhiteWoodPaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ pooM ǝʇᴉɥM
+YellowWoodPaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ pooM ʍoꞁꞁǝ⅄
+
+GreyWoodFancyWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ pooM ʎǝɹ⅁
+hlRedWoodFancyWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ pooM pǝᴚ
+WhiteWoodFancyWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ pooM ǝʇᴉɥM
+YellowWoodFancyWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ pooM ʍoꞁꞁǝ⅄
+
+GreyWoodFancySign.name=uᵷᴉS ʎɔuɐℲ pooM ʎǝɹ⅁
+hlRedWoodFancySign.name=uᵷᴉS ʎɔuɐℲ pooM pǝᴚ
+WhiteWoodFancySign.name=uᵷᴉS ʎɔuɐℲ pooM ǝʇᴉɥM
+YellowWoodFancySign.name=uᵷᴉS ʎɔuɐℲ pooM ʍoꞁꞁǝ⅄
+
+GreyWoodMapFrame.name=ǝɯɐɹℲ dɐW pooM ʎǝɹ⅁
+hlRedWoodMapFrame.name=ǝɯɐɹℲ dɐW pooM pǝᴚ
+WhiteWoodMapFrame.name=ǝɯɐɹℲ dɐW pooM ǝʇᴉɥM
+YellowWoodMapFrame.name=ǝɯɐɹℲ dɐW pooM ʍoꞁꞁǝ⅄
+
+GreyWoodSeat.name=ʇɐǝS pooM ʎǝɹ⅁
+hlRedWoodSeat.name=ʇɐǝS pooM pǝᴚ
+WhiteWoodSeat.name=ʇɐǝS pooM ǝʇᴉɥM
+YellowWoodSeat.name=ʇɐǝS pooM ʍoꞁꞁǝ⅄
+
+item.seatBack.GreyWoodSeatBack.name=ʞɔɐᗺ ʇɐǝS pooM ʎǝɹ⅁
+item.seatBack.hlRedWoodSeatBack.name=ʞɔɐᗺ ʇɐǝS pooM pǝᴚ
+item.seatBack.WhiteWoodSeatBack.name=ʞɔɐᗺ ʇɐǝS pooM ǝʇᴉɥM
+item.seatBack.YellowWoodSeatBack.name=ʞɔɐᗺ ʇɐǝS pooM ʍoꞁꞁǝ⅄
+
+GreyWoodBookcase.name=ǝsɐɔʞooᗺ pooM ʎǝɹ⅁
+hlRedWoodBookcase.name=ǝsɐɔʞooᗺ pooM pǝᴚ
+WhiteWoodBookcase.name=ǝsɐɔʞooᗺ pooM ǝʇᴉɥM
+YellowWoodBookcase.name=ǝsɐɔʞooᗺ pooM ʍoꞁꞁǝ⅄
+
+GreyWoodCase.name=ǝsɐƆ pooM ʎǝɹ⅁
+hlRedWoodCase.name=ǝsɐƆ pooM pǝᴚ
+WhiteWoodCase.name=ǝsɐƆ pooM ǝʇᴉɥM
+YellowWoodCase.name=ǝsɐƆ pooM ʍoꞁꞁǝ⅄
+
+GreyWoodDesk.name=ʞsǝᗡ pooM ʎǝɹ⅁
+hlRedWoodDesk.name=ʞsǝᗡ pooM pǝᴚ
+WhiteWoodDesk.name=ʞsǝᗡ pooM ǝʇᴉɥM
+YellowWoodDesk.name=ʞsǝᗡ pooM ʍoꞁꞁǝ⅄
+
+GreyWoodLabel.name=ꞁǝqɐꞀ pooM ʎǝɹ⅁
+hlRedWoodLabel.name=ꞁǝqɐꞀ pooM pǝᴚ
+WhiteWoodLabel.name=ꞁǝqɐꞀ pooM ǝʇᴉɥM
+YellowWoodLabel.name=ꞁǝqɐꞀ pooM ʍoꞁꞁǝ⅄
+
+GreyWoodPotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ pooM ʎǝɹ⅁
+hlRedWoodPotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ pooM pǝᴚ
+WhiteWoodPotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ pooM ǝʇᴉɥM
+YellowWoodPotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ pooM ʍoꞁꞁǝ⅄
+
+GreyWoodShelf.name=ɟꞁǝɥS pooM ʎǝɹ⅁
+hlRedWoodShelf.name=ɟꞁǝɥS pooM pǝᴚ
+WhiteWoodShelf.name=ɟꞁǝɥS pooM ǝʇᴉɥM
+YellowWoodShelf.name=ɟꞁǝɥS pooM ʍoꞁꞁǝ⅄
+
+GreyWoodTable.name=ǝꞁqɐ⟘ pooM ʎǝɹ⅁
+hlRedWoodTable.name=ǝꞁqɐ⟘ pooM pǝᴚ
+WhiteWoodTable.name=ǝꞁqɐ⟘ pooM ǝʇᴉɥM
+YellowWoodTable.name=ǝꞁqɐ⟘ pooM ʍoꞁꞁǝ⅄
+
+GreyWoodToolRack.name=ʞɔɐᴚ ꞁoo⟘ pooM ʎǝɹ⅁
+hlRedWoodToolRack.name=ʞɔɐᴚ ꞁoo⟘ pooM pǝᴚ
+WhiteWoodToolRack.name=ʞɔɐᴚ ꞁoo⟘ pooM ǝʇᴉɥM
+YellowWoodToolRack.name=ʞɔɐᴚ ꞁoo⟘ pooM ʍoꞁꞁǝ⅄
