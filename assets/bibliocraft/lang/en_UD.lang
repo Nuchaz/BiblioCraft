@@ -1,0 +1,565 @@
+language.name=(uʍop ǝpᴉsd∩) ɥsᴉlƃuƎ
+language.region=uᴉɐʇᴉɹᗺ
+language.code=en_UD
+
+itemGroup.BiblioCraft=ʇɟɐɹƆoᴉꞁqᴉᗺ
+itemGroup.BiblioCraftLights=ᵷuᴉʇɥᵷᴉꞀ ʇɟɐɹƆoᴉꞁqᴉᗺ
+item.paneler.panels=:sꞁǝuɐԀ
+
+gui.recipe.disabled=˙pǝꞁqɐsᴉp sᴉ sʞooq ǝdᴉɔǝɹ ɥʇᴉʍ ᵷuᴉʇɟɐɹƆ
+stockcatalog.inventory.notfound=ǝɯɐN ʎɹoʇuǝʌuI ᵷuᴉssᴉW
+
+item.StockroomCatalog.name=ᵷoꞁɐʇɐƆ ɯooɹʞɔoʇS
+jds.tileentitychest=ʇsǝɥƆ pǝɯɐɹℲ
+FramedChest.name=ʇsǝɥƆ pǝɯɐɹℲ
+gui.catalog.close=ǝsoꞁƆ
+gui.catalog.count=ʇunoƆ
+gui.catalog.names=ǝɯɐN ʞɔoꞁᗺ / ɯǝʇI
+screwgun.selected.chest1=˙pǝʇɔǝꞁǝs ʇsǝɥƆ ʇsɹᴉℲ
+screwgun.selected.chest2=˙sʇsǝɥƆ ɥɔɐʇǝp/ɥɔɐʇʇɐ oʇ ᵷuᴉʇdɯǝʇʇⱯ
+gui.left=ʇɟǝꞀ
+gui.right=ʇɥᵷᴉᴚ
+gui.craft=ʇɟɐɹƆ
+gui.recipe.crafted=ʎꞁꞁnɟssǝɔɔnS pǝʇɟɐɹƆ
+gui.recipe.failed=sʇuǝᴉpǝɹᵷuᴉ ǝʌoɯǝɹ oʇ pǝꞁᴉɐℲ
+gui.recipe.invalid=ǝdᴉɔǝᴚ pᴉꞁɐʌuI
+gui.recipe.missing=sʇuǝᴉpǝɹᵷuI ᵷuᴉssᴉW
+gui.recipe.wrong=˙ᵷuᴉɥʇǝɯos ɹo punoɟ ɐʇɐp ǝdᴉɔǝɹ pᴉꞁɐʌ ɥʇᴉʍ ʞooᗺ ǝdᴉɔǝᴚ oN ˙ᵷuoɹʍ ʇuǝʍ ᵷuᴉɥʇǝɯoS
+
+
+gui.clock.pulse=ǝsꞁnԀ
+gui.clock.solid=pᴉꞁoS
+
+jds.tileentityarmorstand=puɐʇS ɹoɯɹⱯ
+jds.tileentitybookcase=ǝsɐɔʞooᗺ
+jds.teclipboard=pɹɐoqdᴉꞁƆ
+jds.tileentitycookiejar=ɹɐՐ ǝᴉʞooƆ
+jds.tileentitywoodlabel=ꞁǝqɐꞀ
+jds.tileentitygenericshelf=ɟꞁǝɥS
+jds.tileentitymapframe=ǝɯɐɹℲ dɐW
+jds.tefurnituretile=ɹǝꞁǝuɐԀ ǝɹnʇᴉuɹnℲ
+jds.tileentityfancyworkbench=ɥɔuǝqʞɹoM ʎɔuɐℲ
+jds.tileentityfancysign=uᵷᴉS ʎɔuɐℲ
+jds.tileentitydiscrack=ʞɔɐᴚ ɔsᴉᗡ
+jds.tileentitydinnerplate=ǝʇɐꞁԀ ɹǝuuᴉᗡ
+jds.tileentitypotionshelf=ɟꞁǝɥS uoᴉʇoԀ
+jds.tileentitywritingdesk=ʞsǝᗡ
+jds.tileentityweaponcase=ǝsɐƆ
+jds.tileentitytoolrack=ʞɔɐᴚ ꞁoo⟘
+jds.tileentitytypewriter=ɹǝʇᴉɹʍǝdʎ⟘
+jds.tileentitytypemachine=ǝꞁqɐ⟘ ᵷuᴉʇʇǝsǝdʎ⟘
+jds.tileentitytable=ǝꞁqɐ⟘
+jds.tileentityswordpedestal=ꞁɐʇsǝpǝԀ pɹoʍS
+jds.tileentityseat=ʇɐǝS
+jds.tileentityprintpress=ssǝɹԀ ᵷuᴉʇuᴉɹԀ
+jds.tileentitypaintpress=ssǝɹԀ ᵷuᴉʇuᴉɐԀ
+jds.tileentitypainting=ᵷuᴉʇuᴉɐԀ
+
+item.plumbline.depth=ɥʇdǝᗡ
+item.PlumbLine.name=ǝuᴉꞁ qɯnꞁԀ
+item.FramingSaw.name=ʍɐS ᵷuᴉɯɐɹℲ
+item.FramingBoard.name=pɹɐoᗺ ᵷuᴉɯɐɹℲ
+item.FramingSheet.name=ʇǝǝɥS ᵷuᴉɯɐɹℲ
+
+OakPaneler.name=ɹǝꞁǝuɐԀ ǝɹnʇᴉuɹnℲ ʞɐO
+SprucePaneler.name=ɹǝꞁǝuɐԀ ǝɹnʇᴉuɹnℲ ǝɔnɹdS
+BirchPaneler.name=ɹǝꞁǝuɐԀ ǝɹnʇᴉuɹnℲ ɥɔɹᴉᗺ
+JunglePaneler.name=ɹǝꞁǝuɐԀ ǝɹnʇᴉuɹnℲ ǝꞁᵷunՐ
+AcaciaPaneler.name=ɹǝꞁǝuɐԀ ǝɹnʇᴉuɹnℲ ɐᴉɔɐɔⱯ
+OldOakPaneler.name=ɹǝꞁǝuɐԀ ǝɹnʇᴉuɹnℲ ʞɐO ʞɹɐᗡ
+FramedPaneler.name=ɹǝꞁǝuɐԀ ǝɹnʇᴉuɹnℲ pǝɯɐɹℲ
+
+FramedClock.name=ʞɔoꞁƆ pǝɯɐɹℲ
+FrameBookcase.name=ǝsɐɔʞooᗺ pǝɯɐɹℲ
+FramedWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ pǝɯɐɹℲ
+FramedSign.name=uᵷᴉS ʎɔuɐℲ pǝɯɐɹℲ
+FramedShelf.name=ɟꞁǝɥS pǝɯɐɹℲ
+FramedPotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ pǝɯɐɹℲ
+FramedLabel.name=ꞁǝqɐꞀ pǝɯɐɹℲ
+FramedMapFrame.name=ǝɯɐɹℲ dɐW pǝɯɐɹℲ
+FramedPaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ pǝɯɐɹℲ
+FramedDesk.name=ʞsǝᗡ pǝɯɐɹℲ
+FramedWeaponRack.name=ʞɔɐᴚ ꞁoo⟘ pǝɯɐɹℲ
+FramedCase.name=ǝsɐƆ pǝɯɐɹℲ
+FramedTable.name=ǝꞁqɐ⟘ pǝɯɐɹℲ
+FramedSeat.name=ʇɐǝS pǝɯɐɹℲ
+item.seatBack.FramedSeatBack.name=ʞɔɐᗺ ʇɐǝS pǝɯɐɹℲ
+
+gui.painting.showFrame=ǝɯɐɹℲ ʍoɥS
+gui.painting.hideFrame=ǝɯɐɹℲ ǝpᴉH
+
+screwgun.selected.desk1=˙pǝʇɔǝꞁǝs ʞsǝp ʇsɹᴉℲ
+screwgun.selected.desk2=˙sʞsǝp ɥɔɐʇǝp/ɥɔɐʇʇɐ oʇ ᵷuᴉʇdɯǝʇʇⱯ
+
+item.AtlasBook.name=sɐꞁʇⱯ
+item.AtlasPlate.name=ǝʇɐꞁԀ sɐꞁʇⱯ
+item.DeathCompass.name=ssɐdɯoƆ ꞁɐuɹǝʇƎ
+enchant.deathcompass=ssɐdɯoƆ ꞁɐuɹǝʇƎ
+gui.atlas.zoom=ꞁǝʌǝꞁ ɯooZ
+gui.atlas.center=ɹǝʇuǝƆ oʇnⱯ
+gui.atlas.create=ǝʇɐǝɹƆ oʇnⱯ
+gui.atlas.mapXcenter=:ɹǝʇuǝƆ X dɐW
+gui.atlas.mapZcenter=:ɹǝʇuǝƆ Z dɐW
+gui.atlas.mapZoom=:ꞁǝʌǝꞁ ɯooz dɐW
+gui.atlas.yes=sǝ⅄
+gui.atlas.no=oN
+gui.atlas.atlas=sɐꞁʇⱯ ǝɥ⟘
+
+gui.atlas.select.tt1=ǝpoW ʇɔǝꞁǝS ʇuᴉodʎɐM
+gui.atlas.select.tt2=ʇuᴉodʎɐʍ ɐ ɹǝʌo ɹǝʌoH
+gui.atlas.select.tt3=ʇɔǝꞁǝs oʇ ʞɔᴉꞁɔ ʇɟǝꞁ puɐ
+gui.atlas.select.tt4=˙ʇuᴉodʎɐʍ ʇɐɥʇ
+gui.atlas.select.tt5=dɐɯ ɹǝʌo ɹǝʌoɥ puɐ ꞁɹʇƆ pꞁoH
+gui.atlas.select.tt6=˙sǝʇɐuᴉpɹooɔ pꞁɹoʍ ꞁɐǝɹ ǝǝs oʇ
+gui.atlas.select.tt7=ꞁɹʇƆ ᵷuᴉpꞁoɥ ǝꞁᴉɥʍ ʞɔᴉꞁɔ ʇɟǝꞀ
+gui.atlas.select.tt8=˙dɐɯ ǝɥʇ uo ʇuᴉod ʎuɐ ʇɔǝꞁǝs oʇ
+
+gui.atlas.edit.tt1=ǝpoW ʇᴉpƎ uᴉԀ ʇuᴉodʎɐM
+gui.atlas.edit.tt2=ʇᴉpǝ oʇ ʇuᴉodʎɐʍ ɐ ʞɔᴉꞁƆ
+gui.atlas.edit.tt3=ɹoꞁoɔ puɐ ǝɯɐu uᴉd ǝɥʇ
+gui.atlas.edit.tt4=˙uᴉd pǝʇɔǝꞁǝs ǝɥʇ ǝʇǝꞁǝp ɹo
+gui.atlas.edit.tt5='ʇuᴉodʎɐʍ ɐ ǝʇǝꞁǝp ʎꞁʞɔᴉnb o⟘
+gui.atlas.edit.tt6=˙ʇuᴉodʎɐʍ ɐ ʞɔᴉꞁɔ puɐ ʇɟᴉɥs pꞁoɥ
+
+gui.atlas.add.tt1=ǝpoW uᴉԀ ʇuᴉodʎɐM ppⱯ
+gui.atlas.add.tt2=dɐɯ ǝɥʇ uo ǝɹǝɥʍʎuɐ ʞɔᴉꞁƆ
+gui.atlas.add.tt3=˙ʇuᴉodʎɐʍ ʍǝu ɐ ppɐ oʇ
+gui.atlas.add.tt4=ʞsɐ puɐ dn dod ꞁꞁᴉʍ ᵷoꞁɐᴉp Ɐ
+gui.atlas.add.tt5=˙ɹoꞁoɔ puɐ ǝɯɐu ǝɥʇ ɹoɟ
+gui.atlas.add.tt6=dɐɯ ǝɥʇ ʞɔᴉꞁɔ puɐ ʇɟᴉɥs pꞁoH
+gui.atlas.add.tt7=ɐ ɥʇᴉʍ uᴉd ʍǝu ɐ ǝɔɐꞁd oʇ
+gui.atlas.add.tt8=˙ǝɯɐu puɐ ɹoꞁoɔ ɯopuɐɹ
+
+gui.atlas.switchtoinv=˙ʍǝᴉʌ ʎɹoʇuǝʌuI oʇ ɥɔʇᴉʍS
+gui.atlas.switchtoatlas=˙ʍǝᴉʌ dɐW oʇ ɥɔʇᴉʍS
+
+gui.atlas.autocenter.tt1=ꞁꞁᴉʍ sɐꞁʇɐ ǝɥʇ 'pǝꞁqɐuǝ ɟI
+gui.atlas.autocenter.tt2=ɐ ɹoɟ ʎɹoʇuǝʌuᴉ ǝɥʇ ɥɔɹɐǝs
+gui.atlas.autocenter.tt3=ǝɹǝɥʍ sʍoɥs ʇɐɥʇ dɐɯ pᴉꞁɐʌ
+gui.atlas.autocenter.tt4=ʎꞁʇuǝɹɹnɔ ǝɥʇ ʇɐ ǝɹɐ noʎ
+gui.atlas.autocenter.tt5=˙ꞁǝʌǝꞁ ɯooz pǝʇɔǝꞁǝs
+
+gui.atlas.autocreate.tt1=ʍǝu sǝʇɐǝɹɔ 'pǝꞁqɐuǝ ɟI
+gui.atlas.autocreate.tt2=ǝɥʇ uᴉ sdɐɯ ʞuɐꞁq ɯoɹɟ sdɐɯ
+gui.atlas.autocreate.tt3= ɹǝʇuǝɔ oʇnɐ uǝɥM ˙ʎɹoʇuǝʌuᴉ
+gui.atlas.autocreate.tt4= 'dɐɯ ᵷuᴉɥɔʇɐɯ ɐ puᴉɟ oʇ sꞁᴉɐɟ
+gui.atlas.autocreate.tt5=ɟɟo pǝsɐq pǝʇɐǝɹɔ sᴉ dɐɯ ʍǝu ɐ
+gui.atlas.autocreate.tt6=ʇɐ pǝpɐoꞁ dɐɯ ʇsɐꞁ ǝɥʇ ɯoɹɟ
+gui.atlas.autocreate.tt7=˙ꞁǝʌǝꞁ ɯooz pǝʇɔǝꞁǝs ǝɥʇ
+
+gui.atlas.autocreate.tt8=ǝq ʇsnɯ ɹǝʇuǝƆ oʇnⱯ
+gui.atlas.autocreate.tt9=˙ʞɹoʍ oʇ sᴉɥʇ ɹoɟ pǝꞁqɐuǝ
+
+gui.atlas.transfer=ɹǝɟsuɐɹ⟘ ʇuᴉodʎɐM
+gui.atlas.transfer.cancel=ꞁǝɔuɐƆ
+gui.atlas.transfer.from=ǝɯɐɹℲ dɐW oʇ sɐꞁʇⱯ ɯoɹℲ
+gui.atlas.transfer.to=sɐꞁʇⱯ oʇ ǝɯɐɹℲ dɐW ɯoɹℲ
+
+gui.compass.currentlocation=ɔoꞀ ʇuǝɹɹnƆ
+
+gui.paintpress.page=ǝᵷɐԀ
+gui.paintpress.of=ɟo
+
+item.TesterItem.name=ɹǝʇsǝ⟘ ǝɯɐN ʞɔɐʇSɯǝʇI
+gui.testeritem.name=ɹǝʇsǝ⟘ ǝɯɐN ʞɔɐʇSɯǝʇI
+gui.testeritem.display=:ǝɯɐu ʎɐꞁdsᴉᗡ
+gui.testeritem.unlocal=:ǝɯɐu pǝzᴉꞁɐɔoꞁu∩
+
+gui.clock.chimesound=punoS ǝɯᴉɥƆ
+gui.clock.ticksound=punoS ʞɔᴉ⟘
+gui.clock.redstone=ǝuoʇspǝᴚ
+gui.clock.chime=ǝɯᴉɥƆ
+gui.clock.presets=sʇǝsǝɹԀ
+
+screwgun.selected.painting1=pǝʇɔǝꞁǝs ᵷuᴉʇuᴉɐԀ ʇsɹᴉℲ
+screwgun.selected.painting2=pǝʇɔǝꞁǝs ᵷuᴉʇuᴉɐԀ puoɔǝS
+screwgun.selected.clock1=pǝʇɔǝꞁǝs ʞɔoꞁɔ ʇsɹᴉℲ
+screwgun.selected.clock2=pǝʇɔǝꞁǝs ʞɔoꞁɔ puoɔǝS
+drill.failed=pǝꞁᴉɐℲ uoᴉʇɔǝuuoƆ
+
+item.PaintingCanvas.name=sɐʌuɐƆ ᵷuᴉʇuᴉɐԀ
+tile.BiblioPaintPress.name=ssǝɹԀ ᵷuᴉʇuᴉɐԀ
+
+gui.paintpress.transfer=ɹǝɟsuɐɹ⟘
+gui.paintpress.vanilla=ɐꞁꞁᴉuɐᴧ
+gui.paintpress.custom=ɯoʇsnƆ
+
+gui.painting.scale=ǝꞁɐɔS
+gui.painting.resolution=uoᴉʇnꞁosǝᴚ
+gui.painting.aspectRatio=oᴉʇɐᴚ ʇɔǝdsⱯ
+gui.painting.size=ǝzᴉS ᵷuᴉʇuᴉɐԀ
+gui.painting.rotation=uoᴉʇɐʇoᴚ
+gui.painting.corner=ɹǝuɹoƆ ɹǝʇsɐW
+
+OakPaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ ʞɐO
+SprucePaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ ǝɔnɹdS
+BirchPaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ ɥɔɹᴉᗺ
+JunglePaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ ǝꞁᵷunՐ
+AcaciaPaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ ɐᴉɔɐɔⱯ
+OldOakPaintingFrame.name=ǝɯɐɹℲ ᵷuᴉʇuᴉɐԀ ʞɐO ʞɹɐᗡ
+
+paintingFrame.0tier=ssǝꞁɹǝpɹoᗺ
+paintingFrame.1tier=ɹǝᴉ⟘ ǝꞁᵷuᴉS
+paintingFrame.2tier=ɹǝᴉ⟘ ǝꞁqnoᗡ
+paintingFrame.3tier=ɹǝᴉ⟘ ǝꞁdᴉɹ⟘
+paintingFrame.4tier=ɹǝᴉ⟘ ǝꞁdnɹpɐnΌ
+
+OakClock.name=ʞɔoꞁƆ ʞɐO
+SpruceClock.name=ʞɔoꞁƆ ǝɔnɹdS
+BirchClock.name=ʞɔoꞁƆ ɥɔɹᴉᗺ
+JungleClock.name=ʞɔoꞁƆ ǝꞁᵷunՐ
+AcaciaClock.name=ʞɔoꞁƆ ɐᴉɔɐɔⱯ
+OldOakClock.name=ʞɔoꞁƆ ʞɐO ʞɹɐᗡ
+
+WhiteTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ǝʇᴉɥM
+LightGrayTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ʎɐɹ⅁ ʇɥᵷᴉꞀ
+GrayTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ʎɐɹ⅁
+BlackTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ʞɔɐꞁᗺ
+RedTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ pǝᴚ
+OrangeTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ǝᵷuɐɹO
+YellowTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ʍoꞁꞁǝ⅄
+LimeTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ǝɯᴉꞀ
+GreenTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ uǝǝɹ⅁
+CyanTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ uɐʎƆ
+LightBlueTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ǝnꞁᗺ ʇɥᵷᴉꞀ
+BlueTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ǝnꞁᗺ
+PurpleTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ǝꞁdɹnԀ
+MagentaTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ɐʇuǝᵷɐW
+PinkTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ ʞuᴉԀ
+BrownTypewriter.name=ɹǝʇᴉɹʍǝdʎ⟘ uʍoɹᗺ
+
+
+
+gui.recipe.areyousure=¿ǝɹns noʎ ǝɹⱯ
+gui.recipe.finalize=˙pǝʇᴉpǝ ᵷuᴉǝq ɯoɹɟ ʞooq sᴉɥʇ ʞɔoꞁ ʎꞁʇuǝuɐɯɹǝd ꞁꞁᴉʍ sǝʎ ᵷuᴉʞɔᴉꞁƆ
+gui.recipe.description=˙uoᴉʇdᴉɹɔsǝp ɐ ppⱯ
+
+swordpedestal.name=ꞁɐʇsǝpǝԀ pɹoʍS
+swordpedestal.white=ɯᴉɹ⟘ ǝʇᴉɥM
+swordpedestal.orange=ɯᴉɹ⟘ ǝᵷuɐɹO
+swordpedestal.magenta=ɯᴉɹ⟘ ɐʇuǝᵷɐW
+swordpedestal.lightblue=ɯᴉɹ⟘ ǝnꞁᗺ ʇɥᵷᴉꞀ
+swordpedestal.yellow=ɯᴉɹ⟘ ʍoꞁꞁǝ⅄
+swordpedestal.lime=ɯᴉɹ⟘ ǝɯᴉꞀ
+swordpedestal.pink=ɯᴉɹ⟘ ʞuᴉԀ
+swordpedestal.gray=ɯᴉɹ⟘ ʎɐɹ⅁
+swordpedestal.lightgray=ɯᴉɹ⟘ ʎɐɹ⅁ ʇɥᵷᴉꞀ
+swordpedestal.cyan=ɯᴉɹ⟘ uɐʎƆ
+swordpedestal.purple=ɯᴉɹ⟘ ǝꞁdɹnԀ
+swordpedestal.blue=ɯᴉɹ⟘ ǝnꞁᗺ
+swordpedestal.brown=ɯᴉɹ⟘ uʍoɹᗺ
+swordpedestal.green=ɯᴉɹ⟘ uǝǝɹ⅁
+swordpedestal.red=ɯᴉɹ⟘ pǝᴚ
+swordpedestal.black=ɯᴉɹ⟘ ʞɔɐꞁᗺ
+
+OakSign.name=uᵷᴉS ʎɔuɐℲ ʞɐO
+SpruceSign.name=uᵷᴉS ʎɔuɐℲ ǝɔnɹdS
+BirchSign.name=uᵷᴉS ʎɔuɐℲ ɥɔɹᴉᗺ
+JungleSign.name=uᵷᴉS ʎɔuɐℲ ǝꞁᵷunՐ
+AcaciaSign.name=uᵷᴉS ʎɔuɐℲ ɐᴉɔɐɔⱯ
+OldOakSign.name=uᵷᴉS ʎɔuɐℲ ʞɐO ʞɹɐᗡ
+
+OakWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ ʞɐO
+SpruceWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ ǝɔnɹdS
+BirchWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ ɥɔɹᴉᗺ
+JungleWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ ǝꞁᵷunՐ
+AcaciaWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ ɐᴉɔɐɔⱯ
+OldOakWorkbench.name=ɥɔuǝqʞɹoM ʎɔuɐℲ ʞɐO ʞɹɐᗡ
+
+tile.BiblioBell.name=ꞁꞁǝᗺ ʞsǝᗡ
+
+item.RecipeBook.name=ʞooᗺ ǝdᴉɔǝᴚ ʎʇdɯƎ
+item.SlottedBook.name=ʞooᗺ pǝʇʇoꞁS
+item.BigBook.name=ʞooᗺ ᵷuᴉʇᴉɹM ᵷᴉᗺ
+item.HandDrill.name=ꞁꞁᴉɹᗡ puɐH
+
+book.bold=ᗺ
+book.italic=I
+book.underline=∩
+book.strike=ǝʞᴉɹʇS
+book.obfuscated=O
+book.reset=ʇǝsǝᴚ
+book.save=ǝʌɐS
+book.sign=uᵷᴉS
+book.entertitle=:ǝꞁʇᴉ⟘ ʞooᗺ ɹǝʇuƎ
+book.by=ʎq
+book.signnotice=˙sǝᵷɐd ꞁɐuoᴉʇᴉppɐ puɐ 'sɹǝʇdɐɥɔ 'ᵷuᴉʇʇɐɯɹoɟ 'ʇxǝʇ ᵷuᴉʇᴉpǝ ᵷuᴉpnꞁɔuI ˙ǝꞁqɐʇᴉpǝ ǝq ɹǝᵷuoꞁ ou ꞁꞁᴉʍ ʇᴉ 'ʞooq ǝɥʇ uᵷᴉs noʎ uǝɥM ¡ǝʇoN ʇuɐʇɹodɯI
+book.textscale=ǝꞁɐɔS ʇxǝ⟘
+book.lineselected=ǝuᴉꞀ pǝʇɔǝꞁǝS
+book.cancel=ꞁǝɔuɐƆ
+book.linenum== #ǝuᴉꞀ
+book.title=ǝꞁʇᴉ⟘
+book.description=uoᴉʇdᴉɹɔsǝᗡ
+book.ingredients=:pǝɹᴉnbǝᴚ sʇuǝᴉpǝɹᵷuI
+book.overwriterecipe=ʇuǝɹɹnɔ ǝʇᴉɹʍɹǝʌO
+book.overwriterecipe2=˙ʞooq ǝdᴉɔǝɹ
+book.saverecipe=oʇ ǝdᴉɔǝɹ ǝʌɐS
+book.saverecipe2=˙ʞooq ʞuɐꞁq
+book.loadrecipe=sʇuǝuodɯoɔ pɐoꞀ
+book.loadrecipe2=˙ʎɹoʇuǝʌuᴉ ɯoɹɟ
+book.areyousure=¿ǝɹns noʎ ǝɹⱯ
+book.areyousure2=˙pǝʇᴉpǝ ᵷuᴉǝq ɯoɹɟ ʞooq sᴉɥʇ ʞɔoꞁ ʎꞁʇuǝuɐɯɹǝd ꞁꞁᴉʍ sǝʎ ᵷuᴉʞɔᴉꞁƆ
+book.setrecipename=:ǝdᴉɔǝᴚ
+gui.fancyworkbench=ɥɔuǝqʞɹoM ʎɔuɐℲ
+
+gui.sign.left=ʇɟǝꞀ
+gui.sign.center=ɹǝʇuǝƆ
+gui.sign.right=ʇɥᵷᴉᴚ
+
+gui.sign.black=ʞɔɐꞁᗺ
+gui.sign.darkblue=ǝnꞁᗺ ʞɹɐᗡ
+gui.sign.darkgreen=uǝǝɹ⅁ ʞɹɐᗡ
+gui.sign.darkaqua=ɐnbⱯ ʞɹɐᗡ
+gui.sign.darkred=pǝᴚ ʞɹɐᗡ
+gui.sign.darkpurple=ǝꞁdɹnԀ ʞɹɐᗡ
+gui.sign.gold=pꞁo⅁
+gui.sign.gray=ʎɐɹ⅁
+gui.sign.darkgray=ʎɐɹ⅁ ʞɹɐᗡ
+gui.sign.blue=ǝnꞁᗺ
+gui.sign.green=uǝǝɹ⅁
+gui.sign.aqua=ɐnbⱯ
+gui.sign.red=pǝᴚ
+gui.sign.lightpurple=ǝꞁdɹnԀ ʇɥᵷᴉꞀ
+gui.sign.yellow=ʍoꞁꞁǝ⅄
+gui.sign.white=ǝʇᴉɥM
+
+gui.sign.tooltip1=˙sꞁǝuɐd ǝꞁɔʎɔ ꞁꞁᴉʍ qɐ⟘ ˙ꞁǝuɐd ᵷuᴉʇᴉpǝ uɐ ʇɔǝꞁǝs oʇ qɐʇ ssǝɹd ɹo xoq ɐ ʞɔᴉꞁƆ
+gui.sign.tooltip2=˙uoᴉʇɐʇoɹ puɐ 'uoᴉʇᴉsod 'ǝꞁɐɔs ʇᴉpƎ ˙ꞁǝuɐd suoᴉʇdo ᵷuᴉʇᴉpǝ ⥝ ʇoꞁs ʇɔǝꞁǝs oʇ ǝʌoqɐ xoq ǝɥʇ ʞɔᴉꞁƆ
+gui.sign.tooltip3=˙ᵷuᴉʇɐɯɹoɟ ǝꞁʎʇs ɐꞁꞁᴉuɐʌ ppɐ puɐ ǝꞁɐɔs ʇᴉpƎ ˙suoᴉʇdo ᵷuᴉʇᴉpǝ ʇxǝʇ ǝɥʇ ʇɔǝꞁǝs oʇ ǝʌoqɐ xoq ǝɥʇ ʞɔᴉꞁƆ
+gui.sign.tooltip4=˙uoᴉʇɐʇoɹ puɐ 'uoᴉʇᴉsod 'ǝꞁɐɔs ʇᴉpƎ ˙suoᴉʇdo ᵷuᴉʇᴉpǝ ɹoɟ ᘔ ʇoꞁs ʇɔǝꞁǝs oʇ ǝʌoqɐ xoq ǝɥʇ ʞɔᴉꞁƆ
+gui.sign.tooltip5=˙ǝꞁɐɔs ʞɔoꞁq ʇsnɾpⱯ
+gui.sign.tooltip6=˙ʇɥᵷᴉɹ ɹo ʇɟǝꞁ ǝɔɐɟ ʎꞁuo uɐɔ sɯǝʇI ˙ʇɥᵷᴉɹ ɹo 'ɹǝʇuǝɔ 'ʇɟǝꞁ ǝɥʇ oʇ ǝɔɐɟ uɐɔ sʞɔoꞁᗺ ˙uoᴉʇɐʇoɹ ʞɔoꞁq ʇsnɾpⱯ
+gui.sign.tooltip7=˙sʎǝʞ ᗡSⱯM ǝɥʇ ɹo sʎǝʞ ʍoɹɹɐ ǝɥʇ ɥʇᴉʍ pǝʇsnɾpɐ ǝq osꞁɐ uɐɔ uoᴉʇᴉsoԀ ˙uoᴉʇᴉsod ʞɔoꞁq ʇsnɾpⱯ
+gui.sign.tooltip8=:ꞁoqɯʎs ᵷuᴉʇʇɐɯɹoɟ ǝɥʇ ɹǝʇɟɐ sɹǝʇʇǝꞁ /sɹǝqɯnu ᵷuᴉʍoꞁꞁoɟ ǝɥʇ ɟo ǝuo ɹǝʇuƎ
+gui.sign.tooltip9=˙ǝuᴉꞁ pǝʇɔǝꞁǝs ǝɥʇ oʇ ꞁoqɯʎs ᵷuᴉʇʇɐɯɹoɟ ɐ ppɐ oʇ ʎǝʞ ,ʇꞁɐ, ǝɥʇ ssǝɹd ɹo uoʇʇnq ǝɥʇ ʞɔᴉꞁƆ
+
+gui.sign.bold=pꞁoᗺ
+gui.sign.strikethrough=ɥᵷnoɹɥʇǝʞᴉɹʇS
+gui.sign.underline=ǝuᴉꞁɹǝpu∩
+gui.sign.italic=ɔᴉꞁɐʇI
+
+gui.sign.scale=ǝꞁɐɔS ʇxǝ⟘
+gui.sign.format=ʇɐɯɹoℲ
+gui.sign.linenum=#ǝuᴉꞀ
+
+
+gui.redbook.title=:ǝꞁʇᴉ⟘ ʞooᗺ
+gui.redbook.description.p1= ˙sǝᴉdnɔɔo ʞooq ǝɥʇ ǝsɐɔʞooq ǝɥʇ uo ʇoꞁs ʇɐɥʍ uo pǝsɐq sᴉ ꞁɐuᵷᴉs ǝɥʇ ɟo ɥʇᵷuǝɹʇs ǝɥ⟘ ˙ʇuoɹɟ ǝɥʇ ʇdǝɔxǝ sǝpᴉs ꞁꞁɐ ɯoɹɟ pǝʇʇᴉɯǝ ǝq ꞁꞁᴉʍ ꞁɐuᵷᴉs ǝuoʇspǝɹ ɐ ǝsɐɔʞooq ǝɥʇ uo pǝɔɐꞁd uǝɥM ˙ꞁɐuᵷᴉs ǝuoʇspǝɹ ɐ ʇᴉɯǝ oʇ ǝsɐɔʞooq ǝɥʇ ɥʇᴉʍ uoᴉʇɐuᴉqɯoɔ uᴉ pǝsn sᴉ ʞooq ǝuoʇspǝɹ ǝɥ⟘
+gui.redbook.description.p2=˙5⥝ ɟo ɥʇᵷuǝɹʇs ǝuoʇspǝɹ ꞁꞁnɟ ɐ sʇᴉɯǝ ɥɔᴉɥʍ 9⥝ ʇoꞁs oʇ ʎɐʍ ǝɥʇ ꞁꞁɐ '⥝ ʎq ɥʇᵷuǝɹʇs ǝɥʇ sǝsɐǝɹɔuᴉ ʇɐɥʇ ɹǝʇɟɐ ʇoꞁs ɥɔɐƎ ˙⥝ ɟo ɥʇᵷuǝɹʇs ɐ ɥʇᴉʍ ǝuoʇspǝɹ ʇᴉɯǝ ꞁꞁᴉʍ ǝsɐɔʞooq ǝɥʇ ᘔ ʇoꞁs uᴉ pǝɔɐꞁd sᴉ ʞooq ǝuoʇspǝɹ ǝɥʇ ɟI ˙ꞁɐuᵷᴉs ǝuoʇspǝɹ ou ʇᴉɯǝ ꞁꞁᴉʍ ǝsɐɔʞooq ǝɥʇ '⥝ ʇoꞁs uᴉ pǝɔɐꞁd sᴉ ʞooq ǝuoʇspǝɹ ǝɥʇ ɟI ˙ʇɥᵷᴉɹ ɯoʇʇoq ǝɥʇ ᵷuᴉǝq 9⥝ ʇoꞁs puɐ ʇoꞁs ʇɟǝꞁ doʇ ǝɥʇ ᵷuᴉǝq ⥝ ʇoꞁs 'sʇoꞁs 9⥝ sɐɥ ǝsɐɔʞooq ǝɥ⟘
+
+
+AcaciaDesk.name=ʞsǝᗡ ɐᴉɔɐɔⱯ
+OldOakDesk.name=ʞsǝᗡ ʞɐO ʞɹɐᗡ
+AcaciaBookcase.name=ǝsɐɔʞooᗺ ɐᴉɔɐɔⱯ
+OldOakBookcase.name=ǝsɐɔʞooᗺ ʞɐO ʞɹɐᗡ
+AcaciaPotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ ɐᴉɔɐɔⱯ
+OldOakPotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ ʞɐO ʞɹɐᗡ
+AcaciaShelf.name=ɟꞁǝɥS ɐᴉɔɐɔⱯ
+OldOakShelf.name=ɟꞁǝɥS ʞɐO ʞɹɐᗡ
+AcaciaWeaponRack.name=ʞɔɐᴚ ꞁoo⟘ ɐᴉɔɐɔⱯ
+OldOakWeaponRack.name=ʞɔɐᴚ ꞁoo⟘ ʞɐO ʞɹɐᗡ
+AcaciaLabel.name=ꞁǝqɐꞀ ɐᴉɔɐɔⱯ
+OldOakLabel.name=ꞁǝqɐꞀ ʞɐO ʞɹɐᗡ
+AcaciaTable.name=ǝꞁqɐ⟘ ɐᴉɔɐɔⱯ
+OldOakTable.name=ǝꞁqɐ⟘ ʞɐO ʞɹɐᗡ
+AcaciaMapFrame.name=ǝɯɐɹℲ dɐW ɐᴉɔɐɔⱯ
+OldOakMapFrame.name=ǝɯɐɹℲ dɐW ʞɐO ʞɹɐᗡ
+AcaciaSeat.name=ʇɐǝS ɐᴉɔɐɔⱯ
+OldOakSeat.name=ʇɐǝS ʞɐO ʞɹɐᗡ
+OakCase.name=ǝsɐƆ ʞɐO
+SpruceCase.name=ǝsɐƆ ǝɔnɹdS
+BirchCase.name=ǝsɐƆ ɥɔɹᴉᗺ
+JungleCase.name=ǝsɐƆ ǝꞁᵷunՐ
+AcaciaCase.name=ǝsɐƆ ɐᴉɔɐɔⱯ
+OldOakCase.name=ǝsɐƆ ʞɐO ʞɹɐᗡ
+item.seatBack.AcaciaSeatBack.name=ʞɔɐᗺ ʇɐǝS ɐᴉɔɐɔⱯ
+item.seatBack.OldOakSeatBack.name=ʞɔɐᗺ ʇɐǝS ʞɐO ʞɹɐᗡ
+lighting.metalIron=uoɹI ɟo ǝpɐW
+lighting.metalGold=pꞁo⅁ ɟo ǝpɐW
+gui.typesetting.guiTitle=ʇuǝɯǝᵷɐuɐW ʞooᗺ :ǝꞁqɐ⟘ ᵷuᴉʇʇǝsǝdʎ⟘
+gui.typesetting.pageOfpages=ɟo
+gui.typesetting.public=ɔᴉꞁqnԀ
+gui.typesetting.private=ǝʇɐʌᴉɹԀ
+gui.typesetting.delete=ǝʇǝꞁǝᗡ
+gui.typesetting.select=ʇɔǝꞁǝS
+gui.typesetting.nextPage=ǝᵷɐԀ ʇxǝN
+gui.typesetting.prevPage=ǝᵷɐԀ ʌǝɹԀ
+gui.typesetting.exit=ʇᴉxƎ
+gui.typesetting.enableDiscard=pɹɐɔsᴉᗡ
+
+
+
+gui.armorstand=puɐʇS ɹoɯɹⱯ
+gui.bookcase=ǝsɐɔʞooᗺ
+gui.cookiejar=ɹɐՐ ǝᴉʞooƆ
+gui.shelf=ɟꞁǝɥS uǝpooM
+gui.label=ꞁǝqɐꞀ uǝpooM
+gui.potionshelf=ɟꞁǝɥS uoᴉʇoԀ
+gui.table=ǝꞁqɐ⟘ uǝpooM
+gui.case=ǝsɐƆ ʎɐꞁdsᴉᗡ
+gui.toolrack=ʞɔɐᴚ ꞁoo⟘
+gui.desk=ʞsǝᗡ uǝpooM
+gui.mapWaypoint.accept=ʇdǝɔɔⱯ
+gui.mapWaypoint.remove=ǝʌoɯǝᴚ
+gui.mapWaypoint.cancel=ꞁǝɔuɐƆ
+gui.mapWaypoint.waypoint=ʇuᴉodʎɐM
+gui.compass.x=:X
+gui.compass.z=:Z
+gui.dinnerPlate=ǝʇɐꞁԀ ɹǝuuᴉᗡ
+gui.discRack=ʞɔɐᴚ ɔsᴉᗡ
+
+enchant.reading=ᵷuᴉpɐǝᴚ
+redbook.by=ʎq
+plate.notValid=pᴉꞁɐᴧ ʇoN
+typesetting.requires=sǝɹᴉnbǝᴚ
+typesetting.levels=sꞁǝʌǝꞀ
+typesetting.chase=sǝsɐɥƆ
+typesetting.bookSelect=˙ʞooq ɐ ʇɔǝꞁǝS
+print.ink=ʞuI
+print.book=sʞooᗺ
+screwgun.firstSeat=˙pǝʇɔǝꞁǝs ʇɐǝs ʇsɹᴉℲ
+screwgun.secondSeat=˙sʇɐǝs ɥɔɐʇǝp/ɥɔɐʇʇɐ oʇ ᵷuᴉʇdɯǝʇʇⱯ
+
+tape.measurenorthsouth= = ɥʇnoS/ɥʇɹoN ʇuǝɯǝɹnsɐǝW
+tape.measureeastwest= = ʇsǝM/ʇsɐƎ ʇuǝɯǝɹnsɐǝW
+tape.measureheight= = ʇɥᵷᴉǝH ʇuǝɯǝɹnsɐǝW
+tape.nomeasure=˙ʇuǝɯǝɹnsɐǝW oN
+tape.measure= = ʇuǝɯǝɹnsɐǝW
+tape.startmeasure=˙ʇuǝɯǝɹnsɐǝW ᵷuᴉʇɹɐʇS
+tape.mode0=˙ʇɥᵷᴉǝɥ puɐ 'ʇsǝM/ʇsɐƎ 'ɥʇnoS/ɥʇɹoN oʇ ǝpoɯ ᵷuᴉɥɔʇᴉʍS
+tape.mode1=˙ʇuǝɯǝɹnsɐǝɯ ǝʇnꞁosqɐ oʇ ǝpoɯ ᵷuᴉɥɔʇᴉʍS
+lock.creativeonly=ʎꞁuO ǝpoW ǝʌᴉʇɐǝɹƆ
+lock.notowner=˙ʞɔoꞁq sᴉɥʇ ɟo ɹǝuʍo ǝɥʇ ʇou ǝɹɐ no⅄
+lock.locked=˙pǝʞɔoꞁ uǝǝq sɐɥ ʞɔoꞁq sᴉɥ⟘
+lock.unlocked=˙pǝʞɔoꞁun uǝǝq sɐɥ ʞɔoꞁq sᴉɥ⟘
+
+CookieJar.name=ɹɐՐ ǝᴉʞooƆ
+MarkerPole.name=ɹǝʞɹɐW
+tile.BiblioType.name=ǝꞁqɐ⟘ ᵷuᴉʇʇǝsǝdʎ⟘
+tile.BiblioPress.name=ssǝɹԀ ᵷuᴉʇuᴉɹԀ
+tile.BiblioArmorStand.name=puɐʇS ɹoɯɹⱯ
+OakBookcase.name=ǝsɐɔʞooᗺ ʞɐO
+SpruceBookcase.name=ǝsɐɔʞooᗺ ǝɔnɹdS
+BirchBookcase.name=ǝsɐɔʞooᗺ ɥɔɹᴉᗺ
+JungleBookcase.name=ǝsɐɔʞooᗺ ǝꞁᵷunՐ
+OakPotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ ʞɐO
+SprucePotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ ǝɔnɹdS
+BirchPotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ ɥɔɹᴉᗺ
+JunglePotionShelf.name=ɟꞁǝɥS uoᴉʇoԀ ǝꞁᵷunՐ
+OakShelf.name=ɟꞁǝɥS ʞɐO
+SpruceShelf.name=ɟꞁǝɥS ǝɔnɹdS
+BirchShelf.name=ɟꞁǝɥS ɥɔɹᴉᗺ
+JungleShelf.name=ɟꞁǝɥS ǝꞁᵷunՐ
+OakWeaponRack.name=ʞɔɐᴚ ꞁoo⟘ ʞɐO
+SpruceWeaponRack.name=ʞɔɐᴚ ꞁoo⟘ ǝɔnɹdS
+BirchWeaponRack.name=ʞɔɐᴚ ꞁoo⟘ ɥɔɹᴉᗺ
+JungleWeaponRack.name=ʞɔɐᴚ ꞁoo⟘ ǝꞁᵷunՐ
+OakLabel.name=ꞁǝqɐꞀ pooM ʞɐO
+SpruceLabel.name=ꞁǝqɐꞀ pooM ǝɔnɹdS
+BirchLabel.name=ꞁǝqɐꞀ pooM ɥɔɹᴉᗺ
+JungleLabel.name=ꞁǝqɐꞀ pooM ǝꞁᵷunՐ
+OakWritingDesk.name=ʞsǝᗡ ʞɐO
+SpruceWritingDesk.name=ʞsǝᗡ ǝɔnɹdS
+BirchWritingDesk.name=ʞsǝᗡ ɥɔɹᴉᗺ
+JungleWritingDesk.name=ʞsǝᗡ ǝꞁᵷunՐ
+OakTable.name=ǝꞁqɐ⟘ ʞɐO
+SpruceTable.name=ǝꞁqɐ⟘ ǝɔnɹdS
+BirchTable.name=ǝꞁqɐ⟘ ɥɔɹᴉᗺ
+JungleTable.name=ǝꞁqɐ⟘ ǝꞁᵷunՐ
+DiscRack.name=ʞɔɐᴚ ɔsᴉᗡ
+DinnerPlate.name=ǝʇɐꞁԀ ɹǝuuᴉᗡ
+OakMapFrame.name=ǝɯɐɹℲ dɐW ʞɐO
+SpruceMapFrame.name=ǝɯɐɹℲ dɐW ǝɔnɹdS
+BirchMapFrame.name=ǝɯɐɹℲ dɐW ɥɔɹᴉᗺ
+JungleMapFrame.name=ǝɯɐɹℲ dɐW ǝꞁᵷunՐ
+OakSeat.name=ʇɐǝS ʞɐO
+SpruceSeat.name=ʇɐǝS ǝɔnɹdS
+BirchSeat.name=ʇɐǝS ɥɔɹᴉᗺ
+JungleSeat.name=ʇɐǝS ǝꞁᵷunՐ
+
+whiteLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+lightGrayLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+grayLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+blackLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+redLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+orangeLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+yellowLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+limeLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+greenLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+cyanLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+lightBlueLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+blueLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+purpleLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+magentaLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+pinkLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+brownLantern.name=uɹǝʇuɐꞀ ʎɔuɐℲ
+
+whiteLamp.name=dɯɐꞀ ʎɔuɐℲ
+lightGrayLamp.name=dɯɐꞀ ʎɔuɐℲ
+grayLamp.name=dɯɐꞀ ʎɔuɐℲ
+blackLamp.name=dɯɐꞀ ʎɔuɐℲ
+redLamp.name=dɯɐꞀ ʎɔuɐℲ
+orangeLamp.name=dɯɐꞀ ʎɔuɐℲ
+yellowLamp.name=dɯɐꞀ ʎɔuɐℲ
+limeLamp.name=dɯɐꞀ ʎɔuɐℲ
+greenLamp.name=dɯɐꞀ ʎɔuɐℲ
+cyanLamp.name=dɯɐꞀ ʎɔuɐℲ
+lightBlueLamp.name=dɯɐꞀ ʎɔuɐℲ
+blueLamp.name=dɯɐꞀ ʎɔuɐℲ
+purpleLamp.name=dɯɐꞀ ʎɔuɐℲ
+magentaLamp.name=dɯɐꞀ ʎɔuɐℲ
+pinkLamp.name=dɯɐꞀ ʎɔuɐℲ
+brownLamp.name=dɯɐꞀ ʎɔuɐℲ
+
+lamp.hood0=pooH dɯɐꞀ ǝʇᴉɥM
+lamp.hood1=pooH dɯɐꞀ ʎɐɹ⅁ ʇɥᵷᴉꞀ
+lamp.hood2=pooH dɯɐꞀ ʎɐɹ⅁
+lamp.hood3=pooH dɯɐꞀ ʞɔɐꞁᗺ
+lamp.hood4=pooH dɯɐꞀ pǝᴚ
+lamp.hood5=pooH dɯɐꞀ ǝᵷuɐɹO
+lamp.hood6=pooH dɯɐꞀ ʍoꞁꞁǝ⅄
+lamp.hood7=pooH dɯɐꞀ ǝɯᴉꞀ
+lamp.hood8=pooH dɯɐꞀ uǝǝɹ⅁
+lamp.hood9=pooH dɯɐꞀ uɐʎƆ
+lamp.hood10=pooH dɯɐꞀ ǝnꞁᗺ ʇɥᵷᴉꞀ
+lamp.hood11=pooH dɯɐꞀ ǝnꞁᗺ
+lamp.hood12=pooH dɯɐꞀ ǝꞁdɹnԀ
+lamp.hood13=pooH dɯɐꞀ ɐʇuǝᵷɐW
+lamp.hood14=pooH dɯɐꞀ ʞuᴉԀ
+lamp.hood15=pooH dɯɐꞀ uʍoɹᗺ
+
+lantern.candle0=ǝꞁpuɐƆ ǝʇᴉɥM
+lantern.candle1=ǝꞁpuɐƆ ʎɐɹ⅁ ʇɥᵷᴉꞀ
+lantern.candle2=ǝꞁpuɐƆ ʎɐɹ⅁
+lantern.candle3=ǝꞁpuɐƆ ʞɔɐꞁᗺ
+lantern.candle4=ǝꞁpuɐƆ pǝᴚ
+lantern.candle5=ǝꞁpuɐƆ ǝᵷuɐɹO
+lantern.candle6=ǝꞁpuɐƆ ʍoꞁꞁǝ⅄
+lantern.candle7=ǝꞁpuɐƆ ǝɯᴉꞀ
+lantern.candle8=ǝꞁpuɐƆ uǝǝɹ⅁
+lantern.candle9=ǝꞁpuɐƆ uɐʎƆ
+lantern.candle10=ǝꞁpuɐƆ ǝnꞁᗺ ʇɥᵷᴉꞀ
+lantern.candle11=ǝꞁpuɐƆ ǝnꞁᗺ
+lantern.candle12=ǝꞁpuɐƆ ǝꞁdɹnԀ
+lantern.candle13=ǝꞁpuɐƆ ɐʇuǝᵷɐW
+lantern.candle14=ǝꞁpuɐƆ ʞuᴉԀ
+lantern.candle15=ǝꞁpuɐƆ uʍoɹᗺ
+
+item.tapeMeasure.name=ǝɹnsɐǝW ǝdɐ⟘
+item.tape.name=ꞁǝǝᴚ ǝɹnsɐǝW ǝdɐ⟘
+item.BiblioChase.name=ǝsɐɥƆ ssǝɹԀ ʇuᴉɹԀ
+item.PrintPlate.name=ǝʇɐꞁԀ ssǝɹԀ ʇuᴉɹԀ
+item.EnchantedPlate.name=ǝʇɐꞁԀ pǝʇuɐɥɔuƎ
+item.BiblioRedBook.name=I ǝɯnꞁoᴧ :ǝuoʇspǝᴚ
+item.BiblioGlasses.readingglasses.name=sǝssɐꞁ⅁ ᵷuᴉpɐǝᴚ
+item.BiblioGlasses.tintedglasses.name=sǝssɐꞁ⅁ pǝʇuᴉ⟘
+item.BiblioGlasses.monocle.name=ǝꞁɔouoW
+item.BiblioDrill.name=un⅁ ʍǝɹɔS
+item.BiblioCreativeLock.name=ʎǝʞ puɐ ʞɔoꞀ
+item.BiblioClipboard.name=pɹɐoqdᴉꞁƆ
+item.seatBack.OakSeatBack.name=ʞɔɐᗺ ʇɐǝS ʞɐO
+item.seatBack.SpruceSeatBack.name=ʞɔɐᗺ ʇɐǝS ǝɔnɹdS
+item.seatBack.BirchSeatBack.name=ʞɔɐᗺ ʇɐǝS ɥɔɹᴉᗺ
+item.seatBack.JungleSeatBack.name=ʞɔɐᗺ ʇɐǝS ǝꞁᵷunՐ
+item.BiblioWayPointCompass.name=ssɐdɯoƆ ʇuᴉodʎɐM
+item.BiblioMapTool.name=ssɐdɯoƆ ᵷuᴉʇɟɐɹᗡ
