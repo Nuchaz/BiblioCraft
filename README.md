@@ -44,4 +44,6 @@ Language	    -           Lang Code	        -       Author(s)
  
  Norwegian - no_NO - NikolaiNyegaard and mariogrip
 
-French - fr_FR - Linyor
+ French - fr_FR - Linyor
+ 
+ Spanish from Argentina - es_AR - Truebamateo, aliceingame, J. Mariano Cis and ines-aguirre
