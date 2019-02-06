@@ -193,7 +193,7 @@ lock.notowner=Jij bent niet de eigenaar van dit blok.
 lock.locked=Dit blok is nu vergrendeld.
 lock.unlocked=Dit blok is niet langer meer vergrendeld.
 // Blocks
-CookieJar.name=Koektrommel
+CookieJar.name=Koekjespot
 MarkerPole.name=Markering
 tile.BiblioType.name=Bijzet Tafel
 tile.BiblioPress.name=Drukpers
