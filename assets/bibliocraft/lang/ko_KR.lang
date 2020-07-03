@@ -425,7 +425,7 @@ tape.mode1=절대측정 모드로 전환합니다
 lock.creativeonly=크리에이티브 모드 전용
 lock.notowner=이 블록의 주인이 아닙니다
 lock.locked=이 블록은 잠겨 있습니다
-lock.unlocked=이 블록은 열려 있습니다.
+lock.unlocked=이 블록은 열려 있습니다
 
 // Blocks
 CookieJar.name=쿠키 단지
@@ -591,10 +591,10 @@ item.BiblioChase.name=복사기 활자판
 item.PrintPlate.name=복사기 인쇄판
 item.EnchantedPlate.name=마법부여된 인쇄판
 item.BiblioRedBook.name=레드스톤: 1권
-item.BiblioGlasses.readingglasses.name=독서용 안경
+item.BiblioGlasses.readingglasses.name=돋보기 안경
 item.BiblioGlasses.tintedglasses.name=색안경
 item.BiblioGlasses.monocle.name=외안경
-item.BiblioDrill.name=스크류 건
+item.BiblioDrill.name=스크류 
 item.BiblioCreativeLock.name=자물쇠와 열쇠
 item.BiblioClipboard.name=클립보드
 item.BiblioWayPointCompass.nam=경유지 나침반
