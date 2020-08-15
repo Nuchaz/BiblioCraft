@@ -1,281 +1,216 @@
 #author jinwoo829, edit TeamMMKP(@puyo061,alvin137)
+#Updated By Junepark1001
+
 language.name=Korean
 language.region=KR
 language.code=ko_KR
 
 // Tab Names
-itemGroup.BiblioCraft=비블리오 크래프트[Bibliocraft]
-itemGroup.BiblioCraftLights=비블리오 크래프트 조명[Bibliocraft]
-item.paneler.panels=패널:
+itemGroup.BiblioCraft=비블리오크래프트
+itemGroup.BiblioCraftLights=비블리오크래프트 조명
+item.paneler.panels=합판:
 
-// BiblioCraft v1.11.0 additions
-item.StockroomCatalog.name=물품보관소 카탈로그
-jds.tileentitychest=프레임 체스트
-FramedChest.name=프레인 체스트
-gui.catalog.close=닫기
-gui.catalog.count=갯구
-gui.catalog.names=아이템 /블럭 이름
-screwgun.selected.chest1=첫번째 상자 선택.
-screwgun.selected.chest2=Attempting to attach/detach Chests.
-gui.left=왼쪽
-gui.right=오른쪽
-gui.craft=제작
-gui.recipe.crafted=제작완료
-gui.recipe.failed=제작실패
-gui.recipe.invalid=존재하지않는 조합법
-gui.recipe.missing=재료부족
-gui.recipe.wrong=제작에 실패했습니다. 존재하지않는 조합법이거나 재료가 부족합니다.
-
-gui.clock.pulse=신호
-gui.clock.solid=Solid
-
-jds.tileentityarmorstand=갑옷 거치대
+//Updated localizations for BiblioCraft v2.0
+typesetting.selectbook=선택한 책
 jds.tileentitybookcase=책장
-jds.teclipboard=클립보드
-jds.tileentitycookiejar=쿠키 단지
-jds.tileentitywoodlabel=이름표
-jds.tileentitygenericshelf=선반
-jds.tileentitymapframe=지도 걸개
-jds.tefurnituretile=가구 패널
-jds.tileentityfancyworkbench=화려한 작업대
-jds.tileentityfancysign=화려한 표지판
-jds.tileentitydiscrack=레코드 선반
-jds.tileentitydinnerplate=Dinner Plate
-jds.tileentitypotionshelf=포션 선반
-jds.tileentitywritingdesk=책장
-jds.tileentityweaponcase=진열장
-jds.tileentitytoolrack=도구 거치대
-jds.tileentitytypewriter=타자기
-jds.tileentitytypemachine=타자기 탁자
-jds.tileentitytable=탁자
-jds.tileentityswordpedestal=칼 받침대
-jds.tileentityseat=의자
-jds.tileentityprintpress=페인팅 프레스
-jds.tileentitypaintpress=페인팅 프레스
-jds.tileentitypainting=페인팅
 
-// BiblioCraft 1.10 additions
-item.plumbline.depth=깊이
-item.PlumbLine.name=다림 줄
-item.FramingSaw.name=프레임 톱
-item.FramingBoard.name=프레임 판자
-item.FramingSheet.name=프레임 시트
+item.creativebookcase.randombooks=무작위 책으로 채워집니다.
+item.creativebookcase.mode=크리에이티브 모드 전용
 
-OakPaneler.name=참나무 가구 작업대
-SprucePaneler.name=가문비나무 가구 작업대
-BirchPaneler.name=전나무 가구 작업대
-JunglePaneler.name=정글나무 가구 작업대
-AcaciaPaneler.name=아카시아 가구 작업대
-OldOakPaneler.name=검은 참나무 가구 작업대
-FramedPaneler.name=프레임 가구 작업대
+darkoakBookcase.name=짙은 참나무 책장
+framedBookcase.name=합판 책장
+oakBookcaseCreative.name=참나무 크리에이티브 책장
+spruceBookcaseCreative.name=가문비나무 크리에이티브 책장
+birchBookcaseCreative.name=자작나무 크리에이티브 책장
+jungleBookcaseCreative.name=정글나무 크리에이티브 책장
+acaciaBookcaseCreative.name=아카시아 크리에이티브 책장
+darkoakBookcaseCreative.name=짙은 참나무 크리에이티브 책장
+framedBookcaseCreative.name=합판 크리에이티브 책장
+darkoakShelf.name=짙은 참나무 선반
+oakFurniturePaneler.name=참나무 가구 제작대
+spruceFurniturePaneler.name=가문비나무 가구 제작대
+birchFurniturePaneler.name=자작나무 가구 제작대
+jungleFurniturePaneler.name=정글나무 가구 제작대
+acaciaFurniturePaneler.name=아카시아 가구 제작대
+darkoakFurniturePaneler.name=짙은 참나무 가구 제작대
+framedFurniturePaneler.name=합판 가구 제작대
+oakFramedChest.name=참나무 덧댄 상자
+spruceFramedChest.name=가문비나무 덧댄 상자
+birchFramedChest.name=자작나무 덧댄 상자
+jungleFramedChest.name=정글나무 덧댄 상자
+acaciaFramedChest.name=아카시아 덧댄 상자
+darkoakFramedChest.name=짙은 참나무 덧댄 상자
+framedFramedChest.name=합판 덧댄 상자
+oakFancySign.name=참나무 장식 표지판
+jungleFancySign.name=정글나무 장식 표지판
+darkoakFancySign.name=짙은 참나무 장식 표지판
+framedFancySign.name=합판 장식 표지판
+spruceFancySign.name=가문비나무 장식 표지판
+birchFancySign.name=자작나무 장식 표지판
+acaciaFancySign.name=아카시아 장식 표지판
+darkoakFancyWorkbench.name=짙은 참나무 작업대
+darkoakPotionShelf.name=짙은 참나무 포션 선반
+oakToolRack.name=참나무 도구 거치대
+jungleToolRack.name=정글나무 도구 거치대
+darkoakToolRack.name=짙은 참나무 도구 거치대
+framedToolRack.name=합판 도구 거치대
+spruceToolRack.name=가문비나무 도구 거치대
+birchToolRack.name=자작나무 도구 거치대
+acaciaToolRack.name=아카시아 도구 거치대
+darkoakLabel.name=짙은 참나무 인식표
+oakDesk.name=참나무 책상
+jungleDesk.name=정글나무 책상
+spruceDesk.name=가문비나무 책상
+birchDesk.name=자작나무 책상
+acaciaDesk.name=아카시아 책상
+darkoakDesk.name=짙은 참나무 책상
+darkoakTable.name=짙은 참나무 탁자
+darkoakSeat.name=짙은 참나무 의자
+darkoakClock.name=짙은 참나무 시계
+darkoakCase.name=짙은 참나무 진열장
+darkoakMapFrame.name=짙은 참나무 지도 프레임
+oakPaintingFrameFlat.name=참나무 그림 액자
+sprucePaintingFrameFlat.name=가문비나무 그림 액자
+birchPaintingFrameFlat.name=자작나무 그림 액자
+junglePaintingFrameFlat.name=정글나무 그림 액자
+acaciaPaintingFrameFlat.name=아카시아 그림 액자
+darkoakPaintingFrameFlat.name=짙은 참나무 그림 액자
+framedPaintingFrameFlat.name=합판 그림 액자
 
-FramedClock.name=프레임 시계
-FrameBookcase.name=프레임 책장
-FramedWorkbench.name=프레임 작업대
-FramedSign.name=프레임 화려한 간판
-FramedShelf.name=프레임 선반
-FramedPotionShelf.name=프레임 포션선반
-FramedLabel.name=프레임 라벨
-FramedMapFrame.name=프레임 지도 걸개
-FramedPaintingFrame.name=프레임 액자
-FramedDesk.name=프레임 책상
-FramedWeaponRack.name=프레임 도구걸개
-FramedCase.name=프레임 나무 갑
-FramedTable.name=프레임 테이블
-FramedSeat.name=프레임 의자
-item.seatBack.FramedSeatBack.name=프레임 나무 등받이
+oakPaintingFrameSimple.name=참나무 그림 액자
+sprucePaintingFrameSimple.name=가문비나무 그림 액자
+birchPaintingFrameSimple.name=자작나무 그림 액자
+junglePaintingFrameSimple.name=정글나무 그림 액자
+acaciaPaintingFrameSimple.name=아카시아 그림 액자
+darkoakPaintingFrameSimple.name=짙은 참나무 그림 액자
+framedPaintingFrameSimple.name=합판 그림 액자
 
-gui.painting.showFrame=프레임 보이기
-gui.painting.hideFrame=프레임 숨기기
+oakPaintingFrameMiddle.name=참나무 그림 액자
+sprucePaintingFrameMiddle.name=가문비나무 그림 액자
+birchPaintingFrameMiddle.name=자작나무 그림 액자
+junglePaintingFrameMiddle.name=정글나무 그림 액자
+acaciaPaintingFrameMiddle.name=아카시아 그림 액자
+darkoakPaintingFrameMiddle.name=짙은 참나무 그림 액자
+framedPaintingFrameMiddle.name=합판 그림 액자
 
-screwgun.selected.desk1=첫번째 데스크 선택
-screwgun.selected.desk2=Attempting to attach/detach desks.
+oakPaintingFrameFancy.name=참나무 그림 액자
+sprucePaintingFrameFancy.name=가문비나무 그림 액자
+birchPaintingFrameFancy.name=자작나무 그림 액자
+junglePaintingFrameFancy.name=정글나무 그림 액자
+acaciaPaintingFrameFancy.name=아카시아 그림 액자
+darkoakPaintingFrameFancy.name=짙은 참나무 그림 액자
+framedPaintingFrameFancy.name=합판 그림 액자
 
-// BiblioCraft 1.9 additions
-item.AtlasBook.name=지도
-item.AtlasPlate.name=지도 걸개
+oakPaintingFrameBorderless.name=참나무 그림 액자
+sprucePaintingFrameBorderless.name=가문비나무 그림 액자
+birchPaintingFrameBorderless.name=자작나무 그림 액자
+junglePaintingFrameBorderless.name=정글나무 그림 액자
+acaciaPaintingFrameBorderless.name=아카시아 그림 액자
+darkoakPaintingFrameBorderless.name=짙은 참나무 그림 액자
+framedPaintingFrameBorderless.name=합판 그림 액자
+
+tile.BiblioCraft:PaintingPress.name=그림 복사기
+swordpedestal.silver=회백색 선
+swordpedestal.light_blue=하늘색 선
+tile.BiblioCraft:Bell.name=탁상종
+oakArmorStand.name=참나무 갑옷 거치대
+spruceArmorStand.name=가문비나무 갑옷 거치대
+birchArmorStand.name=자작나무 갑옷 거치대
+jungleArmorStand.name=정글나무 갑옷 거치대
+acaciaArmorStand.name=아카시아 갑옷 거치대
+darkoakArmorStand.name=짙은 참나무 갑옷 거치대
+framedArmorStand.name=합판 갑옷 거치대
+tile.BiblioCraft:TypesettingTable.name=책 유형 설정 테이블
+tile.BiblioCraft:PrintingPress.name=그림 복사기
+tile.BiblioCraft:CookieJar.name=쿠키 단지
+tile.BiblioCraft:DinnerPlate.name=저녁 식사용 접시
+tile.BiblioCraft:DiscRack.name=음반 거치대
+item.maptool.name=작도용 컴퍼스
+
+item.seatback1.OakSeatBack.name=참나무 의자 등받이
+item.seatback1.SpruceSeatBack.name=가문비나무 의자 등받이
+item.seatback1.BirchSeatBack.name=자작나무 의자 등받이
+item.seatback1.JungleSeatBack.name=정글나무 의자 등받이
+item.seatback1.AcaciaSeatBack.name=아카시아 의자 등받이
+item.seatback1.OldOakSeatBack.name=짙은 참나무 의자 등받이
+item.seatback1.FramedSeatBack.name=합판 의자 등받이
+
+item.seatback2.OakSeatBack.name=참나무 의자 등받이
+item.seatback2.SpruceSeatBack.name=가문비나무 의자 등받이
+item.seatback2.BirchSeatBack.name=자작나무 의자 등받이
+item.seatback2.JungleSeatBack.name=정글나무 의자 등받이
+item.seatback2.AcaciaSeatBack.name=아카시아 의자 등받이
+item.seatback2.OldOakSeatBack.name=짙은 참나무 의자 등받이
+item.seatback2.FramedSeatBack.name=합판 의자 등받이
+
+item.seatback3.OakSeatBack.name=참나무 의자 등받이
+item.seatback3.SpruceSeatBack.name=가문비나무 의자 등받이
+item.seatback3.BirchSeatBack.name=자작나무 의자 등받이
+item.seatback3.JungleSeatBack.name=정글나무 의자 등받이
+item.seatback3.AcaciaSeatBack.name=아카시아 의자 등받이
+item.seatback3.OldOakSeatBack.name=짙은 참나무 의자 등받이
+item.seatback3.FramedSeatBack.name=합판 의자 등받이
+
+item.seatback4.OakSeatBack.name=참나무 의자 등받이
+item.seatback4.SpruceSeatBack.name=가문비나무 의자 등받이
+item.seatback4.BirchSeatBack.name=자작나무 의자 등받이
+item.seatback4.JungleSeatBack.name=정글나무 의자 등받이
+item.seatback4.AcaciaSeatBack.name=아카시아 의자 등받이
+item.seatback4.OldOakSeatBack.name=짙은 참나무 의자 등받이
+item.seatback4.FramedSeatBack.name=합판 의자 등받이
+
+item.seatback5.OakSeatBack.name=참나무 의자 등받이
+item.seatback5.SpruceSeatBack.name=가문비나무 의자 등받이
+item.seatback5.BirchSeatBack.name=자작나무 의자 등받이
+item.seatback5.JungleSeatBack.name=정글나무 의자 등받이
+item.seatback5.AcaciaSeatBack.name=아카시아 의자 등받이
+item.seatback5.OldOakSeatBack.name=짙은 참나무 의자 등받이
+item.seatback5.FramedSeatBack.name=합판 의자 등받이
+
+stockcatalog.inventory.notfound=인벤토리 명 없음
+
+/// End of updates for BiblioCraft v2.0.0
+
+
+item.StockroomCatalog.name=창고 물품 목록
+framedChest.name=합판 상자
+screwgun.selected.chest1=첫번째 상자 선택됨
+screwgun.selected.chest2=상자를 붙이거나 떼려 함
+
+framedClock.name=합판 시계
+framedFancyWorkbench.name=합판 장식 작업대
+framedSign.name=합판 장식 표지판
+framedShelf.name=합판 선반
+framedPotionShelf.name=합판 포션 선반
+framedLabel.name=합판 인식표
+framedMapFrame.name=합판 지도 프레임
+framedDesk.name=합판 책상
+framedCase.name=합판 진열장
+framedTable.name=합판 탁자
+framedSeat.name=합판 의자
+
+gui.painting.showFrame=테두리 보이기
+gui.painting.hideFrame=테두리 숨기기
+
+screwgun.selected.desk1=첫번째 책상 선택됨
+screwgun.selected.desk2=책상을 붙이거나 떼려 함
+
+item.AtlasBook.name=아틀라스
+item.AtlasPlate.name=아틀라스 판
 item.DeathCompass.name=영원의 나침반
 enchant.deathcompass=영원의 나침반
-gui.atlas.zoom=확대 레벨
-gui.atlas.center=자동 중앙
-gui.atlas.create=자동 생성
-gui.atlas.mapXcenter=지도 X축 한가운데:
-gui.atlas.mapZcenter=지도 Z축 한가운데:
-gui.atlas.mapZoom=지도 확대 레벨:
-gui.atlas.yes=예
-gui.atlas.no=아니오
-gui.atlas.atlas=지도
 
-gui.atlas.select.tt1=경유지 설정 모드
-gui.atlas.select.tt2=경유지 위
-gui.atlas.select.tt3=에서 왼클릭으로 선택
-gui.atlas.select.tt4=그곳은 경유지.
-gui.atlas.select.tt5=웅크리기 + Ctrl 그리고 맵위에서 경유지와 겹칠때
-gui.atlas.select.tt6=세계의 좌표를 보실수 있습니다.
-gui.atlas.select.tt7=왼쪽클릭 + Ctrl
-gui.atlas.select.tt8=시 모든 미니맵의 점을 선택하실 수 있습니다..
-
-gui.atlas.edit.tt1=경유지 핀 편집 모드
-gui.atlas.edit.tt2=클릭해서 경유지를 수정
-gui.atlas.edit.tt3=선택된 핀의 이름과 색상
-gui.atlas.edit.tt4=혹은 선택된 핀 삭제
-gui.atlas.edit.tt5=빠르게 핀을 삭제하고 싶을때는,
-gui.atlas.edit.tt6=경유지를 웅크리기후 클릭.
-
-gui.atlas.add.tt1=경유지 핀 추가모드
-gui.atlas.add.tt2=지도 어디에서나 클릭,
-gui.atlas.add.tt3=그곳에 새로운 경유지 생성.
-gui.atlas.add.tt4=대화상자가 나타나서 
-gui.atlas.add.tt5=경유지의 이름과 색상을 고를수 있음
-gui.atlas.add.tt6=맵을 웅크리기 + 클릭
-gui.atlas.add.tt7=새로운 핀을 설치
-gui.atlas.add.tt8=랜덤으로 이름과 색상이 부여됨.
-
-gui.atlas.switchtoinv=인벤토리 확인 스위치
-gui.atlas.switchtoatlas=지도 확인 스위치
-
-gui.atlas.autocenter.tt1=만약 활성화시, 이 지도는
-gui.atlas.autocenter.tt2=인벤토리의 유효한 지도를
-gui.atlas.autocenter.tt3=검색해서 표시해 줍니다.
-gui.atlas.autocenter.tt4=당신은 지금 현재
-gui.atlas.autocenter.tt5=확대레벨을 선택중 입니다.
-
-gui.atlas.autocreate.tt1=만약 활성화시, 새로운걸 만듭니다
-gui.atlas.autocreate.tt2=인벤토리에 비어있는 지도를
-gui.atlas.autocreate.tt3=그때 가운데 정렬합니다.
-gui.atlas.autocreate.tt4=일치하는 지도를 찾지 못할경우, 
-gui.atlas.autocreate.tt5=새로운 지도를 만들어서 기본으로 합니다
-gui.atlas.autocreate.tt6=마지막 지도를 로드해서
-gui.atlas.autocreate.tt7=확대레벨을 선택중 입니다
-
-gui.atlas.autocreate.tt8=자동 정렬
-gui.atlas.autocreate.tt9=활성화, 작동합니다.
-
-gui.atlas.transfer=경유지 전송
-gui.atlas.transfer.cancel=취소
-gui.atlas.transfer.from=지도 틀의 지도
-gui.atlas.transfer.to=지도틀의 지도
-
-gui.compass.currentlocation=Current Loc
-
-gui.paintpress.page=페이지
-gui.paintpress.of=중
-
-item.TesterItem.name=아이템 스택 이름 테스트
-gui.testeritem.name=아이템 스택 이름 테스트
-gui.testeritem.display=보여지는 이름:
-gui.testeritem.unlocal=미현지화 이름:
-// end of 1.9 additions
-
-// All BiblioCraft 1.8 additions and changes //
-gui.clock.chimesound=시계소리
-gui.clock.ticksound=틱 소리
-gui.clock.redstone=레드스톤
-gui.clock.chime=알람
-gui.clock.presets=결정
-
-screwgun.selected.painting1=첫 번째 그림이 선택됨
-screwgun.selected.painting2=두 번째 그림이 선택됨
-screwgun.selected.clock1=첫 번째 시계가 선택됨
-screwgun.selected.clock2=두 번째 시계가 선택됨
+screwgun.selected.painting1=첫번째 그림 선택됨
+screwgun.selected.painting2=두번째 그림 선택됨
+screwgun.selected.clock1=첫번째 시계 선택됨
+screwgun.selected.clock2=두번째 시계 선택됨
 drill.failed=연결 실패
 
-item.PaintingCanvas.name=캔버스
-tile.BiblioPaintPress.name=페인팅 프린터
-
-gui.paintpress.transfer=보내기
-gui.paintpress.vanilla=바닐라
-gui.paintpress.custom=사용자 지정
-
-gui.painting.scale=크기
-gui.painting.resolution=Resolution
-gui.painting.aspectRatio=Aspect Ratio
-gui.painting.size=그림의 크기
-gui.painting.rotation=각도
-gui.painting.corner=코너
-
-OakPaintingFrame.name=참나무 액자
-SprucePaintingFrame.name=가문비 나무 액자
-BirchPaintingFrame.name=자작나무 액자
-JunglePaintingFrame.name=정글나무 액자
-AcaciaPaintingFrame.name=아카시아 나무 액자
-OldOakPaintingFrame.name=짙은 참나무 액자
-
-paintingFrame.0tier=Borderless
+paintingFrame.0tier=테두리 없음
 paintingFrame.1tier=1티어
 paintingFrame.2tier=2티어
 paintingFrame.3tier=3티어
 paintingFrame.4tier=4티어
-
-OakClock.name=참나무 시계
-SpruceClock.name=가문비 나무 시계
-BirchClock.name=자작나무 시계
-JungleClock.name=정글나무 시계
-AcaciaClock.name=아카시아 나무 시계
-OldOakClock.name=짙은 참나무 시계
-
-WhiteTypewriter.name=하얀색 타자기
-LightGrayTypewriter.name=밝은 회색 타자기
-GrayTypewriter.name=회색 타자기
-BlackTypewriter.name=검정색 타자기
-RedTypewriter.name=빨간색 타자기
-OrangeTypewriter.name=주황색 타자기
-YellowTypewriter.name=노랑색 타자기
-LimeTypewriter.name=연두색 타자기
-GreenTypewriter.name=초록색 타자기
-CyanTypewriter.name=남색 타자기
-LightBlueTypewriter.name=옅은 하늘색 타자기
-BlueTypewriter.name=파랑색 타자기
-PurpleTypewriter.name=보라색 타자기
-MagentaTypewriter.name=마젠타 색 타자기
-PinkTypewriter.name=핑크색 타자기
-BrownTypewriter.name=갈색 타자기
-
-// End of 1.8 additions and changes // 
-
-// All BiblioCraft 1.7 additions and changes///
-gui.recipe.areyousure=진행하시겠습니까?
-gui.recipe.finalize='예'를 누르면 더 이상 편집할 수 없습니다.
-gui.recipe.description=설명 추가
-
-swordpedestal.name=칼 받침대
-swordpedestal.white=흰색 테두리
-swordpedestal.orange=주황색 테두리
-swordpedestal.magenta=자홍색 테두리
-swordpedestal.lightblue=하늘색 테두리
-swordpedestal.yellow=노란색 테두리
-swordpedestal.lime=연두색 테두리
-swordpedestal.pink=분홍색 테두리
-swordpedestal.gray=회색 테두리
-swordpedestal.lightgray=밝은 회색 테두리
-swordpedestal.cyan=청록색 테두리
-swordpedestal.purple=보라색 테두리
-swordpedestal.blue=파란색 테두리
-swordpedestal.brown=갈색 테두리
-swordpedestal.green=녹색 테두리
-swordpedestal.red=빨간색 테두리
-swordpedestal.black=검은색 테두리
-
-OakSign.name=참나무 화려한 간판
-SpruceSign.name=가문비나무 화려한 간판
-BirchSign.name=자작나무 화려한 간판
-JungleSign.name=정글 나무 화려한 간판
-AcaciaSign.name=아카시아 나무 화려한 간판
-OldOakSign.name=검은 참나무 화려한 간판
-
-OakWorkbench.name=참나무 작업대
-SpruceWorkbench.name=가문비나무 작업대
-BirchWorkbench.name=자작나무 작업대
-JungleWorkbench.name=정글 나무 작업대
-AcaciaWorkbench.name=아카시아 나무 작업대
-OldOakWorkbench.name=검은 참나무 작업대
-
-tile.BiblioBell.name=데스크벨
-
-item.RecipeBook.name=빈 레시피 책
-item.SlottedBook.name=구멍난 책
-item.BigBook.name=큰 책
-item.HandDrill.name=핸드 드릴
 
 book.bold=B
 book.italic=I
@@ -285,274 +220,366 @@ book.obfuscated=O
 book.reset=리셋
 book.save=저장
 book.sign=서명
-book.entertitle=책 제목:
+book.entertitle=제목 입력:
 book.by=저자:
-"book.signnotice=
-참고! 책에 이름을 적게 되면, 더이상 편집할 수 없게 됩니다. 이는 텍스트 편집, 초기화, 챕터, 그리고 추가 페이지까지 포함됩니다."
-book.textscale=텍스트 크기
-book.lineselected=행 선택됨
+book.signnotice=중요 사항: 책에 서명을 하면 그 책은 더 이상 내용 수정, 삭제, 서식 변경, 페이지 추가 등등 일체의 수정을 할 수 없습니다.
+book.textscale=글자 크기
+book.lineselected=선택한 문장
 book.cancel=취소
-book.linenum=행 번호:
+book.linenum=행 번호=
 book.title=제목
 book.description=설명
 book.ingredients=필요한 재료:
-book.overwriterecipe=현재 레시피 책을
-book.overwriterecipe2=덮어씁니다.
-book.saverecipe=빈 레시피 책에
-book.saverecipe2=레시피를 저장합니다.
-book.loadrecipe=인벤토리에서 아이템을
-book.loadrecipe2=불러옵니다.
-book.areyousure=진행하시겠습니까?
-book.areyousure2='예'를 누르면 더 이상 편집할 수 없습니다.
-book.setrecipename=조합법:
-gui.fancyworkbench=화려한 조합대
+book.overwriterecipe=덮어쓰기
+book.overwriterecipe2=레시피 책.
+book.saverecipe=레시피 저장
+book.saverecipe2=빈 책.
+book.loadrecipe=구성요소를 불러옵니다
+book.loadrecipe2=인벤토리에서 불러옴
+book.areyousure=정말 하시겠습니까?
+book.areyousure2=‘예’를 누르면 더 이상 편집할 수 없습니다.
+book.setrecipename=레시피
 
-gui.sign.left=좌
-gui.sign.center=중
-gui.sign.right=우
+lighting.metalIron=철로 만들어짐
+lighting.metalGold=금으로 만들어짐
 
+// Gui 목록
+gui.armorstand=갑옷 거치대
+gui.bookcase=책장
+gui.cookiejar=과자 단지
+gui.shelf=나무 선반
+gui.label=나무 인식표
+gui.potionshelf=포션 선반
+gui.table=나무 탁자
+gui.case=진열장
+gui.toolrack=도구 거치대
+gui.desk=나무 책상
+gui.mapWaypoint.accept=확인
+gui.mapWaypoint.remove=삭제
+gui.mapWaypoint.cancel=취소
+gui.mapWaypoint.waypoint=경유지
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=저녁 식사용 접시
+gui.discRack=음반 거치대
+gui.typesetting.guiTitle=탁자 유형 설정: 책 관리
+gui.typesetting.pageOfpages= / 
+gui.typesetting.public=공개
+gui.typesetting.private=비공개
+gui.typesetting.delete=삭제
+gui.typesetting.select=선택
+gui.typesetting.nextPage=다음 장
+gui.typesetting.prevPage=이전 장
+gui.typesetting.exit=나가기
+gui.typesetting.enableDiscard=버리기
+gui.redbook.title=책 제목:
+gui.redbookdescription.p1=레드스톤 책은 책장에 넣어 레드스톤 신호를 보내는 데 사용됩니다. 레드스톤 책을 책장에 넣으면 앞쪽을 제외한 모든 면에서 레드스톤 신호가 발생합니다. 몇 번째 칸에 책을 꽂느냐에 따라 신호의 강도가 달라집니다.
+gui.redbook.description.p2=책장은 16칸이 있고, 1번 칸이 가장 왼쪽 위, 16번 칸을 가장 오른쪽 아래라고 했을 때 첫번째 칸에서는 레드스톤 신호가 발생하지 않고, 한 칸씩 옆으로 옮길 때 마다 1씩 증가해 최대 15의 신호를 발생시킵니다.
+gui.fancyworkbench=장식 작업대
+gui.sign.left=왼쪽
+gui.sign.center=중앙
+gui.sign.right=오른쪽
 gui.sign.black=검은색
-gui.sign.darkblue=진한 파랑색
-gui.sign.darkgreen=진한 초록색
-gui.sign.darkaqua=진한 하늘색
-gui.sign.darkred=진한 빨강색
-gui.sign.darkpurple=진한 보라색
+gui.sign.darkblue=짙은 파란색
+gui.sign.darkgreen=짙은 녹색
+gui.sign.darkaqua=짙은 물빛
+gui.sign.darkred=짙은 빨간색
+gui.sign.darkpurple=짙은 보라색
 gui.sign.gold=황금색
-gui.sign.gray=밝은 회색
-gui.sign.darkgray=진한 회색
+gui.sign.gray=회색
+gui.sign.darkgray=짙은 회색
 gui.sign.blue=파란색
-gui.sign.green=초록색
-gui.sign.aqua=하늘색
-gui.sign.red=빨간색
-gui.sign.lightpurple=밝은 보라색
+gui.sign.green=녹색
+gui.sign.aqua=물색
+gui.sign.red=붉은색
+gui.sign.lightpurple=연보라색
 gui.sign.yellow=노란색
-gui.sign.white=하얀색
-
-gui.sign.tooltip1=상자 혹은 Tab을 누르는 것으로 수정 패널을 선택합니다. Tab은 패널을 순환시킬 것입니다.
-gui.sign.tooltip2=상자 위를 클릭하여 슬롯 1 수정 옵션 패널을 선택합니다. 크기, 위치, 회전량을 수정합니다.
-gui.sign.tooltip3=상자 위를 클릭하여 텍스트 수정 옵션을 선택합니다. 크기와 바닐라 스타일 포맷을 수정할 수 있습니다.
-gui.sign.tooltip4=상자 위를 클릭하여 슬롯 2 수정 옵션을 선택합니다. 크기, 위치, 회전량 등을 수정합니다.
+gui.sign.white=흰색
+gui.sign.tooltip1=클릭하거나 Tab을 눌러 설정 슬롯을 엽니다. Tab을 누르면 설정판이 회전합니다.
+gui.sign.tooltip2=네모 칸을 눌러서 1번 선택창 슬롯 설정을 엽니다. 크기, 위치, 회전을 변경합니다.
+gui.sign.tooltip3=위의 네모 칸을 눌러서 글을 수정하세요. 글꼴과 크기를 변경할 수 있습니다.
+gui.sign.tooltip4=네모 칸을 눌러서 2번 선택창 슬롯 설정을 엽니다. 크기, 위치, 회전을 변경할 수 있습니다.
 gui.sign.tooltip5=블록 크기를 조정합니다.
-gui.sign.tooltip6=블록 회전량을 조정합니다. 블록은 좌측, 중앙, 우측을 향할 수 있습니다. 아이템은 오직 좌측 혹은 우측만을 향할 수 있습니다.
-gui.sign.tooltip7=블록 위치를 조정합니다. 위치는 또한 방향키와 WASD 키로 조정이 가능합니다.
-"gui.sign.tooltip8=모양을 갖춘 후에 다음 숫자나 글자를 수정합니다 :
-"
-gui.sign.tooltip9=버튼 혹은 Alt 키를 눌러 선택된 줄의 모양을 갖춥니다.
-
+gui.sign.tooltip6=블록의 회전을 조정합니다. 블록들은 왼쪽, 정면, 오른쪽을 바라볼 수 있고 아이템들은 왼쪽이나 오른쪽을 바라볼 수 있습니다.
+gui.sign.tooltip7=블록의 위치를 조정합니다. 화살표나 WASD 키로 변경할 수 있습니다.
+gui.sign.tooltip8=다음 숫자 혹은 알파벳을 서식 기호 후에 입력하세요:
+gui.sign.tooltip9=클릭하거나 alt 키를 눌러서 선택한 문장에 서식 기호를 추가할 수 있습니다.
 gui.sign.bold=굵게
 gui.sign.strikethrough=취소선
 gui.sign.underline=밑줄
-gui.sign.italic=기울임
+gui.sign.italic=기울임꼴
+gui.sign.scale=크기
+gui.sign.format=글꼴
+gui.sign.linenum=행 번호
+gui.recipe.areyousure=정말로 하시겠습니까?
+gui.recipe.finalize=‘예’를 누르면 더 이상 편집할 수 없습니다.
+gui.recipe.description=설명을 추가합니다.
+gui.catalog.close=닫기
+gui.catalog.count=개수
+gui.catalog.names=아이템 / 블록 이름
+gui.left=왼쪽
+gui.right=오른쪽
+gui.craft=제작
+gui.recipe.crafted=제작 성공
+gui.recipe.failed=내용물 제거 실패
+gui.recipe.invalid=올바르지 않은 제작법
+gui.recipe.missing=재료가 충분하지 않음
+gui.recipe.wrong=무언가 잘못되었습니다. 올바른 제작법이 들어있는 레시피 책이 없던지 뭔가 오류가 있네요.
+gui.recipe.disabled=레시피 책으로 제작 끄기
+gui.clock.pulse=디지털
+gui.clock.solid=아날로그
+gui.atlas.zoom=줌
+gui.atlas.center=자동 중앙 정렬
+gui.atlas.create=자동 생성
+gui.atlas.mapXcenter=지도 X좌표 중앙:
+gui.atlas.mapZcenter=지도 Z좌표 중앙:
+gui.atlas.mapZoom=지도 줌:
+gui.atlas.yes=Yes
+gui.atlas.no=No
+gui.atlas.atlas=아틀라스
+gui.atlas.select.tt1=경유지 지정 모드
+gui.atlas.select.tt2=경유지에 날아가
+gui.atlas.select.tt3=그 경유지를
+gui.atlas.select.tt4=좌클릭하여 선택하세요
+gui.atlas.select.tt5=실제 세상에 적용하기 위해
+gui.atlas.select.tt6=Ctrl을 눌러 지도 상에서 날아갑니다
+gui.atlas.select.tt7=지도 상의 아무 지점이나
+gui.atlas.select.tt8=Ctrl을 누른 채로 좌클릭을 합니다
 
-gui.sign.scale=글자 크기
-gui.sign.format=포맷
-gui.sign.linenum=행 번호 :
-
-
-
-// All BiblioCraft 1.6 additions and changes/////////////////////
-gui.redbook.title=책 제목 :
-gui.redbook.description.p1=이 레드스톤 책은 책장에서 레드스톤 신호를 방출하는 데에 사용됩니다. 책장에 놓여진 후, 레드스톤 신호는 전방을 제외한 모든 면에서 방출됩니다. 신호의 힘은 책이 차지한 책장의 슬롯에 달려 있습니다.
-gui.redbook.description.p2=이 책장은 16개의 슬롯이 있습니다. 슬롯 1은 왼쪽 최상단이고 슬롯 16은 오른쪽 최하단입니다. 만약 레드스톤 책이 슬롯 1에 놓여 있다면 책장은 아무 레드스톤 신호도 방출하지 않습니다. 만약 책이 슬롯 2에 놓여 있다면 책장은 1의 힘의 레드스톤만을 방출합니다. 각각의 슬롯은 그보다 1 낮은 숫자만큼의 힘을 방출합니다. 가장 큰 레드스톤 힘을 방출하는 슬롯은 슬롯 16입니다.
-
-
-
-AcaciaDesk.name=아카시아 나무 책상
-OldOakDesk.name=검은 참나무 책상
-AcaciaBookcase.name=아카시아 나무 책장
-OldOakBookcase.name=검은 참나무 책장
-AcaciaPotionShelf.name=아카시아 나무 포션선반
-OldOakPotionShelf.name=검은 참나무 포션선반
-AcaciaShelf.name=아카시아 나무 선반
-OldOakShelf.name=검은 참나무 선반
-AcaciaWeaponRack.name=아카시아 나무 도구걸개
-OldOakWeaponRack.name=검은 참나무 도구걸개
-AcaciaLabel.name=아카시아 나무 라벨
-OldOakLabel.name=검은 참나무 라벨
-AcaciaTable.name=아카시아 나무 탁자
-OldOakTable.name=검은 참나무 탁자
-AcaciaMapFrame.name=아카시아 나무 지도 걸개
-OldOakMapFrame.name=검은 참나무 지도 걸개
-AcaciaSeat.name=아카시아 나무 의자
-OldOakSeat.name=검은 참나무 의자
-OakCase.name=참나무 갑
-SpruceCase.name=가문비나무 갑
-BirchCase.name=자작나무 갑
-JungleCase.name=정글 나무 갑
-AcaciaCase.name=아카시아 나무 갑
-OldOakCase.name=검은 참나무 갑
-item.seatBack.AcaciaSeatBack.name=아카시아 나무 등받이
-item.seatBack.OldOakSeatBack.name=검은 참나무 등받이
-lighting.metalIron=철제
-lighting.metalGold=금제
-gui.typesetting.guiTitle=조판 작업대: 책 관리
-gui.typesetting.pageOfpages=/
-gui.typesetting.public=공용
-gui.typesetting.private=개인
-gui.typesetting.delete=삭제
-gui.typesetting.select=선택
-gui.typesetting.nextPage=다음 페이지
-gui.typesetting.prevPage=이전 페이지
-gui.typesetting.exit=종료
-gui.typesetting.enableDiscard=버림
-
-
-
-
-// Gui stuff
-gui.armorstand=갑옷 걸개
-gui.bookcase=책장
-gui.cookiejar=쿠키 단지
-gui.shelf=목재 선반
-gui.label=목재 이름표
-gui.potionshelf=포션 선반
-gui.table=목재 탁자
-gui.case=진열장
-gui.toolrack=도구 거치대
-gui.desk=목재 책상
-gui.mapWaypoint.accept=추가
-gui.mapWaypoint.remove=제거
-gui.mapWaypoint.cancel=취소
-gui.mapWaypoint.waypoint=웨이포인트
-gui.compass.x=X:
-gui.compass.z=Z:
-gui.dinnerPlate=접시
-gui.discRack=레코드 선반
+gui.atlas.edit.tt1=경유지 수정 모드
+gui.atlas.edit.tt2=수정할 경유지를 클릭해서
+gui.atlas.edit.tt3=핀의 이름 또는 색을 수정하거나
+gui.atlas.edit.tt4=선택한 핀을 삭제합니다
+gui.atlas.edit.tt5=경유지를 빠르게 삭제하기 위해서는
+gui.atlas.edit.tt6=시프트를 누른 상태로 경유지를 클릭합니다
+gui.atlas.add.tt1=경유지 추가 모드
+gui.atlas.add.tt2=지도 상의 아무 곳이나 클릭해서
+gui.atlas.add.tt3=경유지를 추가하세요
+gui.atlas.add.tt4=선택 창이 나와서
+gui.atlas.add.tt5=이름과 색상을 정할 수 있습니다
+gui.atlas.add.tt6=지도를 시프트를 누른 상태로 클릭해서
+gui.atlas.add.tt7=지도상에 무작위 색과 이름을 가진
+gui.atlas.add.tt8=핀을 추가합니다
+gui.atlas.switchtoinv=인벤토리 뷰로 전환
+gui.atlas.switchtoatlas=지도 뷰로 전환
+gui.atlas.autocenter.tt1=활성화 시 아틀라스가
+gui.atlas.autocenter.tt2=인벤토리를 검색하여
+gui.atlas.autocenter.tt3=선택한 줌 레벨에서
+gui.atlas.autocenter.tt4=당신이 현재 있는 위치를
+gui.atlas.autocenter.tt5=보여줄 유효한 지도를 찾습니다.
+gui.atlas.autocreate.tt1=활성화 시 새로운 지도를
+gui.atlas.autocreate.tt2=인벤토리의 빈 지도로
+gui.atlas.autocreate.tt3=제작합니다. 자동 중앙 정렬 설정에서
+gui.atlas.autocreate.tt4=일치하는 지도를 찾지 못할 경우
+gui.atlas.autocreate.tt5=선택한 줌 레벨에서
+gui.atlas.autocreate.tt6=불러온 저번 지도를 기초로
+gui.atlas.autocreate.tt7=새로운 지도를 제작합니다
+gui.atlas.autocreate.tt8=이것이 작동하기 위해서는
+gui.atlas.autocreate.tt9=자동 중앙 정렬이 활성화되어야 합니다.
+gui.atlas.transfer=경유지 옮기기
+gui.atlas.transfer.cancel=취소
+gui.atlas.transfer.from=아틀라스에서 지도 프레임으로
+gui.atlas.transfer.to=지도 프레임에서 아틀라스로
+gui.compass.currentlocation=현재 위치
+gui.paintpress.page=페이지
+gui.paintpress.of= /
+gui.testeritem.name=아이템 스택 이름 테스터
+gui.testeritem.display=표시되는 이름:
+gui.testeritem.unlocal=원본 명칭:
+gui.paintpress.transfer=보내기
+gui.paintpress.vanilla=바닐라
+gui.paintpress.custom=커스텀
+gui.painting.scale=크기
+gui.painting.resolution=화질
+gui.painting.aspectRatio=비율
+gui.painting.size=그림 크기
+gui.painting.rotation=회전
+gui.painting.corner=기준 모서리
+gui.clock.chimesound=차임벨 소리
+gui.clock.ticksound=똑딱거리는 소리
+gui.clock.redstone=레드스톤
+gui.clock.chime=차임벨
+gui.clock.presets=프리셋
 
 // In game messages, reading glasses stuff and other stuff
-enchant.reading=독서
-redbook.by=저자 :
+enchant.reading=읽기
+redbook.by=저자
 plate.notValid=유효하지 않음
-typesetting.requires=요구 사항 :
-typesetting.levels=등급
-typesetting.chase=체이스
-typesetting.bookSelect=책을 선택하세요
+typesetting.requires=필요한 것:
+typesetting.levels=레벨
+typesetting.chase=활자판
+typesetting.bookSelect=책을 선택하세요.
 print.ink=잉크
 print.book=책
-screwgun.firstSeat=시트를 선택합니다
-screwgun.secondSeat=시트를 장착/탈착하려 시도합니다
+screwgun.firstSeat=첫번째 의자 선택됨
+screwgun.secondSeat=의자를 붙이거나 떼려 함.
 
 //Tape Measure Texts
-tape.measurenorthsouth=남/북 측정값 =
-tape.measureeastwest=동/서 측정값 =
-tape.measureheight=높이 측정값 =
-tape.nomeasure=측정값이 없습니다
-tape.measure=측정값 =
-tape.startmeasure=측정을 시작합니다
-tape.mode0=동/서, 남/북, 높이 측정 모드로 변경합니다
-tape.mode1=절대값 측정 모드로 변경합니다
-lock.creativeonly=크리에이티브모드 전용
-lock.notowner=권한이 없습니다
-lock.locked=잠겼습니다
-lock.unlocked=잠금이 해제되었습니다
+tape.measurenorthsouth=남/북 길이 = 
+tape.measureeastwest=동/서 길이 = 
+tape.measureheight=높이 = 
+tape.nomeasure=측정되지 않음.
+tape.measure=길이 = 
+tape.startmeasure=측정 시작.
+tape.mode0=동서/남북/높이를 전환합니다..
+tape.mode1=절대측정 모드로 전환합니다
+
+// Lock texts
+lock.creativeonly=크리에이티브 모드 전용
+lock.notowner=이 블록의 주인이 아닙니다
+lock.locked=이 블록은 잠겨 있습니다
+lock.unlocked=이 블록은 열려 있습니다
 
 // Blocks
 CookieJar.name=쿠키 단지
-MarkerPole.name=마커
-tile.BiblioType.name=조판 작업대
-tile.BiblioPress.name=인쇄기
-tile.BiblioArmorStand.name=갑옷 걸개
-OakBookcase.name=참나무 책장
-SpruceBookcase.name=가문비나무 책장
-BirchBookcase.name=자작나무 책장
-JungleBookcase.name=정글 나무 책장
-OakPotionShelf.name=참나무 포션선반
-SprucePotionShelf.name=가문비나무 포션선반
-BirchPotionShelf.name=자작나무 포션선반
-JunglePotionShelf.name=정글 나무 포션선반
-OakShelf.name=참나무 선반
-SpruceShelf.name=가문비나무 선반
-BirchShelf.name=자작나무 선반
-JungleShelf.name=정글 나무 선반
-OakWeaponRack.name=참나무 도구걸개
-SpruceWeaponRack.name=가문비나무 도구걸개
-BirchWeaponRack.name=자작나무 도구걸개
-JungleWeaponRack.name=정글 나무 도구걸개
-OakLabel.name=참나무 라벨
-SpruceLabel.name=가문비나무 라벨
-BirchLabel.name=자작나무 라벨
-JungleLabel.name=정글 나무 라벨
-OakWritingDesk.name=참나무 책상
-SpruceWritingDesk.name=가문비나무 책상
-BirchWritingDesk.name=자작나무 책상
-JungleWritingDesk.name=정글 나무 책상
-OakTable.name=참나무 탁자
-SpruceTable.name=가문비나무 탁자
-BirchTable.name=자작나무 탁자
-JungleTable.name=정글 나무 탁자
-DiscRack.name=레코드 선반
-DinnerPlate.name=접시
-OakMapFrame.name=참나무 지도 걸개
-SpruceMapFrame.name=가문비나무 지도 걸개
-BirchMapFrame.name=자작나무 지도 걸개
-JungleMapFrame.name=정글 나무 지도 걸개
-OakSeat.name=참나무 의자
-SpruceSeat.name=가문비나무 의자
-BirchSeat.name=자작나무 의자
-JungleSeat.name=정글 나무 의자
+MarkerPole.name=표식
+oakBookcase.name=참나무 책장
+spruceBookcase.name=가문비나무 책장
+birchBookcase.name=자작나무 책장
+jungleBookcase.name=정글나무 책장
+oakPotionShelf.name=참나무 포션 선반
+sprucePotionShelf.name=가문비나무 포션 선반
+birchPotionShelf.name=자작나무 포션 선반
+junglePotionShelf.name=정글나무 포션 선반
+oakShelf.name=참나무 선반
+spruceShelf.name=가문비나무 선반
+birchShelf.name=자작나무 선반
+jungleShelf.name=정글나무 선반
+oakLabel.name=참나무 인식표
+spruceLabel.name=가문비나무 인식표
+birchLabel.name=자작나무 인식표
+jungleLabel.name=정글나무 인식표
+oakTable.name=참나무 탁자
+spruceTable.name=가문비나무 탁자
+birchTable.name=자작나무 탁자
+jungleTable.name=정글나무 탁자
+oakMapFrame.name=참나무 지도 프레임
+spruceMapFrame.name=가문비나무 지도 프레임
+birchMapFrame.name=자작나무 지도 프레임
+jungleMapFrame.name=정글나무 지도 프레임
+oakSeat.name=참나무 의자
+spruceSeat.name=가문비나무 의자
+birchSeat.name=자작나무 의자
+jungleSeat.name=정글나무 의자
+acaciaBookcase.name=아카시아 책장
+acaciaPotionShelf.name=아카시아 포션 선반
+acaciaShelf.name=아카시아 선반
+acaciaLabel.name=아카시아 인식표
+acaciaTable.name=아카시아 탁자
+acaciaMapFrame.name=아카시아 지도 프레임
+acaciaSeat.name=아카시아 의자
+oakCase.name=참나무 진열장
+spruceCase.name=가문비나무 진열장
+birchCase.name=자작나무 진열장
+jungleCase.name=정글나무 진열장
+acaciaCase.name=아카시아 진열장
+oakClock.name=참나무 시계
+spruceClock.name=가문비나무 시계
+birchClock.name=자작나무 시계
+jungleClock.name=정글나무 시계
+acaciaClock.name=아카시아 시계
+oakFancyWorkbench.name=참나무 장식 작업대
+spruceFancyWorkbench.name=가문비나무 장식 작업대
+birchFancyWorkbench.name=자작나무 장식 작업대
+jungleFancyWorkbench.name=정글나무 장식 작업대
+acaciaFancyWorkbench.name=아카시아 장식 작업대
+
+WhiteTypewriter.name=흰색 타자기
+LightGrayTypewriter.name=회백색 타자기
+GrayTypewriter.name=회색 타자기
+BlackTypewriter.name=검정색 타자기
+RedTypewriter.name=빨간색 타자기
+OrangeTypewriter.name=주황색 타자기
+YellowTypewriter.name=노란색 타자기
+LimeTypewriter.name=연두색 타자기
+GreenTypewriter.name=초록색 타자기
+CyanTypewriter.name=청록색 타자기
+LightBlueTypewriter.name=하늘색 타자기
+BlueTypewriter.name=파란색 타자기
+PurpleTypewriter.name=보라색 타자기
+MagentaTypewriter.name=자주색 타자기
+PinkTypewriter.name=분홍색 타자기
+BrownTypewriter.name=갈색 타자기
+
+
+swordpedestal.name=검 받침대
+swordpedestal.white=흰색 선
+swordpedestal.orange=주황색 선
+swordpedestal.magenta=자주색 선
+swordpedestal.yellow=노란색 선
+swordpedestal.lime=연두색 선
+swordpedestal.pink=분홍색 선
+swordpedestal.gray=회색 선
+swordpedestal.cyan=청록색 선
+swordpedestal.purple=보라색 선
+swordpedestal.blue=파란색 선
+swordpedestal.brown=갈색 선
+swordpedestal.green=초록색 선
+swordpedestal.red=빨간색 선
+swordpedestal.black=검정색 선
 
 //lights
-whiteLantern.name=황금랜턴
-lightGrayLantern.name=황금랜턴
-grayLantern.name=황금랜턴
-blackLantern.name=황금랜턴
-redLantern.name=황금랜턴
-orangeLantern.name=황금랜턴
-yellowLantern.name=황금랜턴
-limeLantern.name=황금랜턴
-greenLantern.name=황금랜턴
-cyanLantern.name=황금랜턴
-lightBlueLantern.name=황금랜턴
-blueLantern.name=황금랜턴
-purpleLantern.name=황금랜턴
-magentaLantern.name=황금랜턴
-pinkLantern.name=황금랜턴
-brownLantern.name=황금랜턴
+whiteLantern.name=화려한 랜턴
+lightGrayLantern.name=화려한 랜턴
+grayLantern.name=화려한 랜턴
+blackLantern.name=화려한 랜턴
+redLantern.name=화려한 랜턴
+orangeLantern.name=화려한 랜턴
+yellowLantern.name=화려한 랜턴
+limeLantern.name=화려한 랜턴
+greenLantern.name=화려한 랜턴
+cyanLantern.name=화려한 랜턴
+lightBlueLantern.name=화려한 랜턴
+blueLantern.name=화려한 랜턴
+purpleLantern.name=화려한 랜턴
+magentaLantern.name=화려한 랜턴
+pinkLantern.name=화려한 랜턴
+brownLantern.name=화려한 랜턴
 
-whiteLamp.name=화려한 조명
-lightGrayLamp.name=화려한 조명
-grayLamp.name=화려한 조명
-blackLamp.name=화려한 조명
-redLamp.name=화려한 조명
-orangeLamp.name=화려한 조명
-yellowLamp.name=화려한 조명
-limeLamp.name=화려한 조명
-greenLamp.name=화려한 조명
-cyanLamp.name=화려한 조명
-lightBlueLamp.name=화려한 조명
-blueLamp.name=화려한 조명
-purpleLamp.name=화려한 조명
-magentaLamp.name=화려한 조명
-pinkLamp.name=화려한 조명
-brownLamp.name=화려한 조명
+whiteLamp.name=화려한 램프
+lightGrayLamp.name=화려한 램프
+grayLamp.name=화려한 램프
+blackLamp.name=화려한 램프
+redLamp.name=화려한 램프
+orangeLamp.name=화려한 램프
+yellowLamp.name=화려한 램프
+limeLamp.name=화려한 램프
+greenLamp.name=화려한 램프
+cyanLamp.name=화려한 램프
+lightBlueLamp.name=화려한 램프
+blueLamp.name=화려한 램프
+purpleLamp.name=화려한 램프
+magentaLamp.name=화려한 램프
+pinkLamp.name=화려한 램프
+brownLamp.name=화려한 램프
 
-lamp.hood0=흰색 조명 가리개
-lamp.hood1=연회색 조명 가리개
-lamp.hood2=회색 조명 가리개
-lamp.hood3=검은색 조명 가리개
-lamp.hood4=빨간색 조명 가리개
-lamp.hood5=주황색 조명 가리개
-lamp.hood6=노란색 조명 가리개
-lamp.hood7=라임색 조명 가리개
-lamp.hood8=초록색 조명 가리개
-lamp.hood9=연두색 조명 가리개
-lamp.hood10=하늘색 조명 가리개
-lamp.hood11=파란색 조명 가리개
-lamp.hood12=보라색 조명 가리개
-lamp.hood13=자주색 조명 가리개
-lamp.hood14=분홍색 조명 가리개
-lamp.hood15=갈색 조명 가리개
+lamp.hood0=흰색 램프 후드
+lamp.hood1=회백색 램프 후드
+lamp.hood2=회색 램프 후드
+lamp.hood3=검정색 램프 후드
+lamp.hood4=빨간색 램프 후드
+lamp.hood5=주황색 램프 후드
+lamp.hood6=노란색 램프 후드
+lamp.hood7=연두색 램프 후드
+lamp.hood8=초록색 램프 후드
+lamp.hood9=청록색 램프 후드
+lamp.hood10=하늘색 램프 후드
+lamp.hood11=파란색 램프 후드
+lamp.hood12=보라색 램프 후드
+lamp.hood13=자주색 램프 후드
+lamp.hood14=분홍색 램프 후드
+lamp.hood15=갈색 램프 후드
 
 lantern.candle0=흰색 양초
-lantern.candle1=연회색 양초
-lantern.candle2=갈색 양초
-lantern.candle3=검은색 양초
+lantern.candle1=회백색 양초
+lantern.candle2=회색 양초
+lantern.candle3=검정색 양초
 lantern.candle4=빨간색 양초
 lantern.candle5=주황색 양초
 lantern.candle6=노란색 양초
-lantern.candle7=라임색 양초
+lantern.candle7=연두색 양초
 lantern.candle8=초록색 양초
-lantern.candle9=연두색 양초
+lantern.candle9=청록색 양초
 lantern.candle10=하늘색 양초
 lantern.candle11=파란색 양초
 lantern.candle12=보라색 양초
@@ -563,19 +590,25 @@ lantern.candle15=갈색 양초
 // Items
 item.tapeMeasure.name=줄자
 item.tape.name=줄자 감개
-item.BiblioChase.name=활자판
-item.PrintPlate.name=인쇄판
-item.EnchantedPlate.name=인챈트판
-item.BiblioRedBook.name=레드스톤: 제1권
-item.BiblioGlasses.readingglasses.name=돋보기
+item.BiblioChase.name=복사기 활자판
+item.PrintPlate.name=복사기 인쇄판
+item.EnchantedPlate.name=마법부여된 인쇄판
+item.BiblioRedBook.name=레드스톤: 1권
+item.BiblioGlasses.readingglasses.name=돋보기 안경
 item.BiblioGlasses.tintedglasses.name=색안경
-item.BiblioGlasses.monocle.name=모노클
-item.BiblioDrill.name=스크루 드라이버
-item.BiblioCreativeLock.name=열쇠와 자물쇠
+item.BiblioGlasses.monocle.name=외안경
+item.BiblioDrill.name=스크류 드라이버
+item.BiblioCreativeLock.name=자물쇠와 열쇠
 item.BiblioClipboard.name=클립보드
-item.seatBack.OakSeatBack.name=참나무 등받이
-item.seatBack.SpruceSeatBack.name=가문비나무 등받이
-item.seatBack.BirchSeatBack.name=자작나무 등받이
-item.seatBack.JungleSeatBack.name=정글 나무 등받이
-item.BiblioWayPointCompass.name=웨이포인트 나침반
-item.BiblioMapTool.name=제도용 컴퍼스
+item.BiblioWayPointCompass.nam=경유지 나침반
+item.RecipeBook.name=빈 레시피 책
+item.SlottedBook.name=슬롯이 채워진 책
+item.BigBook.name=큰 글쓰기 공책
+item.HandDrill.name=휴대용 드릴
+item.plumbline.depth=깊이
+item.PlumbLine.name=다림줄
+item.FramingSaw.name=프레임 제작 톱
+item.FramingBoard.name=프레임 제작대
+item.FramingSheet.name=프레임 제작 용지
+item.PaintingCanvas.name=캔버스
+item.TesterItem.name=아이템 스택 이름 테스터
